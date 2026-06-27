@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>글로벌 신문 프런트 페이지</title>
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  :root {
+    --bg: #f4f3ee;
+    --surface: #ffffff;
+    --surface2: #f9f8f5;
+    --border: #e0ddd5;
+    --border-strong: #c8c4b8;
+    --text: #1a1916;
+    --text2: #4a4844;
+    --text3: #87847d;
+  }
+
+  body {
+    font-family: 'Apple SD Gothic Neo', 'Malgun Gothic', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    min-height: 100vh;
+  }
+
+  .site-header {
+    background: var(--text); color: #fff; padding: 0 2rem;
+    position: sticky; top: 0; z-index: 100;
+    display: flex; align-items: center; justify-content: space-between; height: 52px;
+  }
+  .site-logo { font-size: 17px; font-weight: 600; letter-spacing: -0.02em; }
+  .site-date { font-size: 12px; opacity: 0.6; }
+
+  .ticker-wrap { background: #1e1d1a; overflow: hidden; height: 36px; display: flex; align-items: center; }
+  .ticker-inner { display: flex; gap: 2.5rem; animation: ticker-scroll 40s linear infinite; white-space: nowrap; padding-left: 100%; }
+  .ticker-wrap:hover .ticker-inner { animation-play-state: paused; }
+  @keyframes ticker-scroll { from { transform: translateX(0); } to { transform: translateX(-50%); } }
+  .tick { font-size: 12px; color: #ccc; }
+  .tick .val { margin-left: 5px; font-weight: 600; }
+  .up { color: #4ade80; } .dn { color: #f87171; } .neu { color: #facc15; }
+
+  .container { max-width: 1280px; margin: 0 auto; padding: 1.5rem 1.5rem 3rem; }
+
+  .cross-banner {
+    background: linear-gradient(135deg, #1a1916 0%, #2d2b25 100%); color: #fff;
+    border-radius: 12px; padding: 1rem 1.25rem; margin-bottom: 1.75rem;
+    display: flex; gap: 2rem; flex-wrap: wrap; align-items: center;
+  }
+  .cross-item { font-size: 12px; }
+  .cross-item strong { font-size: 13px; display: block; margin-bottom: 2px; color: #facc15; }
+
+  .section-tabs { display: flex; gap: 0; border-bottom: 2px solid var(--border-strong); margin-bottom: 1.5rem; }
+  .s-tab {
+    padding: 0.6rem 1.5rem; font-size: 14px; font-weight: 600; border: none; background: transparent;
+    color: var(--text3); cursor: pointer; border-bottom: 3px solid transparent; margin-bottom: -2px;
+    transition: color 0.15s, border-color 0.15s;
+  }
+  .s-tab:hover { color: var(--text); }
+  .s-tab.active { color: var(--text); border-bottom-color: var(--text); }
+
+  .tab-panel { display: none; }
+  .tab-panel.active { display: block; }
+
+  .paper-section { margin-bottom: 2.5rem; }
+  .paper-header { display: flex; align-items: baseline; gap: 10px; border-bottom: 1.5px solid var(--border-strong); padding-bottom: 0.4rem; margin-bottom: 1rem; }
+  .paper-name { font-size: 17px; font-weight: 700; color: var(--text); }
+  .paper-url { font-size: 11px; color: var(--text3); }
+
+  .pages-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1rem; }
+  @media (max-width: 900px) { .pages-grid { grid-template-columns: 1fr; } }
+
+  .page-card { background: var(--surface); border: 1px solid var(--border); border-radius: 14px; overflow: hidden; display: flex; flex-direction: column; transition: box-shadow 0.15s, transform 0.15s; }
+  .page-card:hover { box-shadow: 0 4px 20px rgba(0,0,0,0.10); transform: translateY(-2px); }
+  .card-top { padding: 0.5rem 0.9rem; display: flex; align-items: center; justify-content: space-between; background: var(--surface2); border-bottom: 1px solid var(--border); }
+  .page-label { font-size: 11.5px; font-weight: 600; color: var(--text2); }
+
+  .badge { font-size: 10px; padding: 2px 8px; border-radius: 20px; font-weight: 600; white-space: nowrap; }
+  .b-blue { background: #dbeafe; color: #1e40af; }
+  .b-green { background: #dcfce7; color: #166534; }
+  .b-purple { background: #ede9fe; color: #5b21b6; }
+  .b-orange { background: #ffedd5; color: #9a3412; }
+  .b-teal { background: #ccfbf1; color: #065f46; }
+  .b-pink { background: #fce7f3; color: #9d174d; }
+  .b-red { background: #fee2e2; color: #991b1b; }
+  .b-amber { background: #fef9c3; color: #854d0e; }
+  .b-gray { background: #f1f5f9; color: #334155; }
+
+  .card-body { padding: 1rem 1rem 1.1rem; flex: 1; display: flex; flex-direction: column; }
+  .headline { font-size: 14.5px; font-weight: 700; color: var(--text); line-height: 1.55; margin-bottom: 0.35rem; }
+  .eng-line { font-size: 10.5px; color: var(--text3); font-style: italic; line-height: 1.4; margin-bottom: 0.45rem; }
+  .body-text { font-size: 12.5px; color: var(--text2); line-height: 1.7; margin-bottom: 0.8rem; flex: 1; }
+  .divider { border: none; border-top: 1px solid var(--border); margin: 0 0 0.55rem; }
+  .sub-list { list-style: none; display: flex; flex-direction: column; gap: 3px; }
+  .sub-list li { font-size: 11.5px; color: var(--text2); line-height: 1.5; display: flex; gap: 5px; }
+  .sub-list li::before { content: "▸"; color: var(--text3); flex-shrink: 0; }
+
+  .loading, .error-box { text-align: center; padding: 4rem 1rem; color: var(--text3); font-size: 14px; }
+  .error-box { color: #991b1b; }
+  footer { text-align: center; font-size: 11px; color: var(--text3); padding: 1.5rem; border-top: 1px solid var(--border); margin-top: 1rem; }
+</style>
+</head>
+<body>
+
+<header class="site-header">
+  <span class="site-logo">📰 글로벌 신문 프런트 페이지</span>
+  <span class="site-date" id="siteDate">불러오는 중…</span>
+</header>
+
+<div class="ticker-wrap"><div class="ticker-inner" id="ticker"></div></div>
+
+<div class="container">
+  <div class="cross-banner" id="crossBanner"></div>
+  <div class="section-tabs" id="sectionTabs"></div>
+  <div id="content"><div class="loading">📡 오늘 자 신문 데이터를 불러오는 중…</div></div>
+</div>
+
+<footer id="footer"></footer>
+
+<script>
+const BADGE_MAP = {
+  blue: 'b-blue', green: 'b-green', purple: 'b-purple', orange: 'b-orange',
+  teal: 'b-teal', pink: 'b-pink', red: 'b-red', amber: 'b-amber', gray: 'b-gray'
+};
+
+function esc(s) {
+  return String(s == null ? '' : s)
+    .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+}
+
+function renderTicker(items) {
+  const one = items.map(t =>
+    `<span class="tick">${esc(t.name)} <span class="val ${esc(t.dir)}">${esc(t.value)} ${esc(t.change)}</span></span>`
+  ).join('');
+  document.getElementById('ticker').innerHTML = one + one; // 무한 스크롤용 2배
+}
+
+function renderBanner(keywords) {
+  const head = `<div class="cross-item"><strong>🔥 오늘의 공통 키워드</strong></div>`;
+  const items = keywords.map(k =>
+    `<div class="cross-item"><strong>${esc(k.label)}</strong>${esc(k.desc)}</div>`
+  ).join('');
+  document.getElementById('crossBanner').innerHTML = head + items;
+}
+
+function renderCard(p) {
+  const badgeClass = BADGE_MAP[p.badgeColor] || 'b-gray';
+  const eng = p.eng ? `<p class="eng-line">${esc(p.eng)}</p>` : '';
+  const subs = (p.subs || []).map(s => `<li>${esc(s)}</li>`).join('');
+  return `
+    <div class="page-card">
+      <div class="card-top">
+        <span class="page-label">${esc(p.page)}</span>
+        <span class="badge ${badgeClass}">${esc(p.badge)}</span>
+      </div>
+      <div class="card-body">
+        <p class="headline">${esc(p.headline)}</p>
+        ${eng}
+        <p class="body-text">${esc(p.body)}</p>
+        <hr class="divider">
+        <ul class="sub-list">${subs}</ul>
+      </div>
+    </div>`;
+}
+
+function renderPaper(paper) {
+  const cards = paper.pages.map(renderCard).join('');
+  return `
+    <div class="paper-section">
+      <div class="paper-header">
+        <span class="paper-name">${esc(paper.name)}</span>
+        <span class="paper-url">${esc(paper.url)}</span>
+      </div>
+      <div class="pages-grid">${cards}</div>
+    </div>`;
+}
+
+function renderSection(sectionData) {
+  return sectionData.papers.map(renderPaper).join('');
+}
+
+function buildPage(data) {
+  document.getElementById('siteDate').textContent =
+    `${data.dateLabel} — 국내·미국 주요 경제·일간지 1~3면`;
+
+  renderTicker(data.ticker || []);
+  renderBanner(data.keywords || []);
+
+  const sectionKeys = Object.keys(data.sections);
+  const tabsEl = document.getElementById('sectionTabs');
+  const contentEl = document.getElementById('content');
+
+  tabsEl.innerHTML = sectionKeys.map((key, i) =>
+    `<button class="s-tab ${i === 0 ? 'active' : ''}" data-key="${key}">${esc(data.sections[key].label)}</button>`
+  ).join('');
+
+  contentEl.innerHTML = sectionKeys.map((key, i) =>
+    `<div class="tab-panel ${i === 0 ? 'active' : ''}" id="panel-${key}">${renderSection(data.sections[key])}</div>`
+  ).join('');
+
+  tabsEl.querySelectorAll('.s-tab').forEach(btn => {
+    btn.addEventListener('click', () => {
+      tabsEl.querySelectorAll('.s-tab').forEach(b => b.classList.remove('active'));
+      contentEl.querySelectorAll('.tab-panel').forEach(p => p.classList.remove('active'));
+      btn.classList.add('active');
+      document.getElementById('panel-' + btn.dataset.key).classList.add('active');
+    });
+  });
+
+  document.getElementById('footer').textContent =
+    `자동 생성: ${data.generatedAt || data.date} · 데이터 출처: 각 언론사 공개 기사 · 자동 갱신 시스템`;
+}
+
+// data.json 로딩 (캐시 방지용 타임스탬프 부착)
+fetch('data.json?t=' + Date.now())
+  .then(r => { if (!r.ok) throw new Error('data.json 로드 실패 (' + r.status + ')'); return r.json(); })
+  .then(buildPage)
+  .catch(err => {
+    document.getElementById('content').innerHTML =
+      `<div class="error-box">⚠️ 데이터를 불러오지 못했습니다.<br>${esc(err.message)}<br><br>update.js가 정상 실행되어 data.json이 생성됐는지 확인하세요.</div>`;
+  });
+</script>
+</body>
+</html>
