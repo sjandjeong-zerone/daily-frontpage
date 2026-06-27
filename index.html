@@ -16,6 +16,7 @@
     --text: #1a1916;
     --text2: #4a4844;
     --text3: #87847d;
+    --accent: #b8860b;
   }
 
   body {
@@ -51,14 +52,16 @@
   .cross-item { font-size: 12px; }
   .cross-item strong { font-size: 13px; display: block; margin-bottom: 2px; color: #facc15; }
 
-  .section-tabs { display: flex; gap: 0; border-bottom: 2px solid var(--border-strong); margin-bottom: 1.5rem; }
+  .section-tabs { display: flex; gap: 0; border-bottom: 2px solid var(--border-strong); margin-bottom: 1.5rem; overflow-x: auto; }
   .s-tab {
     padding: 0.6rem 1.5rem; font-size: 14px; font-weight: 600; border: none; background: transparent;
     color: var(--text3); cursor: pointer; border-bottom: 3px solid transparent; margin-bottom: -2px;
-    transition: color 0.15s, border-color 0.15s;
+    transition: color 0.15s, border-color 0.15s; white-space: nowrap;
   }
   .s-tab:hover { color: var(--text); }
   .s-tab.active { color: var(--text); border-bottom-color: var(--text); }
+  .s-tab.morning-tab { color: #b8860b; }
+  .s-tab.morning-tab.active { border-bottom-color: #b8860b; color: #8b6914; }
 
   .tab-panel { display: none; }
   .tab-panel.active { display: block; }
@@ -87,14 +90,60 @@
   .b-amber { background: #fef9c3; color: #854d0e; }
   .b-gray { background: #f1f5f9; color: #334155; }
 
-  .card-body { padding: 1rem 1rem 1.1rem; flex: 1; display: flex; flex-direction: column; }
-  .headline { font-size: 14.5px; font-weight: 700; color: var(--text); line-height: 1.55; margin-bottom: 0.35rem; }
-  .eng-line { font-size: 10.5px; color: var(--text3); font-style: italic; line-height: 1.4; margin-bottom: 0.45rem; }
-  .body-text { font-size: 12.5px; color: var(--text2); line-height: 1.7; margin-bottom: 0.8rem; flex: 1; }
-  .divider { border: none; border-top: 1px solid var(--border); margin: 0 0 0.55rem; }
-  .sub-list { list-style: none; display: flex; flex-direction: column; gap: 3px; }
-  .sub-list li { font-size: 11.5px; color: var(--text2); line-height: 1.5; display: flex; gap: 5px; }
-  .sub-list li::before { content: "▸"; color: var(--text3); flex-shrink: 0; }
+  .card-body { padding: 0.7rem 0.9rem 0.9rem; flex: 1; display: flex; flex-direction: column; gap: 6px; }
+  .article-item { border-bottom: 1px solid var(--border); padding-bottom: 6px; }
+  .article-item:last-child { border-bottom: none; padding-bottom: 0; }
+  .art-headline { font-size: 13px; font-weight: 700; color: var(--text); line-height: 1.5; }
+  .art-eng { font-size: 10px; color: var(--text3); font-style: italic; line-height: 1.3; margin-top: 1px; }
+  .art-body { font-size: 11.5px; color: var(--text2); line-height: 1.6; margin-top: 2px; }
+
+  /* Morning Briefing */
+  .mb-wrap { max-width: 900px; margin: 0 auto; }
+  .mb-headline {
+    background: linear-gradient(135deg, #1a1916 0%, #2d2b25 100%);
+    color: #fff; border-radius: 14px; padding: 1.5rem 2rem; margin-bottom: 1.5rem;
+    font-size: 18px; font-weight: 700; line-height: 1.6; text-align: center;
+    border-left: 5px solid #b8860b;
+  }
+  .mb-date { font-size: 12px; color: #b8860b; display: block; margin-bottom: 6px; font-weight: 400; }
+  .mb-section {
+    background: var(--surface); border: 1px solid var(--border);
+    border-radius: 14px; overflow: hidden; margin-bottom: 1.25rem;
+  }
+  .mb-section-header {
+    padding: 0.7rem 1.2rem; font-size: 14px; font-weight: 700;
+    border-bottom: 1px solid var(--border);
+  }
+  .mb-section-body {
+    padding: 0.9rem 1.2rem; font-size: 12.5px; color: var(--text2);
+    line-height: 1.8;
+  }
+  .mb-section-body table { width: 100%; border-collapse: collapse; margin: 6px 0; font-size: 12px; }
+  .mb-section-body td, .mb-section-body th {
+    padding: 4px 8px; border: 1px solid var(--border); text-align: left;
+  }
+  .mb-section-body th { background: var(--surface2); font-weight: 600; }
+  .mb-section-body strong { color: var(--text); }
+  .mb-news-item {
+    padding: 8px 0; border-bottom: 1px solid var(--border);
+    display: flex; gap: 8px; align-items: flex-start;
+  }
+  .mb-news-item:last-child { border-bottom: none; }
+  .mb-news-cat {
+    font-size: 10px; font-weight: 600; padding: 1px 8px;
+    border-radius: 10px; white-space: nowrap; flex-shrink: 0; margin-top: 1px;
+  }
+  .cat-bear { background: #fee2e2; color: #991b1b; }
+  .cat-bull { background: #dcfce7; color: #166534; }
+  .cat-neutral { background: #f1f5f9; color: #334155; }
+  .mb-news-title { font-size: 12.5px; font-weight: 600; color: var(--text); }
+  .mb-news-summary { font-size: 11px; color: var(--text3); margin-top: 1px; }
+  .mb-insight {
+    background: #fefce8; border: 1px solid #e6d88a;
+    border-radius: 14px; padding: 1.2rem 1.5rem; margin-bottom: 1.25rem;
+  }
+  .mb-insight h4 { font-size: 14px; color: #854d0e; margin-bottom: 6px; }
+  .mb-insight-body { font-size: 12.5px; line-height: 1.8; color: #3d3a22; }
 
   .loading, .error-box { text-align: center; padding: 4rem 1rem; color: var(--text3); font-size: 14px; }
   .error-box { color: #991b1b; }
@@ -133,7 +182,7 @@ function renderTicker(items) {
   const one = items.map(t =>
     `<span class="tick">${esc(t.name)} <span class="val ${esc(t.dir)}">${esc(t.value)} ${esc(t.change)}</span></span>`
   ).join('');
-  document.getElementById('ticker').innerHTML = one + one; // 무한 스크롤용 2배
+  document.getElementById('ticker').innerHTML = one + one;
 }
 
 function renderBanner(keywords) {
@@ -144,23 +193,26 @@ function renderBanner(keywords) {
   document.getElementById('crossBanner').innerHTML = head + items;
 }
 
+function renderArticle(a) {
+  const eng = a.eng ? `<div class="art-eng">${esc(a.eng)}</div>` : '';
+  return `
+    <div class="article-item">
+      <div class="art-headline">${esc(a.headline)}</div>
+      ${eng}
+      <div class="art-body">${esc(a.body)}</div>
+    </div>`;
+}
+
 function renderCard(p) {
   const badgeClass = BADGE_MAP[p.badgeColor] || 'b-gray';
-  const eng = p.eng ? `<p class="eng-line">${esc(p.eng)}</p>` : '';
-  const subs = (p.subs || []).map(s => `<li>${esc(s)}</li>`).join('');
+  const articles = (p.articles || []).map(renderArticle).join('');
   return `
     <div class="page-card">
       <div class="card-top">
         <span class="page-label">${esc(p.page)}</span>
         <span class="badge ${badgeClass}">${esc(p.badge)}</span>
       </div>
-      <div class="card-body">
-        <p class="headline">${esc(p.headline)}</p>
-        ${eng}
-        <p class="body-text">${esc(p.body)}</p>
-        <hr class="divider">
-        <ul class="sub-list">${subs}</ul>
-      </div>
+      <div class="card-body">${articles}</div>
     </div>`;
 }
 
@@ -180,6 +232,57 @@ function renderSection(sectionData) {
   return sectionData.papers.map(renderPaper).join('');
 }
 
+function renderMorning(m) {
+  if (!m) return '';
+
+  const newsHtml = (m.top_news || []).map(n => {
+    let catClass = 'cat-neutral';
+    if (n.category && (n.category.includes('악재') || n.category.includes('bear'))) catClass = 'cat-bear';
+    else if (n.category && (n.category.includes('호재') || n.category.includes('bull'))) catClass = 'cat-bull';
+    return `
+      <div class="mb-news-item">
+        <span class="mb-news-cat ${catClass}">${esc(n.category || '뉴스')}</span>
+        <div>
+          <div class="mb-news-title">${esc(n.title)}</div>
+          <div class="mb-news-summary">${esc(n.summary || '')}</div>
+        </div>
+      </div>`;
+  }).join('');
+
+  return `
+    <div class="mb-wrap">
+      <div class="mb-headline">
+        <span class="mb-date">📆 ${esc(m.date || '')}</span>
+        ${esc(m.headline || '')}
+      </div>
+
+      <div class="mb-section">
+        <div class="mb-section-header" style="border-left: 4px solid #1e40af;">📊 국내 증시</div>
+        <div class="mb-section-body">${m.domestic_market || ''}</div>
+      </div>
+
+      <div class="mb-section">
+        <div class="mb-section-header" style="border-left: 4px solid #5b21b6;">🌍 해외 증시</div>
+        <div class="mb-section-body">${m.overseas_market || ''}</div>
+      </div>
+
+      <div class="mb-section">
+        <div class="mb-section-header" style="border-left: 4px solid #065f46;">🌏 주요 아시아 증시</div>
+        <div class="mb-section-body">${m.asia_market || ''}</div>
+      </div>
+
+      <div class="mb-section">
+        <div class="mb-section-header" style="border-left: 4px solid #9a3412;">📌 주요 뉴스</div>
+        <div class="mb-section-body">${newsHtml}</div>
+      </div>
+
+      <div class="mb-insight">
+        <h4>💡 ${esc(m.insight_title || '제론의 인사이트')}</h4>
+        <div class="mb-insight-body">${m.insight_content || ''}</div>
+      </div>
+    </div>`;
+}
+
 function buildPage(data) {
   document.getElementById('siteDate').textContent =
     `${data.dateLabel} — 국내·미국 주요 경제·일간지 1~3면`;
@@ -187,18 +290,33 @@ function buildPage(data) {
   renderTicker(data.ticker || []);
   renderBanner(data.keywords || []);
 
-  const sectionKeys = Object.keys(data.sections);
+  // Build tab order: 모닝브리핑 first (if exists), then sections
   const tabsEl = document.getElementById('sectionTabs');
   const contentEl = document.getElementById('content');
+  const hasMorning = !!(data.morning && data.morning.headline);
+  const sectionKeys = Object.keys(data.sections || {});
 
-  tabsEl.innerHTML = sectionKeys.map((key, i) =>
-    `<button class="s-tab ${i === 0 ? 'active' : ''}" data-key="${key}">${esc(data.sections[key].label)}</button>`
-  ).join('');
+  let tabIndex = 0;
+  let tabsHtml = '';
+  let panelsHtml = '';
 
-  contentEl.innerHTML = sectionKeys.map((key, i) =>
-    `<div class="tab-panel ${i === 0 ? 'active' : ''}" id="panel-${key}">${renderSection(data.sections[key])}</div>`
-  ).join('');
+  if (hasMorning) {
+    tabsHtml += `<button class="s-tab morning-tab active" data-key="__morning__">☀️ 모닝브리핑</button>`;
+    panelsHtml += `<div class="tab-panel active" id="panel-__morning__">${renderMorning(data.morning)}</div>`;
+    tabIndex++;
+  }
 
+  sectionKeys.forEach(key => {
+    const isActive = !hasMorning && tabIndex === 0;
+    tabsHtml += `<button class="s-tab ${isActive ? 'active' : ''}" data-key="${key}">${esc(data.sections[key].label)}</button>`;
+    panelsHtml += `<div class="tab-panel ${isActive ? 'active' : ''}" id="panel-${key}">${renderSection(data.sections[key])}</div>`;
+    tabIndex++;
+  });
+
+  tabsEl.innerHTML = tabsHtml;
+  contentEl.innerHTML = panelsHtml;
+
+  // Tab switching
   tabsEl.querySelectorAll('.s-tab').forEach(btn => {
     btn.addEventListener('click', () => {
       tabsEl.querySelectorAll('.s-tab').forEach(b => b.classList.remove('active'));
@@ -212,7 +330,6 @@ function buildPage(data) {
     `자동 생성: ${data.generatedAt || data.date} · 데이터 출처: 각 언론사 공개 기사 · 자동 갱신 시스템`;
 }
 
-// data.json 로딩 (캐시 방지용 타임스탬프 부착)
 fetch('data.json?t=' + Date.now())
   .then(r => { if (!r.ok) throw new Error('data.json 로드 실패 (' + r.status + ')'); return r.json(); })
   .then(buildPage)
