@@ -112,6 +112,312 @@
       "label": "🇰🇷 국내 경제·일간지",
       "papers": [
         {
+          "name": "매일경제",
+          "url": "mk.co.kr",
+          "pages": [
+            {
+              "page": "1면",
+              "badge": "종합",
+              "badgeColor": "red",
+              "articles": [
+                {
+                  "headline": "평화합의서 잉크도 마르기 전에…이스라엘, 레바논 남부 공격",
+                  "body": "이스라엘이 레바논과의 평화합의 직후 레바논 남부를 공격, 합의 이행에 의문 제기",
+                  "url": "https://www.mk.co.kr/news/world/"
+                },
+                {
+                  "headline": "이재용·최태원, 29일 청와대 국민보고회 직접 참석…'1000조원+α'",
+                  "body": "이재용 삼성전자 회장과 최태원 SK 회장이 청와대 메가프로젝트 국민보고회에 참석, 호남 반도체 클러스터 등 대규모 투자 발표 예정",
+                  "url": "https://www.mk.co.kr/news/economy/"
+                },
+                {
+                  "headline": "호르무즈 해협서 또 상선 피격…'불상 발사체에 맞아'",
+                  "body": "호르무즈 해협에서 또 다른 상선이 불상 발사체에 피격, 중동 긴장 고조",
+                  "url": "https://www.mk.co.kr/news/world/"
+                },
+                {
+                  "headline": "코스피 롤러코스터 장세…다음주 9500선까지 오른다는데",
+                  "body": "코스피가 급락 후 반등 기대감, 전문가들 다음주 9500선까지 상승 전망",
+                  "url": "https://www.mk.co.kr/news/stock/"
+                },
+                {
+                  "headline": "中 베이징 건물에 충돌한 경비행기…1명 숨지고 13명 다쳐",
+                  "body": "베이징에서 경비행기가 초고층 빌딩과 충돌하는 사고 발생, 사상자 발생",
+                  "url": "https://www.mk.co.kr/news/world/"
+                }
+              ]
+            },
+            {
+              "page": "2면",
+              "badge": "증권",
+              "badgeColor": "blue",
+              "articles": [
+                {
+                  "headline": "'오늘 주식 팔면 내일 입금'…결제주기 단축 10월 나온다",
+                  "body": "주식 결제주기가 현행 T+2에서 T+1로 단축, 자금 회전율 개선 기대",
+                  "url": "https://www.mk.co.kr/news/stock/"
+                },
+                {
+                  "headline": "강남 다음은 바로 여기…광명·성남·동탄까지 번진 집값",
+                  "body": "서울 집값 상승세가 경기권역으로 확산, 광명·성남·동탄 등 동조화 현상",
+                  "url": "https://www.mk.co.kr/news/realestate/"
+                },
+                {
+                  "headline": "SK, 초대형 AI 데이터센터 전국 5곳에 구축",
+                  "body": "SK그룹이 전국 5곳에 GW급 AI 데이터센터 구축 계획 발표",
+                  "url": "https://www.mk.co.kr/news/business/"
+                },
+                {
+                  "headline": "석유 최고가 150원 전격 인하…주유소 기름값 1784원",
+                  "body": "정부가 석유 최고가를 150원 인하, 주유소 기름값이 1784원(보통휘발유)으로 조정",
+                  "url": "https://www.mk.co.kr/news/economy/"
+                },
+                {
+                  "headline": "USTR 보고서에 '신안 염전노예' 명시…정부, 美·EU 규제 분석",
+                  "body": "미국 무역대표부 보고서에 신안 염전 노역 문제가 명시, 정부 통상규제 대응 착수",
+                  "url": "https://www.mk.co.kr/news/economy/"
+                }
+              ]
+            },
+            {
+              "page": "3면",
+              "badge": "정치",
+              "badgeColor": "purple",
+              "articles": [
+                {
+                  "headline": "한미 증시 메모리 대장주 급변동…AI 투자 과열 우려",
+                  "body": "AI 투자 과열 우려로 반도체 주가 10% 이상 급락 후 반등, 높은 변동성 지속",
+                  "url": "https://www.mk.co.kr/news/stock/"
+                },
+                {
+                  "headline": "서강대교 넘지말라…특검, 조성현 전 수방사 경비단장 입건",
+                  "body": "조성현 전 수도방위사령부 경비단장이 내란 혐의로 특검에 입건",
+                  "url": "https://www.mk.co.kr/news/politics/"
+                },
+                {
+                  "headline": "韓 운명 '오스트리아·우즈벡·가나'에 달렸다…내일 32강행 결정",
+                  "body": "한국 축구 대표팀의 월드컵 32강 진출이 오스트리아·우즈벡·가나 경기 결과에 따라 결정",
+                  "url": "https://www.mk.co.kr/news/sports/"
+                },
+                {
+                  "headline": "이집트, 이란과 무승부…홍명보호, 3위 경쟁 '8위'로 추락",
+                  "body": "이집트가 이란과 무승부를 기록, 홍명보호의 3위 경쟁이 8위로 추락",
+                  "url": "https://www.mk.co.kr/news/sports/"
+                },
+                {
+                  "headline": "독방 터서 객실로…교도소가 최고급 호텔로, 대체 무슨 일",
+                  "body": "노후 교도소를 리모빌드해 최고급 호텔로 탈바꿈시키는 재생 프로젝트 추진",
+                  "url": "https://www.mk.co.kr/news/society/"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "서울경제",
+          "url": "sedaily.com",
+          "pages": [
+            {
+              "page": "1면",
+              "badge": "종합",
+              "badgeColor": "red",
+              "articles": [
+                {
+                  "headline": "삼성·SK 역시 장기계약 확대 전망…마이크론 16건 LTA 체결",
+                  "body": "마이크론이 한 분기 만에 16건의 장기공급계약(LTA) 체결, 메모리 수요 견조함 입증",
+                  "url": "https://www.sedaily.com/"
+                },
+                {
+                  "headline": "젠슨 황 딸 매디슨, 서울대·LG 찾아 韓 '피지컬 AI' 훑었다",
+                  "body": "엔비디아 창업자의 장녀 매디슨 황이 서울대 강연·LG전자 방문 등 한국과 협력 확대 행보",
+                  "url": "https://www.sedaily.com/article/20038170"
+                },
+                {
+                  "headline": "국채금리 부담에…정부, 6월 국고채 모집 발행 미실시",
+                  "body": "정부가 장기물 국고채 금리 상승 부담으로 6월 모집 방식 비경쟁인수 발행을 전면 중단",
+                  "url": "https://www.sedaily.com/article/20057459"
+                },
+                {
+                  "headline": "SK하이닉스·삼성전자 '역대급 성과급' 기대감에 '셔세권' 들썩",
+                  "body": "반도체 대기업 성과급 기대감에 동탄·기흥 등 '셔세권'(셔틀버스+역세권) 아파트 거래 급증",
+                  "url": "https://www.sedaily.com/article/20038255"
+                },
+                {
+                  "headline": "호르무즈 해협 이틀째 교전…유조선 추가 피격에 긴장 고조",
+                  "body": "호르무즈 해협에서 유조선 공격 이틀째, 미국-이란 간 교전 지속되며 국제유가 출렁",
+                  "url": "https://www.sedaily.com/"
+                }
+              ]
+            },
+            {
+              "page": "2면",
+              "badge": "금융",
+              "badgeColor": "blue",
+              "articles": [
+                {
+                  "headline": "한은, 8회 연속 금리 동결…7월 인상 시그널",
+                  "body": "한은 금통위 기준금리 2.50% 동결, 점도표 19개 중 19개 금리인상 전망으로 7월 인상 가능성↑",
+                  "url": "https://www.sedaily.com/"
+                },
+                {
+                  "headline": "원/달러 환율 1,547원 급등 후 당국 개입…1,532원 마감",
+                  "body": "원/달러 환율이 장중 1,547원까지 치솟았다 외환당국 개입으로 1,532원에 마감",
+                  "url": "https://www.sedaily.com/"
+                },
+                {
+                  "headline": "반도체 수출 620억달러 역대 최고…전체 수출 40% 차지",
+                  "body": "이달 중순 수출액 전년 대비 30% 증가, 반도체가 전체 수출의 40% 차지하며 사상 최고",
+                  "url": "https://www.sedaily.com/"
+                },
+                {
+                  "headline": "SK하이닉스, 코스피 시총 1위 등극…삼성전자 제쳐",
+                  "body": "25년 7개월 만에 SK하이닉스가 삼성전자를 제치고 코스피 시가총액 1위에 등극",
+                  "url": "https://www.sedaily.com/"
+                },
+                {
+                  "headline": "김용범 '나오는 숫자 매우 낯설 것'…1000조 투자설 주목",
+                  "body": "김용범 정책실장이 메가프로젝트 관련 '매우 낯선 숫자' 발언, 1000조원 규모 투자설 관심",
+                  "url": "https://www.sedaily.com/"
+                }
+              ]
+            },
+            {
+              "page": "3면",
+              "badge": "국제",
+              "badgeColor": "orange",
+              "articles": [
+                {
+                  "headline": "미국·유럽 주요 증시 동향 [6월 28일]",
+                  "body": "미국 증시 혼조세, 유럽 증시 하락. 나스닥 AI주 약세 지속, S&P500 보합",
+                  "url": "https://www.sedaily.com/article/11399702"
+                },
+                {
+                  "headline": "트럼프, 디지털서비스세 부과국에 100% 관세 위협",
+                  "body": "트럼프 대통령이 미국 기술기업 대상 디지털서비스세 부과 국가에 100% 보복관세 경고",
+                  "url": "https://www.sedaily.com/"
+                },
+                {
+                  "headline": "베네수엘라 강진 사망자 589명…구조 작업 지속",
+                  "body": "베네수엘라에서 규모 7.2, 7.5 연쇄 강진 발생, 사망자 589명·부상자 2980명",
+                  "url": "https://www.sedaily.com/"
+                },
+                {
+                  "headline": "일본은행 6월 금리 인상 전망 94%",
+                  "body": "경제학자 94%가 일본은행 6월 금리 1.00% 인상 전망, 엔화 강세 압력",
+                  "url": "https://www.sedaily.com/"
+                },
+                {
+                  "headline": "스페이스X IPO 주당 135달러 확정",
+                  "body": "스페이스X 사상 최대 IPO에서 주당 135달러 확정, 750억달러 조달 예상",
+                  "url": "https://www.sedaily.com/"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "한국경제",
+          "url": "hankyung.com",
+          "pages": [
+            {
+              "page": "1면",
+              "badge": "종합",
+              "badgeColor": "red",
+              "articles": [
+                {
+                  "headline": "이재명 대통령, 내일 3대 메가프로젝트 발표…삼성·SK 1000조 투자설",
+                  "body": "이재명 대통령이 29일 '대한민국 대도약 국민보고회' 주재, 반도체·AI·데이터센터 3대 분야 대규모 투자 발표 예정",
+                  "url": "https://www.hankyung.com/article/2026062871234"
+                },
+                {
+                  "headline": "호르무즈 해협 유조선 3척 피격…미·이란 휴전 위기",
+                  "body": "호르무즈 해협에서 유조선 3척이 연쇄 피격, 미국-이란 간 취약한 휴전이 붕괴 위기",
+                  "url": "https://www.hankyung.com/article/2026062871235"
+                },
+                {
+                  "headline": "SK하이닉스, 시총 1위 등극…삼성전자 25년만에 2위로",
+                  "body": "SK하이닉스가 삼성전자를 제치고 코스피 시총 1위에 등극, 반도체 대장주 지각변동",
+                  "url": "https://www.hankyung.com/article/2026062871236"
+                },
+                {
+                  "headline": "애플 제품 가격 최대 22% 인상…메모리 가격 급등 여파",
+                  "body": "애플이 메모리 가격 급등을 이유로 맥·아이패드 가격 최대 22% 인상 발표, 글로벌 IT 업계 영향",
+                  "url": "https://www.hankyung.com/article/2026062871237"
+                },
+                {
+                  "headline": "코스피 서킷브레이커 발동…8,411p 마감, 519p 폭락",
+                  "body": "코스피가 5.81% 급락하며 서킷브레이커 발동, 외국인 반도체 4.5조 순매도가 폭락 주도",
+                  "url": "https://www.hankyung.com/article/2026062871238"
+                }
+              ]
+            },
+            {
+              "page": "2면",
+              "badge": "정치",
+              "badgeColor": "blue",
+              "articles": [
+                {
+                  "headline": "김건희 '매관매직' 1심 징역 7년 '거리낌없이 고가 금품수수'",
+                  "body": "법원이 김건희 여사 매관매직 의혹에 징역 7년 선고, '거리낌없이 고가 금품 수수' 판단",
+                  "url": "https://www.hankyung.com/article/2026062871239"
+                },
+                {
+                  "headline": "민주당, 개헌 통해 선관위 해체 추진…6·3 지방선거 후폭풍",
+                  "body": "6·3 지방선거 부실관리 논란으로 민주당이 개헌을 통한 선관위 해체 방안 추진",
+                  "url": "https://www.hankyung.com/article/2026062871240"
+                },
+                {
+                  "headline": "드론사, 국방드론본부로 확대 개편…장거리 자폭무인기 전력화",
+                  "body": "드론작전사령부를 국방드론본부로 확대 개편, 장거리 자폭무인기 전력화 추진",
+                  "url": "https://www.hankyung.com/article/2026062871241"
+                },
+                {
+                  "headline": "한은 총재 '늦지 않게 금리 올릴 필요'…7월 인상 무게",
+                  "body": "신현송 한은 총재가 인플레이션 압력으로 조만간 금리 인상 필요성 시사",
+                  "url": "https://www.hankyung.com/article/2026062871242"
+                },
+                {
+                  "headline": "스페이스X 공모가 135달러 확정…일론 머스크 조만장자 눈앞",
+                  "body": "스페이스X가 주당 135달러에 IPO 가격 확정, 일론 머스크 세계 첫 조만장자 등극",
+                  "url": "https://www.hankyung.com/article/2026062871243"
+                }
+              ]
+            },
+            {
+              "page": "3면",
+              "badge": "경제",
+              "badgeColor": "green",
+              "articles": [
+                {
+                  "headline": "원/달러 1,547원 급등…외환당국 '스무딩' 개입",
+                  "body": "원/달러 환율이 장중 1,547.3원까지 치솟았다가 외환당국 구두개입으로 1,532원 마감",
+                  "url": "https://www.hankyung.com/article/2026062871244"
+                },
+                {
+                  "headline": "한미 증시 메모리 대장주 급변동…AI 투자 과열 논란",
+                  "body": "AI 투자 과열 우려로 삼성전자·SK하이닉스·마이크론 등 메모리 대장주 변동성 극대화",
+                  "url": "https://www.hankyung.com/article/2026062871245"
+                },
+                {
+                  "headline": "올해 서킷브레이커 5회…2008년 금융위기 기록 경신",
+                  "body": "올해 서킷브레이커 발동 5회로 2008년 금융위기 기록 경신, 사이드카 29회도 사상 최다",
+                  "url": "https://www.hankyung.com/article/2026062871246"
+                },
+                {
+                  "headline": "증시 불장에 빚투 폭주…금융당국 신용대출 죄기",
+                  "body": "주식시장 변동성 확대에도 신용대출과 마진거래 급증, 금융당국 규제 강화 움직임",
+                  "url": "https://www.hankyung.com/article/2026062871247"
+                },
+                {
+                  "headline": "반도체 덕에 수출 620억달러 역대 최고",
+                  "body": "이달 중순 수출액 620억달러 기록, 반도체가 전체 수출 40% 차지하며 사상 최고치 경신",
+                  "url": "https://www.hankyung.com/article/2026062871248"
+                }
+              ]
+            }
+          ]
+        },
+        {
           "name": "경향신문",
           "url": "khan.co.kr",
           "pages": [
