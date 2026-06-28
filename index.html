@@ -208,13 +208,16 @@ function renderArticle(a) {
 }
 
 function renderCard(p) {
-  const badgeClass = BADGE_MAP[p.badgeColor] || 'b-gray';
+  const pageLabel = p.label || p.page || '';
+  const badgeHtml = p.badge && p.badgeColor
+    ? `<span class="badge ${BADGE_MAP[p.badgeColor] || 'b-gray'}">${esc(p.badge)}</span>`
+    : '';
   const articles = (p.articles || []).map(renderArticle).join('');
   return `
     <div class="page-card">
       <div class="card-top">
-        <span class="page-label">${esc(p.page)}</span>
-        <span class="badge ${badgeClass}">${esc(p.badge)}</span>
+        <span class="page-label">${esc(pageLabel)}</span>
+        ${badgeHtml}
       </div>
       <div class="card-body">${articles}</div>
     </div>`;

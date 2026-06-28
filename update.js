@@ -40,7 +40,7 @@ const SCHEMA_HINT = `
   "date": "${dateStr}",
   "dateLabel": "${dateLabel}",
   "generatedAt": "ISO8601 시각",
-  "ticker": [ { "name": "코스피", "value": "8,721", "change": "▼2.34%", "dir": "dn" }, ... 8~12개 ],
+  "ticker": [ { "label": "코스피", "value": "8,721", "change": "▼2.34%", "dir": "dn", "badgeColor": "red" }, ... 8~12개 ],
   "keywords": [ { "label": "① 키워드명", "desc": "한 줄 요약" }, ... 5개 ],
   "sections": {
     "kor": {
@@ -49,11 +49,9 @@ const SCHEMA_HINT = `
         {
           "name": "신문사명", "url": "도메인",
           "pages": [
-            { "page": "1면", "badge": "분류", "badgeColor": "blue|green|purple|orange|teal|pink|red|amber|gray",
-              "headline": "한글 헤드라인", "eng": "원문 영어(국내지는 빈 문자열)",
-              "body": "2~3문장 요약", "subs": ["부기사1", "부기사2"] },
-            { "page": "2면", ... },
-            { "page": "3면", ... }
+            { "label": "1면", "articles": [ { "headline": "한글 헤드라인", "url": "기사URL", "eng": "", "body": "2~3문장 요약" }, ... 3~5개 ] },
+            { "label": "2면", "articles": [ ... ] },
+            { "label": "3면", "articles": [ ... ] }
           ]
         }
       ]
@@ -65,10 +63,13 @@ const SCHEMA_HINT = `
 규칙:
 - 국내지: 경향신문, 동아일보, 매일경제, 한국경제 (각 1·2·3면)
 - 미국지: Wall Street Journal, Bloomberg, The New York Times, Washington Post, Financial Times (각 1·2·3면)
+- ⚠️ 절대 규칙: 각 신문의 pages 배열 길이는 정확히 3이어야 합니다 (1면, 2면, 3면). 1개나 2개만 넣는 것은 허용되지 않습니다.
+- 각 면마다 articles 배열에 3~5개의 기사를 포함합니다 (대표 기사 1건 + 부기사 2~4건).
 - 미국지는 "eng"에 원문 영어 헤드라인을 넣고 "headline"은 한글 번역으로 채웁니다.
 - "dir"은 상승 up / 하락 dn / 보합 neu 중 하나.
-- "badgeColor"는 지정된 9색 중 하나만 사용.
+- "badgeColor"는 blue, green, purple, orange, teal, pink, red, amber, gray 중 하나.
 - 모든 텍스트는 실제 검색된 그날 기사에 근거해야 하며, 추측·창작 금지.
+- 출력 직전 자체 검증: sections.kor.papers[N].pages.length === 3 && sections.us.papers[N].pages.length === 3 인지 확인하세요.
 `;
 
 const PROMPT = `오늘은 ${dateLabel}입니다. 웹 검색을 사용해 오늘(또는 가장 최근 발행분) 자
@@ -76,12 +77,12 @@ const PROMPT = `오늘은 ${dateLabel}입니다. 웹 검색을 사용해 오늘(
 미국 주요 경제·일간지(WSJ·Bloomberg·NYT·Washington Post·Financial Times)의
 1면·2면·3면 주요 기사를 수집하세요.
 
-각 면마다 대표 헤드라인 1건과 부기사 2건을 정리하고,
+각 면마다 3~5건의 주요 기사(대표 헤드라인 + 부기사)를 정리하고,
 미국 매체 헤드라인은 한글로 번역하되 원문도 함께 보존하세요.
 또한 오늘의 주요 시장 지표(코스피·환율·S&P500·나스닥 등)와
 국내외를 관통하는 공통 키워드 5개를 뽑아주세요.
 
-충분히 검색(최소 8~15회)한 뒤, 마지막에 ${SCHEMA_HINT}`;
+충분히 검색(최소 15~30회)한 뒤, 마지막에 ${SCHEMA_HINT}`;
 
 async function main() {
   console.log(`📡 ${dateLabel} 신문 데이터 수집 시작…`);
@@ -95,8 +96,8 @@ async function main() {
     },
     body: JSON.stringify({
       model: MODEL,
-      max_tokens: 16000,
-      tools: [{ type: 'web_search_20250305', name: 'web_search', max_uses: 20 }],
+      max_tokens: 32000,
+      tools: [{ type: 'web_search_20250305', name: 'web_search', max_uses: 30 }],
       messages: [{ role: 'user', content: PROMPT }]
     })
   });
@@ -136,6 +137,21 @@ async function main() {
     throw new Error('스키마 검증 실패: sections.kor / sections.us 누락');
   }
   parsed.generatedAt = parsed.generatedAt || new Date().toISOString();
+
+  // ⚠️ 페이지 수 검증: 각 신문이 3면(1면·2면·3면)을 모두 가지고 있는지 확인
+  const allPapers = [
+    ...(parsed.sections.kor?.papers || []),
+    ...(parsed.sections.us?.papers || [])
+  ];
+  for (const paper of allPapers) {
+    if (!paper.pages || paper.pages.length !== 3) {
+      throw new Error(
+        `페이지 수 검증 실패: "${paper.name}"의 pages 배열 길이가 ${
+          paper.pages ? paper.pages.length : 0
+        }입니다. 3이어야 합니다 (1면·2면·3면).`
+      );
+    }
+  }
 
   // 기존 파일 백업(아카이브)
   if (fs.existsSync(OUT_PATH)) {
