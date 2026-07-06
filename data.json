@@ -1,145 +1,67 @@
 {
-  "date": "2026-06-29",
-  "dateLabel": "2026년 6월 29일(월요일)",
-  "generatedAt": "2026-06-29T06:30:00+09:00",
+  "date": "2026-07-07",
+  "dateLabel": "2026년 7월 7일(화요일)",
+  "generatedAt": "2026-07-07T09:00:00+09:00",
   "ticker": [
-    {
-      "label": "코스피",
-      "value": "8,411.21",
-      "change": "-641.21",
-      "changePercent": "-7.08%",
-      "badgeColor": "red"
-    },
-    {
-      "label": "코스닥",
-      "value": "851.37",
-      "change": "▼ 연저점 경신",
-      "changePercent": "",
-      "badgeColor": "red"
-    },
-    {
-      "label": "원/달러",
-      "value": "1,549.5원",
-      "change": "28년만 최고",
-      "changePercent": "",
-      "badgeColor": "red"
-    },
-    {
-      "label": "S&P 500",
-      "value": "7,354.02",
-      "change": "-3.70",
-      "changePercent": "-0.05%",
-      "badgeColor": "red"
-    },
-    {
-      "label": "나스닥",
-      "value": "25,297.62",
-      "change": "-60.76",
-      "changePercent": "-0.24%",
-      "badgeColor": "red"
-    },
-    {
-      "label": "다우존스",
-      "value": "51,876.11",
-      "change": "-46.67",
-      "changePercent": "-0.09%",
-      "badgeColor": "red"
-    },
-    {
-      "label": "WTI",
-      "value": "$69.74",
-      "change": "이란 종전 합의",
-      "changePercent": "",
-      "badgeColor": "blue"
-    },
-    {
-      "label": "금",
-      "value": "$4,063/oz",
-      "change": "+29.17",
-      "changePercent": "+0.72%",
-      "badgeColor": "orange"
-    },
-    {
-      "label": "미국채10년",
-      "value": "4.37%",
-      "change": "-2bp",
-      "changePercent": "",
-      "badgeColor": "gray"
-    },
-    {
-      "label": "V-KOSPI",
-      "value": "95.09",
-      "change": "사상 최고",
-      "changePercent": "",
-      "badgeColor": "purple"
-    }
+    { "label": "코스피", "value": "8,051", "change": "▼0.46%", "dir": "dn", "badgeColor": "red" },
+    { "label": "코스닥", "value": "847", "change": "▼2.46%", "dir": "dn", "badgeColor": "red" },
+    { "label": "다우", "value": "53,032", "change": "▲0.3%", "dir": "up", "badgeColor": "blue" },
+    { "label": "S&P 500", "value": "7,420", "change": "▲0.7%", "dir": "up", "badgeColor": "blue" },
+    { "label": "나스닥", "value": "26,100", "change": "▲1.1%", "dir": "up", "badgeColor": "blue" },
+    { "label": "WTI", "value": "$68.55", "change": "▼0.20%", "dir": "dn", "badgeColor": "red" },
+    { "label": "브렌트유", "value": "$71.99", "change": "▼0.18%", "dir": "dn", "badgeColor": "red" },
+    { "label": "원/달러", "value": "1,312", "change": "▼0.3%", "dir": "dn", "badgeColor": "red" },
+    { "label": "테슬라", "value": "—", "change": "▲6.7%", "dir": "up", "badgeColor": "blue" },
+    { "label": "엔비디아", "value": "—", "change": "▲0.4%", "dir": "up", "badgeColor": "blue" },
+    { "label": "국민연금", "value": "1,470조", "change": "▲340조", "dir": "up", "badgeColor": "blue" },
+    { "label": "거래대금", "value": "29조원", "change": "코스피", "dir": "up", "badgeColor": "gray" }
   ],
   "keywords": [
-    {
-      "label": "3대 메가프로젝트",
-      "desc": "1000조원 역대급 투자, 삼성·SK 반도체 클러스터",
-      "badgeColor": "blue"
-    },
-    {
-      "label": "코스피 폭락",
-      "desc": "주간 7.08% 급락, 서킷브레이커 2회·사이드카 3회",
-      "badgeColor": "red"
-    },
-    {
-      "label": "미·이란 충돌",
-      "desc": "호르무즈 공방 재개, 종전 합의 위기",
-      "badgeColor": "orange"
-    },
-    {
-      "label": "환율 1550선",
-      "desc": "28년만 최고, 외국인 120조 순매도",
-      "badgeColor": "purple"
-    },
-    {
-      "label": "반도체 쏠림",
-      "desc": "마이크론 호실적·애플 가격인상, 변동성 극대화",
-      "badgeColor": "teal"
-    }
+    { "label": "삼성전자 2Q 실적", "desc": "오늘 장중 잠정실적 발표 — 영업이익 컨센서스 84~85조원, 최대 90.2조원 전망. 코스피 8,000선 사수 분수령" },
+    { "label": "다우 53,000 돌파", "desc": "사상 첫 53,000선 돌파. AI 우려 진정 속 기술주 랠리 재개. 테슬라 +6.7%, 메타 +3.0%" },
+    { "label": "MS 4,800명 감원", "desc": "전체 인력 2.1%·X박스 20% 감축. AI 전환 가속화 신호. 빅테크 AI 투자 $7,000억↑" },
+    { "label": "SK하이닉스 ADR", "desc": "7월 10일 나스닥 정식 상장 예정. 43조원 규모. 국내 반도체 업종 재평가 기대" },
+    { "label": "FOMC 의사록", "desc": "8일(내일) 6월 FOMC 의사록 공개. 워시 신임 의장 첫 의사록. 금리 경로 단서 주목" }
   ],
   "morning": {
-    "label": "☀️ 모닝브리핑",
-    "date": "2026-06-29",
-    "headline": "🌫️ 오늘의 날씨: 안개, 21°C (체감 21°C) | 습도 100% | 바람 4km/h",
-    "weather": "안개, 21°C (체감 21°C) | 습도 100% | 바람 4km/h",
-    "domestic_market": "## 📊 국내 증시 (6/26 금요일 마감)\n\n### 🔴 코스피, 지난주 7.08% 폭락 — 서킷브레이커 2회·사이드카 3회\n\n<table><tr><th>지수</th><th>종가</th><th>주간 등락</th></tr><tr><td><strong>코스피</strong></td><td><strong>8,411.21</strong></td><td><strong>▼641.21 (-7.08%)</strong></td></tr><tr><td>코스닥</td><td>851.37</td><td>연저점 경신中 (838.53 찍음)</td></tr><tr><td>원/달러 환율</td><td>~1,549.5원</td><td>외환위기 후 28년만에 최고</td></tr></table>\n\n- **지난주(6/22~26) 한 주 동안 사이드카 3회 + 서킷브레이커 2회** — 올해 서킷브레이커만 5회째 (역대 최다)\n- **외국인:** 주간 16.6조원 순매도 (역대급 이탈)\n- **기관:** 3조원 순매도\n- **개인:** 19.1조원 순매수 — 홀로 방어했으나 역부족\n- V-KOSPI(공포지수) **95.09** — 사상 최고치 경신\n- BofA의 연내 Fed 금리인상 전망 + 연기금 리밸런싱 + 레버리지ETF 수급 불안이 폭락 촉발\n- 마이크론 어닝 서프라이즈로 반도체 반등 시도 있었으나, **애플이 메모리 가격 상승 이유로 제품 최대 22% 인상 발표** → 반도체 수요 위축 우려 재점화\n- **코스닥**: 4거래일 연속 연저점 경신, 838.53까지 추락\n\n### 📌 오늘의 장 전망\n\n<table><tr><th>전망</th><th>내용</th></tr><tr><td>📊 예상 밴드</td><td><strong>8,400~9,500</strong> (NH투자증권 제시)</td></tr><tr><td>📈 상승 요인</td><td>마이크론 호실적 + 3대 메가 프로젝트 발표</td></tr><tr><td>📉 하락 요인</td><td>미·이란 무력 충돌 재개 + Fed 금리 전망 불확실성</td></tr></table>\n\n- 증권가: \"롤러코스피 지속…삼전·하이닉스 중심 투자\" — 실적 가시성 높은 반도체 대형주 집중 전략 유효\n- **7/7 삼성전자 2분기 잠정실적 발표** 예정, 마이크론 실적 호조로 기대감 ↑",
-    "overseas_market": "## 🌍 해외 증시 (6/26 금요일 마감 — 5거래일 연속 하락)\n\n<table><tr><th>지수</th><th>종가</th><th>등락</th><th>주간</th></tr><tr><td><strong>다우존스</strong></td><td><strong>51,876.11</strong></td><td><strong>▼0.09%</strong></td><td>▲0.6% (상대적 선방)</td></tr><tr><td><strong>S&P 500</strong></td><td><strong>7,354.02</strong></td><td><strong>▼0.05%</strong></td><td>▼2.0%</td></tr><tr><td><strong>나스닥</strong></td><td><strong>25,297.62</strong></td><td><strong>▼0.24%</strong></td><td><strong>▼4.6%</strong> — 5일 연속 하락</td></tr><tr><td>필라델피아 반도체</td><td><strong>13,203.57</strong></td><td><strong>▼5.29%</strong></td><td><strong>▼7.9%</strong></td></tr></table>\n\n### 주요 특징\n- **나스닥, 6월 들어 6.2% 하락** — 상호관세 충격이 있던 2025년 3월 이후 최대 월간 낙폭\n- **AI·반도체주 차익실현 폭탄**: 엔비디아 -1.64%, 마이크론 -6.69%, 브로드컴 -3.67%, 퀄컴 -7.57%\n- **반도체 HBM 의존도 축소 설계** — 퀄컴·엔비디아, HBM 의존도 낮추는 방안 모색 중\n- OpenAI, **IPO를 2027년 이후로 연기** 검토 → AI 인프라 수요 둔화 우려 증폭\n- **헬스케어·바이오로 자금 이동**: 일라이 릴리 +7.13%, JNJ +3.99%, 애브비 +4.20% (신고가)\n- **5월 PCE 4.1%** — 3년 만에 처음으로 4% 돌파, 인플레이션 고착화 우려\n- 애플(AAPL) 전일 -6.12% 폭락에 이어 추가 약세\n- **이번주 (6/29~7/3)**: 케빈 워시 Fed 의장 공개 토론 (6/29~30) + **7/2 6월 고용보고서** — 시장 예상 11.4~13.5만명 (5월 17.2만명 대비 둔화)",
-    "asia_market": "",
-    "top_news": [
-      {
-        "category": "악재",
-        "title": "미·이란, 종전 합의 위기 — 무력 공방 2일째",
-        "summary": "- 이란, 호르무즈해협 통과 싱가포르 선적 컨테이너선 공격\n- 미군, 이란 미사일·드론 시설 보복 공습 → 이란, 바레인 미군기지 공격으로 응수\n- **트럼프 \"이란이 더 이상 존재하지 않을 수도\"** 극단적 위협\n- 이란 혁명수비대 **\"휴전합의 위반 시 외교 프로세스 전면 중단\"**\n- 6/29~30로 예정된 스위스 후속 실무회담 **불발 가능성↑**\n- 국제유가 반등 시 물가·금리에 2차 파급효과 우려"
+    "date": "2026-07-07",
+    "weather": "안개 (Mist) | 25°C / 체감 28°C | 습도 100% | 바람 5km/h",
+    "schedule": "없음",
+    "domestic": {
+      "kospi": { "value": "8,051", "change": "▼37", "rate": "-0.46%" },
+      "kosdaq": { "value": "847", "change": "▼21", "rate": "-2.46%" },
+      "supply": {
+        "individual": "+2,670억 순매수",
+        "institution": "-1,457억 순매도",
+        "foreign": "-1,309억 순매도 (누적 19조↑)",
+        "tradingValue": "29조원"
       },
-      {
-        "category": "호재",
-        "title": "이재명 대통령, '3대 메가 프로젝트' 국민보고회 (오늘 14:00)",
-        "summary": "- **1,000조원 규모 역대급 투자** — 삼성전자·SK하이닉스 참여\n- **호남**: 반도체 클러스터 조성 (삼성·SK)\n- **충청**: AI 데이터센터 (SK 초대형 DC 구축)\n- **영남**: 피지컬 AI (삼성 구미사업장 고도화)\n- 이재용 삼성전자 회장·최태원 SK 회장 등 대기업 총수 참석 예정\n- 보수 진영에서는 \"과도한 재정 부담\" 반발"
-      },
-      {
-        "category": "악재",
-        "title": "원/달러 환율 위기 — 28년 만의 최고",
-        "summary": "- 6월 평균 환율 **1,521.4원** — 외환위기(1998년 2월, 1,626.7원) 이후 최고\n- 6/26 기준 **1,549.5원**까지 상승, 1,550선 턱밑\n- **Q2 평균 1,500.1원** — 분기 기준 외환위기 이후 28년 3개월 만에 1,500원대 진입\n- 외국인 연간 누적 120조원 순매도 → 원화 약세 지속\n- 외국인 지분율은 오히려 36.27% → 41.03%로 증가 (주가 상승 효과)\n- 환율 1,500원대 고착화 우려"
-      },
-      {
-        "category": "중립",
-        "title": "Fed: 금리 인상 시그널 & 인플레이션 경계",
-        "summary": "- 5월 PCE 4.1% (전월 3.8%) — 인플레이션 재가속\n- 카시카리 미니애폴리스 연은 총재: \"인플레이션 압력으로 2026년 금리 인상 가능성\"\n- 미국 10년물 국채 금리 4.37% (▼2bp)\n- **이번주: 케빈 워시 Fed 의장 토론 (6/29~30) + 6월 고용보고서 (7/2)**\n- 고용 예상 11.4~13.5만명 — 시장 예상치 상회 시 긴축 우려 재점화"
-      },
-      {
-        "category": "악재",
-        "title": "국민연금 리밸런싱 (7월부터 본격화)",
-        "summary": "- 리밸런싱 유예 조치 **6월 말 만료**\n- 코스피 Q2 약 80% 폭등 → 국내 주식 비중 과다 → **매도물량 출회 가능성↑**\n- 7월부터 국내 주식 비중 축소 전망 — 증시 추가 하방 압력"
-      }
+      "comment": "전주 극심한 변동성(7/2 -7.89% → 7/3 +5.76%) 이후 안정화 국면. 반도체 대형주 반등 시도했으나 외국인·기관 동반 매도로 소폭 하락. 코스닥 2%대 하락."
+    },
+    "overseas": {
+      "dow": { "value": "53,000+", "change": "+0.3%", "note": "사상 첫 53,000선 돌파" },
+      "sp500": { "value": "~7,420", "change": "+0.7%", "note": "신고가 행진" },
+      "nasdaq": { "value": "~26,100", "change": "+1.1%", "note": "AI 우려 진정" },
+      "oil": { "wti": "$68.55", "brent": "$71.99", "note": "미·이란 종전 협상 진전" },
+      "keyStocks": "테슬라 +6.7%, 메타 +3.0%, 알파벳 +1.8%, 애플 +1.3%, MS -1.0% (감원)"
+    },
+    "topNews": "삼성전자 2분기 잠정실적 발표 D-DAY — 영업이익 컨센서스 84~85조원(+1,700%↑), DS 특별성과급 10~18조원, 충당 전 DS 영업익 109.5조원 추정. DRAM ASP +45%, NAND +65% QoQ.",
+    "otherNews": [
+      "MS 대규모 감원 (4,800명 / X박스 20% 감축) — AI 전환 가속화 신호",
+      "미·이란 종전 협상 진전 — 트럼프 '합의 안 하면 폭격' 경고 속 협상",
+      "SK하이닉스 ADR, 7월 10일 나스닥 정식 상장",
+      "8일(내일) 6월 FOMC 의사록 공개 예정",
+      "국민연금 4개월간 340조 폭증 — 반도체 랠리 수혜"
     ],
-    "schedule": "| 시간 | 내용 |\n|:----:|:------|\n| **14:00** | 청와대 '3대 메가 프로젝트' 국민보고회 (삼성·SK 투자 발표) |\n| **15:00** | 업비트 OXT 거래지원 종료 |\n| 🎯 | **오늘은 특별한 개인 일정이 없습니다.** |\n\n> ⚠️ **미·이란 무력 충돌 재개 + 국내 3대 메가 프로젝트 발표**가 오늘 증시에 '악재와 호재'가 동시에 맞물려 있는 상황입니다. 변동성 장세에 대비하세요.",
-    "mail_check": "| 발신 | 내용 | 중요도 |\n|:----:|:------|:------:|\n| **LinkedIn** | Jaewon Hwang 님 1촌 신청 | ⭐ |\n| **LinkedIn** | Shahmir Khaliq(Global Head of Services) 인맥 중 인기 | 📌 |\n| **Upbit** | **OXT(오키드) 거래지원 종료 — 오늘(6/29 15:00)** | ⚠️ |\n| **한국씨티은행** | 환율정보서비스 | ℹ️ |\n| **한국투자증권** | 전산시스템 업그레이드 작업 — 서비스 일시 중단 안내 | ℹ️ |\n| **토스뱅크** | 전자금융거래기본약관 개정 안내 | ℹ️ |\n| **교보문고** | 26년 상반기 종합 베스트셀러 + 원데이 교환권 500원 | 🛍️ |\n| **Harvard Online** | Free Summer Friday Week 3: Build Your Own Game | 🎮 |",
-    "insight_title": "💡 제론의 인사이트",
-    "insight_content": "**1. '반도체 쏠림 → 고변동성' 구조, 해결될까?**\n6월 내내 사이드카 10회, 올해만 29회 — 이제 더 이상 '이례적'이라고 부르기 어려운 일상이 되었습니다. 코스피의 반도체 의존도가 심화될수록 마이크론·애플·엔비디아 한두 개의 실적·발표에 시장 전체가 흔들리는 구조가 고착화되고 있습니다. 삼전·하이닉스 중심 포트폴리오가 불가피하지만, 분산 투자 옵션(헬스케어·바이오로의 수급 이동 참고)도 고려해볼 필요가 있습니다.\n\n**2. 미·이란 리스크 — 소멸된 줄 알았는데 '재점화'**\n5월 말 종전 MOU 체결로 중동 리스크가 해소되는 듯했으나, 호르무즈 해협 통제권을 둘러싼 군사적 충돌이 재발했습니다. 트럼프의 극단적 수사와 이란의 협상 중단 위협은 국제유가 반등 → 물가 상승 → 금리 인상이라는 악순환의 고리로 이어질 수 있습니다. 원/달러 환율이 이미 1,550원까지 치솟은 상황에서 추가 상승은 코스피의 발목을 더 잡을 수 있습니다.\n\n**3. 3대 메가 프로젝트: '1,000조'의 현실**\n이재명 정부의 호남 반도체 클러스터는 단순한 선거 공약 수준을 넘어 삼성·SK가 투자 계획을 확정했다는 점에서 시장의 기대를 모으고 있습니다. 다만, 보수 진영의 반발과 1,000조 원 규모의 재원 조달 문제는 향후 정치적 리스크로 작용할 수 있습니다. 오늘 보고회 발표 내용에 따라 관련주(삼성전자, SK하이닉스, 반도체 장비·소부장)의 단기 모멘텀이 결정될 전망입니다.\n\n**4. 환율 1,500원 시대 — 더 이상의 '일시적 현상'은 아니다**\n외환위기 이후 28년 만에 처음으로 분기 평균 환율이 1,500원을 넘겼습니다. 외국인 120조원 매도, Fed의 금리 인상 기조, 미·이란 불안정성이 겹치며 환율 하락을 기대하기 어려운 환경입니다. 환율 민감 업종(항공·여행·정유)과 수출주(반도체·자동차·조선)의 수혜·피해를 함께 모니터링할 필요가 있습니다.\n\n**5. 이번주 주시할 포인트**\n- 🗓️ **7/1(수)**: 한국 6월 수출입 동향 (반도체 수출 증감 확인)\n- 🗓️ **7/2(목)**: 미국 6월 고용보고서 — Fed 금리 전망의 분수령\n- 🗓️ **7/7(월)**: 삼성전자 2분기 잠정실적\n- 🗓️ **7/8(수)**: FOMC 의사록 공개\n- 🗓️ **7/14~15**: 미국 6월 CPI·PPI 발표\n- 🗓️ **7/28~29**: 7월 FOMC 회의 (금리 결정)\n- ⚠️ **7월부터 국민연금 리밸런싱 본격화** — 매도압력 가능성"
+    "mailCheck": [
+      { "type": "warning", "content": "Vercel 새 로그인 감지 알림 — 보안 확인 필요" },
+      { "type": "info", "content": "Harvard Online AI Leadership Series 신규 강좌 개설" },
+      { "type": "info", "content": "삼성증권 유통업종 리포트 — 부의 효과와 인바운드 수요 증가" },
+      { "type": "info", "content": "ZDNet Korea 반도체 추가 세수로 미래대응기금 조성" },
+      { "type": "info", "content": "LinkedIn 프로필 인기 증가 (검색 노출 11회)" },
+      { "type": "info", "content": "Anthropic Claude 보안 로그인 링크 2건 (본인 확인됨)" }
+    ],
+    "insight": "삼성전자 실적의 날. 판을 읽는 것이 중요하다. 컨센서스 84~85조, KB증권 90.2조. 충당금 10~18조를 떼고도 이 정도. 이미 기대가 많이 반영된 상태에서 '재료 소멸'로 작용할지 '어닝 서프라이즈 모멘텀'으로 이어질지는 오늘 장을 지켜봐야. 해외는 다우 사상 첫 53,000선 돌파, AI 우려 진정. 체크 포인트: 삼성전자 실적, 외국인 수급 전환, 8일 FOMC 의사록, SK하이닉스 ADR 상장(7/10)."
   },
   "sections": {
     "kor": {
@@ -147,175 +69,131 @@
       "papers": [
         {
           "name": "매일경제",
+          "url": "mk.co.kr",
           "pages": [
             {
               "label": "1면",
               "articles": [
-                {
-                  "headline": "내일 '3대 메가 프로젝트' 뜬다 … 삼성∙SK 2천조 원대 투자 공개",
-                  "url": "https://www.mk.co.kr/",
-                  "body": "29일 오후 청와대 영빈관에서 열리는 '대한민국 대도약 3대 메가 프로젝트 국민보고회'에서는 향후 대한민국의 미래를 결정지을 초대형 투자 프로젝트가 공개될 예정이다. 크게 반도체와 인공지능(AI) 데이터센터, 피지컬 AI 3가지 분야에서 투자가 발표된다."
-                },
-                {
-                  "headline": "'1000조 메가프로젝트' 발표에 이재용·최태원 출동…수도권 집중 깬다",
-                  "url": "https://www.mt.co.kr/politics/2026/06/29/2026062821403499983",
-                  "body": "반도체, 피지컬 AI(인공지능), 데이터센터를 축으로 한 1000조원 이상의 역대급 지역 투자 계획이 29일 나온다. 이재명 정부가 역점을 둔 사업이자 국토 균형발전에 방점이 찍힌 투자 청사진이다."
-                },
-                {
-                  "headline": "단독 반도체 초과이익 … 7월 공론화 시작",
-                  "url": "https://www.mk.co.kr/",
-                  "body": "반도체 초과이익 논란이 7월부터 본격 공론화될 전망이다. 정부는 반도체 업체의 초과이익에 대한 과세 방안을 검토 중인 것으로 알려졌다."
-                },
-                {
-                  "headline": "가계대출 8조 폭증에 … 은행권 대출 옥죈다",
-                  "url": "https://www.mk.co.kr/",
-                  "body": "5월 가계대출이 8조원 증가하며 총량 관리 비상이 걸렸다. 은행권은 하반기 대출 총량 관리를 더욱 강화할 방침이다."
-                },
-                {
-                  "headline": "'호르무즈 통제' 놓고 보복 난타전 … 美∙이란 다시 전면전 위기",
-                  "url": "https://www.mk.co.kr/",
-                  "body": "이란, 호르무즈해협 통과 선박 공격에 미군이 보복 공습. 이란은 바레인 미군기지를 타격하며 응수. 트럼프 대통령은 '이란이 더 이상 존재하지 않을 수도'라는 극단적 위협을 가했다."
-                }
+                { "headline": "트럼프 \"지금이 美황금기 시작\"…트럼프 어카운트 출범", "url": "https://www.mk.co.kr/today-paper", "eng": "Trump Declares 'Golden Age of America' Begins with Trump Accounts Launch", "body": "트럼프 대통령이 7월 4일 독립기념일 연설에서 트럼프 어카운트 출범을 선언하며 '미국 황금기의 시작'이라고 강조. 모든 미국 아동에게 $1,000 종잣돈을 제공하는 세제혜택 계좌로, 출범 첫 주에만 8억 달러 규모의 신규 자금이 주식시장에 유입될 전망." },
+                { "headline": "AI·OTT 월정액 달러유출 '눈덩이'…연간 50억 달러 육박", "url": "https://www.mk.co.kr/", "eng": "AI and OTT Subscription Dollar Outflows Surge Toward $5B Annually", "body": "국내에서 AI 서비스 및 OTT 플랫폼 구독료로 빠져나가는 달러가 연간 50억 달러에 육박. OpenAI, Microsoft, Netflix 등 글로벌 빅테크로의 디지털 서비스 무역적자가 사상 최대치를 기록 중." },
+                { "headline": "\"변동성 통제불가 수준\"…괴물된 삼닉, 코스피 8,000 사수", "url": "https://www.mk.co.kr/", "eng": "Volatility Reaches Uncontrollable Levels as Samsung-SK Hynix Defend KOSPI 8,000", "body": "전주 코스피가 하루 7.89% 폭락 후 다음날 5.76% 반등하는 등 극심한 변동성 장세. 개인투자자 2.6조 순매수로 8,000선 방어. 오늘 삼성전자 2Q 잠정실적 발표가 최대 변수." },
+                { "headline": "[단독] \"10㎡ 사무실이 1주택?\"…토허제가 만든 황당 다주택자", "url": "https://www.mk.co.kr/", "eng": "Exclusive: 10m² Office Counts as One Home Under Land Transaction Permit System", "body": "토지거래허가제로 인해 소형 사무실도 주택으로 간주되어 예상치 못한 다주택자가 양산되는 문제 발생. 업계에서는 제도 개선을 촉구." },
+                { "headline": "20년 넘은 맛집마저 무너졌다…장기 불황에 자영업자 줄폐업", "url": "https://www.mk.co.kr/", "eng": "Even 20-Year-Old Restaurants Collapse as Long Recession Drives Mass Closures", "body": "지난해 폐업 신고한 개인·법인 사업자 수가 사상 처음 100만명을 돌파. 20년 이상 영업한 노포 맛집들도 장기 불황을 견디지 못하고 문을 닫는 사례 증가." }
               ]
-            }
-          ]
-        },
-        {
-          "name": "서울경제",
-          "pages": [
+            },
             {
-              "label": "1면",
+              "label": "2면",
               "articles": [
-                {
-                  "headline": "삼성 파운드리, 앤스로픽 AI 칩 만든다",
-                  "url": "https://www.sedaily.com/article/20049843",
-                  "body": "삼성전자가 앤스로픽의 핵심 AI 칩 생산까지 맡게 됐다. HBM4E 샘플을 세계 최초로 출하한 가운데 수년째 조 단위 적자를 내온 파운드리 사업부도 대형 수주를 추가해 흑자전환에 속도를 낼 것으로 전망된다."
-                },
-                {
-                  "headline": "\"지금 안 사면 더 늦어\" 포모 온 개미들…상장 45분 만에 2조 몰린 '삼전닉스 레버리지'",
-                  "url": "https://www.sedaily.com/article/20049808",
-                  "body": "삼성전자와 SK하이닉스 단일종목 레버리지 상장지수펀드(ETF)가 상장 첫날부터 개장 45분 만에 약 2조원에 달하는 거래대금이 몰렸다. 29일 거래소에 따르면 'KODEX SK하이닉스단일종목레버리지 ETF'가 가장 많은 거래대금을 기록했다."
-                },
-                {
-                  "headline": "\"역대급 투자규모, 숫자 진짜?\"…삼전·닉스, 호남반도체 등 '지방 메가 프로젝트' 오늘 발표",
-                  "url": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553331643",
-                  "body": "29일 재계와 정치권 등에 따르면 이재명 대통령은 이날 오후 2시 청와대 영빈관에서 '대한민국 대도약 3대 메가 프로젝트 국민 보고회'를 주재한다. 삼성전자와 SK는 호남 반도체 클러스터 조성을 위한 대규모 투자에 나선다."
-                },
-                {
-                  "headline": "한투증권 \"내년 코스피 4600 간다\"",
-                  "url": "https://www.sedaily.com/article/14135842",
-                  "body": "한국투자증권은 내년 코스피 연간 목표를 4600으로 제시했다. 코스피가 최근 4000선을 돌파하면서 강세장을 이어가는 상황에서 내년에도 상승세가 이어질 것이라고 예상했다."
-                },
-                {
-                  "headline": "주 5일제 근로자, 내년 118일 쉰다…올해보다 하루 줄어",
-                  "url": "https://www.sedaily.com/article/14085207",
-                  "body": "2026년 휴일은 총 70일로 올해(68일)보다 2일 늘어난다. 주 5일제를 실시하는 기관의 경우 공휴일70일과 52일의 토요일이 더해져 중복되는 날짜를 제외하면 총 118일의 휴일이 주어진다."
-                }
+                { "headline": "\"기업 무너지면 은행 독박\"…환헤지 파생계약 폭증 금융권 비상", "url": "https://www.mk.co.kr/news/economy/12091895", "eng": "Banks Face Risk as Currency Hedge Derivatives Surge Amid Corporate Distress", "body": "환율 변동성이 커지면서 기업들의 환헤지 파생계약이 폭증. 금융권에서는 기업이 무너질 경우 은행이 대규모 손실을 떠안을 수 있다는 우려가 커지고 있음." },
+                { "headline": "좋은 일 하나 없다…내우외환 시달리는 한국 기업들, 실적 쇼크 시작", "url": "https://www.mk.co.kr/news/business/11361969", "eng": "Korean Companies Hit by Triple Whammy as Earnings Shock Begins", "body": "LG전자 2Q 영업이익 46.6% 급감. 미국 관세, 수요 부진, 물류비 증가 3중고. 삼성전자·현대차·기아도 2Q 실적 악화 예상. 하반기 관세 영향 본격화 경고." },
+                { "headline": "반도체 '날개'에도 고용 부진…고용탄성치 8년 만에 최저", "url": "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=AKR20260704018500002", "eng": "Employment Elasticity Hits 8-Year Low Despite Semiconductor Boom", "body": "반도체 초호황으로 경제성장률 2.5% 전망되나 고용탄성치는 0.24로 2018년 이후 최저. AI 확산과 자본집약적 반도체 산업 특성상 고용 창출력 약화. 청년층 타격 가장 커." },
+                { "headline": "\"주식으로 번 돈 부동산으로\"…5대 은행 집단대출 올해 15조↑", "url": "https://news.nate.com/view/20260707n00303", "eng": "Stock Market Gains Flow Into Real Estate as Group Loans Surge 15 Trillion Won", "body": "주식시장 활황으로 얻은 수익이 부동산 시장으로 유입되며 5대 은행 집단대출이 올해 들어 15조원 이상 증가. '동탄 막히자 평택으로' 풍선효과도 나타나는 중." }
               ]
-            }
-          ]
-        },
-        {
-          "name": "한국경제",
-          "pages": [
+            },
             {
-              "label": "1면",
+              "label": "3면",
               "articles": [
-                {
-                  "headline": "삼성·SK, 호남에 1000조 투자…오늘 '3대 메가 프로젝트' 발표",
-                  "url": "https://www.mt.co.kr/politics/2026/06/29/2026062821403499983",
-                  "body": "이재명 대통령이 29일 청와대에서 '대한민국 대도약 3대 메가 프로젝트 국민보고회'를 주재한다. 삼성전자와 SK하이닉스가 호남권 신규 반도체 클러스터 조성 등에 1000조원 이상을 투자한다는 계획을 발표할 예정이다."
-                },
-                {
-                  "headline": "이재용·최태원, 29일 청와대 국민보고회 직접 참석…'1000조원+α'",
-                  "url": "https://www.fnnews.com/news/202606271140579039",
-                  "body": "이재용 삼성전자 회장과 최태원 SK 회장이 오는 29일 청와대에서 열리는 '대한민국 대도약 3대 메가프로젝트 국민보고회'에 직접 참석한다. 이날 역대급 투자규모가 발표될 것으로 예상되는 만큼 총수들도 직접 자리하는 것으로 보인다."
-                },
-                {
-                  "headline": "코스피 8476.15 사상 최고치…'HBM4E' 삼성전자 시총 2000조 돌파",
-                  "url": "https://www.pointe.co.kr/news/articleView.html?idxno=80081",
-                  "body": "삼성전자가 29일 차세대 인공지능(AI) 반도체 기술력을 앞세워 유가증권시장(KOSPI) 상장사 최초로 시가총액 2000조원 시대를 열었다. 고대역폭메모리(HBM) 7세대 제품인 'HBM4E'의 세계 최초 샘플 출하 소식이 전해지면서 주가는 5% 넘게 급등했다."
-                },
-                {
-                  "headline": "현대硏 \"고용 없는 성장·내수 부진 등 5대 리스크 대비해야\"",
-                  "url": "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=AKR20260626170300002",
-                  "body": "현대경제연구원은 28일 '경제 여건 전환기, 관리가 필요한 대내 리스크' 보고서에서 하반기 국내 경제는 통화 및 금융 정책 전환을 비롯한 다양한 리스크에 노출될 가능성이 커 적절한 대응을 통해 성장 모멘텀을 이어가야 한다고 밝혔다."
-                },
-                {
-                  "headline": "올해 '역대급 조울증' 사이드카 29회 발동…금융위기 때 변동성 뛰어넘은 코스피",
-                  "url": "https://news.nate.com/view/20260627n05421?isq=11391&mid=n0304",
-                  "body": "국내 주식시장이 올해 유례없는 '조울증 장세'를 보이며 한국 증시 역사상 가장 변동성이 컸던 해로 기록될 전망이다. 올들어서만 사이드카가 29회 발동되며 2008년 글로벌 금융위기 시기를 넘어 역대 최다를 기록했고 서킷 브레이커도 5차례나 발동됐다."
-                }
+                { "headline": "\"트럼프 만세\" \"2조 벌 듯\"…전쟁 틈타 14조 유가담합 '폭리'", "url": "https://www.seoul.co.kr/news/society/law/2026/07/07/20260707010001", "eng": "Refiners Indicted for 14 Trillion Won Price-Fixing During Iran War, Mocked 'Trump Hooray'", "body": "검찰, 미·이란 전쟁 직후 유가 담합으로 14조원 폭리 취한 HD현대오일뱅크 등 정유사 기소. 내부 단톡방에서 '트럼프 만세', '올해 2조 벌 듯' 등의 대화 정황 포착. 증거인멸 정황도." },
+                { "headline": "외환 24시간 거래 첫날…환율 1,312원, 야간 변동성 제한적", "url": "https://news.nate.com/view/20260707n00303", "eng": "24-Hour FX Trading Debuts With Limited Overnight Volatility at 1,312 Won", "body": "외환시장 24시간 거래 첫날 원/달러 환율 1,312원으로 마감. 야간 거래량은 예상보다 적었고 변동성도 제한적. 시장 참가자들은 점진적 적응 예상." },
+                { "headline": "국민연금 '삼전닉스 매도 폭탄' 막는다…與 리밸런싱 제한 추진", "url": "https://news.nate.com/view/20260707n00303", "eng": "Ruling Party Moves to Block National Pension's Samsung-SK Hynix Sell-Off", "body": "국민연금이 삼성전자·SK하이닉스 보유 비중이 상한선을 초과하자 여당이 리밸런싱(매도) 제한을 추진. 국민연금 4개월간 340조원 폭증하며 운용 규모 1,470조원 돌파." }
               ]
             }
           ]
         },
         {
           "name": "경향신문",
+          "url": "khan.co.kr",
           "pages": [
             {
               "label": "1면",
               "articles": [
-                {
-                  "headline": "이재명 정부 '3대 메가프로젝트' 오늘 발표…1000조 투자 청사진",
-                  "url": "https://www.mt.co.kr/politics/2026/06/29/2026062821403499983",
-                  "body": "이재명 대통령이 29일 청와대에서 '대한민국 대도약 3대 메가 프로젝트 국민보고회'를 열어 반도체, 피지컬 AI, 데이터센터 분야의 대규모 지역 투자 청사진을 제시한다. 삼성전자와 SK하이닉스를 주축으로 1000조원 이상의 투자가 예상된다."
-                },
-                {
-                  "headline": "코스피 주간 7% 폭락…서킷브레이커 2회·사이드카 3회",
-                  "url": "https://www.khan.co.kr/",
-                  "body": "지난주(6/22~26) 코스피가 7.08% 급락하며 서킷브레이커 2회, 사이드카 3회가 발동됐다. 외국인은 주간 16.6조원을 순매도했고, V-KOSPI는 95.09로 사상 최고치를 경신했다."
-                },
-                {
-                  "headline": "원/달러 환율 1550원 턱밑…28년만 최고",
-                  "url": "https://www.khan.co.kr/",
-                  "body": "6월 평균 환율이 1,521.4원으로 외환위기 이후 최고치를 기록했다. 6/26 기준 1,549.5원까지 상승하며 1,550선에 육박했다. 외국인의 연간 누적 120조원 순매도가 원화 약세를 지속시키고 있다."
-                },
-                {
-                  "headline": "美·이란 호르무즈 재충돌…종전 합의 위기",
-                  "url": "https://www.khan.co.kr/",
-                  "body": "미국과 이란이 호르무즈 해협 통제권을 둘러싸고 다시 군사적 충돌에 나섰다. 이란은 싱가포르 선박을 공격했고, 미군은 이란 미사일 시설을 폭격했다. 이란은 바레인과 쿠웨이트 미군기지를 공격으로 응수했다."
-                },
-                {
-                  "headline": "Fed 워시 의장 이번주 공개 토론…금리 인상 시그널 주목",
-                  "url": "https://www.khan.co.kr/",
-                  "body": "케빈 워시 Fed 의장이 6/29~30 공개 토론에 나선다. 5월 PCE가 4.1%로 3년 만에 4%를 돌파하며 인플레이션 고착화 우려가 커진 가운데, 금리 인상 가능성에 시장의 관심이 집중되고 있다."
-                }
+                { "headline": "이재명 대통령 \"역사적 과제에 협조 못해도 방해는 말아야\"…야당 메가프로젝트 비판에 일침", "url": "https://www.khan.co.kr/article/202607061033001", "eng": "President Lee Says Opposition Should Not Obstruct Historic Mega Projects", "body": "이재명 대통령이 3대 메가프로젝트 관련 야당 비판에 '왜 우리는 빠졌냐고 항의하더니 같은 입으로 사기라고 한다'며 강하게 반박. '최대한 협조는 못하더라도 방해는 안 했으면 좋겠다'고 말해." },
+                { "headline": "트럼프, 나토 정상회의 참석…유럽 동맹국에 '충성심' 요구", "url": "https://www.khan.co.kr/", "eng": "Trump Demands 'Loyalty' From European Allies at NATO Summit in Turkey", "body": "트럼프 대통령이 7일 터키에서 열리는 나토 정상회의에 참석. 미·이란 전쟁에서 지원하지 않은 유럽 동맹국에 방위비 증액과 충성심을 요구할 전망." },
+                { "headline": "7월 임시국회 '반쪽' 개회…與 상임위 가동·국힘 보이콧", "url": "https://www.yna.co.kr/view/AKR20260706060600001", "eng": "July Extra Session Opens as Half-Parliament With Ruling Party Driving, Opposition Boycotting", "body": "민주당 소집 요구로 7월 임시국회 개회했으나 국민의힘 불참 속 '반쪽 국회'. 민주당은 메가특구 특별법 등 민생경제 법안 처리 시급 강조. 국민의힘은 법사위원장직 양보가 전제돼야 한다는 강경론." },
+                { "headline": "투표용지 부족 사태…선관위 \"재발 방지 대책 마련\"", "url": "https://www.khan.co.kr/", "eng": "Ballot Paper Shortage Scandal — Election Commission Promises Preventive Measures", "body": "최근 선거에서 발생한 투표용지 부족 사태에 대해 중앙선거관리위원회가 재발 방지 대책을 마련 중. 야당은 선관위 특검법을 요구하며 공세 강화." },
+                { "headline": "홈플러스 파산 위기…카드사 대금보류 통보에 유동성 경색", "url": "https://www.khan.co.kr/", "eng": "Homeplus Faces Bankruptcy Crisis as Credit Card Companies Halt Payments", "body": "벼랑 끝에 몰린 홈플러스에 카드사들이 대금 보류를 통보. 유동성 경색이 심화되며 파산 위기 고조. 대형마트 업계 전반의 구조조정 가능성에 시장 긴장." }
+              ]
+            },
+            {
+              "label": "2면",
+              "articles": [
+                { "headline": "김민석, '당정일치'로 정청래 직격…민주당 당권 레이스 점화", "url": "https://www.yna.co.kr/view/AKR20260706073451001", "eng": "Kim Min-seok Targets Chung Cheong-rae Over Party-Government Unity in Leadership Race", "body": "김민석 전 국무총리가 8·17 전당대회 출마 선언. '완벽한 당정일치와 민생·실용·통합 노선' 강조하며 정청래 전 대표의 '자기정치' 비판. 친청계 이성윤 의원 즉각 반발. 송영길 의원 8일 출마선언 예정." },
+                { "headline": "이재명·한성숙 첫 주례회동…\"AI 대전환·규제합리화 전권 갖고 추진\"", "url": "https://www.news1.kr/politics/president/6219345", "eng": "President Lee and PM Han Hold First Weekly Meeting, Push AI Transformation", "body": "이재명 대통령과 한성숙 국무총리가 첫 주례보고회동. 'AI 대전환'과 '규제합리화'를 총리 4대 역점 아젠다로 설정. 이 대통령은 기술로 국민 생명을 지킬 획기적 방안 마련 지시." },
+                { "headline": "장동혁 \"입틀막법은 이재명 독재 완성\"…국힘 보이콧 의지 재확인", "url": "https://www.ytn.co.kr/_ln/0101_202607061823543376", "eng": "Opposition Leader Calls Info-Communications Law 'Completion of Lee Jae-myung Dictatorship'", "body": "장동혁 국민의힘 대표가 개정 정보통신망법을 '입틀막법'으로 규정. \"반중 언론 문 닫고 감옥 보낸 홍콩의 모습이 떠오른다\"며 \"그 끝은 이재명 독재의 완성\"이라고 강도 높게 비판." }
+              ]
+            },
+            {
+              "label": "3면",
+              "articles": [
+                { "headline": "'5·18 성역' 발언 이병태 부위원장, 靑 권고에 결국 사퇴", "url": "https://news.nate.com/view/20260707n00303", "eng": "Lee Byung-tae Resigns Over 'May 18 Sanctuary' Remarks After Presidential Office Recommendation", "body": "5·18 민주화운동을 '성역'으로 표현해 논란을 일으킨 이병태 부위원장이 청와대의 사퇴 권고를 받아들여 결국 물러나. 이 전 부위원장은 \"성역 강요하는 사회는 안 된다\"는 입장을 고수했으나 결국 사퇴." },
+                { "headline": "나토 벽 높았다…캐나다, 60조 잠수함 사업자에 獨 TKMS 선정", "url": "https://news.nate.com/view/20260707n00303", "eng": "NATO Wall Too High — Canada Picks Germany's TKMS for $40B Submarine Project", "body": "캐나다가 60조원 규모의 차세대 잠수함 사업자로 독일 TKMS를 선정. 한국 한화오션과 HD현대중공업이 수주 경쟁에 나섰으나 나토 회원국 간 방산 협력 벽을 넘지 못해 고배." },
+                { "headline": "정몽규 체제 13년만에 끝…K-축구혁신위 박지성 \"회장 선거제도 개선\"", "url": "https://news.nate.com/view/20260707n00303", "eng": "Chung Mong-gyu's 13-Year Reign Ends — Park Ji-sung Leads K-Football Reform Committee", "body": "정몽규 대한축구협회장이 13년 만에 물러나고 K-축구혁신위원회가 공식 출범. 박지성 위원장이 회장 선거제도 개선을 최우선 과제로 제시하며 축구계 쇄신 예고." }
               ]
             }
           ]
         },
         {
           "name": "동아일보",
+          "url": "donga.com",
           "pages": [
             {
               "label": "1면",
               "articles": [
-                {
-                  "headline": "'역대 최악의 성적' 홍명보 감독, 결국 자진 사퇴",
-                  "url": "https://sports.donga.com/news/article/all/20260629/134198742/1",
-                  "body": "2026 FIFA 북중미 월드컵에서 32강 진출에 실패한 홍명보 감독이 한국 축구대표팀 사령탑에서 물러났다. 홍 전 감독은 29일 멕시코에서 기자회견을 열고 \"오늘부로 한국 축구대표팀 감독직에서 물러나고자 한다\"고 밝혔다."
-                },
-                {
-                  "headline": "이재명, 1년간 17만㎞·지구 4바퀴 돌아…2주 1번꼴 전통시장 찾아",
-                  "url": "https://www.donga.com/news/Politics/article/all/20260607/134062000/1",
-                  "body": "청와대가 7일 이재명 정부 출범 1주년을 맞아 이 대통령의 광폭 행보를 공개했다. 청와대는 지난 1년간 경내행사 250건, 지방행사 178건, 14개국의 해외순방 일정을 숨 가쁘게 수행했다고 밝혔다."
-                },
-                {
-                  "headline": "삼성·SK '3대 메가 프로젝트' 오늘 발표…1000조 투자",
-                  "url": "https://www.donga.com/",
-                  "body": "이재명 대통령이 29일 청와대에서 '대한민국 대도약 3대 메가 프로젝트 국민보고회'를 주재한다. 삼성전자와 SK하이닉스가 호남권 반도체 클러스터 등에 1000조원 이상을 투자하는 계획이 발표될 예정이다."
-                },
-                {
-                  "headline": "필리핀항공, 세부 해양 관광지 담은 '온타임' 캠페인 선보여",
-                  "url": "https://www.donga.com/news/Poll_List/2%26s%3D420?m=&p=181&prod=news&ymd=",
-                  "body": "필리핀항공은 세부(Cebu)의 해양 관광지와 여행 경험을 담은 '온타임(On-Time)' 캠페인을 선보인다고 29일 밝혔다. '온타임 캠페인'은 '정시 운항'에 대한 고객과의 약속과 그 성과를 강조하는 것이다."
-                },
-                {
-                  "headline": "이재명 대통령, 사전투표 첫날 부인과 함께 투표",
-                  "url": "https://www.donga.com/news/Poll_List/2%26s%3D420?m=&p=181&prod=news&ymd=",
-                  "body": "이재명 대통령이 사전투표 첫날인 29일 부인 김혜경 여사와 투표했다. 이 대통령은 투표 도중 투표용지 기표란에 도장이 반만 찍힌 것이 무효표인지 관계자에게 묻기 위해 기표소 밖으로 잠시 나오기도 했다."
-                }
+                { "headline": "광주 군공항 부지에 삼성-SK 반도체 '메가 팹' 짓는다", "url": "https://www.donga.com/news", "eng": "Samsung-SK Semiconductor Mega Fab to Be Built on Gwangju Military Airport Site", "body": "호남권 반도체 메가 클러스터의 핵심인 메가 팹이 광주 군공항 이전 부지에 들어선다. 이재명 대통령의 3대 메가프로젝트 일환. 삼성전자와 SK하이닉스가 공동 투자." },
+                { "headline": "월드컵에 뜬 현대차 아틀라스…심판에 공 전달 쇼", "url": "https://www.donga.com/news", "eng": "Hyundai Atlas Appears at World Cup With Ball Delivery Show to Referee", "body": "2026 북중미 월드컵에서 현대차의 자율주행 로봇 '아틀라스'가 개막식에서 심판에게 공을 전달하는 퍼포먼스로 세계적 주목. 현대차의 로보틱스 기술력 과시." },
+                { "headline": "오늘부터 허위·조작정보 고의 유통 땐 최대 5배 손해배상", "url": "https://www.donga.com/news", "eng": "Up to 5x Damages for Intentional Spread of False Information Starting Today", "body": "개정 정보통신망법 시행으로 허위·조작정보를 고의로 유통할 경우 최대 5배 징벌적 손해배상. 야당은 '입틀막법'으로 비판하며 위헌 소송 예고." },
+                { "headline": "중동전쟁 틈타 기름값 40% 올린 정유사…\"트럼프 만세\" 조롱까지", "url": "https://www.donga.com/news", "eng": "Refiners Raised Oil Prices 40% During War, Mocked 'Trump Hooray' in Chat", "body": "검찰 수사 결과 미·이란 전쟁 직후 정유4사가 담합해 기름값을 최대 40% 인상. HD현대오일뱅크와 SK에너지가 가격 정보 교환. 내부 단톡방에서 '트럼프 만세' '2조 벌 듯' 등 발언." },
+                { "headline": "3군 사관학교 통합 계획, 100분 전 돌연 취소한 국방부", "url": "https://www.donga.com/news", "eng": "Defense Ministry Abruptly Cancels Tri-Service Academy Integration Plan 100 Minutes Before Announcement", "body": "육·해·공군 사관학교 통합 계획 발표 100분 전 국방부가 돌연 취소. 군 내부 반발과 정치적 부담이 원인으로 지목. 국방부는 '추가 검토 필요' 입장." }
+              ]
+            },
+            {
+              "label": "2면",
+              "articles": [
+                { "headline": "이재명 대통령 \"3대 메가 시간낭비 말아야…환경평가 기존결과 원용\"", "url": "https://www.yna.co.kr/view/AKR20260706049600001", "eng": "President Lee Orders Speed on Mega Projects, Use Existing Environmental Assessments", "body": "이 대통령이 메가프로젝트 민관합동 점검회의에서 '오직 속도전'을 강조하며 환경평가 등 행정절차에 기존 결과를 원용하라고 지시. \"불법 아니면 모두 다\"라며 전폭적 지원 약속." },
+                { "headline": "이재명 지지율 7주 만에 소폭 반등 47%…'3대 메가'로 반등", "url": "https://www.yna.co.kr/view/AKR20260706049600001", "eng": "President Lee's Approval Rebounds to 47% After 7 Weeks on Mega Project Push", "body": "리얼미터 조사 결과 이재명 대통령 지지율이 7주 만에 소폭 반등한 47%. 민주당 지지율 3주 연속 상승, 국민의힘 3주 연속 하락. 3대 메가프로젝트 추진이 반등 요인으로 분석." },
+                { "headline": "7월 임시국회 개막…與 \"메가 특별법부터\" vs 野 \"입틀막법 위헌\"", "url": "https://www.donga.com/news/Politics", "eng": "July Extra Session Opens With Ruling Party Pushing Mega Bills, Opposition Crying Unconstitutional", "body": "민주당은 메가특구 특별법 등 민생경제 법안의 조속한 처리를 강조하며 TF를 특별위원회로 격상. 국민의힘은 개정 정보통신망법을 '입틀막법'으로 규정하고 강하게 반발." },
+                { "headline": "한국, 림팩 훈련서 아시아 최초 연합해군구성군사령관 임무", "url": "https://www.donga.com/news/List", "eng": "South Korea First Asian Nation to Lead Combined Naval Force at RIMPAC 2026", "body": "한국 해군이 2026년 림팩(RIMPAC) 훈련에서 아시아 국가 최초로 연합해군구성군사령관(CFMCC) 임무를 맡아. 한국 해군의 위상과 작전 능력을 국제적으로 인정받은 성과." }
+              ]
+            },
+            {
+              "label": "3면",
+              "articles": [
+                { "headline": "\"'괴물'을 증명하다\"…삼성전자 오늘 2Q 잠정실적 발표", "url": "https://www.donga.com/news", "eng": "Proving the Monster — Samsung Electronics Q2 Preliminary Earnings Today", "body": "삼성전자가 오늘 2분기 잠정실적 발표. 영업이익 컨센서스 85조원, KB증권 90.2조원 전망. DS부문 충당금 10~18조 반영 전 실적은 100조원 돌파 예상. 코스피 8,000선 사수 분수령." },
+                { "headline": "삼성전자 상반기 성과급, 반도체 최대 100%…스마트폰·가전은 0%", "url": "https://news.nate.com/view/20260707n00303", "eng": "Samsung H1 Bonus: Semiconductor Up to 100%, Smartphone and Home Appliance 0%", "body": "삼성전자 상반기 성과급이 DS(반도체) 부문은 기본급의 최대 100%인 반면, MX(스마트폰)와 CE(가전) 부문은 0%로 확정. 반도체 초호황과 스마트폰·가전 부진의 극명한 대비." },
+                { "headline": "국민연금 4개월간 340조 폭증…1,470조 시대, 반도체 랠리 수혜", "url": "https://news.nate.com/view/20260707n00303", "eng": "National Pension Surges 340 Trillion Won in 4 Months to 1,470 Trillion on Chip Rally", "body": "국민연금 운용 규모가 반도체 랠리에 힘입어 4개월 만에 340조원 증가, 1,470조원 돌파. 삼성전자·SK하이닉스 보유 지분 가치 급등이 주요 요인. 포트폴리오 리밸런싱 이슈 부각." }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "한국경제",
+          "url": "hankyung.com",
+          "pages": [
+            {
+              "label": "1면",
+              "articles": [
+                { "headline": "[D-DAY] 삼성전자 2Q 잠정실적 오늘 발표…영업이익 85조원 전망, '괴물 실적' 증명할까", "url": "https://www.insjournal.co.kr/news/articleView.html?idxno=32158", "eng": "D-DAY: Samsung Q2 Earnings Today — Will It Prove 'Monster Performance' With 85 Trillion Won Profit?", "body": "삼성전자 2분기 잠정실적 발표일. 증권사 컨센서스 매출 173조원·영업이익 85조원(+1,700%↑). DS부문 충당 전 영업이익은 109조원 추정. 오늘 실적이 코스피 8,000선 사수 여부 결정." },
+                { "headline": "SK하이닉스 ADR, 7월 10일 나스닥 정식 상장…43조원 규모", "url": "https://www.insjournal.co.kr/news/articleView.html?idxno=32158", "eng": "SK Hynix ADR to List on Nasdaq July 10 in $28 Billion Offering", "body": "SK하이닉스가 43조원 규모의 미국 ADR 상장을 7월 10일 추진. 주요 기관투자자로부터 7조원 이상의 사전 수요 확보. 국내 반도체 업종 전반의 재평가 계기로 작용할 전망." },
+                { "headline": "반도체·車, 차기 주도주…관세 협상 결과에 달렸다", "url": "https://marketinsight.hankyung.com/article/2025070730851", "eng": "Semiconductors and Autos as Next Market Leaders Hinge on Tariff Negotiations", "body": "코스피 3,000선 돌파 이후 숨 고르기 속 증권가 다음 주도주 찾기 분주. 관세 협상 결과에 따라 반도체·자동차 또는 내수·금융 업종이 상승장 이끌 전망. 트럼프 관세 유예 8월 1일 연장." },
+                { "headline": "외환 24시간 거래 첫날…원화 강세 속 안정적 출발", "url": "https://news.nate.com/view/20260707n00303", "eng": "24-Hour FX Trading Debuts With Stable Start Amid Won Strength", "body": "외환시장 24시간 거래제가 첫날을 맞아 안정적으로 출발. 원/달러 환율 1,312원. 미·이란 종전 협상 진전과 위험선호 심리 회복으로 원화 강세 기조." },
+                { "headline": "금융지주 '밸류업' 선두…하반기 자사주 1.6조 매입·소각", "url": "https://www.seoul.co.kr/news/economy/2025/07/07/20250707500237", "eng": "Financial Holding Companies Lead Value-Up With 1.6 Trillion Won Share Buyback", "body": "KB·신한·하나·우리 4대 금융지주가 하반기 최소 1조 6,500억원 규모 자사주 매입·소각 예정. KB금융 총주주환원율 54% 전망. CET1 비율 초과분을 주주환원에 적극 활용." }
+              ]
+            },
+            {
+              "label": "2면",
+              "articles": [
+                { "headline": "코스피, 관세 불확실성에도 강보합…내수·금융주 강세", "url": "https://www.seoulfn.com/news/articleView.html?idxno=562141", "eng": "KOSPI Holds Steady Despite Tariff Uncertainty; Domestic and Financial Stocks Strong", "body": "코스피가 미국 관세 불확실성 속에서도 내수·금융주 중심으로 강보합. 음식료/담배 +3.05%, 보험 +1.88%. 삼성전자 -1.58%, SK하이닉스 -0.74%로 반도체는 차익실현. 개인·기관 순매수." },
+                { "headline": "반도체·車 차기 주도주 분석…\"관세 피해주 반등 가능성\"", "url": "https://marketinsight.hankyung.com/article/2025070730851", "eng": "Analysts See Rebound Potential in Tariff-Impacted Semiconductor and Auto Stocks", "body": "대신증권 \"트럼프의 또 한 번 후퇴(TACO) 가능성 높아…실적 대비 낙폭 과대 업종인 반도체와 자동차 주목\". DB증권 \"대외 불확실성보다 탄탄한 내수에 중점\". KB증권 \"저PBR 금융주 시대\"." },
+                { "headline": "고용 없는 성장 현실화…청년 취업자 5개월 연속 마이너스", "url": "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=AKR20260704018500002", "eng": "Jobless Growth Materializes — Youth Employment Falls for 5 Consecutive Months", "body": "15~29세 취업자 수가 올해 1~5월 내내 전년 동월 대비 감소. AI 확산으로 신규 채용 줄고 경력직만 선호. 반도체 호황에도 고용 창출력 약화. 청년 채용 기업 임금 보조 등 대책 시급." },
+                { "headline": "ETF 시장 개인 순매수 '톱10' 싹쓸이…국내 증시 신뢰 회복", "url": "https://marketinsight.hankyung.com/article/2025070730851", "eng": "Retail Investors Dominate ETF Top 10 Buys as Trust in Domestic Market Recovers", "body": "국내 주식형 ETF 상품이 개인투자자 순매수 상위 10개를 휩쓸어. 새 정부 증시 부양책과 주주환원 정책 확대 기대감으로 국내 주가지수 연일 상승세." }
+              ]
+            },
+            {
+              "label": "3면",
+              "articles": [
+                { "headline": "국민연금 '삼전닉스 매도 폭탄' 막는다…與 리밸런싱 제한 추진", "url": "https://news.nate.com/view/20260707n00303", "eng": "Ruling Party Seeks to Block National Pension's Forced Selling of Samsung and SK Hynix", "body": "국민연금이 삼성전자·SK하이닉스 보유 비중이 운용 규정 상한을 초과하면서 매도가 불가피한 상황. 여당이 시장 충격을 우려해 리밸런싱 제한을 추진. 국민연금 1,470조원 시대." },
+                { "headline": "[단독] 30대 가계빚, 12년 만에 최대…\"주담대·신용대출 동시 증가\"", "url": "https://news.nate.com/view/20260707n00303", "eng": "Exclusive: Household Debt for 30-Somethings Hits 12-Year High on Mortgage and Credit Loans", "body": "30대 가계부채가 주택담보대출과 신용대출 동시 증가로 12년 만에 최대치. 주식시장 활황으로 형성된 자산 효과가 오히려 레버리지 투자로 이어지는 역설적 현상." },
+                { "headline": "벼랑 끝 홈플러스, 카드사 '대금보류' 통보…유통업계 지각변동", "url": "https://news.nate.com/view/20260707n00303", "eng": "Homeplus on the Brink as Credit Card Companies Halt Payments — Retail Industry Reshuffle", "body": "홈플러스에 카드사들이 대금 보류를 통보하며 유동성 위기 심화. 대형마트 업계 구조조정 가속화 전망. 한때 없어서 못 사는 땅이었던 골프장도 매물로 나와." }
               ]
             }
           ]
@@ -327,200 +205,170 @@
       "papers": [
         {
           "name": "Wall Street Journal",
+          "url": "wsj.com",
           "pages": [
             {
               "label": "1면",
               "articles": [
-                {
-                  "headline": "미·이란, 호르무즈 재충돌로 종전 합의 위기",
-                  "url": "https://www.asiae.co.kr/en/article/2026062906292820714",
-                  "eng": "U.S. and Iran Agree to Halt Attacks... Final Hormuz Passage Talks in Doha",
-                  "body": "미국과 이란이 호르무즈 해협에서의 군사 충돌을 중단하고 6월 30일 도하에서 후속 회담을 열기로 합의했다. 이란 측은 선박 통행료를 폐지하고 해협 완전 개방을 요구하는 미국의 조건에 대해 강하게 반발하고 있다."
-                },
-                {
-                  "headline": "대법원, 트럼프 글로벌 관세 위헌 판결",
-                  "url": "https://apple.news/AkIx53QeiSCaVJnLUOUG1qA",
-                  "eng": "Supreme Court Strikes Down Trump's Global Tariffs",
-                  "body": "미국 대법원이 트럼프 행정부의 글로벌 관세 정책을 위헌으로 판결했다. 이는 무역 정책에 대한 행정부의 권한에 제한을 가하는 중요한 결정으로 평가된다."
-                },
-                {
-                  "headline": "소매업체들, 고물가에 지친 소비자 유혹 위해 가격 인하",
-                  "url": "https://wsjshop.com/products/the-wall-street-journal-fri-may-29-2026",
-                  "eng": "Retailers Cut Prices To Lure Struggling Shoppers",
-                  "body": "주요 소매업체들이 인플레이션에 지친 소비자들을 끌어들이기 위해 가격 인하에 나섰다. 더 작고 저렴한 패키지를 출시하며 가격 경쟁력을 높이고 있다."
-                },
-                {
-                  "headline": "고령 근로자, '55세 규칙' 세금 혜택 간과",
-                  "url": "https://www.magzter.com/stories/newspaper/The-Wall-Street-Journal/OLDER-WORKERS-OFTEN-OVERLOOK-TAX-BREAK-TO-EASE-JOB-CHANGE",
-                  "eng": "Older Workers Often Overlook Tax Break to Ease Job Change",
-                  "body": "'55세 규칙'은 전직 직원들이 59.5세 이전에 401(k) 저축에 페널티 없이 접근할 수 있도록 허용한다. 많은 고령 근로자들이 이 혜택을 간과하고 있다는 조사 결과가 나왔다."
-                },
-                {
-                  "headline": "스페이스X 주식, 스튜디오 프로덕션 공개 앞두고 하락",
-                  "url": "https://www.goodwinlaw.com/en/people/k/kudaisya-runjhun",
-                  "eng": "SpaceX Shares Drop Ahead of Studio Production Reveal",
-                  "body": "스페이스X의 주식이 새로운 스튜디오 프로덕션 공개를 앞두고 하락세를 보였다. 투자자들은 회사의 새로운 사업 방향에 대해 신중한 반응을 보이고 있다."
-                }
+                { "headline": "Dow Tops 53,000 as Chip Stocks Re-Take the Lead", "url": "https://www.kiplinger.com/investing/stocks/dow-tops-53-000-as-chip-stocks-re-take-the-lead-stock-market-today", "eng": "", "body": "The Dow Jones Industrial Average closed at a record 53,032.55, up 0.25%, extending a rally that has carried the blue-chip index to a series of fresh highs. Technology shares rebounded from a late-June slump as AI fears eased. The S&P 500 rose 0.72% and Nasdaq climbed 1.12%. Markets are looking forward to Q2 earnings season." },
+                { "headline": "Microsoft to Cut 4,800 Jobs in 'Significant Restructure' of Xbox and Sales", "url": "https://www.channelnewsasia.com/business/microsoft-joins-ai-driven-tech-layoff-wave-4800-job-cuts-6235631", "eng": "", "body": "Microsoft is cutting about 2.1% of its workforce, or roughly 4,800 jobs, including 1,600 at Xbox immediately with plans to eliminate 20% of gaming staff by fiscal year-end. Amy Coleman, chief people officer, said roles 'are not being replaced by AI' but that AI is 'changing how work gets done.' Four Xbox studios being sold off." },
+                { "headline": "Trump Rings Opening Bell for Trump Accounts From Oval Office", "url": "https://www.whitehouse.gov/releases/2026/07/president-trump-rings-in-trump-accounts-with-historic-opening-bell-ceremony-from-the-oval-office/", "eng": "", "body": "President Trump rang the NYSE and NASDAQ opening bells from the Oval Office to mark the launch of Trump Accounts. Every American child receives a $1,000 seed investment. Over 6 million accounts already requested, with 86% from families earning under $200,000. Michael and Susan Dell pledged $6.25 billion." },
+                { "headline": "Trump Heads to NATO Summit in Turkey as Russia Hammers Kyiv", "url": "https://www.channelnewsasia.com/business/wall-street-surges-oil-flat-chip-stock-rally-continues-6233966", "eng": "", "body": "President Trump will attend a NATO summit in Turkey this week. Russia launched waves of missiles and drones at Ukraine, killing at least 22 people in Kyiv region. Zelenskyy expected to press allies for more Patriot interceptor missiles at the summit." },
+                { "headline": "Oil Returns to Pre-War Levels as Hormuz Flows Resume After US-Iran Deal", "url": "https://www.japantimes.co.jp/business/2026/07/06/iran-war-oil-stocks-risks/", "eng": "", "body": "Brent crude settled around $72, near pre-Iran war levels, as the Strait of Hormuz reopened following the US-Iran memorandum of understanding. The world absorbed the loss of over a billion barrels of oil supply, but depleted buffer reserves still pose risks of future price spikes." }
+              ]
+            },
+            {
+              "label": "2면",
+              "articles": [
+                { "headline": "Fed's Waller Says Forward Guidance 'More Art Than Science'", "url": "https://www.americanbanker.com/news/feds-waller-says-forward-guidance-more-art-than-science", "eng": "", "body": "Fed Governor Christopher Waller said forward guidance can strengthen policymaking but has also hindered it, citing the 2021 delay in rate increases. New Fed Chair Kevin Warsh is forming a communications task force to review practices. FOMC minutes from June meeting to be released Wednesday." },
+                { "headline": "US Economy 'On Wobbly Footing' — Why Wall Street Strategists Are Cautious", "url": "https://finance.yahoo.com/news/us-economy-on-wobbly-footing-why-wall-street-strategists-are-cautious-about-stock-markets-recent-records-185429502.html", "eng": "", "body": "Despite record highs for S&P 500 and Dow, Wall Street pros signal caution. JPMorgan warns of 'Goldilocks scenario' risks. Comerica's Bill Adams says economy entering H2 'on wobbly footing.' Tariffs still set to rise despite negotiations. Markets pricing 67% chance of September rate cut." },
+                { "headline": "Big Tech AI Outlays Top $700 Billion, Pressure Mounts for Returns", "url": "https://www.channelnewsasia.com/business/microsoft-joins-ai-driven-tech-layoff-wave-4800-job-cuts-6235631", "eng": "", "body": "Big Tech's historic AI capital spending is set to surpass $700 billion this year, piling pressure on companies to show returns. Microsoft shares fell 23% in H1 2026, worst first half since 2022. Amazon and Meta have also laid off thousands. Memory's share of cloud capex hit 52% and could exceed 70% next year." },
+                { "headline": "SpaceX Enters Nasdaq 100 as IPO Era Begins", "url": "https://www.youtube.com/watch?v=ONnYGsnr-ts", "eng": "", "body": "SpaceX officially entered the Nasdaq 100 index on Tuesday following its highly anticipated IPO. The listing caps a record-setting period for equity issuance. The SpaceX IPO is seen as one of the most significant market events of 2026." }
+              ]
+            },
+            {
+              "label": "3면",
+              "articles": [
+                { "headline": "Republicans Say It's Time Trump Change Course on SAVE America Act", "url": "https://www.ms.now/news/republicans-time-trump-change-course-save-america-act", "eng": "", "body": "After two failed Senate votes, growing number of Republicans want Trump to pivot on the SAVE America Act voting legislation. GOP lawmakers frustrated as internal divisions are highlighted. House Republicans blocked by Anna Paulina Luna's protest from processing defense bill." },
+                { "headline": "World Absorbs Historic Iran War Oil Supply Loss, But Depleted Stocks Bring Risks", "url": "https://www.japantimes.co.jp/business/2026/07/06/iran-war-oil-stocks-risks/", "eng": "", "body": "The world has absorbed the loss of over a billion barrels of oil supply since the Iran war began with surprising ease, but long-term peace remains elusive and buffer reserves are now drained. At its worst, the headline supply loss was 14 million barrels per day. Future price spike risk remains." },
+                { "headline": "Democrats Look for Fighters in Trump's Second Midterm", "url": "https://dnyuz.com/2026/07/06/in-trumps-second-midterm-democrats-are-looking-for-fighters/", "eng": "", "body": "With midterm elections four months away, a new kind of Democratic candidate is ascendant: the outsider vowing to overhaul the system. Progressive populists have won key primaries. NYT/Siena poll found more than half of Democrats frustrated with the party. Party fractured over who should lead rebuilding." },
+                { "headline": "A $1K Investment in Trump Accounts Could Be Worth $5,560 in 18 Years", "url": "https://www.newsweek.com/a-1k-investment-in-trump-accounts-could-be-worth-5560-in-18-years-12160969", "eng": "", "body": "Trump Accounts launched nationwide on July 4. At 10% annual return, the $1,000 initial government deposit could grow to $5,560 in 18 years. With $25 monthly contributions and 8% returns, the account could reach $16,500. Goldman Sachs, JPMorgan, BlackRock among firms offering $1,000 employer contributions." }
               ]
             }
           ]
         },
         {
           "name": "Bloomberg",
+          "url": "bloomberg.com",
           "pages": [
             {
               "label": "1면",
               "articles": [
-                {
-                  "headline": "글로벌 증시 하락, 기술주 변동성 부담",
-                  "url": "https://www.youtube.com/watch?v=LR5VFZJYrVY",
-                  "eng": "Global Stocks Fall as Tech Volatility Weighs",
-                  "body": "미국 주식 선물이 삼성과 SK하이닉스 등 메모리 대기업의 매도세에 끌려 하락했다. 애플의 가격 인상 발표가 AI 비용 우려를 자극하며 기술주 전반에 부담을 주고 있다."
-                },
-                {
-                  "headline": "투자자들, Fed 금리 인상 베팅 조정",
-                  "url": "https://www.youtube.com/watch?v=-EbiV_fjyTg",
-                  "eng": "Investors Adjust Bets on Fed Rate Hikes",
-                  "body": "JP모건 자산운용의 Priya Misra는 시장이 Fed의 금리 인상 가능성에 대한 베팅을 조정하고 있다고 밝혔다. 최근 인플레이션 지표가 예상을 상회하면서 금리 인상 압력이 커지고 있다."
-                },
-                {
-                  "headline": "미·이란, 호르무즈 공격 중단 합의",
-                  "url": "https://www.asiae.co.kr/en/article/2026062906292820714",
-                  "eng": "U.S. and Iran Agree to Halt Attacks in Hormuz",
-                  "body": "미국과 이란이 호르무즈 해협에서의 모든 군사 활동을 중단하기로 합의했다. 양측은 6월 30일 카타르 도하에서 해협 통행 문제를 논의할 예정이다."
-                },
-                {
-                  "headline": "스페이스X, 3일간 6000억 달러 가치 증발",
-                  "url": "https://www.youtube.com/watch?v=IGkpovxibzE",
-                  "eng": "SpaceX Loses $600 Billion in Value Over Three Days",
-                  "body": "스페이스X의 기업 가치가 3일간 6000억 달러 증발했다. 기술주 전반의 매도세와 IPO 연기 우려가 복합적으로 작용한 것으로 분석된다."
-                },
-                {
-                  "headline": "마이크론, 시장의 '진실의 순간' 될 전망",
-                  "url": "https://www.youtube.com/watch?v=K4gpBYKaJz0",
-                  "eng": "Micron to Be 'Gut Check Moment' for Markets",
-                  "body": "웨드부시의 Dan Ives 애널리스트는 마이크론의 실적 발표가 시장의 '진실의 순간'이 될 것이라고 전망했다. 메모리 반도체 수요와 AI 투자 지속 가능성을 가늠하는 중요한 지표가 될 것으로 보인다."
-                }
+                { "headline": "Tech Leads Stock Futures Higher as AI Trade Faces Big Test", "url": "https://www.youtube.com/watch?v=f9wY0iPmAkc", "eng": "", "body": "Nasdaq 100 futures climbed 1.1% as chip stocks rebounded sharply. The AI trade faces a critical test with SK Hynix's US listing later this week and Samsung's record earnings expected today. The SOX semiconductor index had dropped 5.5% previously but showed signs of recovery. Mike Wilson of Morgan Stanley highlights hyperscalers driving memory demand." },
+                { "headline": "Trump Heads to NATO Summit Amid Russia's Massive Attack on Ukraine", "url": "https://www.youtube.com/watch?v=ONnYGsnr-ts", "eng": "", "body": "World leaders gather in Turkey for a NATO summit as Russia carries out a massive attack on Ukraine killing at least 22. Trump to demand increased defense spending from European allies. Zelenskyy expected to press for more Patriot interceptor missiles." },
+                { "headline": "Oil Drops as Hormuz Flows Return After Weekend U-Turns", "url": "https://www.youtube.com/watch?v=ONnYGsnr-ts", "eng": "", "body": "Oil prices fell as flows through the Strait of Hormuz returned after weekend diplomatic U-turns. OPEC+ reportedly likely to raise output quotas by 188,000 barrels per day for August. WTI trading near $68.55, Brent near $72. Gasoline prices declining as supply normalizes." },
+                { "headline": "Microsoft Joins AI-Driven Tech Layoff Wave With 4,800 Job Cuts", "url": "https://www.channelnewsasia.com/business/microsoft-joins-ai-driven-tech-layoff-wave-4800-job-cuts-6235631", "eng": "", "body": "Microsoft's 4,800 job cuts mark the latest in a wave of tech layoffs as the company spends heavily on AI infrastructure. The software giant's shares fell 23% in H1 2026. Earlier this year, Microsoft offered voluntary buyouts to 9,000 employees. Azure growth strong but AI costs squeezing cash flows." },
+                { "headline": "SK Hynix US Listing Draws $7 Billion Early Interest Ahead of Friday Debut", "url": "https://www.channelnewsasia.com/business/wall-street-surges-oil-flat-chip-stock-rally-continues-6233966", "eng": "", "body": "SK Hynix launched a US share sale to raise 43 trillion won ($28 billion) and drew early indications of interest for up to $7 billion from major investors. The listing on Friday is expected to be one of the largest this year and could reshape the memory chip investment landscape." }
+              ]
+            },
+            {
+              "label": "2면",
+              "articles": [
+                { "headline": "Fed's Waller: Forward Guidance More Art Than Science", "url": "https://www.americanbanker.com/news/feds-waller-says-forward-guidance-more-art-than-science", "eng": "", "body": "Fed Governor Waller acknowledged forward guidance's value but warned it can hinder policymaking when inflexible. Pointed to 2021 delay as example. New Chair Warsh forming communications task force. FOMC minutes Wednesday will be first released under Warsh's tenure." },
+                { "headline": "US Economy Rebounds But Frustration Lingers — What It Means", "url": "https://wrajxet.com/article/us-economy-rebounds-jobs-up-but-frustration-lingers-what-it-means-for-you", "eng": "", "body": "The US added 172,000 jobs in May, unemployment held at 4.3%. But job openings surged unexpectedly and weekly claims hit a four-month high. Average long-term mortgage rate declined, providing relief to homebuyers. Mixed signals creating uncertainty for Fed policy." },
+                { "headline": "Samsung Q2 Operating Profit Seen Topping 100 Trillion Won Before Bonus Provisions", "url": "https://biz.heraldcorp.com/article/10798985", "eng": "", "body": "Samsung Electronics is estimated to have surpassed 100 trillion won in Q2 operating profit before accounting for semiconductor bonus provisions. Meritz Securities put Q2 operating profit at 90.1 trillion won. Full-year operating profit estimated at 380 trillion won, up 790% YoY. DS division president said 2026 profit would exceed 40 years of chip earnings combined." },
+                { "headline": "Big Tech's $700 Billion AI Bet Faces Earnings Test This Week", "url": "https://www.channelnewsasia.com/business/microsoft-joins-ai-driven-tech-layoff-wave-4800-job-cuts-6235631", "eng": "", "body": "With Big Tech AI outlays set to top $700 billion this year, Q2 earnings season will be a critical test. Microsoft, expected to report later this month, forecast $190 billion in 2026 spending. JPMorgan warns memory's share of cloud capex reaching 52% this year may be unsustainable." }
+              ]
+            },
+            {
+              "label": "3면",
+              "articles": [
+                { "headline": "German Cabinet Turns Record Borrowing Into Defence-Budget Confrontation", "url": "https://eutoday.net/german-cabinet-2027-budget-borrowing-defence/", "eng": "", "body": "Germany's cabinet is in a standoff over the 2027 budget as record borrowing plans clash with demands for increased defense spending. The confrontation comes ahead of the NATO summit in Turkey where Trump is expected to pressure European allies to boost military outlays." },
+                { "headline": "Week Ahead: FOMC Minutes, China Inflation, Canada Jobs, NATO Summit", "url": "https://www.christophe-barraud.com/week-ahead-fomc-and-ecb-minutes-rbnz-meeting-chinese-inflation-canada-jobs-report-nato-summit/", "eng": "", "body": "Key events this week: FOMC and ECB minutes, RBNZ rate decision, Chinese inflation data, Canada jobs report, and the NATO summit in Turkey. Markets also watching Samsung Q2 earnings and SK Hynix US listing. Fed minutes to provide insight into new Chair Warsh's policy stance." },
+                { "headline": "EU Defence: Saving NATO in the Era of Trump", "url": "https://www.ft.com/ft-view", "eng": "", "body": "The Financial Times editorial board argues that European nations must significantly increase defense capabilities as Trump questions NATO's value. The Ukraine war and Iran conflict have exposed Europe's military vulnerabilities. Germany and France under pressure to lead EU defense integration." },
+                { "headline": "Chip Stocks Rally: AI Trade Revival or Dead Cat Bounce?", "url": "https://www.kiplinger.com/investing/stocks/dow-tops-53-000-as-chip-stocks-re-take-the-lead-stock-market-today", "eng": "", "body": "Chip stocks rebounded sharply to start the week but analysts are divided on whether this is a sustainable recovery or a temporary bounce. The SOX index had dropped 5.5% previously. Samsung's record earnings today and SK Hynix's US listing on Friday will be crucial tests of AI demand sustainability." }
               ]
             }
           ]
         },
         {
-          "name": "New York Times",
+          "name": "The New York Times",
+          "url": "nytimes.com",
           "pages": [
             {
               "label": "1면",
               "articles": [
-                {
-                  "headline": "대법원, 대학 입학 인종 고려 제한",
-                  "url": "https://www.ft.com/content/e66a7fb9-6baf-43ca-9925-8d8557d9b570",
-                  "eng": "Supreme Court Curbs Racial Considerations in Admissions",
-                  "body": "미국 대법원이 대학 입학 과정에서 인종을 고려하는 것을 제한하는 판결을 내렸다. 이는 affirmative action 정책에 중대한 변화를 가져올 것으로 예상된다."
-                },
-                {
-                  "headline": "중국 기상 관측 풍선, 미국 감시 기술 사용",
-                  "url": "https://www.ft.com/content/e66a7fb9-6baf-43ca-9925-8d8557d9b570",
-                  "eng": "Chinese Balloon Used U.S. Surveillance Technology",
-                  "body": "중국의 기상 관측 풍선이 미국의 감시 기술을 사용한 것으로 밝혀졌다. 이는 양국 간 기술 이전과 국가 안보 문제에 대한 새로운 논쟁을 불러일으키고 있다."
-                },
-                {
-                  "headline": "바이든, 토론 참사 후 거액 후원자들 진정시키기 시도",
-                  "url": "https://www.ft.com/content/6ea20937-0b0b-4091-8b5b-711f023d2133",
-                  "eng": "Joe Biden Tries to Calm Nerves of Wealthy Backers After Debate Debacle",
-                  "body": "조 바이든 대통령이 최근 토론에서의 부진한 모습 이후 고액 후원자들의 우려를 진정시키기 위해 노력하고 있다. 민주당 내부에서 바이든의 재선 가능성에 대한 의문이 제기되고 있다."
-                },
-                {
-                  "headline": "뉴욕시, 6월 29일부터 무료 여름 급식 프로그램 시작",
-                  "url": "https://ground.news/article/free-summer-meals-will-be-offered-starting-june-29th-benefiting-children-and-teenagers-under-18-years-old",
-                  "eng": "NYC Free Summer Meals Program Begins June 29",
-                  "body": "뉴욕시 교육부가 2026년 무료 여름 급식 프로그램을 6월 29일부터 9월 4일까지 운영한다고 발표했다. 18세 미만 어린이와 청소년이 여름방학 동안 충분한 영양을 섭취할 수 있도록 지원한다."
-                },
-                {
-                  "headline": "디트로이트 타이거스 vs 뉴욕 양키스, 6월 29일 경기",
-                  "url": "https://www.espn.com/mlb/game/_/gameId/401815952/tigers-yankees",
-                  "eng": "Tigers vs. Yankees Live Score - June 29, 2026",
-                  "body": "디트로이트 타이거스와 뉴욕 양키스가 6월 29일 양키 스타디움에서 맞붙는다. 양키스는 48승 34패로 홈에서 22승 15패를 기록 중이다."
-                }
+                { "headline": "In Trump's Second Midterm, Democrats Are Looking for Fighters", "url": "https://dnyuz.com/2026/07/06/in-trumps-second-midterm-democrats-are-looking-for-fighters/", "eng": "", "body": "A new kind of Democratic candidate is ascendant four months before the midterms: outsiders vowing to overhaul the system. Progressive populists win key primaries. NYT/Siena poll finds over half of Democrats frustrated with the party. Over 80% say the political and economic system needs to be torn down or overhauled." },
+                { "headline": "Russia Hammers Kyiv With Missiles and Drones on Eve of NATO Summit", "url": "https://www.pbs.org/newshour/world/russias-missile-and-drone-attacks-on-ukraine-kill-at-least-22-in-the-kyiv-region", "eng": "", "body": "Russia unleashed waves of 351 drones and 68 missiles at Ukraine, killing at least 22 people. All 29 ballistic missiles struck their targets, exposing gaps in Ukraine's air defenses. The attack came as NATO leaders prepared to gather in Turkey. Zelenskyy to press allies for more Patriot interceptors." },
+                { "headline": "Trump Accounts Launch With Wall Street Ceremony, $800M First Week Inflow", "url": "https://www.whitehouse.gov/releases/2026/07/president-trump-rings-in-trump-accounts-with-historic-opening-bell-ceremony-from-the-oval-office/", "eng": "", "body": "Trump Accounts officially launched July 4 with a historic Oval Office bell-ringing ceremony. Over 6 million accounts requested. $800 million in new capital to flow into markets this week. Michael Dell: 'Every newborn American child will start their life with $1,000 invested in America's greatest companies.'" },
+                { "headline": "Trump Posts Doctored Photo of Obamas and Air Force One With Graffiti", "url": "https://www.kmvt.com/2026/07/06/trump-posts-doctored-photo-obamas-air-force-one-with-graffiti-spray-painted-plane/", "eng": "", "body": "President Trump posted a falsified image of the Obamas before an Air Force One spray-painted with graffiti including 'BLM' and Arabic script. The post followed a pattern of incendiary posts including one showing the Obamas as primates. Italian PM Meloni called Trump's similar post about her 'completely fabricated.'" },
+                { "headline": "Fed Grapples With Forward Guidance as Warsh Era Begins", "url": "https://www.americanbanker.com/news/feds-waller-says-forward-guidance-more-art-than-science", "eng": "", "body": "Fed Governor Waller acknowledged forward guidance both strengthens and hinders policymaking. New Chair Kevin Warsh forming a communications task force to suggest reforms by year-end. FOMC minutes Wednesday will be the first released under Warsh's leadership. Markets pricing 67% chance of September cut." }
+              ]
+            },
+            {
+              "label": "2면",
+              "articles": [
+                { "headline": "Republicans Plot Strategy to Fend Off Democratic Onslaught Against Trump Megabill", "url": "https://www.nbcnews.com/politics/2026-election/republicans-plot-strategy-fend-democratic-onslaught-trump-megabill-rcna216651", "eng": "", "body": "Republicans plan to campaign on individual pieces of Trump's megabill that poll well while ignoring less popular provisions. The bill is projected to lead to 11.8 million fewer people having insurance by 2034 per CBO. GOP strategy includes accusing Democrats of voting to 'block tax cuts.' NRCC launching attack ads." },
+                { "headline": "US Economy 'On Wobbly Footing' as Mixed Signals Cloud Outlook", "url": "https://finance.yahoo.com/news/us-economy-on-wobbly-footing-why-wall-street-strategists-are-cautious-about-stock-markets-recent-records-185429502.html", "eng": "", "body": "Comerica's Bill Adams: 'The economy is entering the second half of the year on wobbly footing.' First-quarter GDP revised down, PCE inflation ticked up, continued claims at highest since 2021. Bank of America's Bhave: 'We're at a fork in the road. If something is going to break, it's going to break soon.'" },
+                { "headline": "Microsoft Cuts 4,800 Jobs as AI Reshapes Tech Workforce", "url": "https://www.theverge.com/news/961528/microsoft-layoffs-july-2026-sales-xbox", "eng": "", "body": "Microsoft laid off 4,800 employees, about 2.1% of its workforce. 1,600 Xbox jobs cut immediately with total gaming reductions reaching 20% by fiscal year-end. Four Xbox studios being sold. Chief people officer Amy Coleman: 'the roles eliminated today are not being replaced by AI' but 'AI is changing how work gets done.'" },
+                { "headline": "Samsung Set to Report Record Profit as AI Chip Boom Intensifies", "url": "https://cryptobriefing.com/samsung-chip-earnings-ai-demand/", "eng": "", "body": "Samsung Electronics' Q2 2026 operating profit expected around 86 trillion won, up approximately 1,740% YoY. Memory ASP increases of 40-60% QoQ. DS division president Kim Yong-kwan said 2026 profit would exceed cumulative 40 years of chip earnings. Samsung may surpass Nvidia as world's most profitable company by operating profit." }
+              ]
+            },
+            {
+              "label": "3면",
+              "articles": [
+                { "headline": "Historians Reject White House's Criticism of Smithsonian Museum", "url": "https://dnyuz.com/2026/07/06/in-trumps-second-midterm-democrats-are-looking-for-fighters/", "eng": "", "body": "Historians pushed back against White House criticism of the Smithsonian Institution's exhibits on American history. The controversy is part of broader cultural battles as the midterm elections approach. Trump has stepped up efforts to portray Democrats as extremists." },
+                { "headline": "Prince Harry Insiders Slam Royals for Disinviting Him From Buckingham Palace", "url": "https://dnyuz.com/2026/07/06/in-trumps-second-midterm-democrats-are-looking-for-fighters/", "eng": "", "body": "Prince Harry's representatives criticized the royal family for disinviting him from Buckingham Palace during his UK visit. Insiders questioned: 'How is there not one room?' The ongoing rift between Harry and the royal family continues to make headlines." },
+                { "headline": "Gustavo Dudamel's Final Hollywood Bowl Concert to Benefit Venezuela After Earthquakes", "url": "https://dnyuz.com/2026/07/06/in-trumps-second-midterm-democrats-are-looking-for-fighters/", "eng": "", "body": "Conductor Gustavo Dudamel's final Hollywood Bowl concert will raise funds for Venezuela following devastating earthquakes. The concert marks the end of his tenure with the LA Philharmonic before taking a new position." },
+                { "headline": "State of Decay 3 Might No Longer Launch Day One on Xbox Game Pass", "url": "https://dnyuz.com/2026/07/06/in-trumps-second-midterm-democrats-are-looking-for-fighters/", "eng": "", "body": "Amid Microsoft's major Xbox restructuring including 20% staff cuts and studio selloffs, reports suggest State of Decay 3 may not launch day one on Xbox Game Pass. The changes signal a strategic shift in Microsoft's gaming business model." }
               ]
             }
           ]
         },
         {
           "name": "Washington Post",
+          "url": "washingtonpost.com",
           "pages": [
             {
               "label": "1면",
               "articles": [
-                {
-                  "headline": "워싱턴포스트, 300명 감원…스포츠·도서 섹션 폐쇄",
-                  "url": "https://en.wikipedia.org/wiki/The_Washington_Post",
-                  "eng": "Washington Post Lays Off 300, Closes Sports and Books Coverage",
-                  "body": "2026년 2월 4일 워싱턴포스트가 약 300명의 직원을 감원한다고 발표했다. 스포츠와 도서 섹션이 완전히 폐쇄되고 지역 뉴스 취재가 대폭 축소될 예정이다. 2024년 1억 달러의 손실이 감원의 주요 원인으로 지목됐다."
-                },
-                {
-                  "headline": "이란 최고지도자, 미·이스라엘 '전쟁범죄' 책임 추궁 서약",
-                  "url": "https://biz.heraldcorp.com/article/10790762",
-                  "eng": "Iran's Supreme Leader Vows Accountability for US, Israeli 'War Crimes'",
-                  "body": "이란의 최고지도자 아야톨라 세예드 모즈타바 하메네이가 일요일 미국과 이스라엘 지도자들이 자국에 대해 전쟁을 벌인 책임을 물어야 한다고 밝혔다. 그는 모든 전쟁 범죄가 국내외 법정에서 다뤄져야 한다고 강조했다."
-                },
-                {
-                  "headline": "RFK Jr., 중독·정신질환 퇴치 위해 7억 달러 지원 발표",
-                  "url": "https://www.washingtonexaminer.com/tag/robert-f-kennedy-jr/",
-                  "eng": "RFK Jr. Announces $700 Million in Funding to Combat Addiction and Mental Illness",
-                  "body": "로버트 F. 케네디 주니어 보건복지부 장관이 중독과 정신질환 퇴치를 위해 7억 달러의 연방 지원금을 발표했다. 이는 트럼프 행정부의 보건 정책 우선순위를 반영한다."
-                },
-                {
-                  "headline": "파키스탄, 아프간 국경 무장세력 은신처 공습…29명 사살",
-                  "url": "https://www.geo.tv/latest/670645-29-terrorists-killed-as-pakistan-strikes-militant-hideouts-along-afghan-border",
-                  "eng": "29 Terrorists Killed as Pakistan Strikes Militant Hideouts Along Afghan Border",
-                  "body": "파키스탄 정보부 장관 Attaullah Tarar가 보안군이 아프간 국경 지역 무장세력 은신처에 대한 정보 기반 작전에서 29명의 무장세력을 사살했다고 밝혔다. 6월 28일 바자우르 지역에서 수행된 작전에서 인도의 대리 조직 Jamaat ul Ahrar의 테러 지휘관 Khan Farosh가 사살됐다."
-                },
-                {
-                  "headline": "워싱턴주 투캐넌 산불, 9,500에이커 태워…대피령 발령",
-                  "url": "https://newstalk870.am/ixp/134/p/tucannon-fire-updates/",
-                  "eng": "State Resources Mobilized as Tucannon Fire Explodes Near Dayton",
-                  "body": "워싱턴주 데이턴 인근에서 발생한 투캐넌 산불이 6월 16일 오후 4시 15분경 처음 보고된 이후 수 시간 내에 6,000에이커로 확대됐다. 현재까지 약 9,500에이커가 소실됐으며, 레벨 3 대피령이 발효됐다."
-                }
+                { "headline": "Trump Posts Doctored Photo of Obamas and Air Force One With Graffiti", "url": "https://www.kmvt.com/2026/07/06/trump-posts-doctored-photo-obamas-air-force-one-with-graffiti-spray-painted-plane/", "eng": "", "body": "President Trump posted a falsified image of Barack and Michelle Obama before an Air Force One spray-painted with graffiti including 'BLM' and Arabic script. Follows a pattern of incendiary posts including one showing Obamas as primates. Italian PM Meloni called a similar post about her 'completely fabricated.'" },
+                { "headline": "Russia Kills at Least 22 in Massive Attack on Kyiv Region Ahead of NATO Summit", "url": "https://www.pbs.org/newshour/world/russias-missile-and-drone-attacks-on-ukraine-kill-at-least-22-in-the-kyiv-region", "eng": "", "body": "Russia fired 351 drones and 68 missiles at Ukraine, all 29 ballistic missiles struck targets. 15 killed in Kyiv, 7 more in wider region. Attack exposes gaps in air defenses. Zelenskyy to press NATO allies for more Patriot interceptors at Turkey summit." },
+                { "headline": "Dow Surges Past 53,000 as Tech Stocks Rebound on AI Optimism", "url": "https://www.ibtimes.com.au/dow-jones-record-high-tech-stocks-rebound-1871891", "eng": "", "body": "The Dow closed at a record 53,032.55 on Monday. S&P 500 rose 0.72%, Nasdaq climbed 1.12%. The rally was driven by renewed confidence in AI-related stocks after a late-June selloff. Broadcom expanded its Apple partnership through 2031. Q2 earnings season seen as next catalyst." },
+                { "headline": "Trump Accounts Draw 6 Million Signups in First Days", "url": "https://www.whitehouse.gov/releases/2026/07/president-trump-rings-in-trump-accounts-with-historic-opening-bell-ceremony-from-the-oval-office/", "eng": "", "body": "Over 6 million Trump Accounts requested within days of launch, with 86% from families earning under $200,000. $800 million in new capital to be invested this week. Michael and Susan Dell pledged $6.25 billion for $250 contributions to 25 million children. 50+ companies committed to employer contributions." },
+                { "headline": "US-Iran Talks Resume in Doha as Temporary Ceasefire Holds", "url": "https://www.newsquawk.com/headlines/newsquawk-us-market-wrap-mag-7-outperforms-amid-semi-memory-weakness-ahead-of-us-payrolls-01-07-2026", "eng": "", "body": "US and Iranian negotiators resumed talks in Doha focusing on management of the Strait of Hormuz and terms of a 60-day MOU aimed at a comprehensive nuclear deal. A temporary one-week de-escalation agreement is in place. US officials warn military option remains on the table if talks fail." }
+              ]
+            },
+            {
+              "label": "2면",
+              "articles": [
+                { "headline": "Fed's Waller Says Forward Guidance Both Helps and Hinders Policy", "url": "https://www.americanbanker.com/news/feds-waller-says-forward-guidance-more-art-than-science", "eng": "", "body": "Fed Governor Waller acknowledged forward guidance accelerated policy transmission in 2021 when 2-year yields rose 200bps before any rate hike. But he also cited 2021 delay as example of guidance tying FOMC's hands. New Fed Chair Warsh forming communications task force to recommend reforms by year-end." },
+                { "headline": "Microsoft Slashes 4,800 Jobs, Sells Xbox Studios in Major Restructuring", "url": "https://www.geekwire.com/2026/microsoft-cuts-4800-jobs-about-2-globally-revamps-salesforce-and-launches-massive-xbox-overhaul/", "eng": "", "body": "Microsoft cutting 4,800 jobs globally, including 600 in Washington state. Xbox reducing headcount by 20% (~3,200 jobs) and selling four studios. CEO Asha Sharma: 'most significant restructure in Xbox history.' Stock down 30% over 9 months, erasing $1.2 trillion in market value. AI infrastructure spending driving cost pressures." },
+                { "headline": "Samsung Q2 Earnings: The $100 Trillion Won Question", "url": "https://tbreak.com/samsung-says-profit-will-beat-years-chip-earnings/", "eng": "", "body": "Samsung's DS division president Kim Yong-kwan said 2026 operating profit will exceed cumulative 40 years of chip earnings combined. Analysts expect Q2 operating profit around 84.6 trillion won. Before bonus provisions, could top 100 trillion won for first time. Samsung may surpass Nvidia as world's most profitable company." },
+                { "headline": "OPEC+ Likely to Raise Output by 188,000 Barrels Per Day for August", "url": "https://www.newsquawk.com/headlines/newsquawk-us-market-wrap-mag-7-outperforms-amid-semi-memory-weakness-ahead-of-us-payrolls-01-07-2026", "eng": "", "body": "OPEC+ is reportedly likely to raise oil output quotas for August by 188,000 barrels per day at the Sunday meeting. The move comes as oil prices have returned to pre-Iran war levels with the Strait of Hormuz reopened. Decision reflects improving supply outlook." }
+              ]
+            },
+            {
+              "label": "3면",
+              "articles": [
+                { "headline": "Republicans in Disarray as SAVE America Act Stalls Again", "url": "https://www.ms.now/news/republicans-time-trump-change-course-save-america-act", "eng": "", "body": "After two failed Senate votes on the SAVE America Act, Republican frustration grows. Rep. Anna Paulina Luna froze the House floor last week, preventing defense bill processing. Speaker Mike Johnson sent members home early for July Fourth recess. GOP lawmakers increasingly want Trump to pivot to achievable legislation." },
+                { "headline": "Global Chip Stocks: AI Boom or Bubble? Earnings Season to Decide", "url": "https://cryptobriefing.com/samsung-chip-earnings-ai-demand/", "eng": "", "body": "This week's earnings from Samsung and events including SK Hynix's US listing will test whether the AI chip boom is sustainable. JPMorgan questions whether memory's rising share of cloud capex (52% in 2026, potentially 70%+ in 2027) can continue. Citi raised Samsung target to 530,000 won, implying 71% upside." },
+                { "headline": "Trump's Face to Appear on Money, Passports and Cards", "url": "https://dnyuz.com/2026/07/06/in-trumps-second-midterm-democrats-are-looking-for-fighters/", "eng": "", "body": "President Trump has branded his face, name and signature on an expanding array of government documents and currency. The branding push is part of a broader effort to cement his legacy during his second term. Critics call it unprecedented self-promotion using government resources." },
+                { "headline": "Judge Appointed Last Year Is Overseeing Hearing in Killing of Charlie Kirk", "url": "https://dnyuz.com/2026/07/06/in-trumps-second-midterm-democrats-are-looking-for-fighters/", "eng": "", "body": "A judge appointed just last year is overseeing the hearing in the high-profile killing of conservative activist Charlie Kirk. The case has drawn national attention amid the charged political climate ahead of the midterm elections." }
               ]
             }
           ]
         },
         {
           "name": "Financial Times",
+          "url": "ft.com",
           "pages": [
             {
               "label": "1면",
               "articles": [
-                {
-                  "headline": "AI 투자 수익률 약세, 기술 기업 자금 조달 급감 우려",
-                  "url": "https://www.ft.com/",
-                  "eng": "Weak AI Returns Could Trigger Sharp Pullback in Tech Funding",
-                  "body": "인공지능 투자에 대한 약한 수익률이 기술 기업에 대한 자금 조달의 급격한 감소를 촉발할 수 있으며, 이는 글로벌 경제를 위협할 수 있다는 경고가 나왔다."
-                },
-                {
-                  "headline": "미·이란, 호르무즈 공격 교환하며 휴전 위기",
-                  "url": "https://www.ft.com/world",
-                  "eng": "US and Iran Exchange Strikes as Ceasefire Falters",
-                  "body": "미국과 이란이 호르무즈해협에서 공격을 주고받으며 휴전 합의가 위기에 처했다. 테헤란이 바레인과 쿠웨이트의 군사 시설을 공격하며 미국의 공습에 대응했다."
-                },
-                {
-                  "headline": "사우디 아람코 헬기 추락, 걸프 휴전 균열",
-                  "url": "https://www.ft.com/world",
-                  "eng": "Aramco Helicopter Crashes at Saudi Port as Gulf Ceasefire Frays",
-                  "body": "사우디 항구에서 아람코 헬리콥터가 추락하며 최소 14명이 사망했다. 이는 미·이란 공격이 호르무즈 해협 재개방의 취약한 합의를 위협한 지 몇 시간 만에 발생한 사건이다."
-                },
-                {
-                  "headline": "모바일 연결 프로토콜 라이선스 전쟁, 글로벌 요금 결정할 판",
-                  "url": "https://www.ft.com/",
-                  "eng": "Battle Over Mobile Connection Licensing Could Shape Global Rates",
-                  "body": "모바일 연결 프로토콜의 라이선스를 둘러싼 전쟁이 다른 기술들의 글로벌 요금을 결정할 수 있다. 기술 표준의 지적재산권 문제가 향후 기술 산업의 판도를 바꿀 수 있다."
-                },
-                {
-                  "headline": "에미레이트, 장거리 비행 의존으로 탄소비용 최고 예상",
-                  "url": "https://www.ft.com/",
-                  "eng": "Emirates Could Face Highest Carbon Expense Due to Long-Haul Reliance",
-                  "body": "에미레이트 항공이 장거리 비행에 대한 의존도로 인해 가장 높은 탄소 비용을 지불할 수 있다고 MSCI Carbon Markets가 밝혔다. 항공 산업의 탄소 규제 강화가 항공사들의 비용 구조에 큰 영향을 미칠 전망이다."
-                }
+                { "headline": "Russia Hammers Kyiv With Missiles and Drones on Eve of NATO Summit", "url": "https://www.ft.com/content/3d6595b7-6317-469b-b30f-05bb3bdb0072", "eng": "", "body": "Russia unleashed massive missile and drone attacks on Ukraine killing at least 22 in the Kyiv region. All 29 ballistic missiles struck their targets. The attack comes as NATO leaders prepare to gather in Turkey. Zelenskyy expected to press for more air defense systems." },
+                { "headline": "Halftime for the Markets: AI Rally Faces Critical Earnings Test", "url": "https://www.ft.com/content/84c69be1-72ff-4500-91d0-46047c9e8b95", "eng": "", "body": "Global markets enter H2 2026 at a crossroads. The AI-driven rally that powered record highs faces its biggest test as Q2 earnings season begins. Samsung's expected record profit and SK Hynix's US listing will be closely watched. Fed under new Chair Warsh releases first FOMC minutes Wednesday." },
+                { "headline": "Chip Stocks Rally as AI Fears Ease, Dow Hits 53,000", "url": "https://www.channelnewsasia.com/business/wall-street-surges-oil-flat-chip-stock-rally-continues-6233966", "eng": "", "body": "Wall Street surged Monday with Dow closing above 53,000 for the first time. S&P 500 rose 0.72%, Nasdaq climbed 1.12%. Broadcom expanded Apple chip partnership through 2031. SK Hynix drew $7 billion early interest for US listing. Oil flat at pre-Iran war levels." },
+                { "headline": "Saving NATO in the Era of Trump: EU Defence Spending Under Scrutiny", "url": "https://www.ft.com/ft-view", "eng": "", "body": "FT editorial: European nations must significantly increase defence capabilities as Trump questions NATO's value at the Turkey summit. The Ukraine war and Iran conflict have exposed Europe's military vulnerabilities. Germany and France face pressure to lead EU defence integration." },
+                { "headline": "World Absorbs Historic Iran War Oil Supply Loss, But Depleted Stocks Bring Risks", "url": "https://www.japantimes.co.jp/business/2026/07/06/iran-war-oil-stocks-risks/", "eng": "", "body": "The world has absorbed with surprising ease the loss of over a billion barrels of oil supply since the Iran war began. At its worst, supply loss was 14 million barrels per day. But buffer reserves are now drained. Long-term peace elusive. Future price spike risk remains despite oil returning to pre-war levels." }
+              ]
+            },
+            {
+              "label": "2면",
+              "articles": [
+                { "headline": "Fed's Waller Opens Door to Rethinking Forward Guidance", "url": "https://www.americanbanker.com/news/feds-waller-says-forward-guidance-more-art-than-science", "eng": "", "body": "Fed Governor Waller said forward guidance 'more art than science,' citing both successes and failures. The 2021 delay in rate increases was a key failure as inflation surged. New Chair Warsh forming a task force of outside experts to review Fed communications by year-end. First FOMC minutes under Warsh due Wednesday." },
+                { "headline": "Big Tech's $700 Billion AI Bet: Earnings Season to Test Return on Investment", "url": "https://www.channelnewsasia.com/business/microsoft-joins-ai-driven-tech-layoff-wave-4800-job-cuts-6235631", "eng": "", "body": "Big Tech AI capital spending set to top $700 billion in 2026. Microsoft forecast $190 billion in spending. Memory's share of cloud capex reached 52% this year, could exceed 70% in 2027. JPMorgan questions sustainability. Microsoft shares down 23% in H1, worst since 2022." },
+                { "headline": "German Cabinet Budget Standoff Clouds EU Defence Outlook", "url": "https://eutoday.net/german-cabinet-2027-budget-borrowing-defence/", "eng": "", "body": "Germany's cabinet locked in confrontation over 2027 budget as record borrowing plans clash with defence spending demands. The standoff comes at a sensitive time with Trump expected to pressure NATO allies at the Turkey summit. EU defence integration efforts face headwinds." },
+                { "headline": "Samsung on Track to Surpass Nvidia as World's Most Profitable Company", "url": "https://tbreak.com/samsung-says-profit-will-beat-years-chip-earnings/", "eng": "", "body": "Samsung DS division president said 2026 profit will exceed all chip earnings from ~40 years combined. Q2 operating profit expected around 84.6 trillion won (~$55.1 billion), potentially surpassing Nvidia's $53.54 billion Q1 figure. Memory prices up 90% in Q1, 50-60% in Q2, with further ~20% hike negotiated for Q3." }
+              ]
+            },
+            {
+              "label": "3면",
+              "articles": [
+                { "headline": "An American Birthday Worth Questioning: FT View on US at 250", "url": "https://www.ft.com/ft-view", "eng": "", "body": "FT editorial reflects on America's 250th anniversary. While the economy shows resilience with record stock markets and low unemployment, political polarization, Trump's divisive rhetoric, and questions about democratic institutions cloud the celebration. Trump Accounts launch seen as politically motivated wealth transfer." },
+                { "headline": "Week Ahead: FOMC Minutes, NATO Summit, Samsung Earnings, SK Hynix Listing", "url": "https://www.ft.com/week-ahead", "eng": "", "body": "Key events: FOMC minutes (Wednesday), NATO summit in Turkey, Samsung Q2 earnings (Tuesday), SK Hynix Nasdaq listing (Friday), China inflation data, Canada jobs report. Fed Chair Warsh's first minutes will be closely parsed. NATO summit comes amid Russia's intensified attacks on Ukraine." },
+                { "headline": "Market Moves: Themes That Mattered in June 2026", "url": "https://www.janushenderson.com/en-us/advisor/article/market-moves-themes-that-mattered-june-2026/", "eng": "", "body": "June saw mixed global equity performance with Europe outperforming. The AI trade showed divergence as semiconductor stocks benefited while hyperscalers came under pressure. Oil fell ~20% after US-Iran MOU. Sector rotation evident with value beating growth. Gold fell ~12% on dollar strength and hawkish Fed repricing." },
+                { "headline": "US Economy on Wobbly Footing: Why Strategists Are Cautious", "url": "https://finance.yahoo.com/news/us-economy-on-wobbly-footing-why-wall-street-strategists-are-cautious-about-stock-markets-recent-records-185429502.html", "eng": "", "body": "Despite record highs, Wall Street strategists signal caution. JPMorgan warns against getting 'carried away by inflation momentum.' Comerica's Adams: 'economy entering H2 on wobbly footing.' First-quarter GDP revised down, PCE inflation ticked up, continued claims at highest since 2021. Markets pricing 67% chance of September Fed cut." }
               ]
             }
           ]
