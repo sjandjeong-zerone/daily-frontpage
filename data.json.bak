@@ -1,0 +1,774 @@
+{
+  "date": "2026-07-02",
+  "dateLabel": "2026년 7월 2일(목요일)",
+  "generatedAt": "2026-07-02T06:00:00+09:00",
+  "ticker": [
+    { "label": "코스피", "value": "8,303", "change": "▼2.04%", "dir": "dn", "badgeColor": "red" },
+    { "label": "코스닥", "value": "929", "change": "▲1.44%", "dir": "up", "badgeColor": "green" },
+    { "label": "원/달러", "value": "1,555₩", "change": "▲5.5원", "dir": "up", "badgeColor": "yellow" },
+    { "label": "다우", "value": "52,319", "change": "▼0.02%", "dir": "dn", "badgeColor": "gray" },
+    { "label": "S&P 500", "value": "7,483", "change": "▼0.22%", "dir": "dn", "badgeColor": "gray" },
+    { "label": "나스닥", "value": "26,040", "change": "▼0.66%", "dir": "dn", "badgeColor": "red" },
+    { "label": "WTI", "value": "$68.58", "change": "▼1.7%", "dir": "dn", "badgeColor": "green" },
+    { "label": "Brent", "value": "$71.57", "change": "▼2.0%", "dir": "dn", "badgeColor": "green" },
+    { "label": "금", "value": "$4,070", "change": "▲0.8%", "dir": "up", "badgeColor": "gold" },
+    { "label": "비트코인", "value": "$60,000+", "change": "반등", "dir": "up", "badgeColor": "yellow" }
+  ],
+  "keywords": [
+    { "label": "반도체 조정", "desc": "삼성전자·SK하이닉스 5%대 급락, 외국인 1.7조 매도" },
+    { "label": "국민연금 리밸런싱", "desc": "7월 재개, 연기금 2179억원 순매도 — '74조 폭탄설' 일축" },
+    { "label": "환율 고공행진", "desc": "원/달러 1,555원, 17년 만에 최고치 경신" },
+    { "label": "Meta 클라우드 진출", "desc": "AI 컴퓨팅 잉여분 판매, 주가 8% 급등" },
+    { "label": "유가 급락", "desc": "WTI $68대, 미-이란 평화협상 진전에 4개월래 최저" }
+  ],
+  "morning": {
+    "headline": "코스피 8,300선 후퇴 vs 코스닥 30주년 상승 — 외국인 매도 9일째",
+    "weather": {
+      "condition": "부분 흐림",
+      "temp": "22°C",
+      "feelsLike": "25°C",
+      "humidity": "100%",
+      "wind": "4km/h"
+    },
+    "schedule": ["예정된 일정 없음 — 자유로운 하루 🎯"],
+    "domestic": {
+      "kospi": { "value": "8,303.41", "change": "▼173.07", "pct": "-2.04%" },
+      "kosdaq": { "value": "929.35", "change": "▲13.17", "pct": "+1.44%" },
+      "usdkrw": { "value": "1,554.90원", "change": "▲5.50원", "pct": "+0.35%" },
+      "summary": "KOSPI 장 초반 8,620선 → 외국인 매도에 8,300선 곤두박질. 삼성전자(-5.84%), SK하이닉스(-3.40%) 하락 주도. 개인 1.74조 순매수 vs 외국인 1.70조 순매도(9거래일 연속, 누적 28.5조+). 국민연금 리밸런싱 유예 종료 우려 확산.",
+      "highlights": [
+        "국민연금 리밸런싱 첫날 — 연기금 2,179억원 순매도",
+        "삼성전자 -5.84% (31만4,500원) 외국인 1조841억원 순매도",
+        "SK하이닉스 -3.40% (256만원) 순매도 상위 16위",
+        "코스닥 30주년 상승 — 주성엔지니어링 +20.4%, PSK +7.9%",
+        "환율 1,554.9원 — 17년 만에 최고치 (2009년 3월 이후)"
+      ]
+    },
+    "overseas": {
+      "dow": { "value": "52,319.20", "change": "▼소폭", "pct": "-0.02%" },
+      "sp500": { "value": "7,483.22", "change": "▼16.13", "pct": "-0.22%" },
+      "nasdaq": { "value": "26,040.03", "change": "▼173.69", "pct": "-0.66%" },
+      "rate10y": { "value": "~4.48%", "change": "—", "pct": "—" },
+      "summary": "하반기 첫 거래일, 장중 Dow·S&P 신고가 경신 → 차익실현 매물에 혼조 마감. 반도체 조정(Micron -10.4%, Intel -9.0%) vs Meta +8.8%(클라우드 진출).",
+      "highlights": [
+        "Micron -10.41%, Intel -9.03%, SanDisk -10.50% — 반도체업종 급락",
+        "Meta +8.81% — AI 클라우드 사업 진출 (잉여 컴퓨팅 판매)",
+        "Nike +5.07%, General Mills +8.64%, Salesforce +4.25% 강세",
+        "Fed 월시 의장 '인플레이션 여전히 높다' but '리스크 하락'",
+        "유가 WTI $68.58 (-1.7%) — 이란전쟁 이후 최저 (평화협상 진전)"
+      ]
+    },
+    "oil": {
+      "wti": { "value": "$68.33~68.58", "change": "▼1.7%", "pct": "-1.7%" },
+      "brent": { "value": "$71.57", "change": "▼2.0%", "pct": "-2.0%" },
+      "summary": "WTI 이란 전쟁 이후 최저가. 미-이란 평화협상 재개(도하 기술회담) + 수요 둔화 우려 겹침. 2분기 Brent -$45 폭락(2008년 금융위기 이후 최대)."
+    },
+    "indicators": [
+      { "label": "10년물 금리", "value": "~4.48%", "change": "▲1bp" },
+      { "label": "금 (Gold)", "value": "$4,070/oz", "change": "▲0.8%" },
+      { "label": "비트코인", "value": "$60,000+", "change": "반등 (야간 $57,750 저점)" },
+      { "label": "달러 인덱스", "value": "101.40", "change": "▲0.2%" }
+    ],
+    "emails": [
+      { "priority": "high", "from": "Apple Developer", "subject": "WWDC26 의견 공유 요청 — 설문 참여 필요" },
+      { "priority": "medium", "from": "키움증권", "subject": "삼자사기 피해 예방 안내" },
+      { "priority": "medium", "from": "LinkedIn", "subject": "이민희님 네트워크 추가 / 14명 조회 / 4건 1촌 신청" },
+      { "priority": "low", "from": "LinkedIn", "subject": "이봉우 교수님이 게시물에 반응" },
+      { "priority": "low", "from": "Flipboard", "subject": "Wednesday 기술 브리핑" }
+    ],
+    "insights": [
+      "코스피 8,300선 방어 — 외국인 9일 연속 1.7조 매도에도 개인 막아냄. 미국 반도체 급락(마이크론 -10%, 인텔 -9%)이 삼전·하닉에 추가 하방 압력. 8,000선 이탈 여부 주목.",
+      "반도체 사이클 진단 — 6월 반도체 수출 448억$ 사상 첫 400억$ 돌파. 펀더멘털 견고하나 주가는 선행 → 미 반도체 조정이 단기 충격. 중장기 투자자에겐 저가 매수 구간.",
+      "하반기 증시 시나리오 — Q2 S&P +15%, 나스닥 +21% 초강세 이후 차익실현 자연스러움. 연준 추가 금리인상 vs AI 모멘텀 줄타기. 7월 고용보고서(목) 중요 분기점.",
+      "유가 급락 → 지정학적 리스크 완화 — WTI $68대는 이란 분쟁 전 수준. 미-이란 협상 재개(도하) + 글로벌 수요 둔화. 환율·물가엔 호재, 에너지주엔 부담.",
+      "오늘의 액션 — 🍎 Apple WWDC26 설문 오전 중 제출 / 📊 미국 고용보고서(목) 다음주 포지셔닝 참고 / 🎯 오늘 일정 없음 — 미뤄둔 개인 업무 처리 좋은 날!"
+    ]
+  },
+  "sections": {
+    "kor": {
+      "label": "🇰🇷 국내 경제·일간지",
+      "papers": [
+        {
+          "name": "매일경제",
+          "url": "mk.co.kr",
+          "pages": [
+            {
+              "label": "1면",
+              "articles": [
+                {
+                  "headline": "동탄·기흥·구리 '핀셋 3중 규제' — 투기과열지구·조정대상지역·토허제 동시 지정",
+                  "url": "https://www.mk.co.kr/news/society/12086891",
+                  "eng": "Dongtan, Giheung, Guri face triple real estate regulations",
+                  "body": "정부가 경기 화성시 동탄구와 용인시 기흥구, 구리시를 투기과열지구와 조정대상지역으로 추가 지정. 경기도도 토지거래허가구역으로 지정하면서 '핀셋 3중 규제' 적용. 7월 1일부터 대출과 주택 거래 규제 강화, 일정 규모 이상 주택 구입시 허가 필요."
+                },
+                {
+                  "headline": "한성숙 총리 첫 행보는 AI…'성장 과실, 골목상권까지'",
+                  "url": "https://www.mk.co.kr/news/politics/12088036",
+                  "eng": "",
+                  "body": "역대 두 번째 여성 총리 한성숙 신임 국무총리 취임. 네이버 CEO 출신으로 '성장의 과실이 중소기업과 골목상권까지 스며들게 하겠다' 포부. 첫 공식 업무로 AI 관계 장관 간담회 주재."
+                },
+                {
+                  "headline": "李대통령, 용인·호남 반도체 클러스터 동시 추진 제안",
+                  "url": "https://www.mk.co.kr/news/society/12086891",
+                  "eng": "",
+                  "body": "이재명 대통령이 광주 김대중컨벤션센터 서남권 투자 국민보고회에서 용인과 호남 반도체 클러스터 동시 추진 제안. 삼성전자·SK하이닉스 용인·호남 양축 반도체 생산거점 구축 계획. 정부 직접 챙기겠다 밝혀."
+                }
+              ]
+            },
+            {
+              "label": "2면",
+              "articles": [
+                {
+                  "headline": "메모리값 상승에 반도체 수출 3배 껑충…올 GDP 4%대 성장 전망",
+                  "url": "https://www.mk.co.kr/news/economy/12088022",
+                  "eng": "Semiconductor exports triple on memory price surge",
+                  "body": "6월 반도체 수출 전년비 70.9% 급증 1,022억$ 기록. AI 투자 확대와 메모리 가격 상승 주도. 현재 긍정적 수출 흐름 지속시 연간 GDP 성장률 4%대 전망 현실화 가능성."
+                },
+                {
+                  "headline": "상반기 96% 상승 역대급 불장 코스피, 하반기 1만피 갈까…변수는",
+                  "url": "https://www.mk.co.kr/news/stock/12087364",
+                  "eng": "",
+                  "body": "2026년 상반기 코스피 96.62% 급등, 1999년 닷컴버블(56.99%) 크게 상회. 삼성증권 연내 밴드 상단 1만2,600포인트, 한투·하나 목표 1만1,000~1만1,450포인트 제시. JP모건 파격 1만5,000 상향."
+                },
+                {
+                  "headline": "이번엔 'AI MLCC'…삼성전기 목표가 300만원 줄상향",
+                  "url": "https://www.mk.co.kr/news/stock/12087948",
+                  "eng": "",
+                  "body": "삼성전기 글로벌 빅테크와 4,540억원 MLCC 공급 계약 체결. 2027년 물량 선확보 경쟁. 증권가 목표주가 300만원 상향. 삼성전자우 제치고 코스피 시총 4위 등극 (164.7조원)."
+                }
+              ]
+            },
+            {
+              "label": "3면",
+              "articles": [
+                {
+                  "headline": "코스피, 8600선 돌파 후 외국인 매도에 8300선 곤두박질",
+                  "url": "https://www.mk.co.kr/news/stock/12087774",
+                  "eng": "KOSPI plunges from 8,600 to 8,300 on foreign selloff",
+                  "body": "1일 코스피 장 초반 8,620선 급등 → 외국인 매도 폭탄에 8,303.41 마감(-2.04%). 개인 1조7,397억 순매수 vs 외국인 1조7,029억 순매도 (9거래일 연속). 삼성전자 -5.84%, SK하이닉스 -3.40% 급락."
+                },
+                {
+                  "headline": "'7월엔 빠지면 사라'…난도 높아진 증시, 일단 공격보다 수비",
+                  "url": "https://www.mk.co.kr/news/stock/12087952",
+                  "eng": "",
+                  "body": "6월 코스피 롤러코스터 — 9,000선 돌파 → 중동 리스크·국민연금 리밸런싱·반도체 고점 논란 출렁. 머니닥터 9명 설문: 7월 밴드 하단 7,825 / 상단 9,525. 상승 추세 살아있지만 변동성 더욱 커질 것."
+                },
+                {
+                  "headline": "'전자닉스' 조정에도 매수 대응…에코프로도 또 샀다",
+                  "url": "https://www.mk.co.kr/news/stock/12087781",
+                  "eng": "",
+                  "body": "주식 초고수(수익률 상위 1%) 1일 삼성전자·에코프로·삼성전자우·SK하이닉스 저가매수. 삼성전자 -5.39%, 에코프로 -13.04% 급락에도 순매수 지속. 변동성 확대 속 저가 매수 전략."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "경향신문",
+          "url": "khan.co.kr",
+          "pages": [
+            {
+              "label": "1면",
+              "articles": [
+                {
+                  "headline": "'주가조작 패가망신 1호' 피의자 4명 구속영장 기각",
+                  "url": "https://www.khan.co.kr/article/202607012253001",
+                  "eng": "Court rejects warrants for stock manipulation suspects",
+                  "body": "서울남부지법, 1,000억원 주가조작 혐의 4명 구속영장 기각. DI동일 시세조종 사건 — 금융위 증선위 3월 자산가·금융전문가·소액주주운동가 등 11명+법인 4곳 검찰 고발. 이재명 대통령 '주가조작 패가망신' 1호 사건."
+                },
+                {
+                  "headline": "경향 80년…갈라진 세상 잇는 매개체 되겠습니다",
+                  "url": "https://www.khan.co.kr/article/202601010000015",
+                  "eng": "",
+                  "body": "경향신문 창간 80주년 맞아 '진실을 읽다 세상을 잇다' 새 슬로건 발표. 고립과 분열의 시대, 진실 추구하는 저널리즘 본연 책무 강조. 신년·연중기획, 문화·예술 행사 예정."
+                },
+                {
+                  "headline": "통합 강조한 전·현직 대통령…문 "민주진영 더 큰 단합", 이 "외연 확장"",
+                  "url": "https://www.khan.co.kr/article/202607011705001",
+                  "eng": "",
+                  "body": "문재인 전 대통령과 이재명 대통령 1일 오찬회동서 국민통합 핵심 과제 제시. 문 '민주·개혁 진영 더 큰 단합', 이 '중도층 아우르는 외연 확장' 언급. 청와대 "두 가치 동시 추구해야" 강조."
+                }
+              ]
+            },
+            {
+              "label": "2면",
+              "articles": [
+                {
+                  "headline": "李대통령 "태움은 끔찍한 폭력…경찰 불법행위 엄정 조사"",
+                  "url": "https://www.khan.co.kr/politics",
+                  "eng": "",
+                  "body": "이재명 대통령 1일 20대 간호사 태움 자살 사건에 "태움 결코 정당화할 수 없는 끔찍한 폭력" 경찰에 불법행위 엄정 조사 지시. 직장 내 괴롭힘 근절 의지 천명."
+                },
+                {
+                  "headline": "이 대통령, 여당 지도부와 만찬…"국정과제 입법도 서둘러달라"",
+                  "url": "https://www.khan.co.kr/politics/politics-general/articles",
+                  "eng": "",
+                  "body": "이 대통령 1일 저녁 여당 원내지도부와 청와대 만찬. "하반기 입법 속도 내달라" 당부. 민주 진영 단합 절실 뜻 모아. 국정과제 추진 입법 협력 요청."
+                },
+                {
+                  "headline": "서울의 답은 서울 밖에 있다 — 5극3특 초광역화 필요",
+                  "url": "https://www.khan.co.kr/article/202601010000015",
+                  "eng": "",
+                  "body": "수도권 인구 50.8%, 청년 55%, 100대 기업 본사 79% 집중. 전월세 상승률 15.52%/8.48% 기록. 5극3특(수도권·동남권·중부권·대경권·호남권 + 전북·강원·제주 특자도) 초광역화 추진 필요."
+                }
+              ]
+            },
+            {
+              "label": "3면",
+              "articles": [
+                {
+                  "headline": "김종욱 전 해경청장, '계엄사 파견' 반대에 "1명이라도 보내라" 압박",
+                  "url": "https://www.khan.co.kr/issue",
+                  "eng": "",
+                  "body": "12·3 내란 종합 특검 수사 — 김종욱 전 해경청장 계엄사 파견 반대 의견에 압박 정황 포착. 해경 내부 반발에도 계엄군 지원 강행 의혹."
+                },
+                {
+                  "headline": "노태악 "사전투표 개선 방안 마련돼야"…법원, AI로 대포통장 몸통 잡는다",
+                  "url": "https://www.khan.co.kr/news/Society",
+                  "eng": "",
+                  "body": "중앙선관위원장 노태악 사전투표 제도 개선 필요성 언급. 법원, AI 활용한 대포통장 추적 시스템 도입 — 국세청·경찰·은행 신속 공유 체계 구축."
+                },
+                {
+                  "headline": "폭염 위기경보 '관심→주의' 격상…"건강 취약계층 각별 주의"",
+                  "url": "https://www.khan.co.kr/news/Society",
+                  "eng": "",
+                  "body": "기상청 폭염 위기경보 '관심'에서 '주의' 단계로 격상. 7월 첫 주 전국 폭염 특보 예상. 건강 취약계층(노인·어린이·야외근로자) 각별 주의 당부."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "동아일보",
+          "url": "donga.com",
+          "pages": [
+            {
+              "label": "1면",
+              "articles": [
+                {
+                  "headline": "李 "광주 팹, 1개월이라도 지연 안되게 끝까지 챙기겠다"",
+                  "url": "https://www.donga.com/news/Politics/article/all/20260701/134218656/1",
+                  "eng": "Lee vows no delay in Gwangju semiconductor fab",
+                  "body": "이재명 대통령 1일 영종도 민주평통 유라시아 지역회의서 "단단하게 빗장 걸린 북 대문, 열릴 때까지 두드려야" 남북대화 재개 의지. 정전체제→평화체제 전환 강조. 체제 존중·흡수통일 않겠다는 약속 재확인."
+                },
+                {
+                  "headline": "'집값 급등' 동탄-기흥-구리 토허제로 묶는다",
+                  "url": "https://www.donga.com/news",
+                  "eng": "",
+                  "body": "정부, 동탄구·기흥구·구리시 투기과열지구·조정대상지역·토지거래허가구역 3중 규제 지정. 반도체 호황+GTX 개발호재 맞물린 지역 과열 억제. 7월 1일부터 대출 규제 강화."
+                },
+                {
+                  "headline": "레미콘 운전하다 '전신화상'…"고압선 까마귀가 원인"",
+                  "url": "https://www.donga.com/news/Society/article/all/20260701/134213991/2",
+                  "eng": "",
+                  "body": "충남 태안에서 70대 레미콘 운전자 감전 사고. 22,900V 전선 끊어져 차량에 닿아 4도 화상 중상. 고압선에 앉은 까마귀 스파크로 시작된 것으로 추정. 생명 지장 없음."
+                }
+              ]
+            },
+            {
+              "label": "2면",
+              "articles": [
+                {
+                  "headline": ""최대 60조 던진다" 국민연금 비중 축소 시작…증시 하방압력 키울까",
+                  "url": "https://www.donga.com/news/Economy/article/all/20260701/134214107/1",
+                  "eng": "National Pension rebalancing begins with up to 60 trillion won",
+                  "body": "국민연금 1월~6월 리밸런싱 유예 마무리, 1일부터 국내주식 비중 축소 시작. 최대 60조원 매도 전망. 연·월·일간 한도 축소로 점진 매도 계획. 6월말 코스피 기준 목표치 160조원(9.2%p) 초과."
+                },
+                {
+                  "headline": "정부, 여름철 농축산물 가격 안정 3천억원 투입…역대 최대 규모",
+                  "url": "https://www.donga.com/news/Economy/List",
+                  "eng": "",
+                  "body": "정부 여름철 농축산물 가격 안정 위해 3,000억원 할인 지원 — 역대 최대. 계란 가격 안정 위해 신선란 2억개 추가 수입. 물가 안정 총력."
+                },
+                {
+                  "headline": "삼전 노조 "호남 반도체 우리와도 논의…처우 뒷받침 되길"",
+                  "url": "https://www.donga.com/news/Economy",
+                  "eng": "",
+                  "body": "삼성전자 노조, 호남 반도체 사업 관련 "우리와도 논의해야" 입장. 투자 확대시 직원 처우 개선 뒷받침 요구. 용인 P5 라인 확정 환영하나 호남 추가 투자엔 신중 입장."
+                }
+              ]
+            },
+            {
+              "label": "3면",
+              "articles": [
+                {
+                  "headline": "삼전닉스 내리고 인프라 업종 강세…코스피 8300선 등락",
+                  "url": "https://www.donga.com/news/Economy",
+                  "eng": "KOSPI fluctuates at 8,300 as chip stocks fall",
+                  "body": "1일 코스피 삼성전자·SK하이닉스 하락 → 조선·방산·전력 등 인프라 업종 강세로 순환매. HD현대중공업 +3.89%, 한화에어로스페이스 상승. 코스닥 30주년 맞아 1.44% 상승."
+                },
+                {
+                  "headline": "원청 상대 하청노조 첫 파업 초읽기…건설업계 긴장",
+                  "url": "https://www.donga.com/news/Economy",
+                  "eng": "",
+                  "body": "하청업체 노조, 원청 상대 첫 파업 예고 — 건설업계 긴장. 처우 개선·직접고용 요구. 원·하청 관계 재편 계기 될지 주목."
+                },
+                {
+                  "headline": "[지표로 보는 경제] 7월 1일 — 환율 1,554.9원 17년래 최고",
+                  "url": "https://www.donga.com/news/Economy/article/all/20260630/134211593/2",
+                  "eng": "",
+                  "body": "원/달러 환율 1,554.9원 마감 — 2009년 3월 이후 17년 만에 최고치. 외국인 주식 매도 역송금 수요 + 서학개미 해외투자 확대로 달러 수요 증가."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "한국경제",
+          "url": "hankyung.com",
+          "pages": [
+            {
+              "label": "1면",
+              "articles": [
+                {
+                  "headline": "호남 반도체 팹 추진…물·전기 '4대 쟁점' 부각",
+                  "url": "https://plus.hankyung.com/apps/newspaper.view",
+                  "eng": "Honam semiconductor fab faces 4 key challenges",
+                  "body": "호남 반도체 산업단지 추진 본격화. 전문 인력·협력업체·전력·용수 등 4대 쟁점 부각. 하루 65만톤 용수 공급 방안 마련 — 댐 수위 상향+하수 재이용+농업용수 활용. 전력 공급 여력 충분하나 재생에너지 간헐성 보완 필요."
+                },
+                {
+                  "headline": "환율 '역대 최고' 1550원대 마감…3일 연속 금융위기 후 최고치 경신",
+                  "url": "https://www.mt.co.kr/economy/2026/07/01/2026070115362849856",
+                  "eng": "Exchange rate hits 1,550 won, highest since financial crisis",
+                  "body": "원/달러 환율 3거래일 연속 글로벌 금융위기 이후 최고 종가. 1일 1,554.9원 마감. 외국인 국내 주식 매도세+내국인 해외투자 확대+기업 달러 보유 심리 맞물려 원화 약세."
+                },
+                {
+                  "headline": "동탄 규제지역 지정…인근 병점역 생활권 오산헤리티지자이 분양 예정",
+                  "url": "https://www.hankyung.com/realestate",
+                  "eng": "",
+                  "body": "동탄·기흥 규제 지정으로 '다음 반세권' 찾기 열풍. 삼성 P5 품은 평택 고덕 주목. 동탄 규제 후 7개월간 비규제 인근 지역에 15.6조 자금 유입."
+                }
+              ]
+            },
+            {
+              "label": "2면",
+              "articles": [
+                {
+                  "headline": "반도체 호황에 개발 호재까지…'갭투자 가수요 억제' 타이밍",
+                  "url": "https://www.mt.co.kr/estate/2026/07/01/2026063019543180532",
+                  "eng": "Government targets gap investment amid semiconductor boom",
+                  "body": "정부 동탄·기흥·구리 규제 결정 배경 — 집값 상승률뿐 아니라 갭투자·외지인 거래비중·차입규모·개발호재 종합 분석. 차입비중 30~40% 이상. 반도체 성과급 유동성+대출 활용 매수+가격상승 우려 가수요 관리 필요."
+                },
+                {
+                  "headline": ""동탄 과열은 일단 진정될 듯" "실수요 많아 풍선효과 우려"",
+                  "url": "https://www.seoul.co.kr/news/economy/estate/2026/07/01/20260701004001",
+                  "eng": "",
+                  "body": "규제 지정으로 단기 매수 심리 위축·거래량 감소 불가피. 신축·역세권 단지 매수 심리 둔화 전망. 다만 반도체 벨트+GTX 호재+직주근접 수요로 중장기 안정효과 제한적. 다산·별내 등 비규제지 풍선효과 가능성."
+                },
+                {
+                  "headline": "주식까지 다 팔고 영끌…'동탄 집값 폭주' 이유 있었다",
+                  "url": "https://www.hankyung.com/realestate",
+                  "eng": "",
+                  "body": "동탄 집값 급등 배경 — 반도체 경기 호황+GTX-A 개통+삼성 용인 캠퍼스 확장. 직주근접 수요 폭발. 투자자들 주식 매도 후 부동산 갭투자 집중. 2월 분구 이후 6월22일까지 11.38% 상승."
+                }
+              ]
+            },
+            {
+              "label": "3면",
+              "articles": [
+                {
+                  "headline": "코스피, 외국인 '팔자'에 2% 하락…코스닥은 1% 상승",
+                  "url": "https://www.hankyung.com/",
+                  "eng": "KOSPI falls 2% on foreign selling, KOSDAQ rises 1%",
+                  "body": "1일 코스피 외국인 1조7천억 순매도에 8,303.41(-2.04%) 마감. 개인 1조7천억 순매수로 방어. 코스닥 출범 30주년 맞아 929.35(+1.44%) 상승. 반도체 조정 속 조선·방산·전력 순환매."
+                },
+                {
+                  "headline": "반도체 가격 하락?..."삼전닉스 팔까 말까" 증권가 전망은",
+                  "url": "https://www.mt.co.kr/stock/2026/07/01/2026070116422983302",
+                  "eng": "",
+                  "body": "6월 D램·SSD 수출단가 전월비 소폭 하락 → 반도체 가격 피크아웃 우려 확산. 증권가 의견 엇갈려. 낙관론 "AI 투자 지속, 수요 견조" vs 신중론 "단기 조정 불가피". 외국인 9거래일 연속 매도세."
+                },
+                {
+                  "headline": "美 훈풍 삼킨 1.7조 '셀코리아'…코스피, 8300선 턱걸이·환율 1550원 넘어",
+                  "url": "https://www.kyungjeilbo.com/view/20260701173024387",
+                  "eng": "",
+                  "body": "하반기 첫날 미 뉴욕 증시 기술주 강세 훈풍에도 국내 증시 셀코리아 현상. 외국인 1.7조 매도+국민연금 리밸런싱 경계감. 개인 홀로 1.74조 순매수로 8,300선 턱걸이. 환율 1,554.9원 글로벌 금융위기 수준."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "us": {
+      "label": "🇺🇸 미국 경제·일간지",
+      "papers": [
+        {
+          "name": "Wall Street Journal",
+          "url": "wsj.com",
+          "pages": [
+            {
+              "label": "1면 (A1)",
+              "articles": [
+                {
+                  "headline": "Semiconductor Stocks Just Had Their Best Quarter Ever — Then Reality Hit",
+                  "url": "https://www.axios.com/2026/07/01/semiconductor-ai-stocks-chips",
+                  "eng": "Semiconductor Stocks Just Had Their Best Quarter Ever — Then Reality Hit",
+                  "body": "VanEck Semiconductor ETF climbed 82% in H1 2026, strongest since fund launch (May 2000). Micron +238% YTD, Intel +280%, AMD +173%. Q2 alone: Micron/Intel/AMD added $2 trillion market cap. But July 1 pullback: Micron -7.6%, SanDisk -9%, Nvidia -3% as profit-taking and valuation concerns emerge."
+                },
+                {
+                  "headline": "Bank of America Flags 'Bubble Risk' in AI Trade — Tech Stocks Retreat",
+                  "url": "https://finance.yahoo.com/markets/stocks/articles/intel-drops-7-amd-slides-162845077.html",
+                  "eng": "",
+                  "body": "BofA's Bubble Risk Indicator flashes warning: 0.91 for PHLX Semiconductor Sector, 0.82 for Tech Select Sector, 0.69 for Nasdaq 100. Intel -7%, AMD -5%, Taiwan Semi -6% on Wednesday. BoA urges 'valuation discipline' after extended rally but stops short of declaring full bubble."
+                },
+                {
+                  "headline": "Dow Falls 250 Points as Chip Stocks Slide, US-Iran Tensions Rise",
+                  "url": "https://invezz.com/nz/news/2026/07/01/dow-falls-250-points-as-chip-stocks-slide-us-iran-tensions-rise/",
+                  "eng": "",
+                  "body": "US stocks opened lower July 1: Dow -253 pts, S&P 500 -0.46%, Nasdaq -0.68%. Chipmakers under pressure after record H1 gains. Iran refused to meet US envoys, clouding peace hopes. Fed rate hike expectations + geopolitical uncertainty weigh on sentiment."
+                }
+              ]
+            },
+            {
+              "label": "2면 (Marketplace)",
+              "articles": [
+                {
+                  "headline": "Meta Jumps 8% on AI Cloud Business Plans — Selling Excess Compute Capacity",
+                  "url": "https://invezz.com/sg/news/2026/07/01/meta-stock-jumps-on-report-of-ai-cloud-business-expansion-plans/",
+                  "eng": "Meta Jumps 8% on AI Cloud Business Plans",
+                  "body": "Bloomberg reports Meta building cloud business to sell excess AI computing capacity. Two-pronged approach: (1) Model-as-a-Service (AWS Bedrock-like), (2) Raw compute infrastructure (compete with CoreWeave). Meta Compute internal unit formed. Stock surged 8.81% on news. Meta capex $125B-$145B in 2026."
+                },
+                {
+                  "headline": "Nike Swings to Gains After Stronger-Than-Expected Earnings",
+                  "url": "https://www.the-journal.com/articles/most-us-stocks-rise-but-drops-for-tech-keep-wall-street-in-check/",
+                  "eng": "",
+                  "body": "Nike +5.07% after reporting better Q4 profit than expected. CEO Elliott Hill: turnaround underway but headwinds persist. General Mills +7.1% on earnings beat + $3B cost-cutting plan. Kroger acquired Giant Eagle $1.25B + $400M liabilities."
+                },
+                {
+                  "headline": "Oil Falls Over 1% as US-Iran Talks Show Progress — WTI Near $69",
+                  "url": "https://energynow.com/2026/07/oil-falls-over-1-as-markets-await-outcome-of-iran-us-talks-us-stocks-data/",
+                  "eng": "",
+                  "body": "Brent -1.89% to $71.57, WTI -1.32% to $68.58 — lowest since March (4-month low). US-Iran technical talks in Doha via Qatar/Pakistan mediators. Trump: 'getting along very well with Iran.' Strait of Hormuz traffic partially resumed. Brent down $45 in Q2 (largest quarterly loss since 2008 crisis)."
+                }
+              ]
+            },
+            {
+              "label": "3면 (Economy)",
+              "articles": [
+                {
+                  "headline": "Fed Chair Warsh Signals No Rate Cuts, Emphasizes Independence from Trump",
+                  "url": "https://www.pbs.org/newshour/economy/federal-reserve-chair-warsh-emphasizes-political-independence-signals-focus-on-inflation",
+                  "eng": "Fed Chair Warsh Signals No Rate Cuts",
+                  "body": "New Fed Chair Kevin Warsh (Portugal ECB conference): 'We're going to deliver price stability' — if markets expect Fed to accept >2% inflation 'they'd be disappointed.' Underscored Fed independence from Trump. Inflation 4.2% (3-year high) in May. Wall Street expects Sept rate hike from 3.6% to 3.9%."
+                },
+                {
+                  "headline": "Most US Stocks Rise, But Tech Drops Keep Wall Street in Check",
+                  "url": "https://www.the-journal.com/articles/most-us-stocks-rise-but-drops-for-tech-keep-wall-street-in-check/",
+                  "eng": "",
+                  "body": "S&P 500 +0.2%, Dow +269 pts (+0.5%), Nasdaq -0.1% at 11:45am ET. Broad gains: 2/3 of S&P 500 stocks climbed. Manufacturing ISM report: growth slightly slower, prices increasing at slower pace. Heavy weights: Micron -8.8%, Nvidia -1.5%, Applied Materials -8%."
+                },
+                {
+                  "headline": "Big Tech's First Half: Hardware Soars, Software Struggles on AI Spending Doubts",
+                  "url": "https://www.aol.com/articles/big-techs-first-half-story-120311000.html",
+                  "eng": "",
+                  "body": "H1 2026 divergence: Micron +308%, Intel +280%, AMD +173% vs Meta -15%, Microsoft -23%. Amazon/Google/Meta/Microsoft expected $725B capex 2026 (majority AI infrastructure). Wall Street questions software monetization of AI investments. Hardware providers (chips) biggest beneficiaries of AI build-out."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Bloomberg",
+          "url": "bloomberg.com",
+          "pages": [
+            {
+              "label": "1면",
+              "articles": [
+                {
+                  "headline": "Chips Dominate Wall Street's First Half as M7 Falls, Memory Stocks Rise",
+                  "url": "https://en.sedaily.com/international/2026/07/01/chips-dominate-wall-streets-first-half-as-spending-m7-falls",
+                  "eng": "Chips Dominate Wall Street's First Half",
+                  "body": "AI stocks led gains again in H1 2026, but sector returns diverged sharply. Memory/semiconductor stocks outperformed Big Tech software. Magnificent 7 mixed: hardware winners (chip providers) vs software laggards (high capex concerns). Market leadership broadened beyond US mega-caps to Asia/Europe chipmakers."
+                },
+                {
+                  "headline": "Meta Building Cloud Business to Monetize Excess AI Capacity",
+                  "url": "https://seekingalpha.com/article/4919273-wall-street-lunch-metas-ai-cloud-bet-lifts-shares-hits-neocloud-rivals",
+                  "eng": "",
+                  "body": "Meta developing cloud infrastructure business around excess AI compute. Proposals: (1) AWS Bedrock-like model hosting, (2) Raw capacity sales (compete CoreWeave/Nebius/IREN/Applied Digital). Meta Compute internal unit. UBS: monetizing excess compute reduces earnings risk. CoreWeave/Nebius/IREN/APLD stocks fell on news."
+                },
+                {
+                  "headline": "Oil Prices Fall to 4-Month Lows as US-Iran Peace Talks Progress",
+                  "url": "https://www.globalbankingandfinance.com/oil-ticks-higher-irans-refusal-meet-us-envoys-dims-ceasefire/",
+                  "eng": "",
+                  "body": "Oil drops >1% to lowest since March. Brent $71.57 (-1.89%), WTI $68.58 (-1.32%). Optimism over US-Iran talks in Doha allayed supply concerns. Trump: 'talks went well.' Technical discussions on Strait of Hormuz shipping + ceasefire. Tanker traffic partially resumed. Analysts cut 2026 oil forecasts first time since war began."
+                }
+              ]
+            },
+            {
+              "label": "2면 (Markets)",
+              "articles": [
+                {
+                  "headline": "BofA's Bubble Risk Indicator Warns on Tech, Semiconductor Stocks",
+                  "url": "https://stocktwits.com/news-articles/markets/equity/mu-intc-amd-nvda-chip-stocks-slide-bofa-bubble-risk-indicator-warning/cZm30uzR71d",
+                  "eng": "BofA Warns on Tech Bubble Risk",
+                  "body": "Bank of America Bubble Risk Indicator: 0.91 PHLX Semiconductor (high risk), 0.82 Tech Select Sector, 0.69 Nasdaq 100. Scale 0-1 (1=extreme bubble risk). VanEck Semi ETF +76% H1 2026, iShares Semi +108%. Wednesday: chip stocks -3% to -9%. BoA urges valuation discipline after extended rally."
+                },
+                {
+                  "headline": "AI Infrastructure Stocks Fall After Meta Cloud Business Report",
+                  "url": "https://seekingalpha.com/news/4609003-ai-infrastructure-chip-stocks-fall-after-report-meta-building-cloud-business-for-excess-ai-compute",
+                  "eng": "",
+                  "body": "AI infra/chip stocks fell after Bloomberg reported Meta building cloud business. CoreWeave, Nebius, IREN, Applied Digital declined. Investor concern: if Meta/xAI pull back internal AI usage → blow to 'picks-and-shovels' providers capitalizing on AI boom. Double-edged sword: benefits Meta but casts shadow over hardware ecosystem."
+                },
+                {
+                  "headline": "Micron Drops Under $1,000 on DRAM Lawsuit, Oversupply Concerns",
+                  "url": "https://www.fxleaders.com/news/2026/07/01/mu-stock-heads-under-1000-as-micron-selloff-deepens-on-dram-lawsuit-and-oversupply-concerns/",
+                  "eng": "",
+                  "body": "Micron shares -9%+ despite strong Q3 earnings. US class-action lawsuit: Micron/Samsung/SK Hynix allegedly restricted DDR3/DDR4 production, shifted to HBM, artificially tightened supply. South Korea capacity expansion plans → oversupply cycle fears. Legal uncertainty + premium valuations + future supply concerns prompt profit-taking."
+                }
+              ]
+            },
+            {
+              "label": "3면 (Technology)",
+              "articles": [
+                {
+                  "headline": "Tech Led the Market Again, But Biggest Winners Were Outside US",
+                  "url": "https://www.ibtimes.com/tech-led-market-again-americas-biggest-companies-werent-biggest-winners-3804777",
+                  "eng": "Tech Led Market, But Winners Outside US",
+                  "body": "H1 2026: MSCI EM IT Index +90%, MSCI Europe IT +44.8%, MSCI USA IT +19.4%. Asia/Europe chipmakers strongest gains. TSMC +55.5%, SK Hynix +300%, ASML +86.8%, ASM International +93.3%, BE Semi doubled. South Korea Kospi +101.1%, Japan Nikkei +39%, MSCI EM +24%. US indexes: Nasdaq 100 +19.9%, Nasdaq Composite +12.79%, S&P 500 +9.55%, Dow +8.85%."
+                },
+                {
+                  "headline": "AI Stocks Fueled Q2 Comeback, Now Investors Face Reality Check",
+                  "url": "https://www.morningstar.com/stocks/ai-stocks-fueled-markets-q2-comeback-now-investors-face-reality-check",
+                  "eng": "",
+                  "body": "Another Q2 stock market comeback (like 2018/2020/2025). AI stocks led recovery. But divergence emerging: hardware (semiconductors) outperformed, software (Big Tech) struggled with monetization questions. Q2 gains followed Q1 shakiness. Now investors face reality check on valuations and AI spending ROI."
+                },
+                {
+                  "headline": "Federal Reserve Chair Warsh: No Changes to Independence, Focus on Inflation",
+                  "url": "https://connect.netscape.com/news/world/story/0001/20260701/18c005515444abd2043ad113c9849407",
+                  "eng": "",
+                  "body": "Warsh (ECB Portugal conference): 'Independent central bank...no changes to that.' Deflects Trump's rate-cut desires. Inflation 'still high' but 'risks are downward.' Key question: will Warsh hike rates in next meetings to underscore inflation-fighting credibility? If gas prices keep falling, may avoid hike. But nearly half of 19 FOMC members support hikes this year."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "New York Times",
+          "url": "nytimes.com",
+          "pages": [
+            {
+              "label": "1면 (Front Page)",
+              "articles": [
+                {
+                  "headline": "Justices Affirm Birthright Citizenship; States' Bans on Trans Athletes Upheld",
+                  "url": "https://nytimes.pressreader.com/the-new-york-times",
+                  "eng": "Justices Affirm Birthright Citizenship",
+                  "body": "Supreme Court dual ruling July 1: (1) Affirmed birthright citizenship (14th Amendment), rejecting state efforts to restrict. (2) Upheld state bans on transgender athletes in women's sports. Major constitutional decisions with nationwide impact. Justices' own family immigration stories show many paths to citizenship."
+                },
+                {
+                  "headline": "Grim Search in Venezuela After Opposition Crackdown",
+                  "url": "https://nytimes.pressreader.com/the-new-york-times",
+                  "eng": "",
+                  "body": "Venezuela opposition crackdown intensifies. Families search for disappeared activists. Maduro government accused of systematic repression. International human rights concerns mount."
+                },
+                {
+                  "headline": "Most US Stocks Rise, but Tech Drops Keep Wall Street in Check",
+                  "url": "https://www.the-journal.com/articles/most-us-stocks-rise-but-drops-for-tech-keep-wall-street-in-check/",
+                  "eng": "",
+                  "body": "Broad market gains (2/3 S&P 500 stocks climbed) offset by tech heavyweights. Micron -8.8%, Nvidia -1.5%, Applied Materials -8%. ISM manufacturing: growth continued but slower, prices increasing at slower pace. General Mills +7.1%, Nike +4.8% after earnings beats. Market checks tech euphoria."
+                }
+              ]
+            },
+            {
+              "label": "2면 (Business)",
+              "articles": [
+                {
+                  "headline": "Semiconductor Stocks Retreat After Record First Half — Profit-Taking Begins",
+                  "url": "https://sundayguardianlive.com/business/us-stock-market-today-why-are-chip-stocks-down-today-semiconductor-stocks-fall-on-profit-booking-after-massive-ai-rally-as-micron-amd-intel-decline-amid-nasdaq-weakness-223040/",
+                  "eng": "Chip Stocks Retreat After Record Rally",
+                  "body": "Why chip stocks down? Profit booking after massive AI rally. Micron/AMD/Intel decline amid Nasdaq weakness. VanEck Semi ETF +76% H1 2026 (record). iShares Semi +108% H1. Wednesday selloff: valuation concerns + BofA bubble warning + end of extraordinary rally. Investors locking in gains."
+                },
+                {
+                  "headline": "Meta's AI Cloud Bet Lifts Shares, Hits Neocloud Rivals",
+                  "url": "https://seekingalpha.com/article/4919273-wall-street-lunch-metas-ai-cloud-bet-lifts-shares-hits-neocloud-rivals",
+                  "eng": "",
+                  "body": "Meta +8%+ on cloud business plans. Developing business unit to monetize excess AI compute. William Blair updated Conviction List: added Oracle, deleted Meta (after 6-month holding) and Chewy. UBS: selling cloud/AI access yields higher near-term revenue vs waiting for Meta Business Agents/chatbots to scale."
+                },
+                {
+                  "headline": "Fed Chair Emphasizes Independence, Likely Forecloses Trump's Rate-Cut Hopes",
+                  "url": "https://www.pbs.org/newshour/economy/federal-reserve-chair-warsh-emphasizes-political-independence-signals-focus-on-inflation",
+                  "eng": "",
+                  "body": "Warsh shifts from 2025 lower-rate advocacy (campaign mode) to 2026 inflation-fighter stance. Portugal remarks: 'deliver price stability' — no accepting >2% inflation. Fed independence from day-to-day politics reaffirmed. Wall Street expects Sept hike possible (3.6% → 3.9%). Hiring picked up, economists forecast strong employment reports reduce pressure for cuts."
+                }
+              ]
+            },
+            {
+              "label": "3면 (World)",
+              "articles": [
+                {
+                  "headline": "US and Iran Enter Technical Talks to Secure Peace Deal, Shipping Restart",
+                  "url": "https://gvwire.com/2026/07/01/us-and-iran-enter-technical-talks-to-secure-peace-deal-shipping-restart/",
+                  "eng": "US-Iran Technical Talks Begin in Doha",
+                  "body": "US-Iran indirect technical talks in Doha Wednesday (Qatar/Pakistan mediators). Based on 14-point interim accord (halt war, reopen Strait, 60-day negotiations for permanent peace). Topics: Hormuz shipping flows, ceasefire enforcement. Trump son-in-law Kushner + envoy Witkoff met Qatar PM (groundwork) but not attending talks. Iran priorities: strait management, $6B frozen assets release."
+                },
+                {
+                  "headline": "Oil Declines After US-Iran Peace Talks Show Signs of Progress",
+                  "url": "https://www.moneyweb.co.za/news/markets/oil-declines-after-us-iran-peace-talks-show-signs-of-progress/",
+                  "eng": "",
+                  "body": "Brent toward $79, WTI near $77 after peace talks progress. Qatar/Pakistan statement: roadmap toward final deal in 60 days, technical talks continue. Iran FM Abbas Araghchi: major progress to end Lebanon conflict. Despite Iran claiming Hormuz closed again, millions of barrels continued flowing. 80M barrels crude set to hit market if Hormuz fully reopens."
+                },
+                {
+                  "headline": "Trump Threatens Japan with 35% Tariffs as Trade Tensions Escalate",
+                  "url": "https://www.iheart.com/podcast/1119-bloomberg-daybreak-us-edi-83986475/episode/tax-bill-hits-republican-resistance-trumps-283783791/",
+                  "eng": "",
+                  "body": "Trump threatened Japan tariffs up to 35% (3rd day of ramp-up). Fueling fears of worst-case scenario, raising doubts over Tokyo trade tactics. Trump more optimistic about India deal: possible to lower tariffs if India allows reciprocal access. July 9 deadline approaching for dozens of countries tariff rate increases."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Financial Times",
+          "url": "ft.com",
+          "pages": [
+            {
+              "label": "1면 (Front Page)",
+              "articles": [
+                {
+                  "headline": "Nasdaq Tumbles 4% as Shares in Chip and Memory Groups Sink",
+                  "url": "https://www.ft.com/content/2929bbd3-1f71-4424-a577-f016c3c65603",
+                  "eng": "Nasdaq Tumbles 4% on Chip Selloff",
+                  "body": "(FT paywall) Nasdaq significant decline as semiconductor/memory groups sink. Broad-based chip selloff. Market reassessing AI valuations after extraordinary rally. Profit-taking intensifies across tech sector."
+                },
+                {
+                  "headline": "US Chipmakers Hit by Sudden Downturn After Pandemic Boom",
+                  "url": "https://www.ft.com/content/60fc295d-e9d1-4c2b-92fe-f9dc06a822e4",
+                  "eng": "",
+                  "body": "(FT paywall) Semiconductor industry facing sudden downturn reversal after pandemic/AI boom. Supply chain recalibration. Demand questions emerging. Cyclical nature reasserting after two years of extraordinary growth."
+                },
+                {
+                  "headline": "The Signal From Semiconductors — Industry Slowdown Will Last Longer Than Expected",
+                  "url": "https://www.ft.com/content/af278419-787d-4234-869f-0c4303202fb3",
+                  "eng": "",
+                  "body": "(FT paywall) Chip industry slowdown duration warning. Manufacturers caution extended weakness ahead. Inventory corrections + demand normalization after AI-driven surge. Longer adjustment period than initially forecast."
+                }
+              ]
+            },
+            {
+              "label": "2면 (Companies & Markets)",
+              "articles": [
+                {
+                  "headline": "Semiconductors Poised for Worst Day Since June — Valuation Concerns Mount",
+                  "url": "https://www.ft.com/content/52b9164b-ed12-36d7-a2e4-da20f01f7649",
+                  "eng": "Semiconductors Face Worst Day Since June",
+                  "body": "(FT paywall) Semiconductor sector worst daily performance since June volatility. Valuation concerns mounting after 82% H1 rally. BofA bubble warnings + profit-taking + supply concerns converge. Investors reassessing risk-reward after parabolic gains."
+                },
+                {
+                  "headline": "Apple Seeks to Buy Memory Chips from Blacklisted Chinese Company",
+                  "url": "https://www.ft.com/semiconductors",
+                  "eng": "",
+                  "body": "Apple wants Trump admin approval to buy from blacklisted Chinese memory chipmaker. Pressure from rising semiconductor prices. iPhone maker lost $263B market cap, blames AI-driven memory shortage costs. Apple increased MacBook/iPad prices 20%. Micron shares volatile."
+                },
+                {
+                  "headline": "Nvidia's Banned AI Chips Double in Price on China's Black Market",
+                  "url": "https://www.ft.com/semiconductors",
+                  "eng": "",
+                  "body": "Export-banned Nvidia AI chips doubling in price on China black market. Shows sustained demand despite restrictions. Gray market thriving. China tech firms desperate for cutting-edge AI compute despite US restrictions."
+                }
+              ]
+            },
+            {
+              "label": "3면 (Global Markets)",
+              "articles": [
+                {
+                  "headline": "Asia-Pacific Equities Ease After AI-Fuelled Rally; Dollar Weighs on Currencies",
+                  "url": "https://hk.marketscreener.com/news/asian-stocks-ease-after-ai-fuelled-rally-dollar-weighs-on-currencies-ce7f5fddde88fe23",
+                  "eng": "Asian Stocks Ease After AI Rally",
+                  "body": "Asian equities pull back after AI-fuelled rally. Strong dollar weighing on regional currencies. Seoul shares -2%+ on tech losses amid Iran deal uncertainty. Korea won weakened vs USD. Profit-taking across region after semiconductor-led gains."
+                },
+                {
+                  "headline": "Seoul Shares Dip Over 2% on Tech Losses Amid Iran Deal Uncertainty",
+                  "url": "https://en.yna.co.kr/view/AEN20260701006500320",
+                  "eng": "",
+                  "body": "KOSPI -173.07 pts (-2.04%) to 8,303.41. Investors locked in gains following recent AI-fueled semiconductor rallies. Uncertainty over fragile US-Iran peace talks. Overnight US stocks closed higher on chip rally, but Korea diverged. Samsung Electronics/SK Hynix declined despite robust June export data ($100B+ record, semiconductor shipments record)."
+                },
+                {
+                  "headline": "Chipmakers Are Expensive Globally — Valuation Stretched After Rally",
+                  "url": "https://www.ft.com/semiconductors",
+                  "eng": "",
+                  "body": "Global chipmaker valuations stretched. Broadcom $285B rout (one of biggest valuation wipeouts on record, -12% Thursday). Revenue outlook disappointed. Micron shares jump then slide volatility. Apple seeks memory chips from blacklisted sources. Sector reassessing after parabolic gains."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Washington Post",
+          "url": "washingtonpost.com",
+          "pages": [
+            {
+              "label": "1면 (Front Page)",
+              "articles": [
+                {
+                  "headline": "Most US Stocks Rise, But Tech Drops Keep Market Gains in Check",
+                  "url": "https://www.the-journal.com/articles/most-us-stocks-rise-but-drops-for-tech-keep-wall-street-in-check/",
+                  "eng": "Most Stocks Rise, Tech Weighs Down",
+                  "body": "S&P 500 +0.2% toward 3rd straight gain after 5 losses. Dow +269pts (+0.5%), Nasdaq -0.1%. Two-thirds S&P 500 stocks climbed. General Mills +7.1% (earnings beat + $3B cost cuts). Heaviest weights: Micron -8.8%, Nvidia -1.5%, Applied Materials -8%. Stocks zigzagging on AI valuation worries."
+                },
+                {
+                  "headline": "Tax Bill Hits Republican Resistance; Trump's Tariff Threats Continue",
+                  "url": "https://www.iheart.com/podcast/1119-bloomberg-daybreak-us-edi-83986475/episode/tax-bill-hits-republican-resistance-trumps-283783791/",
+                  "eng": "",
+                  "body": "Trump multitrillion-$ tax bill facing GOP resistance in House. Moderates worry Medicaid cuts, ultraconservatives oppose deficit impact. Barely passed Senate (VP Vance tie-breaker). House Speaker Johnson: vote by week end. Trump calling resistant Republicans 'grandstanders.' One week until July 9 tariff deadline."
+                },
+                {
+                  "headline": "Wall Street's Largest Lenders Boost Dividends After Passing Fed Stress Tests",
+                  "url": "https://www.iheart.com/podcast/1119-bloomberg-daybreak-us-edi-83986475/episode/tax-bill-hits-republican-resistance-trumps-283783791/",
+                  "eng": "",
+                  "body": "Major banks boosted dividends after passing 2026 Fed stress tests. Regulators softened some requirements vs previous years. Banks cleared hurdle, rewarding shareholders. Financial sector stability signal amid broader market volatility."
+                }
+              ]
+            },
+            {
+              "label": "2면 (Business)",
+              "articles": [
+                {
+                  "headline": "Big Tech's First Half Story: Hardware vs Software — Chip Stocks Soar, Software Struggles",
+                  "url": "https://www.aol.com/articles/big-techs-first-half-story-120311000.html",
+                  "eng": "Hardware vs Software in H1 2026",
+                  "body": "H1 2026: Chip stocks blowout outside Nvidia. Micron +308%, Intel +280%, AMD +173% vs Meta -15%, Microsoft -23%. Wall Street riding AI build-out but questioning software monetization. Amazon/Google/Meta/Microsoft $725B capex 2026 (majority AI infrastructure). Hardware providers (chips powering data centers) biggest beneficiaries."
+                },
+                {
+                  "headline": "AI Stocks Waver as 'Big Short' Investor Bets Against Palantir, Nvidia",
+                  "url": "https://cdotimes.com/2025/11/04/ai-stocks-waver-as-big-short-investor-bets-against-palantir-nvidia-the-washington-post/",
+                  "eng": "",
+                  "body": "Michael Burry ('Big Short' fame) betting against AI stocks — Palantir, Nvidia shorts. AI skepticism from famous contrarian. Bubble warnings gaining attention. Valuation discipline urged. Legendary investor sees overvaluation risks in AI trade."
+                },
+                {
+                  "headline": "Magnificent 7 Lost $2.3 Trillion in June — Time to Trim US Tech Stocks?",
+                  "url": "https://www.livemint.com/money/personal-finance/magnificent-7-lost-2-3-trillion-is-it-time-to-trim-us-tech-stocks-microsoft-nvidia-alphabet-apple-meta-amazon-11782823232568.html",
+                  "eng": "",
+                  "body": "Mag-7 (Microsoft, Nvidia, Apple, Amazon, Meta, Alphabet, Tesla) lost $2.3T value in June. Uncertainty over AI investments. Major declines for Microsoft and Nvidia. Investors advised diversify portfolios, consider market concentration to mitigate risks. Valuation reset after extended rally."
+                }
+              ]
+            },
+            {
+              "label": "3면 (National)",
+              "articles": [
+                {
+                  "headline": "Federal Reserve Chair Warsh Emphasizes Political Independence, Signals Focus on Inflation",
+                  "url": "https://www.pbs.org/newshour/economy/federal-reserve-chair-warsh-emphasizes-political-independence-signals-focus-on-inflation",
+                  "eng": "Warsh Emphasizes Fed Independence",
+                  "body": "Warsh (ECB Portugal conference): Fed 'independent central bank...no changes to that.' Deflects Trump rate-cut desires. If markets expect Fed accept >2% inflation 'they'd be disappointed.' Inflation 4.2% (3-year high) but may have peaked as gas prices decline. Key question: will Warsh hike rates next meetings? Nearly half 19 FOMC members support hikes this year."
+                },
+                {
+                  "headline": "Tech Sector Gains: Consumer Electronics and Software Shine Amid Semiconductor Woes",
+                  "url": "https://investinglive.com/stock-market-update/tech-sector-gains-consumer-electronics-and-software-shine-amid-semiconductor-woes-20260701/",
+                  "eng": "",
+                  "body": "Tech sector divided: semiconductor red wave (Micron -7.07%, AMD -5.47%, Intel -4.16%) vs consumer electronics/software green (Apple +1.31%, Microsoft +2.27%). Investor apprehension on semis (supply chain issues) vs confidence in consumer tech. Strategic realignment toward software/consumer electronics sectors recommended."
+                },
+                {
+                  "headline": "US Employment Report Due Thursday — Key Test for Fed Policy Path",
+                  "url": "https://krcrtv.com/news/nation-world/all-eyes-on-kevin-warsh-new-fed-chair-to-hold-first-post-meeting-news-conference-federal-reserve-central-bank-interest-rates-inflation-open-market-committee-global-trade-spending-iran-war-gas-oil-fuel-peace-deal-jerome-powell-president-donald-trump",
+                  "eng": "",
+                  "body": "Economists forecast strong employment report Thursday. Nearly half Fed policymakers signal could support rate hike later 2026. Warsh's first FOMC meeting: kept rates 3.5-3.75%. Statement may no longer signal next move is cut — could keep unchanged extended or even raise if inflation stays elevated. Iran war lifted inflation to 4.2%, but peace could cool prices over months."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
