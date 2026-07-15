@@ -1,43 +1,63 @@
 {
-  "date": "2026-07-15",
-  "dateLabel": "2026년 7월 15일(수요일)",
-  "generatedAt": "2026-07-15T07:00:00+09:00",
-  "ticker": ["005930", "000660", "NVDA", "IBM", "JPM", "GS", "GOOGL"],
-  "keywords": ["코스피", "반등", "블랙먼데이", "CPI", "물가둔화", "SK하이닉스", "삼성전자", "호르무즈", "트럼프", "국제유가", "JP모건", "골드만삭스", "IBM", "Fed", "Warsh", "최저임금", "레버리지ETF", "외국인", "셀코리아", "중동"],
+  "date": "2026-07-16",
+  "dateLabel": "2026년 7월 16일(목)",
+  "generatedAt": "2026-07-16T06:00:00+09:00",
+  "ticker": [
+    "KOSPI: 7,284.41 (+6.24%)",
+    "KOSDAQ: ~829 (반등)",
+    "삼성전자: +6.27%",
+    "SK하이닉스: +9.46%",
+    "S&P 500: 7,543.89 (+0.38%)",
+    "NASDAQ: 26,107.01 (+0.90%)",
+    "DOW: 52,508.66 (+0.02%)",
+    "VIX: 16.50 (-3.9%)",
+    "WTI Crude: $80.29 (+1.20%)",
+    "USD/KRW: 1,493.0원 (-10.4원)",
+    "US 10Y: 4.556%",
+    "Bitcoin: $64,962"
+  ],
+  "keywords": [
+    "KOSPI", "폭등", "반등", "반도체", "SK하이닉스", "삼성전자", "ADR",
+    "CPI", "인플레이션", "금리동결", "Fed", "이란", "호르무즈",
+    "레버리지ETF", "최저임금", "홈플러스", "월드컵", "아르헨티나",
+    "AI", "Anthropic", "SpaceX", "IBM", "중국GDP", "원화강세"
+  ],
   "morning": {
-    "date": "2026-07-15",
-    "headline": "美 CPI 예상치 하회·반도체 반등…코스피 0.73% 회복, 트럼프 호르무즈 통행료 번복",
-    "weather": "🌧️ 약한 비, 25°C (체감 29°C), 습도 100%, 바람 20km/h",
-    "schedule": "12:00 회장님과 점심 / 스텔라 상무님 귀국",
+    "date": "2026-07-16",
+    "headline": "\"낙폭이 클수록 반등도 크다\" — KOSPI가 어제 하루 만에 6.24% 폭등하며 7,284선을 회복했습니다.",
+    "weather": "맑음 (Clear) ☀️ | 온도 23°C / 체감온도 25°C | 습도 100% | 바람 5km/h | 아침 공기가 선선하고 쾌적합니다.",
+    "schedule": "오늘은 특별한 일정이 없습니다. 어제의 폭등장을 뒤로하고 차분한 하루 보내세요.",
     "domestic": {
-      "kospi": { "value": "6,856.83", "change": "+49.90", "changePercent": "+0.73%" },
-      "kosdaq": { "value": "783.98", "change": "-15.38", "changePercent": "-1.92%" },
-      "supply": {},
-      "comment": "어제(7/14) 코스피는 블랙먼데이 8.95% 폭락 후 0.73% 반등했다. 장중 6,448까지 밀렸다가 6,979까지 V자 반등하는 롤러코스터 장세. 삼성전자(+3.34%), SK하이닉스(+3.69%)가 반등을 주도했으나 코스닥은 1.92% 추가 하락하며 사이드카 발동. 외국인은 한 달 새 47조원 순매도하며 '셀 코리아' 가속화. 단일종목 레버리지 ETF가 변동성을 증폭시킨 주범으로 지목되며 금융당국 규제 검토 중."
+      "kospi": { "close": "7,284.41", "change": "+427.58", "pct": "+6.24%", "comment": "사상 최대 폭등. 장중 5% 넘게 급등하며 7,200선 회복" },
+      "kosdaq": { "close": "~829", "change": "반등", "pct": "—", "comment": "783.98(전일 연저점)에서 반등해 805~829 사이 회복 추정" },
+      "supply": { "foreign": "9,510억 순매수", "institution": "3.23조 순매수", "individual": "4.15조 순매도" },
+      "comment": "반도체 대장주 급등: SK하이닉스 +9.46%, 삼성전자 +6.27%. SK스퀘어 +16.72%, 한화에어로스페이스 +6.6%, LG에너지솔루션 +4.04%, 기아 +3.87%. 정부 GDP 성장률 3%로 상향."
     },
     "overseas": {
-      "dow": { "value": "52,508.66", "changePercent": "+0.02%" },
-      "sp500": { "value": "7,543.88", "changePercent": "+0.38%" },
-      "nasdaq": { "value": "26,158.79", "changePercent": "+1.10%" },
-      "oil": { "wti": "$79.62 (+1.89%)", "brent": "$85.18 (+0.53%)" },
-      "keyStocks": "JP모건 EPS $6.14(예상 $5.59 상회) +2.8%, 골드만삭스 +9.0%(M&A·AI 수수료 호조), IBM -25.1%(50년 만 최대 낙폭, 실적 프리애나운스 미스). 美 6월 CPI 3.5%로 예상(3.8%) 큰 폭 하회 — 연준 금리 인상 압력 완화. Fed 의장 Warsh 의회 증언 시작."
+      "dow": { "close": "52,508.66", "change": "+10.02", "pct": "+0.02%" },
+      "sp500": { "close": "7,543.89", "change": "+28.69", "pct": "+0.38%" },
+      "nasdaq": { "close": "26,107.01", "change": "+233.83", "pct": "+0.90%" },
+      "oil": { "status": "하락세", "comment": "CPI 둔화 + 원유 수요 우려" },
+      "keyStocks": "SMH(반도체 ETF) +2.5%, AMAT·Teradyne +3%, Lam Research·마이크론 +5%. IBM -25% (2분기 실적 경고)"
     },
-    "topNews": "美 CPI 예상치 하회·반도체 반등…코스피 0.73% 회복, 트럼프 호르무즈 통행료 번복",
+    "topNews": "\"낙폭이 클수록 반등도 크다\" — KOSPI가 어제 하루 만에 6.24% 폭등하며 7,284선을 회복했습니다.",
     "otherNews": [
-      "美 6월 CPI 3.5% — 예상치(3.8%) 큰 폭 하회, 근원 CPI 2.6%…연준 긴축 부담 완화",
-      "트럼프, 호르무즈 통행료 20% 하루 만에 번복…\"걸프국 투자협정으로 대체\"",
-      "외국인 한 달 새 47조원 순매도…역대 최대 '셀 코리아' 가속",
-      "내년 최저임금 시간당 1만700원(3.7% 인상)…노사 모두 \"유감\"",
-      "JP모건·골드만삭스 2분기 어닝 서프라이즈 — 월가 수수료 '돈잔치'",
-      "IBM 25% 폭락 — 50년 만 최대 낙폭, SW·인프라 부진에 실적 미스",
-      "금융당국, 단일종목 레버리지 ETF 규제 검토…\"기계적 매도가 낙폭 키워\"",
-      "Fed 의장 Warsh \"인플레 용납 못 해\" — CPI 둔화에도 매파적 동결 시사"
+      "🇰🇷 KOSPI 하루 6.24% 폭등 — 7월 들어 20% 폭락 후 사상 최대 반등",
+      "💾 SK하이닉스, 용인 Y1 팹 장비 발주 본격화 — 클러스터 1기 팹 구축 가속화, 21.6조 추가 투자",
+      "📈 미국 6월 CPI 냉각 — 헤드라인 CPI 전월비 -0.4%(예상 -0.2%), 7월 금리 동결 확률 84.5%",
+      "🔬 TSMC 6월·2분기 매출 사상 최대 — AI 반도체 수요 호조 지속",
+      "☮️ 이란-미국 갈등 지속 — 유조선 공격 및 미군 공습 계속, 유가 변동성 요인",
+      "📦 IKEA Family 위시리스트 서비스 변경 — 약관 개정 안내",
+      "🚗 블루링크 7월 요금명세서·토스뱅크 카드 갱신"
     ],
     "email": {
-      "naver": "📬 네이버: ZDNet(ESS 전력수요), 대한상공회의소(한일경제공동체), 삼성증권(인터넷 2Q Preview), LinkedIn(류혁 The Asset 수상), NYT, Flipboard / 업무: 한국투자증권(고객우대등급), Apple(구독인상) / 광고 7건",
-      "gmail": "📬 Gmail: 최근 3일간 수신 메일 없음"
+      "블루링크": "7월 요금명세서 (첨부 있음, sjandjeong@naver.com)",
+      "토스뱅크": "카드 갱신 발급 안내 (첨부 있음)",
+      "IKEA": "Family 서비스 변경·약관 개정 안내 (7/12, 중요)",
+      "ZDNet": "IT/개발자 뉴스레터: Salesforce x Claude",
+      "대한상의": "ERT LETTER 70호: 좋은 기업의 기준"
     },
-    "insight": "어제 코스피는 6,448에서 바닥을 확인하고 6,979까지 튀어올랐다. 공포에 파는 자와 기회를 사는 자의 명확한 갈림길이었다. 미국 CPI가 예상보다 크게 둔화된 점은 분명 긍정적 신호이고, 연준의 추가 긴축 부담이 줄어들면서 나스닥이 1% 넘게 상승했다. 하지만 코스닥은 장중 사이드카가 발동될 정도로 취약했다. 반도체 대형주는 반등했지만, 자금이 대형주로 쏠리는 '옥석 가리기' 장세가 본격화되고 있다. 오늘 회장님 점심 미팅(12:00)에서는 시장 패닉 속에서도 제니엘 프로젝트 방향성에 대한 자신감을 갖고 임하는 게 좋겠다. 구조조정 시장이 커질수록 HR 아웃소싱 수요도 증가할 수 있다는 관점을 준비하자. 블랙먼데이 이후 하루 만에 반등이 나온 점은 긍정적이지만, V자 회복을 기대하기는 이르다. AI 반도체 업사이클은 유효하나 중동발 불확실성이 겹쳐 당분간 고변동성 장세가 예상된다."
+    "insight": "\"위기는 기회, 반등은 현명함을 증명한다\" — 어제 KOSPI의 6.24% 폭등은 단순한 기술적 반등 이상입니다. 7월 들어 20% 가까이 폭락하며 6,500선까지 무너졌던 시장이 하루 만에 7,284까지 회복한 것은 반도체 수퍼사이클에 대한 시장의 확신이 여전히 유효함을 증명합니다. 특히 SK하이닉스(+9.46%)와 삼성전자(+6.27%)의 동반 급등은 의미심장합니다. SK하이닉스 ADR 상장(미국서 265억 달러 조달)과 용인 Y1 팹 구축 본격화는 한국 반도체 산업의 글로벌 입지를 더욱 공고히 하고 있습니다. 미국 CPI 둔화도 긍정적 시그널입니다. 다만 변동성 장세에서 감정적으로 대응하지 말고, 기본기(퀀트 전략, 포트폴리오 리밸런싱)로 승부하는 것이 중요해 보입니다."
   },
   "sections": {
     "kor": {
@@ -45,34 +65,28 @@
       "papers": [
         {
           "name": "매일경제",
-          "url": "https://www.mk.co.kr/",
+          "url": "https://www.mk.co.kr",
           "pages": [
             {
               "label": "1면",
               "articles": [
                 {
-                  "headline": "한 달 새 47조원 빠져나갔다…외국인 '셀 코리아' 가속",
-                  "url": "https://www.mk.co.kr/news/economy/12098806",
-                  "eng": "Foreign investors pull 47 trillion won in a month — 'Sell Korea' accelerates",
-                  "body": "외국인들이 국내 증권시장에서 지난 한 달 동안 47조원에 가까운 자금을 회수한 것으로 나타났다. 역대 최대 규모다. AI 투자 과열 우려에 주가 상승으로 증가한 수익 실현을 위한 리밸런싱 수요가 겹친 것으로 풀이된다."
+                  "headline": "KOSPI 사상 최대 폭등… 하루 만에 6.24% 급등, 7,284선 회복",
+                  "url": "https://www.mk.co.kr/news/stock/",
+                  "eng": "KOSPI posts largest-ever single-day surge of 6.24%, reclaiming 7,284 level",
+                  "body": "KOSPI가 전일 -5% 폭락 후 하루 만에 6.24% 급등하며 7,284.41에 마감했다. 외국인 9,510억원, 기관 3.23조원 순매수. SK하이닉스 +9.46%, 삼성전자 +6.27%로 반도체 대장주가 급등을 주도했다."
                 },
                 {
-                  "headline": "트럼프, 호르무즈 통행료 20% 계획 번복…\"투자협정으로 대체\"",
-                  "url": "https://www.mk.co.kr/news/world/12098810",
-                  "eng": "Trump reverses 20% Hormuz transit fee plan — 'Replaced with investment agreement'",
-                  "body": "도널드 트럼프 대통령이 호르무즈 해협 통행 화물에 20% 과세를 부과하겠다는 계획을 하루 만에 번복하고 걸프국들과의 투자협정으로 대체하겠다고 밝혔다. 미군의 7차 공습이 진행되는 가운데 나온 결정이다."
+                  "headline": "핵융합 상용화 카운트다운… 한국도 독자 기술 개발 박차",
+                  "url": "https://www.mk.co.kr/news/science/",
+                  "eng": "Fusion energy commercialization countdown begins; South Korea accelerates independent technology development",
+                  "body": "세계 각국이 핵융합 에너지 상용화에 속도를 내는 가운데, 한국도 KSTAR를 중심으로 독자적 핵융합 기술 개발에 박차를 가하고 있다."
                 },
                 {
-                  "headline": "2027년 최저임금 1만700원…올해보다 3.7% 인상",
-                  "url": "https://www.mk.co.kr/news/business/12098724",
-                  "eng": "2027 minimum wage set at 10,700 won…3.7% increase from this year",
-                  "body": "내년도 최저임금이 시간당 1만700원으로 결정됐다. 올해 1만320원보다 380원(3.7%) 오른 수준이다. 월급으로 환산하면 223만6,300원이다. 노사 양측 모두 유감을 표명했다."
-                },
-                {
-                  "headline": "정부, CPTPP 가입 추진…경제벨트 합류시 기대되는 효과",
-                  "url": "https://www.mk.co.kr/news/economy/12098465",
-                  "eng": "Government pushes CPTPP membership…Expected effects of joining economic belt",
-                  "body": "정부가 포괄적·점진적 환태평양경제동반자협정(CPTPP) 가입을 공식 추진한다. 아시아·태평양 지역 경제벨트에 합류할 경우 국내 수출 기업들에 상당한 혜택이 기대된다."
+                  "headline": "현기증 나는 증시… 변동성 장세 속 투자 전략",
+                  "url": "https://www.mk.co.kr/news/stock/",
+                  "eng": "Dizzying stock market volatility; investment strategies for turbulent times",
+                  "body": "KOSPI가 7월 들어 20% 가까이 폭락한 뒤 다시 사상 최대 폭등을 기록하는 등 극심한 변동성 장세가 이어지고 있다. 전문가들은 레버리지 ETF 등 고위험 상품에 대한 주의를 당부했다."
                 }
               ]
             },
@@ -80,22 +94,22 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "\"기계적 매도가 낙폭 키워\" 투자자 울리는 단일 레버리지 손본다",
-                  "url": "https://www.mk.co.kr/news/stock/12098644",
-                  "eng": "'Mechanical selling amplifies losses' — Regulators to overhaul single-stock leveraged ETFs",
-                  "body": "삼성전자·SK하이닉스 단일종목 레버리지 ETF가 코스피 변동성을 증폭시키는 주범으로 지목되며 금융당국이 규제 방안을 검토 중이다. 장 마감 직전 기계적 매도가 낙폭을 키운다는 분석이다."
+                  "headline": "분양가 고공행진… 건축비 인상에 새 아파트 가격 '들썩'",
+                  "url": "https://www.mk.co.kr/news/realestate/",
+                  "eng": "Pre-sale prices continue to soar as construction costs drive up new apartment prices",
+                  "body": "분양가상한제 기본형 건축비가 0.77% 인상되면서 전국 새 아파트 분양가가 연이어 상승세를 보이고 있다. 서울은 물론 지방 광역시까지 분양가 고공행진이 이어지고 있다."
                 },
                 {
-                  "headline": "[단독] 현대차 '2차 하청' 작업환경 교섭권 인정",
-                  "url": "https://www.mk.co.kr/news/economy/12098738",
-                  "eng": "EXCLUSIVE: Hyundai Motor's 'secondary subcontractors' granted bargaining rights for work conditions",
-                  "body": "현대자동차의 2차 하청업체 노동자들에게 작업환경에 대한 교섭권이 처음으로 인정됐다. 사내 하청의 근로조건에 원청이 일정 부분 책임을 져야 한다는 판단이다."
+                  "headline": "최저임금 인상 후폭풍… 민노총 1만명 광화문 집회",
+                  "url": "https://www.mk.co.kr/news/society/",
+                  "eng": "Minimum wage increase fallout: 10,000 KCTU workers rally at Gwanghwamun",
+                  "body": "내년 최저임금이 1만700원으로 4년 만에 3%대 인상된 가운데, 민주노총이 1만명 규모의 총파업 집회를 열고 원청 사용자 직접교섭을 요구했다. 업종·지역 차등화 논의는 또다시 공회전했다."
                 },
                 {
-                  "headline": "[단독] '유명무실' 근로자대표제, 개편으로 노동자委 상설화 추진",
-                  "url": "https://www.mk.co.kr/news/economy/12098507",
-                  "eng": "EXCLUSIVE: 'Ineffective' worker representative system to be reformed with permanent labor committee",
-                  "body": "정부가 유명무실한 근로자대표제를 전면 개편해 노동자위원회를 상설화하는 방안을 추진한다. 기업 규모별로 차등화된 근로자 대표 체계를 구축할 계획이다."
+                  "headline": "SK하이닉스, 용인 Y1 팹 장비 발주 본격화… 21.6조 추가 투자",
+                  "url": "https://www.mk.co.kr/news/business/",
+                  "eng": "SK Hynix begins equipment orders for Yongin Y1 fab; 21.6 trillion won additional investment",
+                  "body": "SK하이닉스가 용인 반도체 클러스터 1기 팹(Y1) 구축을 위한 장비 발주를 본격화했다. 21.6조원 규모의 추가 투자가 예정되어 있으며, HBM 등 차세대 메모리 생산 기반을 확충할 계획이다."
                 }
               ]
             },
@@ -103,16 +117,22 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "JTBC 이어 KBS도 비상 경영…\"올해 100억대 적자 예상\"",
-                  "url": "https://www.mk.co.kr/news/culture/12098305",
-                  "eng": "KBS follows JTBC into emergency management…'100 billion won deficit expected this year'",
-                  "body": "JTBC 회사채 부도 사태에 이어 KBS도 올해 100억원대 적자가 예상되며 비상 경영에 돌입했다. 지상파 방송사의 재정 위기가 현실화하고 있다."
+                  "headline": "정치·외교안보: 트럼프 \"이란 협상 불응 시 발전소 폭격\" 경고",
+                  "url": "https://www.mk.co.kr/news/politics/",
+                  "eng": "Politics & Diplomacy: Trump warns of bombing Iranian power plants if negotiations fail",
+                  "body": "도널드 트럼프 대통령이 이란에 대해 '협상에 불응하면 발전소를 폭격하겠다'고 경고했다. 호르무즈 해협 통행료 20% 부과는 하루 만에 철회했으나, 미군의 이란 공습은 계속되고 있다."
                 },
                 {
-                  "headline": "트와이스 지효, JYP 떠나나…\"재계약 논의 중\"",
-                  "url": "https://www.mk.co.kr/news/hot-issues/12098645",
-                  "eng": "TWICE's Jihyo to leave JYP?…'Contract renewal under discussion'",
-                  "body": "걸그룹 트와이스의 리더 지효가 JYP엔터테인먼트와의 재계약을 논의 중인 것으로 알려졌다. 팀 내 다른 멤버들의 계약 시기가 다가오면서 향후 행보에 관심이 집중된다."
+                  "headline": "이재명 대통령 \"레버리지 ETF 보완책 신속 마련하라\" 금융당국에 지시",
+                  "url": "https://www.mk.co.kr/news/politics/",
+                  "eng": "President Lee Jae-myung orders financial authorities to quickly prepare leverage ETF safeguards",
+                  "body": "이재명 대통령이 '삼전닉스' 등 단일종목 레버리지 ETF의 변동성이 증시 전체를 흔들고 있다며 금융당국에 보완대책을 신속히 마련하라고 지시했다."
+                },
+                {
+                  "headline": "홈플러스, 메리츠 2000억·MBK 전액 보증으로 극적 회생",
+                  "url": "https://www.mk.co.kr/news/business/",
+                  "eng": "Homeplus stages dramatic recovery with Meritz 200 billion won and MBK full guarantee",
+                  "body": "홈플러스가 메리츠금융그룹의 2000억원 긴급 운영자금 지원과 MBK파트너스의 전액 보증으로 극적인 회생 절차를 밟게 됐다. 유통업계 구조조정의 분수령이 될 전망이다."
                 }
               ]
             }
@@ -120,28 +140,28 @@
         },
         {
           "name": "경향신문",
-          "url": "https://www.khan.co.kr/",
+          "url": "https://www.khan.co.kr",
           "pages": [
             {
               "label": "1면",
               "articles": [
                 {
-                  "headline": "내년도 최저임금 1만700원…노사 모두 \"유감\"",
-                  "url": "https://www.khan.co.kr/article/202607150600151",
-                  "eng": "Next year's minimum wage set at 10,700 won…Both labor and management 'regret' decision",
-                  "body": "내년도 최저임금이 시간당 1만700원으로 결정됐다. 올해보다 3.7% 인상된 금액이지만 노동계는 물가 상승률에 못 미친다며, 경영계는 중소기업 부담을 호소하며 양측 모두 유감을 표명했다."
+                  "headline": "홈플러스 2000억 긴급 수혈… MBK·메리츠, 회생 지원",
+                  "url": "https://www.khan.co.kr/article/202607152106015",
+                  "eng": "Homeplus receives 200 billion won emergency funding; MBK and Meritz support revival",
+                  "body": "대형마트 홈플러스가 메리츠금융그룹으로부터 2000억원의 긴급 운영자금을 지원받는다. MBK파트너스도 전액 보증에 나서며 회생 절차에 속도가 붙을 전망이다."
                 },
                 {
-                  "headline": "트럼프, 통행료 20% 하루만에 번복…\"중동 투자 협정으로 대체\"",
-                  "url": "https://www.khan.co.kr/article/202607150404001",
-                  "eng": "Trump reverses 20% transit fee in one day…'Replace with Middle East investment agreement'",
-                  "body": "도널드 트럼프 미국 대통령이 호르무즈 해협 통행 화물에 20% 과세를 부과하겠다고 발표한 지 하루 만에 이를 번복했다. 걸프 국가들의 반발과 유가 급등에 따른 시장 혼란을 의식한 조치로 풀이된다."
+                  "headline": "아르헨티나, 잉글랜드 2-1 역전승… 메시 2도움으로 2연속 월드컵 결승행",
+                  "url": "https://www.khan.co.kr/article/202607160621001",
+                  "eng": "Argentina beats England 2-1 with Messi's 2 assists; reaches second consecutive World Cup final",
+                  "body": "아르헨티나가 2026 북중미 월드컵 준결승에서 잉글랜드에 2-1 역전승을 거두며 2회 연속 결승에 진출했다. 리오넬 메시가 후반 막판 7분간 2도움을 기록하며 승리를 이끌었다. 아르헨티나는 오는 20일 스페인과 우승을 다툰다."
                 },
                 {
-                  "headline": "정부, '3%'로 성장률 높이고 '3·4·5' 비전 제시…'고용없는 성장' 현실화",
-                  "url": "https://www.khan.co.kr/article/202607141137001",
-                  "eng": "Government raises growth target to 3%, unveils '3·4·5' vision…'Jobless growth' becomes reality",
-                  "body": "정부가 올해 경제성장률 전망치를 3%로 대폭 상향 조정하고 '잠재성장률 3%, 수출 4강, 1인당 국민소득 5만달러'를 목표로 한 3·4·5 비전을 제시했다. 그러나 가파른 성장세에도 고용 지표는 개선되지 않고 있다."
+                  "headline": "이재명 대통령, 김용 사건 재판부 비판… \"해괴한 결론으로 기소, 이해 어려워\"",
+                  "url": "https://www.khan.co.kr/article/202607152206001",
+                  "eng": "President Lee criticizes court ruling in Kim Yong case: 'prosecution based on absurd conclusions, hard to understand'",
+                  "body": "이재명 대통령이 김용 전 민주연구원 부원장 사건 재판부의 '구글 타임라인' 증거 불인정 결정을 비판하며 조작기소 특검에 힘을 실었다."
                 }
               ]
             },
@@ -149,16 +169,22 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "홍준표 \"윤석열 여론조사 징역형 정확한 판단…오세훈도 빠져나가기 어려울 것\"",
-                  "url": "https://www.khan.co.kr/article/202607140814001",
-                  "eng": "Hong Joon-pyo: 'Yoon Seok-yeol's prison sentence for poll scandal is correct judgment…Oh Se-hoon will struggle too'",
-                  "body": "홍준표 전 대구시장이 윤석열 전 대통령의 정치자금법 위반 징역 2년 선고에 대해 \"이진관 판사는 정확한 판단을 했다\"고 평가했다. 오세훈 서울시장의 재판에도 큰 영향을 미칠 것이라고 전망했다."
+                  "headline": "미·이란 공습 재개… 호르무즈 해협 긴장 고조",
+                  "url": "https://www.khan.co.kr/issue/articles/ah941",
+                  "eng": "US-Iran airstrikes resume; tensions escalate in Strait of Hormuz",
+                  "body": "미국과 이란 간 공습이 재개되며 호르무즈 해협의 긴장이 고조되고 있다. 국제유가가 다시 상승세로 돌아섰고, 원유 공급 차질 우려가 커지고 있다."
                 },
                 {
-                  "headline": "특검, '내란 가담 의혹' 심우정 전 검찰총장 구속영장 청구",
-                  "url": "https://www.khan.co.kr/article/202607142112005",
-                  "eng": "Special counsel seeks arrest warrant for ex-Prosecutor General Shim Woo-jung over insurrection allegations",
-                  "body": "권창영 2차 종합특별검사가 12·3 내란 가담 의혹을 받는 심우정 전 검찰총장과 전무곤 전 대검 기획조정부장의 구속영장을 청구했다. 유병호 감사원 감사위원에 대해서도 구속영장을 청구했다."
+                  "headline": "급거 귀국한 강경화 주미대사 \"쿠팡 문제, 생각보다 훨씬 오래가는 이슈\"",
+                  "url": "https://www.khan.co.kr/article/202607151517001",
+                  "eng": "Ambassador Kang Kyung-wha returns urgently: 'Coupang issue is lasting much longer than I thought'",
+                  "body": "강경화 주미 한국대사가 쿠팡 관련 한미 통상 현안을 논의하기 위해 급거 귀국했다. 강 대사는 \"이슈를 관리하면서도 양 정상이 합의한 사안들에 진전을 만들기 위해 협의 중\"이라고 밝혔다."
+                },
+                {
+                  "headline": "트럼프 가족 기업에 30억원 지급 의혹… NYT \"무역분쟁 연관\"",
+                  "url": "https://www.khan.co.kr/article/202607150833001",
+                  "eng": "Korean firm allegedly paid 200 million dollars to Trump family business amid trade dispute: NYT",
+                  "body": "베이스그룹이 계열사 한국알루미늄의 대미 수출 관련 무역 분쟁 중에 트럼프 오거니제이션에 200만달러(약 30억원)를 지급했다는 의혹이 NYT 보도로 제기됐다."
                 }
               ]
             },
@@ -166,16 +192,22 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "민주당, 당대표 선호투표제로 뽑는다…청년 최고위원제 신설은 부결",
-                  "url": "https://www.khan.co.kr/article/202607141715011",
-                  "eng": "Democratic Party to elect leader via preferential voting…Youth supreme council member proposal rejected",
-                  "body": "더불어민주당 최고위원회가 8·17 전당대회에서 선호투표제 방식으로 당대표를 선출하기로 결정했다. 친정청래계의 반대로 청년 최고위원을 선출직으로 두는 방안은 부결됐다."
+                  "headline": "\"문송합니다\" 시대에 \"인문계만 오세요\"… 효성그룹, 창사 첫 인문계 공채",
+                  "url": "https://www.khan.co.kr/article/202607151559001",
+                  "eng": "Hyosung Group launches first-ever humanities-only recruitment in company history",
+                  "body": "효성그룹이 1966년 창립 이래 처음으로 인문계열 전공자만을 대상으로 한 신입 채용을 실시한다. '문송합니다(인문계+죄송합니다)'라는 말이 나올 정도로 인문계 취업난이 심각한 상황에서 이례적 결정이다."
                 },
                 {
-                  "headline": "법원 \"쿠팡 김범석 '동일인' 지정, 본안 판결 전까지 효력정지\"",
-                  "url": "https://www.khan.co.kr/article/202607141356001",
-                  "eng": "Court: 'Coupang's Kim Beom-seok same-person designation suspended until main ruling'",
-                  "body": "서울고법이 쿠팡 창업주 김범석 의장을 동일인(총수)으로 지정한 공정거래위원회 처분의 효력을 본안 소송 판결 시까지 정지했다. 쿠팡의 대기업집단 규제 적용이 일시 중단됐다."
+                  "headline": "윤석열 내란 재판 — '채상병 수사비밀 유출' 이시원 전 비서관 구속영장 기각",
+                  "url": "https://www.khan.co.kr/article/202607152246001",
+                  "eng": "Yoon Seok-yeol insurrection trial: arrest warrant for former presidential secretary Lee Si-won dismissed",
+                  "body": "법원이 '해병대 채모 상병 순직 사건' 수사 내용 누설 혐의를 받는 이시원 전 대통령실 공직기강비서관의 구속영장을 기각했다. 법원은 '범죄혐의에 대해 법리적으로 다투어 볼 여지가 있다'고 밝혔다."
+                },
+                {
+                  "headline": "미국서 기생충 감염증 집단 발병… 1600명 넘게 쓰러져",
+                  "url": "https://www.khan.co.kr/article/202607151107001",
+                  "eng": "Parasitic outbreak in US: over 1,600 infected from contaminated produce",
+                  "body": "미국에서 생채소를 통해 감염되는 사이클로스포라증이 34개 주에서 1645명의 확진자를 내며 빠르게 확산 중이다. 141명이 입원 치료를 받았고, 의심 사례도 5100건 이상 접수됐다."
                 }
               ]
             }
@@ -183,34 +215,28 @@
         },
         {
           "name": "동아일보",
-          "url": "https://www.donga.com/",
+          "url": "https://www.donga.com",
           "pages": [
             {
               "label": "1면",
               "articles": [
                 {
-                  "headline": "위태로운 휴전…트럼프 \"호르무즈 다시 봉쇄\"",
-                  "url": "https://www.donga.com/news/article/all/20260715/134300360/2",
-                  "eng": "Fragile ceasefire…Trump 'Re-blockades Hormuz'",
-                  "body": "트럼프 대통령이 이란과의 휴전이 사실상 종료됐다며 호르무즈 해협 봉쇄를 재개했다. 통행 화물에 20% 과세 방침을 밝혔다가 하루 만에 걸프국 투자협정으로 대체하겠다고 번복했다."
+                  "headline": "증시 흔드는 '레버리지'… 李 \"보완대책 신속 마련\"",
+                  "url": "https://www.donga.com/news/article/all/20260716/134308690/2",
+                  "eng": "Leveraged ETFs shake stock market; President Lee orders swift safeguards",
+                  "body": "단일종목 레버리지 ETF의 변동성이 KOSPI 급등락을 증폭시키고 있다는 지적에 이재명 대통령이 금융당국에 보완대책을 신속히 마련하라고 지시했다."
                 },
                 {
-                  "headline": "올해 성장률 3%로 높여 잡은 정부, 취업자 전망은 낮춰",
-                  "url": "https://www.donga.com/news/article/all/20260715/134300358/2",
-                  "eng": "Government raises growth forecast to 3% but lowers employment outlook",
-                  "body": "정부가 반도체 수출 호조를 반영해 올해 경제성장률 전망을 3%로 상향 조정했지만, 취업자 증가 폭 전망은 하향 조정했다. '고용 없는 성장' 우려가 현실화하는 모습이다."
+                  "headline": "[단독] 벼랑 끝 소아의료… 중환자 돌볼 전문의, 전국에 34명뿐",
+                  "url": "https://www.donga.com/news/article/all/20260716/134308681/2",
+                  "eng": "Exclusive: Pediatric critical care on the brink — only 34 specialists nationwide",
+                  "body": "소아 중환자를 돌볼 수 있는 전문의가 전국에 단 34명에 불과한 것으로 나타났다. 부산·전북·충남 등은 소아심장 수술 가능 의사가 0명으로, 서울 원정 진료가 불가피한 실정이다."
                 },
                 {
-                  "headline": "내년 최저임금 시간당 1만700원",
-                  "url": "https://www.donga.com/news/article/all/20260715/134300354/2",
-                  "eng": "Next year's minimum wage set at 10,700 won per hour",
-                  "body": "내년도 최저임금이 시간당 1만700원으로 확정됐다. 올해보다 3.7% 인상된 금액으로 월급 환산 시 223만6,300원이다. 노사 양측 모두 불만을 표시했다."
-                },
-                {
-                  "headline": "[단독] '침수 위험' 지하차도 52곳, 폭우때 진입차단 시설 아직도 없어",
-                  "url": "https://www.donga.com/news/article/all/20260715/134299983/2",
-                  "eng": "EXCLUSIVE: 52 flood-risk underpasses still lack entry barriers for heavy rain",
-                  "body": "전국 '침수 위험' 지하차도 52곳에 폭우 시 진입을 차단하는 시설이 아직 설치되지 않은 것으로 확인됐다. 오송 참사 이후 대책 마련이 시급하다는 지적이다."
+                  "headline": "최저임금 4년만에 3%대 인상, 노사 모두 불만",
+                  "url": "https://www.donga.com/news/article/all/20260716/134308679/2",
+                  "eng": "Minimum wage rises by 3% range for first time in 4 years; both labor and management dissatisfied",
+                  "body": "내년 최저임금이 1만700원으로 결정되며 4년 만에 3%대 인상률을 기록했다. 노동계는 물가 상승을 감안하면 턱없이 부족하다고, 경영계는 지불 능력을 초과한다며 양측 모두 불만을 표했다."
                 }
               ]
             },
@@ -218,16 +244,22 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "\"산업혁명보다 강한 AI 격변\"…경제-AI리더들 \"당장 행동해야\"",
-                  "url": "https://www.donga.com/news/article/all/20260715/134300206/2",
-                  "eng": "'AI upheaval stronger than Industrial Revolution'…Economic and AI leaders: 'Must act now'",
-                  "body": "세계 경제·AI 석학들이 AI로 인한 변화가 산업혁명보다 더 클 것이라며 즉각적인 대응을 촉구했다. 노벨 경제학상 수상자들과 기술 리더들이 공동 경고에 나섰다."
+                  "headline": "소아심장 수술할 의사 없어 '서울 원정'… 부산·전북·충남 등 0명",
+                  "url": "https://www.donga.com/news/article/all/20260716/134308786/2",
+                  "eng": "No pediatric heart surgeons in Busan, Jeonbuk, Chungnam; families travel to Seoul",
+                  "body": "소아심장 수술이 가능한 전문의가 부산·전북·충남 등에 한 명도 없는 것으로 나타났다. 신생아분과 전문의 240명 중 65%가 수도권에 집중돼 지역 간 의료 격차가 심각한 수준이다."
                 },
                 {
-                  "headline": "IT개발자도 AI發 고용불안…이직 대신 줄줄이 노조 만들어",
-                  "url": "https://www.donga.com/news/article/all/20260715/134300204/2",
-                  "eng": "IT developers face AI-driven job insecurity…Form unions instead of switching jobs",
-                  "body": "AI 발전으로 IT 개발자들 사이에서도 고용 불안이 확산되며 이직보다 노동조합 결성으로 대응하는 움직임이 늘고 있다. AI가 화이트칼라 일자리를 위협하기 시작했다."
+                  "headline": "삼전닉스 레버리지, 하루 24번 손바뀜 '초단타' 거래에 증시 출렁",
+                  "url": "https://www.donga.com/news/article/all/20260716/134308335/2",
+                  "eng": "Samsung Electronics-SK Hynix leveraged ETFs change hands 24 times daily, rocking the market",
+                  "body": "삼성전자와 SK하이닉스를 기초자산으로 하는 레버리지 ETF가 하루 평균 24회 이상 손바뀜되는 초단타 거래로 증시 변동성을 증폭시키고 있다."
+                },
+                {
+                  "headline": "李 \"공직자 술자리서 옆에 젊은 이성 앉히지 마라\"",
+                  "url": "https://www.donga.com/news/article/all/20260716/134308331/2",
+                  "eng": "President Lee: 'Do not seat young people of the opposite sex next to you at government drinking parties'",
+                  "body": "이재명 대통령이 공직사회 내 성비위 예방을 위해 '공직자 술자리에서 옆에 젊은 이성을 앉히지 말라'는 파격적인 지침을 전달한 것으로 알려졌다."
                 }
               ]
             },
@@ -235,16 +267,22 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "트럼프, 통행료 20% 철회…\"걸프국 대미투자로 대체\"",
-                  "url": "https://www.donga.com/news/article/all/20260715/134300056/2",
-                  "eng": "Trump withdraws 20% transit fee…'Replaced by Gulf states' US investment'",
-                  "body": "트럼프 대통령이 호르무즈 통행료 20% 부과를 철회하고 걸프 국가들의 대미 투자로 대체하겠다고 밝혔다. 미군의 7차 공습이 진행 중인 가운데 외교적 해법을 모색하는 모양새다."
+                  "headline": "트럼프 \"이란 협상 불응땐 발전소 폭격\"… 통행료는 하루만에 철회",
+                  "url": "https://www.donga.com/news/article/all/20260716/134308796/2",
+                  "eng": "Trump threatens to bomb Iranian power plants; withdraws Hormuz transit fee after one day",
+                  "body": "도널드 트럼프 대통령이 이란에 대해 협상에 불응하면 발전소를 폭격하겠다고 경고했다. 호르무즈 해협 통행료 20% 부과 방침은 걸프 동맹국들의 반발로 하루 만에 철회됐다."
                 },
                 {
-                  "headline": "\"호르무즈 재봉쇄\"에 국제유가 10% 급등…美 국채금리도 치솟아",
-                  "url": "https://www.donga.com/news/article/all/20260715/134300054/2",
-                  "eng": "Oil prices surge 10% on Hormuz re-blockade…US Treasury yields also spike",
-                  "body": "트럼프 대통령의 호르무즈 해협 재봉쇄 선언으로 국제유가가 장중 10% 급등하고 미국 국채금리도 동반 상승했다. 중동발 공급망 불안이 글로벌 금융시장을 강타했다."
+                  "headline": "전쟁發 전기료 폭탄 본격화… 7월 발전용 가스값 20% 급등",
+                  "url": "https://www.donga.com/news/article/all/20260716/134308794/2",
+                  "eng": "War-driven electricity bill shock imminent; July power generation gas price surges 20%",
+                  "body": "이란-미국 전쟁 여파로 발전용 천연가스 가격이 7월 들어 20% 급등했다. 호르무즈 해협 봉쇄로 LNG 수입 차질이 현실화되며 전기요금 인상이 불가피해졌다."
+                },
+                {
+                  "headline": "中 2분기 성장률 4.3%… 올 목표달성에 '빨간불'",
+                  "url": "https://www.donga.com/news/article/all/20260715/134308317/2",
+                  "eng": "China Q2 GDP growth at 4.3%; red light for annual target",
+                  "body": "중국의 2분기 GDP 성장률이 4.3%에 그치며 연간 목표 5% 달성에 빨간불이 켜졌다. 이는 코로나19 팬데믹 직후인 2022년 4분기(2.9%) 이후 가장 낮은 수준이다."
                 }
               ]
             }
@@ -252,34 +290,28 @@
         },
         {
           "name": "한국경제",
-          "url": "https://www.hankyung.com/",
+          "url": "https://www.hankyung.com",
           "pages": [
             {
               "label": "1면",
               "articles": [
                 {
-                  "headline": "트럼프 \"호르무즈 통행료 20%, 걸프국 무역협정 대체\"",
-                  "url": "https://www.hankyung.com/article/202607155449i",
-                  "eng": "Trump: '20% Hormuz transit fee replaced by Gulf trade agreement'",
-                  "body": "트럼프 대통령이 호르무즈 해협 통행료 20% 부과 계획을 철회하고 걸프 국가들과의 무역·투자 협정으로 대체하겠다고 밝혔다. 미군의 이란 공습이 7차까지 이어진 가운데 나온 유턴이다."
+                  "headline": "이재명 대통령 \"레버리지 ETF 보완책 마련하라\"… 금융당국에 주문",
+                  "url": "https://www.hankyung.com/article/2026071576291",
+                  "eng": "President Lee orders financial authorities to devise leverage ETF safeguards",
+                  "body": "이재명 대통령이 삼성전자·SK하이닉스 등 단일종목 레버리지 ETF가 증시 급변동을 초래하고 있다며 금융당국에 보완책 마련을 주문했다."
                 },
                 {
-                  "headline": "美 6월 소비자물가 3.5% 상승…시장 예상치 밑돌아",
-                  "url": "https://www.hankyung.com/article/2026071453681",
-                  "eng": "US June CPI rises 3.5%…Below market expectations",
-                  "body": "미국 6월 소비자물가지수(CPI)가 전년 동월 대비 3.5% 상승해 시장 예상치(3.8%)를 큰 폭으로 하회했다. 근원 CPI는 2.6%로 안정세를 보이며 연준의 추가 긴축 부담이 크게 완화됐다."
+                  "headline": "모처럼 강한 반등… 코스피, 반도체 업고 7200선 회복",
+                  "url": "https://www.hankyung.com/article/2026071572506",
+                  "eng": "KOSPI stages strong rebound, reclaims 7,200 level on semiconductor rally",
+                  "body": "KOSPI가 6.24% 급등하며 7,284.41에 마감, 7,200선을 회복했다. SK하이닉스 +9.46%, 삼성전자 +6.27%로 반도체 대장주가 반등을 주도했다."
                 },
                 {
-                  "headline": "내년 최저임금 1만700원…월급 환산 땐 223만6300원",
-                  "url": "https://www.hankyung.com/article/2026071554291",
-                  "eng": "Next year's minimum wage 10,700 won…2,236,300 won when converted to monthly",
-                  "body": "2027년도 최저임금이 시간당 1만700원으로 결정됐다. 올해보다 3.7% 인상된 수준이다. 노동계는 물가 상승을 고려하면 턱없이 부족하다고, 경영계는 중소기업·소상공인의 부담을 우려했다."
-                },
-                {
-                  "headline": "반도체 호황에도 가팔라진 고용절벽…'20만 AI 전사' 키운다",
-                  "url": "https://www.hankyung.com/article/2026071449241",
-                  "eng": "Employment cliff steepens despite semiconductor boom…Government to train '200,000 AI warriors'",
-                  "body": "반도체 수출 호조로 경제성장률이 3%대로 올랐지만 고용 없는 성장이 심화되고 있다. 정부는 AI·반도체 등 첨단 분야에서 청년 전문인력 20만명을 양성하는 대책을 발표했다."
+                  "headline": "내년 최저임금 1만700원… '업종별 차등' 논의 본격화",
+                  "url": "https://www.hankyung.com/article/2026071576241",
+                  "eng": "Next year's minimum wage set at 10,700 won; industry-specific differentiation debate begins",
+                  "body": "2027년 최저임금이 시간당 1만700원으로 3.88% 인상됐다. 노사 양측 모두 불만을 표한 가운데, 업종별 차등 적용 논의가 본격화될 전망이다."
                 }
               ]
             },
@@ -287,16 +319,22 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "'태풍의 눈' 단일종목 레버리지 ETF, 장기투자 절대 해선 안돼",
-                  "url": "https://www.hankyung.com/article/2026071450241",
-                  "eng": "Single-stock leveraged ETFs at 'eye of the storm' — Never use for long-term investment",
-                  "body": "삼성전자·SK하이닉스 단일종목 레버리지 ETF가 코스피 변동성 확대의 진원지로 지목됐다. 전문가들은 음의 복리 효과로 인해 장기투자 시 원금 손실 위험이 매우 크다고 경고했다."
+                  "headline": "[단독] 세수 5% 이상 변동 땐 추경 편성한다",
+                  "url": "https://www.hankyung.com/article/2026071576271",
+                  "eng": "Exclusive: Supplementary budget to be triggered if tax revenue fluctuates more than 5%",
+                  "body": "정부가 세수 실적이 예산 대비 5% 이상 변동할 경우 자동으로 추가경정예산을 편성하는 제도를 도입하기로 했다. 재정의 경기대응 기능을 강화하기 위한 조치다."
                 },
                 {
-                  "headline": "[단독] 與, '중복상장 금지' 법으로 쐐기 박는다",
-                  "url": "https://www.hankyung.com/article/2026071450511",
-                  "eng": "EXCLUSIVE: Ruling party to lock in 'dual listing ban' with legislation",
-                  "body": "여당이 SK하이닉스의 나스닥 상장과 같은 국내 대기업의 해외 증시 중복 상장을 금지하는 법안을 추진한다. 국내 증시 자금 이탈과 코리아 디스카운트 심화를 막기 위한 조치다."
+                  "headline": "美 해군력 강화 강조한 트럼프… \"한국 기업 살펴볼 것\"",
+                  "url": "https://www.hankyung.com/article/2026071680237",
+                  "eng": "Trump emphasizes naval buildup, signals interest in Korean shipbuilders",
+                  "body": "도널드 트럼프 대통령이 해군력 강화를 강조하며 한국 조선 기업들과의 협력 가능성을 시사했다. \"한국 기업을 살펴볼 것\"이라는 발언에 HD현대중공업, 한화오션 등 조선주가 주목받고 있다."
+                },
+                {
+                  "headline": "\"노력해도 격차 못 좁혀\"… 사다리 탈 의욕도 잃은 청년들",
+                  "url": "https://www.hankyung.com/article/2026071576411",
+                  "eng": "Youth lose motivation to climb social ladder: 'Effort cannot close the gap'",
+                  "body": "한국 청년들 사이에서 '노력해도 계층 이동이 불가능하다'는 인식이 확산되며 사회적 사다리에 대한 신뢰가 급락하고 있다. 소득·자산 양극화가 청년 세대의 의욕을 꺾고 있다는 분석이다."
                 }
               ]
             },
@@ -304,16 +342,22 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "\"물타기할 돈도 없어요\"…4000억 날린 빚투 개미들 '멘붕'",
-                  "url": "https://www.hankyung.com/article/2026071431816",
-                  "eng": "'No money left to average down'…Retail investors in panic after losing 400 billion won",
-                  "body": "블랙먼데이 폭락으로 레버리지 ETF와 빚투(빚내서 투자)에 나섰던 개인 투자자들이 4000억원대 손실을 입었다. 추가 매수 여력이 바닥나 '물타기'조차 못하는 상황이다."
+                  "headline": "홈플러스 극적 회생하나… 메리츠 2000억·MBK 전액 보증",
+                  "url": "https://www.hankyung.com/article/2026071576281",
+                  "eng": "Homeplus makes dramatic recovery bid with Meritz 200 billion won and MBK full guarantee",
+                  "body": "홈플러스가 메리츠금융그룹의 2000억원 긴급 자금 지원과 MBK파트너스의 전액 보증으로 회생 절차를 밟게 됐다. '눈물의 땡처리' 세일 논란 속에서도 극적인 반전이 기대된다."
                 },
                 {
-                  "headline": "단독 차세대 민항기 개발에 '팀코리아' 도전한다",
-                  "url": "https://www.hankyung.com/article/2026071450531",
-                  "eng": "EXCLUSIVE: 'Team Korea' challenges next-gen commercial aircraft development",
-                  "body": "한국이 처음으로 차세대 중형 민항기 개발에 도전한다. 대한항공, 한국항공우주산업(KAI) 등이 컨소시엄을 구성해 2035년 상용화를 목표로 하고 있다."
+                  "headline": "국민성장펀드 150조→200조로 확대… 첨단산업 투자 강화",
+                  "url": "https://www.hankyung.com/article/2026071567626",
+                  "eng": "National Growth Fund expanded from 150 to 200 trillion won; advanced industry investment strengthened",
+                  "body": "정부가 국민성장펀드 규모를 기존 150조원에서 200조원으로 확대한다. 반도체, AI, 바이오 등 첨단산업에 대한 투자를 대폭 강화할 방침이다."
+                },
+                {
+                  "headline": "'5일째 교전' 美-이란, '레드라인'은 넘지 않으며 힘겨루기",
+                  "url": "https://www.hankyung.com/article/202607168049i",
+                  "eng": "US-Iran conflict enters fifth day; both sides test limits without crossing red lines",
+                  "body": "미국과 이란의 군사적 충돌이 5일째 이어지는 가운데, 양측 모두 핵심 레드라인을 넘지 않는 선에서 힘겨루기를 지속하고 있다. 국제유가는 방향성을 탐색하며 변동성 장세를 이어가고 있다."
                 }
               ]
             }
@@ -326,34 +370,28 @@
       "papers": [
         {
           "name": "The Wall Street Journal",
-          "url": "https://www.wsj.com/",
+          "url": "https://www.wsj.com",
           "pages": [
             {
               "label": "1면",
               "articles": [
                 {
-                  "headline": "The Battle for Hormuz: Trump Shifts Iran War Into Dangerous New Phase",
-                  "url": "https://www.wsj.com/world/middle-east/the-battle-for-hormuz-trump-shifts-into-dangerous-new-phase-in-iran-war-eb19979a",
+                  "headline": "Trump Leans Toward Expanding U.S. Military Operations in Iran",
+                  "url": "https://www.wsj.com/world/middle-east/trump-leans-toward-expanding-u-s-military-operations-in-iran-6c230462",
                   "eng": "",
-                  "body": "The president's third major shift in military strategy comes as he searches for a way to turn the tables on Iran. Trump declared the Hormuz blockade while simultaneously backing off a proposed 20% transit fee after Gulf state pressure."
+                  "body": "While preferring diplomacy, Trump was briefed this week on options, including the use of ground troops and bombing the nuclear-linked site Pickaxe Mountain. The president is weighing an expansion of military operations against Iran."
                 },
                 {
-                  "headline": "Inflation Slowed to 3.5% in June — CPI Comes in Below Expectations",
-                  "url": "https://www.wsj.com/economy/cpi-inflation-report-june-2026-afb89992",
+                  "headline": "Trump Reverses ICE's Decision to Suspend Traffic Stops",
+                  "url": "https://www.wsj.com/politics/policy/trump-reverses-ices-decision-to-suspend-traffic-stops-85228584",
                   "eng": "",
-                  "body": "The June CPI report showed inflation slowing to 3.5% year-over-year, well below the 3.8% economists had forecast. Core CPI held steady at 2.6%. The data eases pressure on the Federal Reserve to raise rates further."
+                  "body": "The president's move came after a federal immigration officer fatally shot a 26-year-old man in Maine, sparking nationwide controversy over immigration enforcement tactics."
                 },
                 {
-                  "headline": "Warsh Tells Congress the Fed Has 'No Tolerance' for High Inflation",
-                  "url": "https://www.wsj.com/economy/central-banking/warsh-tells-congress-the-fed-has-no-tolerance-for-high-inflation-50c5dfa8",
+                  "headline": "Megacap Tech Names Push Indexes Higher; Nasdaq Leads with 0.6% Gain",
+                  "url": "https://www.wsj.com/finance/live/stock-market-today-dow-sp-500-nasdaq-07-15-2026-2a3dd235",
                   "eng": "",
-                  "body": "New Fed Chairman Kevin Warsh bound the central bank to a strict inflation goal without hinting at an interest-rate path, two weeks before a meeting where some officials could press for an increase. He vowed the Fed would be 'resolute' in fighting inflation."
-                },
-                {
-                  "headline": "Big Banks' Profits Surge After a Red-Hot Quarter on Wall Street",
-                  "url": "https://www.wsj.com/finance/banking/big-banks-profits-surge-after-a-red-hot-quarter-on-wall-street-7a25ffbe",
-                  "eng": "",
-                  "body": "Jamie Dimon said conditions were nearly 'as good as it gets' after JPMorgan reported a big jump in profit. Goldman Sachs surged 9% on booming M&A and AI-related fee income. Trading revenue jumped 35% year-over-year on Middle East volatility."
+                  "body": "Major stock indexes rose after several positive earnings reports and cooling inflation data. BlackRock shares rallied after assets soared past $15 trillion. The S&P 500 saw a second straight day of gains."
                 }
               ]
             },
@@ -361,16 +399,22 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "Iran Is Attacking a Crucial Oil-Market Lifeline: Shuttle Runs",
-                  "url": "https://www.wsj.com/world/middle-east/iran-is-attacking-a-crucial-oil-market-lifeline-shuttle-runs-ff9f31ed",
+                  "headline": "What IBM's Woes Mean for the Rest of the AI World",
+                  "url": "https://www.wsj.com/finance/live/stock-market-today-dow-sp-500-nasdaq-07-15-2026-2a3dd235/card/flash-heard-what-ibms-woes-mean-for-the-rest-of-the-ai-world-b792b602",
                   "eng": "",
-                  "body": "The shuttle voyages have been instrumental because only a small number of shipowners were willing to risk sending tankers through the Strait of Hormuz. Iran's attacks on these crucial oil-market lifelines are threatening global energy supply."
+                  "body": "IBM shares plunged 25% after issuing a Q2 earnings warning, citing weak software and infrastructure demand. The company's warning may ring a bigger alarm about the state of the AI market and enterprise spending trends."
                 },
                 {
-                  "headline": "ICE Suspends Traffic Stops After Two Shooting Deaths",
-                  "url": "https://www.wsj.com/us-news/ice-suspends-traffic-stops-after-two-shooting-deaths-27681267",
+                  "headline": "Blanche Seeks to Reassure Senators That 'Anti-Weaponization' Fund Is Dead",
+                  "url": "https://www.wsj.com/politics/policy/blanche-seeks-to-reassure-senators-that-anti-weaponization-fund-is-dead-ecbbe185",
                   "eng": "",
-                  "body": "ICE halted most traffic-stop arrests after two fatal shootings of immigrants in Texas and Maine roughly a week apart. The Trump administration scrambles to respond to the incidents that have sparked national outrage."
+                  "body": "Trump's pick for attorney general Todd Blanche faced tense questioning in his confirmation hearing. He vowed to resign if asked to act illegally but insisted he serves at the pleasure of the president."
+                },
+                {
+                  "headline": "Pentagon to Screen for Low Testosterone in Servicemembers",
+                  "url": "https://www.wsj.com/politics/national-security/us-military-testosterone-deficiency-screening-hegseth-7e64721e",
+                  "eng": "",
+                  "body": "Defense Secretary Pete Hegseth announced that servicemembers aged 30 and older would be tested yearly for low testosterone during their annual health assessments, amid a broader focus on male virility and military readiness."
                 }
               ]
             },
@@ -378,16 +422,22 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "Supreme Court Justices Barrett and Kagan Testify Before Congress",
-                  "url": "https://www.wsj.com/us-news/law/supreme-court-kagan-coney-barrett-congress-73740bb8",
+                  "headline": "Two Million Workers Are Locked Out of an Improving Job Market",
+                  "url": "https://www.wsj.com/economy/jobs/unemployment-long-term-job-market-629199f9",
                   "eng": "",
-                  "body": "The high court sent a delegation to present a budget request and answer lawmakers' questions for the first time since 2019. Justices Barrett and Kagan appeared together in a rare show of bipartisan cooperation."
+                  "body": "The share of job seekers out of work for six months or longer is hovering near the highest level in five years, revealing a growing divide between short-term and long-term unemployed in an otherwise improving labor market."
                 },
                 {
-                  "headline": "Ford Executive Chairman on Chinese Cars: U.S. 'Can't Expect to Keep Them Out Forever'",
-                  "url": "https://www.wsj.com/business/autos/ford-executive-chairman-on-chinese-cars-u-s-cant-expect-to-keep-them-out-forever-556268e2",
+                  "headline": "Kathryn Ruemmler Grilled in Congress Over Her Emails Joking With Jeffrey Epstein",
+                  "url": "https://www.wsj.com/finance/kathryn-ruemmler-tells-congress-her-epstein-emails-taken-out-of-context-51c45d6f",
                   "eng": "",
-                  "body": "Ford's executive chairman warned that the U.S. cannot permanently keep Chinese automakers out of the American market. China's automakers have rapidly displaced competitors elsewhere in the world with competitively priced EVs."
+                  "body": "The Goldman Sachs lawyer told Congress she was 'friendly' with the convicted sex offender but that he was a 'masterful liar.' Her emails with Epstein have drawn intense scrutiny from lawmakers."
+                },
+                {
+                  "headline": "England On the Cusp of World Cup History — Because Its Best Players All Left England",
+                  "url": "https://www.wsj.com/sports/soccer/england-is-on-the-cusp-of-world-cup-historybecause-its-best-players-all-left-england-a5cc75d9",
+                  "eng": "",
+                  "body": "The Three Lions have scored 13 goals on their march to the semifinals — not one scored by a player who actually plays in the English Premier League. England faced Argentina in a dramatic semifinal."
                 }
               ]
             }
@@ -395,34 +445,28 @@
         },
         {
           "name": "Bloomberg",
-          "url": "https://www.bloomberg.com/",
+          "url": "https://www.bloomberg.com",
           "pages": [
             {
               "label": "1면",
               "articles": [
                 {
-                  "headline": "Trump Shelves 20% Fee for Hormuz Cargo After Gulf Pressure",
-                  "url": "https://www.bloomberg.com/news/articles/2026-07-14/trump-backs-off-20-fee-for-strait-of-hormuz-shipments",
+                  "headline": "US CPI Falls for the First Time Since 2020, Core Gauge Flat",
+                  "url": "https://www.bloomberg.com/news/articles/2026-07-14/us-cpi-falls-for-the-first-time-since-2020-core-gauge-unchanged",
                   "eng": "",
-                  "body": "The reversal illustrated the bind Trump is in, as hostilities with Iran resume and Tehran refuses to loosen its grip on the crucial waterway. Gulf allies pushed back hard against the proposed levy on cargo transiting the Strait of Hormuz."
+                  "body": "US consumer prices declined in June for the first time in six years, with headline CPI falling 0.4% month-over-month (vs. -0.2% expected). Core inflation was little changed, easing concerns about imminent Fed rate hikes. The July rate-hike probability dropped to 15.5%."
                 },
                 {
-                  "headline": "SK Hynix ADR Premium Balloons to 51% Over Korean Shares",
-                  "url": "https://www.bloomberg.com/news/articles/2026-07-14/sk-hynix-adr-premium-balloons-to-nearly-50-over-korean-shares",
+                  "headline": "Stocks, Bonds Rise as Soft CPI Curbs Fed-Hike Bets",
+                  "url": "https://www.bloomberg.com/news/articles/2026-07-13/stocks-bonds-rise-as-soft-cpi-curbs-fed-rate-hike-bets-markets-wrap",
                   "eng": "",
-                  "body": "The gap between SK Hynix's US-listed ADR and its Seoul-traded shares widened dramatically to 51% following the Nasdaq debut volatility. The premium reflects strong US demand for AI memory chip exposure."
+                  "body": "A cooler-than-estimated inflation reading spurred gains in both stocks and bonds. The S&P 500 and Nasdaq rose as investors priced in a lower probability of Federal Reserve interest-rate increases."
                 },
                 {
-                  "headline": "How Warren Buffett Plans to Dispose of His $140 Billion Berkshire Stake",
-                  "url": "https://www.bloomberg.com/news/articles/2026-07-14/buffett-lays-out-plan-to-dispose-of-140-billion-berkshire-stake",
+                  "headline": "US Launches Fresh Strikes on Iran as Peril in Strait Deepens",
+                  "url": "https://www.bloomberg.com/news/articles/2026-07-15/us-launches-fresh-strikes-on-iran-as-peril-in-strait-deepens",
                   "eng": "",
-                  "body": "Buffett announced a new round of donations to charities tied to his family — but left the Gates Foundation off the list for the first time in decades. The plan outlines an 8-year timeline for disposing of his massive Berkshire Hathaway holdings."
-                },
-                {
-                  "headline": "'We Faltered': IBM Plunges Most Since at Least 1968 on Earnings Miss",
-                  "url": "https://www.bloomberg.com/news/articles/2026-07-14/ibm-shares-plunge-most-since-at-least-1968-on-earnings-warning",
-                  "eng": "",
-                  "body": "IBM shares crashed 25.1% after the company pre-announced disappointing Q2 results. CEO Arvind Krishna admitted the company 'faltered' as clients raced to buy servers and storage from competitors, shifting spending to AI infrastructure."
+                  "body": "The US launched a fresh wave of attacks on Iran as the conflict entered its fifth consecutive day. Iran struck Kuwait with its worst attack since June. Both sides are issuing conflicting declarations about whether the Strait of Hormuz is open."
                 }
               ]
             },
@@ -430,16 +474,22 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "Goldman Raises $10 Billion From Latest High-Grade Bond Sale",
-                  "url": "https://www.bloomberg.com/news/articles/2026-07-14/goldman-raises-10-billion-from-latest-high-grade-bond-sale",
+                  "headline": "Anthropic Plans IPO Investor Meetings as Mega-Listing Nears",
+                  "url": "https://www.bloomberg.com/news/articles/2026-07-15/anthropic-is-said-to-plan-ipo-investor-meetings-as-listing-nears",
                   "eng": "",
-                  "body": "Goldman Sachs raised $10 billion in a high-grade bond sale, capitalizing on strong investor demand following its record quarterly earnings. The bank rode a wave of M&A advisory fees and trading revenue to blow past analyst estimates."
+                  "body": "Anthropic is planning IPO investor meetings as its mega-listing approaches, following the path of SpaceX's historic IPO. The AI lab behind the Claude model has been valued at over $60 billion in private markets."
                 },
                 {
-                  "headline": "Largest US Grid Misses Power Supply Target Amid AI Surge",
-                  "url": "https://www.bloomberg.com/news/articles/2026-07-14/largest-us-grid-misses-power-supply-goal-amid-rampant-ai-surge",
+                  "headline": "Dimon Warns of Broad Mythos Access, Calling It a 'Real Issue'",
+                  "url": "https://www.bloomberg.com/news/articles/2026-07-15/dimon-warns-about-broad-mythos-access-calling-it-a-real-issue",
                   "eng": "",
-                  "body": "The largest US power grid failed to meet its supply reliability target as AI data center demand strains electricity infrastructure. The shortfall highlights growing concerns about whether the grid can handle the AI-driven energy boom."
+                  "body": "Jamie Dimon warned about broad access to Anthropic's Mythos AI model, which is reportedly so good at finding software vulnerabilities that it cannot be released to the general public. The JPMorgan CEO called unrestricted AI access a 'real issue.'"
+                },
+                {
+                  "headline": "Trump Drops 20% Fee for Hormuz Cargo After Gulf Pressure",
+                  "url": "https://www.bloomberg.com/news/articles/2026-07-14/trump-backs-off-20-fee-for-strait-of-hormuz-shipments",
+                  "eng": "",
+                  "body": "President Trump backed off his proposal to impose a 20% transit fee on ships passing through the Strait of Hormuz after facing intense pressure from Gulf allies. The abrupt reversal highlighted the chaotic nature of US-Iran policy."
                 }
               ]
             },
@@ -447,16 +497,22 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "Lucid Shares Slide as EV Maker Hires Restructuring Adviser",
-                  "url": "https://www.bloomberg.com/news/articles/2026-07-14/lucid-hires-restructuring-adviser-as-ev-maker-s-troubles-mount",
+                  "headline": "Korea's World-Beating Stocks Are Now Trading Cheaper Than Ever",
+                  "url": "https://www.bloomberg.com/news/articles/2026-07-12/korea-s-world-beating-stocks-are-now-trading-cheaper-than-ever",
                   "eng": "",
-                  "body": "Lucid Motors shares plunged after the EV maker hired a restructuring adviser amid mounting financial troubles. The company denied bankruptcy rumors as 'completely false' but the market remains skeptical about its cash burn rate."
+                  "body": "The Kospi has climbed around 80% this year to a series of record highs, yet analyst earnings upgrades have been even faster, making Korean stocks cheaper on a valuation basis than ever before despite the massive rally."
                 },
                 {
-                  "headline": "DeepSeek Is Preparing for IPO Filing as Soon as This Year",
-                  "url": "https://www.bloomberg.com/news/articles/2026-07-14/deepseek-mulls-new-funding-weeks-after-7-billion-round-ft-says",
+                  "headline": "Fed's Warsh Cools Talk That AI Boom Is Spurring Inflation",
+                  "url": "https://www.bloomberg.com/news/articles/2026-07-15/warsh-says-price-pressures-from-ai-not-necessarily-inflationary",
                   "eng": "",
-                  "body": "Chinese AI startup DeepSeek is preparing for an IPO filing as soon as this year, weeks after raising $7 billion in a funding round. The company is emerging as a major competitor to OpenAI in the global AI race."
+                  "body": "Federal Reserve Chair Kevin Warsh testified that price pressures from the AI boom are not necessarily inflationary, cooling speculation that tech-driven demand would force the Fed to maintain higher rates for longer."
+                },
+                {
+                  "headline": "Iran's Tanker Attacks Squeeze the Hormuz Oil-Shuttling Trade",
+                  "url": "https://www.bloomberg.com/news/articles/2026-07-15/iran-s-tanker-attacks-squeeze-the-hormuz-oil-shuttling-trade",
+                  "eng": "",
+                  "body": "Iran's attacks on oil tankers are severely disrupting the Hormuz oil-shuttling trade. Oil traders warn the market is close to running on empty as stockpiles that acted as shock absorbers early in the war are running low."
                 }
               ]
             }
@@ -464,22 +520,28 @@
         },
         {
           "name": "The New York Times",
-          "url": "https://www.nytimes.com/",
+          "url": "https://www.nytimes.com",
           "pages": [
             {
               "label": "1면",
               "articles": [
                 {
-                  "headline": "Trump's Threat to Impose Fees on Hormuz Transit Sends Oil Surging — Then Backs Off",
-                  "url": "https://www.nytimes.com/",
+                  "headline": "China's Economy Grows at Slowest Pace in Years: Q2 GDP at 4.3%",
+                  "url": "https://www.nytimes.com/issue/todaysinyt/2026/07/15/todays-new-york-times-international-edition",
                   "eng": "",
-                  "body": "President Trump framed the renewed Hormuz blockade as a security measure, threatening to impose 20% fees on cargo transiting the Strait of Hormuz before abruptly reversing course under pressure from Gulf allies. Oil prices surged past $80 a barrel as the ceasefire with Iran collapsed."
+                  "body": "China's economic growth slowed to 4.3% in the second quarter, the weakest pace since the pandemic-era Q4 2022. The slowdown raises concerns about Beijing's ability to meet its 5% annual growth target amid weak domestic demand and trade tensions."
                 },
                 {
-                  "headline": "How Trump Failed to Secure the Strait of Hormuz in His Iran Deal",
-                  "url": "https://www.nytimes.com/section/todayspaper",
+                  "headline": "U.S. and Iran Sign Framework Deal, Leaving Major Issues for Future Talks",
+                  "url": "https://www.nytimes.com/issue/todayspaper/2026/06/16/todays-new-york-times",
                   "eng": "",
-                  "body": "President Trump signed an agreement that Iran said gave it control over key shipping lanes. The deal's collapse has reignited military conflict and threatens global energy supply chains, with the US launching its seventh wave of airstrikes."
+                  "body": "U.S. and Iranian officials signed a framework agreement, though major issues including the Strait of Hormuz reopening and nuclear program restrictions remain unresolved. The deal represents a first step toward de-escalation after weeks of military confrontation."
+                },
+                {
+                  "headline": "Supreme Court Upholds Birthright Citizenship, Blocking Key Trump Policy",
+                  "url": "https://www.nytimes.com/issue/todayspaper/2026/07/01/todays-new-york-times",
+                  "eng": "",
+                  "body": "The Supreme Court blocked President Trump's executive order that sought to end birthright citizenship for children of undocumented immigrants, upholding the 14th Amendment's guarantee in a landmark ruling."
                 }
               ]
             },
@@ -487,16 +549,22 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "Oil Market Calm Shattered by Fresh Hostilities Between US and Iran",
-                  "url": "https://www.nytimes.com/2026/07/08/business/energy-environment/iran-war-oil-prices.html",
+                  "headline": "War Risk for Businesses Will Mean Higher Prices, Supply Chain Disruptions",
+                  "url": "https://www.nytimes.com/",
                   "eng": "",
-                  "body": "Oil prices are likely to remain volatile as long as the United States and Iran are unable to resolve the status of the Strait of Hormuz. The renewed hostilities have shattered the relative calm in energy markets and threaten global economic recovery."
+                  "body": "The escalating US-Iran conflict is creating war risk premiums across global supply chains. Businesses face higher insurance costs, shipping delays, and component shortages as the Strait of Hormuz remains contested."
                 },
                 {
-                  "headline": "As U.S.-Iran Cease-Fire Frays, Trump Faces a Muddled War and Surging Oil",
-                  "url": "https://www.nytimes.com/2026/07/08/us/politics/trump-iran-war.html",
+                  "headline": "ICE Ordered to Cease Most Immigration Arrests After Fatal Shooting",
+                  "url": "https://www.nytimes.com/section/todayspaper",
                   "eng": "",
-                  "body": "The president reimposed the American blockade of Iranian ports, attempting to cut off the country's economic lifeline. The conflict is increasingly muddled, with no clear endgame as oil prices surge and international pressure mounts."
+                  "body": "Following the fatal shooting of a 26-year-old man in Maine by a federal immigration officer, ICE was ordered to suspend most traffic stops. President Trump later reversed the decision, reigniting debate over immigration enforcement."
+                },
+                {
+                  "headline": "How Rubio Runs Venezuela: U.S. Policy Shift Reshapes Latin America",
+                  "url": "https://www.nytimes.com/",
+                  "eng": "",
+                  "body": "Senator Marco Rubio's influence over Trump administration policy toward Venezuela has reshaped U.S. engagement in Latin America, marking a shift toward more aggressive sanctions and democracy promotion efforts."
                 }
               ]
             },
@@ -504,16 +572,22 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "U.S. Strikes Iran and Reimposes Sanctions After Tanker Attacks",
-                  "url": "https://www.nytimes.com/2026/07/07/us/politics/us-strikes-iran-tanker-attacks.html",
+                  "headline": "The AI Race Is Splitting the World Into Haves and Have-Nots",
+                  "url": "https://www.nytimes.com/issue/todayspaper/2025/07/16/todays-new-york-times",
                   "eng": "",
-                  "body": "Iran can no longer sell its oil on the open market for dollars — at least not openly. The exemption was supposed to last for 60 days but was revoked after tanker attacks in the Strait of Hormuz, escalating the military confrontation."
+                  "body": "The accelerating AI race between the US and China is creating a global digital divide, with nations lacking AI infrastructure and talent falling further behind. Tech leaders warn of an emerging 'AI inequality' that could reshape geopolitics."
                 },
                 {
-                  "headline": "Oil Prices Surge After Iran and U.S. Trade Strikes — Gulf Exports Jump to 16 Million Barrels a Day",
-                  "url": "https://www.nytimes.com/2026/07/12/business/oil-shipping-iran-hormuz.html",
+                  "headline": "Trump's Personal Earnings and Business Empire Under Renewed Scrutiny",
+                  "url": "https://www.nytimes.com/",
                   "eng": "",
-                  "body": "Oil exports from the Persian Gulf jumped by 6.5 million barrels a day in June, to around 16 million barrels a day, helping to bring down prices temporarily. But the renewed conflict has reversed those gains and threatens further disruptions."
+                  "body": "President Trump's financial disclosures show significant earnings from his business empire even while in office, raising renewed ethics concerns. The lack of a blind trust continues to draw criticism from watchdog groups."
+                },
+                {
+                  "headline": "Canada Wildfires Prompt Air Quality Warnings as Far as New York City",
+                  "url": "https://www.nytimes.com/",
+                  "eng": "",
+                  "body": "Smoke from more than 100 'out of control' Canadian wildfires spread across the region, triggering air quality alerts from Toronto to New York City. The early-season intensity has alarmed climate scientists."
                 }
               ]
             }
@@ -521,28 +595,28 @@
         },
         {
           "name": "The Washington Post",
-          "url": "https://www.washingtonpost.com/",
+          "url": "https://www.washingtonpost.com",
           "pages": [
             {
               "label": "1면",
               "articles": [
                 {
-                  "headline": "Trump Retreats from Shipping Toll in Strait of Hormuz",
-                  "url": "https://www.washingtonpost.com/world/2026/07/14/oil-prices-jump-after-trumps-threats-strait-hormuz/",
+                  "headline": "Stocks Rise on Wall Street as Oil Prices Swing Following Iran Conflict",
+                  "url": "https://www.washingtonpost.com/business/2026/07/15/stock-markets-iran-inflation-oil/8b3251fc-8003-11f1-8a16-393bd03340b0_story.html",
                   "eng": "",
-                  "body": "The president said the Strait of Hormuz 'is open to ALL Ship traffic except for Iran' after reversing his threat to impose a 20% fee on cargo. The retreat came after intense pressure from Gulf allies and amid surging oil prices."
+                  "body": "U.S. stocks gained ground following strong profit reports from big companies and more details on the path of inflation. Oil prices swung wildly as the US-Iran conflict continued with fresh airstrikes and retaliatory attacks."
                 },
                 {
-                  "headline": "ICE Halts Most Traffic-Stop Arrests in Wake of Fatal Shootings",
-                  "url": "https://www.washingtonpost.com/immigration/2026/07/14/ice-halts-most-traffic-stop-arrests-wake-fatal-shootings/",
+                  "headline": "U.S. Launches Fresh Wave of Attacks on Iran After Trump Ends Ceasefire",
+                  "url": "https://www.washingtonpost.com/world/",
                   "eng": "",
-                  "body": "ICE paused most traffic-stop arrests after officers shot and killed two immigrants in Texas and Maine within a week. The Trump administration scrambles to respond as outrage grows over the enforcement tactics."
+                  "body": "The U.S. launched a fresh wave of military attacks on Iran after President Trump declared the ceasefire over. The renewed hostilities sent oil prices soaring and rattled global financial markets."
                 },
                 {
-                  "headline": "Republicans Shorthanded in Senate After Lindsey Graham's Death",
-                  "url": "https://www.washingtonpost.com/politics/2026/07/13/lindsey-grahams-death-narrows-gop-senate-majority-key-votes/",
+                  "headline": "South Korea's Kospi Rockets 6% as US Inflation Shock Unleashes Asia-Wide Rally",
+                  "url": "https://www.washingtonpost.com/business/2026/07/15/stock-markets-iran-inflation-oil/",
                   "eng": "",
-                  "body": "Republicans face a thinner working margin, stalled spending bills and a fight over the president's attorney general nominee after Senator Lindsey Graham's sudden death at 71 from an aortic dissection."
+                  "body": "South Korea's Kospi surged more than 6% in a historic single-day rally after softer-than-expected US CPI data eased fears of aggressive Fed tightening. The rally spread across Asian markets, with semiconductor stocks leading the charge."
                 }
               ]
             },
@@ -550,16 +624,22 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "U.K. to Designate Iran's Revolutionary Guard as Terrorist Group",
-                  "url": "https://www.washingtonpost.com/world/2026/07/13/uk-designate-irans-islamic-revolutionary-guard-corps-terrorist-group/",
+                  "headline": "Oil Prices Jump Following Latest Fighting in the Middle East",
+                  "url": "https://www.washingtonpost.com/business/2026/07/13/stocks-markets-iran-trump-ai/d340b550-7e6f-11f1-8a16-393bd03340b0_story.html",
                   "eng": "",
-                  "body": "The United Kingdom is set to designate Iran's Islamic Revolutionary Guard Corps as a terrorist organization, marking a significant escalation in Western pressure on Tehran amid the renewed Hormuz conflict and military strikes."
+                  "body": "Oil prices soared anew, notching some of the biggest daily gains in years after Trump reimposed the US naval blockade on Iran. Brent crude futures surged past $80 as the Strait of Hormuz closure threatened global supply."
                 },
                 {
-                  "headline": "A Day Before His Death, Graham Was in Ukraine, Announcing a Breakthrough",
-                  "url": "https://www.washingtonpost.com/national-security/2026/07/13/without-lindsey-graham-ukraine-confronts-less-certain-us-support/",
+                  "headline": "Three Deaths in a Week Roil Senate Race, Spark Immigration Debate",
+                  "url": "https://www.washingtonpost.com/politics/",
                   "eng": "",
-                  "body": "Just a day before his sudden death, Senator Lindsey Graham was in Ukraine announcing a diplomatic breakthrough. His death leaves Ukraine confronting less certain US support going forward at a critical juncture."
+                  "body": "Three deaths in a week linked to immigration enforcement have launched an international outcry and roiled a key Senate race. ICE officers' use of force has come under intense scrutiny from both parties."
+                },
+                {
+                  "headline": "Trump Attacks 'Communists,' Pushes for Bigger Government Role in Economy",
+                  "url": "https://www.washingtonpost.com/business/",
+                  "eng": "",
+                  "body": "President Trump has intensified his attacks on political opponents while simultaneously pushing for expanded government intervention in the economy, marking a complex populist turn in economic policy."
                 }
               ]
             },
@@ -567,16 +647,22 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "Trump's Attorneys, DOJ Leaders Misused Courts in IRS Case, Judge Says",
-                  "url": "https://www.washingtonpost.com/politics/2026/07/13/trumps-attorneys-justice-dept-leaders-misused-courts-irs-case-judge-says/",
+                  "headline": "Protesters Gather Near ICE Facilities as Immigration Enforcement Intensifies",
+                  "url": "https://www.washingtonpost.com/politics/",
                   "eng": "",
-                  "body": "A federal judge ruled that the president's lawsuit against the IRS — which resulted in a now-scuttled proposal for a $1.8 billion payout fund — was filed for an 'improper purpose.' The judge referred the attorneys involved for potential disciplinary proceedings."
+                  "body": "Protesters gathered near U.S. Immigration and Customs Enforcement facilities nationwide as the agency's aggressive enforcement tactics drew renewed backlash following the fatal shooting of a 26-year-old man in Maine."
                 },
                 {
-                  "headline": "Nobel Economists, Tech Leaders Warn How AI Could Threaten Jobs",
-                  "url": "https://www.washingtonpost.com/technology/2026/07/13/nobel-economists-tech-leaders-warn-how-ai-could-threaten-jobs/",
+                  "headline": "With Elections Looming, Lawmakers Under Pressure on Economic Concerns",
+                  "url": "https://www.washingtonpost.com/economy/",
                   "eng": "",
-                  "body": "Nobel economists and technology leaders issued a joint warning about how artificial intelligence could threaten jobs across multiple sectors, adding to the growing AI skepticism weighing on tech stocks. They called for immediate policy action."
+                  "body": "With midterm elections approaching, lawmakers in both political parties are under pressure to show they are listening to Americans' concerns about the economy, including persistent inflation, high interest rates, and job market uncertainty."
+                },
+                {
+                  "headline": "Trump Aimed to Finish These Projects by America's 250th — Many Are Incomplete",
+                  "url": "https://www.washingtonpost.com/politics/2026/07/10/trump-aimed-finish-these-projects-by-americas-250th-are-they-complete/",
+                  "eng": "",
+                  "body": "President Trump launched ambitious plans for America's semiquincentennial celebration, setting a July Fourth deadline to complete a wide range of infrastructure and ceremonial projects. Many remain unfinished as the celebration has passed."
                 }
               ]
             }
@@ -584,34 +670,28 @@
         },
         {
           "name": "Financial Times",
-          "url": "https://www.ft.com/",
+          "url": "https://www.ft.com",
           "pages": [
             {
               "label": "1면",
               "articles": [
                 {
-                  "headline": "IBM Shares Plunge 25% as Customers Shift Spending to AI",
-                  "url": "https://www.ft.com/content/da478c37-7a32-415d-9f30-3b2981149f95",
+                  "headline": "FirstFT: China's Economy Grows at One of Lowest Rates in Years",
+                  "url": "https://www.ft.com/content/64c2023f-48d0-409c-9bb0-2980384a98f1",
                   "eng": "",
-                  "body": "IBM shares suffered their worst single-day drop in over 50 years, plunging 25% after CEO Arvind Krishna admitted the company 'faltered' as clients raced to buy servers and storage from competitors for AI workloads instead of IBM's offerings."
+                  "body": "China's GDP grew at just 4.3% in Q2 2026, one of the slowest rates in years. Oil traders also warn over a fresh supply crunch as the Hormuz crisis deepens, and Oracle leads the race to supply Japan with top-secret cloud services."
                 },
                 {
-                  "headline": "Wall Street Banks Smash Records on Stock Trading Boom",
-                  "url": "https://www.ft.com/content/137efc01-087f-4b1d-b2a4-e18ea61197f2",
+                  "headline": "SpaceX Sell-Off Wipes $1 Trillion from Musk's Rocket Group",
+                  "url": "https://www.ft.com/content/94959f40-1874-4ece-b629-b18f43aa3ede",
                   "eng": "",
-                  "body": "JPMorgan and Goldman Sachs reported record quarterly results driven by a surge in trading revenue and M&A advisory fees. Goldman shares jumped 9% as AI-related mega-deals like SpaceX fueled fee income. JPMorgan's Jamie Dimon called conditions nearly 'as good as it gets.'"
+                  "body": "SpaceX stock has fallen below $135 for the first time since its AI and space conglomerate's Wall Street debut in June, wiping $1 trillion from its market capitalization as tech volatility continues to weigh on high-flying names."
                 },
                 {
-                  "headline": "Trump Says US to Abandon Proposed Strait of Hormuz Cargo Fee",
-                  "url": "https://www.ft.com/content/359bc137-c375-4812-87a9-07fbba8e347f",
+                  "headline": "Argentina Break English Hearts with Late World Cup Semi-Final Comeback",
+                  "url": "https://www.ft.com/content/80e078d4-a173-413c-85d8-a5ebfd7f406e",
                   "eng": "",
-                  "body": "The US military launched its seventh wave of strikes on Iran after President Trump said he would 'replace' the proposed 20% Hormuz transit fee with Gulf investment agreements. The reversal came after fierce pushback from regional allies."
-                },
-                {
-                  "headline": "Kevin Warsh Vows Federal Reserve Will Be 'Resolute' in Inflation Fight",
-                  "url": "https://www.ft.com/content/ba8c019e-9d74-4fe2-9cb0-dc45f297df98",
-                  "eng": "",
-                  "body": "The new Fed chairman said he will not declare 'mission accomplished' despite a benign CPI report showing inflation falling to 3.5%. Warsh bound the Fed to a strict 2% inflation goal in his first congressional testimony."
+                  "body": "Lionel Messi assisted twice as reigning champions Argentina secured a 2-1 win over England to reach back-to-back World Cup finals. Argentina will face Spain in the final on July 20."
                 }
               ]
             },
@@ -619,16 +699,22 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "US Inflation Fell More Than Expected to 3.5% in June as Petrol Prices Tumbled",
-                  "url": "https://www.ft.com/content/cb3b2887-d805-402b-9c85-55e3b44d867b",
+                  "headline": "Oil Traders Warn Market Is Close to Running on Empty as Hormuz Shuts Again",
+                  "url": "https://www.ft.com/content/6c314457-ce9a-4689-b3e1-ff637de0d6bf",
                   "eng": "",
-                  "body": "The June CPI report showed inflation falling more than expected to 3.5%, down from 4.2% in May. Core CPI held at 2.6%. The benign data effectively takes a July rate rise off the table and eases pressure on the Federal Reserve."
+                  "body": "Stockpiles that acted as shock absorbers early in the Iran war are running low as the crucial Strait of Hormuz closes again. Oil traders warn of an imminent supply crunch that could push crude prices significantly higher."
                 },
                 {
-                  "headline": "New York Becomes First US State to Suspend Data Centre Development",
-                  "url": "https://www.ft.com/content/1c390476-9d93-4df5-9b41-7381db43b4ea",
+                  "headline": "Vote on US Aid to Israel Shows Deep Divide in Democratic Party",
+                  "url": "https://www.ft.com/content/cb35e093-1f8e-4160-9597-80d54cf2eb8b",
                   "eng": "",
-                  "body": "Governor Kathy Hochul signed a one-year moratorium on new data center construction amid growing backlash over the infrastructure needs of AI computing. New York is the first state to pause development over energy and environmental concerns."
+                  "body": "A failed amendment to an annual defence spending bill would have eliminated the $3.3 billion the US provides to Israel, exposing growing fissures within the Democratic Party over Middle East policy."
+                },
+                {
+                  "headline": "Blanche Grilled Over Loyalty to Trump in Tense Confirmation Hearing",
+                  "url": "https://www.ft.com/content/f96ac6cc-6185-46e2-ad7f-3b145b45df27",
+                  "eng": "",
+                  "body": "Acting attorney-general Todd Blanche vowed to resign if asked to act illegally but insisted he serves at the pleasure of the president during a tense Senate confirmation hearing that focused on his independence from Trump."
                 }
               ]
             },
@@ -636,16 +722,22 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "Buffett Drops Gates Foundation from $6bn Berkshire Donation",
-                  "url": "https://www.ft.com/content/ebc72869-a233-4710-a9a4-e398f567a5b2",
+                  "headline": "Volodymyr Zelenskyy Sacks Ukraine's Popular Defence Minister",
+                  "url": "https://www.ft.com/content/c2b9d7ff-ac32-4cea-82b2-b4dc0a64c014",
                   "eng": "",
-                  "body": "Warren Buffett shifted his personal charity plans after revelations about Bill Gates's ties to Jeffrey Epstein. The billionaire chair of Berkshire Hathaway left the Gates Foundation off his latest $6 billion donation round for the first time in decades."
+                  "body": "The moderniser behind Ukraine's drone development has been ousted in a cabinet reshuffle after just six months in post. The FT View calls it 'Ukraine's self-defeating reshuffle' and a setback for the country's military efforts."
                 },
                 {
-                  "headline": "Oil Touches $87 as Battle for Strait of Hormuz Alarms Energy Markets",
-                  "url": "https://www.ft.com/content/2d899824-5f94-4f0c-81fc-c54a0750e498",
+                  "headline": "Mira Murati's Thinking Machines Draws from Chinese Rivals in Debut AI Model",
+                  "url": "https://www.ft.com/content/ef486929-d2c2-480b-8b00-9cb98bda6acf",
                   "eng": "",
-                  "body": "Brent crude touched $87 a barrel as the battle for control of the Strait of Hormuz alarmed global energy markets. The waterway handles about 20% of global oil trade, and the renewed US-Iran military confrontation threatens to choke off supply."
+                  "body": "Former OpenAI CTO Mira Murati's start-up Thinking Machines raised $2 billion last year at a $12 billion valuation. Its debut AI model draws techniques from Chinese rivals, signaling the global nature of AI development competition."
+                },
+                {
+                  "headline": "US Troops to Get Testosterone Treatment to Make Them Strong",
+                  "url": "https://www.ft.com/content/c4c8b9e0-3149-4e0a-b585-5a5c8d2b878e",
+                  "eng": "",
+                  "body": "Defence Secretary Pete Hegseth announced that US troops will receive testosterone treatment, amid a broader focus on low sperm count and male virility on the American right. The policy shift has drawn both support and criticism."
                 }
               ]
             }
