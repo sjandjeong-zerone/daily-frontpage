@@ -1,67 +1,67 @@
 {
-  "date": "2026-07-17",
-  "dateLabel": "2026년 7월 17일(금)",
-  "generatedAt": "2026-07-17T06:30:00+09:00",
+  "date": "2026-07-18",
+  "dateLabel": "2026년 7월 18일(토)",
+  "generatedAt": "2026-07-18T06:30:00+09:00",
   "ticker": [
     "KOSPI: 6,820.60 (-6.37%)",
     "KOSDAQ: 791.84 (-4.53%)",
-    "S&P 500: 7,533.77 (-0.51%)",
-    "NASDAQ: 25,881.95 (-1.47%)",
-    "DOW: 52,552.97 (-0.20%)",
-    "VIX: 16.73 (+6.76%)",
-    "WTI Crude: $79.14 (-0.58%)",
-    "Brent Crude: ~$84.20",
-    "USD/KRW: 1,480.4원",
-    "US 10Y: 4.560%",
-    "Bitcoin: $64,162",
-    "Gold: $3,976.80 (-1.85%)"
+    "S&P 500: 7,463.84 (-1.01%)",
+    "NASDAQ: 25,560.54 (-1.40%)",
+    "DOW: 52,208.08 (-0.66%)",
+    "VIX: 18.59 (+11.12%)",
+    "WTI Crude: $82.67 (+4.71%)",
+    "Gold: $4,017.00 (+0.62%)",
+    "USD/KRW: 1,491원",
+    "US 10Y: 4.542%",
+    "Bitcoin: $63,896 (-0.50%)"
   ],
   "keywords": [
-    "KOSPI", "급락", "폭락", "반도체", "SK하이닉스", "삼성전자", "ADR",
-    "한은", "금리인상", "기준금리", "2.75%", "제헌절", "공휴일",
-    "ETF", "레버리지", "예탁금", "미-이란", "중동", "호르무즈",
-    "소매판매", "TSMC", "넷플릭스", "주담대", "개미", "사이드카",
-    "필라델피아반도체", "트럼프", "홍해", "우버", "딜리버리히어로",
-    "배달의민족", "월드컵", "메시", "권성동", "워런버핏"
+    "KOSPI", "반도체", "SOX", "필라델피아", "SK하이닉스", "삼성전자", "AI",
+    "Moonshot AI", "중국", "한은", "금리인상", "기준금리", "2.75%",
+    "제헌절", "휴장", "유가", "WTI", "중동", "이란", "금", "안전자산",
+    "VIX", "공포지수", "트럼프", "넷플릭스", "엔비디아", "최태원",
+    "한국거래소", "NYSE", "MOU", "24시간 거래", "채권", "기판",
+    "개헌", "민주당", "전당대회", "우버", "배민", "딜리버리히어로",
+    "호르무즈", "산불", "캐나다", "월드컵", "WTO", "버넘", "영국"
   ],
   "morning": {
-    "date": "2026-07-17",
-    "headline": "\"어제의 반등은 오늘의 낙폭을 키웠다\" — 하루 만에 +6.24% 폭등→-6.37% 급락, KOSPI 7,000선이 또 무너졌습니다.",
-    "weather": "연무 (Smoky haze) 🌫️ | 온도 23°C / 체감온도 25°C | 습도 100% | 바람 4km/h | 연무가 낀 흐린 아침, 습도 매우 높음",
-    "schedule": "🎌 제헌절 — 대한민국 공휴일. 증시 휴장. 주말까지 이어지는 짧은 휴식.",
+    "date": "2026-07-18",
+    "headline": "제헌절 휴장 중에도 글로벌 증시는 움직였다 — 간밤 美 증시, 반도체주 하락 지속. S&P 500·나스닥 주간 손실로 마감. 월요일 코스피 긴장감 감돕니다.",
+    "weather": "Heavy Rain, Mist (폭우, 안개) 🌧️🌫️ | 온도 21°C / 체감온도 21°C | 습도 100% | 바람 4km/h",
+    "schedule": "👩 11:30 — 아내 치과 예약 (Wife_share). 폭우 예보, 충분한 시간 여유 두고 이동하세요.",
     "domestic": {
-      "kospi": { "close": "6,820.60", "change": "-463.81", "pct": "-6.37%", "comment": "하루 만에 7,000선 재차 붕괴. 전일 +6.24% 폭등 반납. 매도 사이드카 발동" },
-      "kosdaq": { "close": "791.84", "change": "-37.59", "pct": "-4.53%", "comment": "800선 재차 붕괴. 전일 +5.80% 반등 모두 반납. 연중 최저치 재경신 위험" },
-      "supply": { "foreign": "1.18조 순매도", "institution": "1.41조 순매도", "individual": "2.59조 순매수" },
-      "comment": "반도체 대장주 직격탄: SK하이닉스 -11%대, 삼성전자 -8%. 필라델피아반도체지수 -5% + SK하이닉스 ADR -9% 여파. 한은 기준금리 2.75%로 인상 (3년6개월만). 정부, 삼전닉스 레버리지 ETF 예탁금 1,000→3,000만원 상향."
+      "kospi": { "close": "6,820.60", "change": "-463.81", "pct": "-6.37%", "comment": "7/17 제헌절 휴장. 전일 7,200선 회복 하루 만에 6,800선까지 급락. 7월 ±6%대 극변동 지속" },
+      "kosdaq": { "close": "791.84", "change": "-37.59", "pct": "-4.53%", "comment": "800선 재차 붕괴. 제헌절 휴장으로 7/20(월)까지 3일 휴장" },
+      "supply": { "foreign": "대규모 순매도 지속", "institution": "순매도 동참", "individual": "저가 매수세 유입" },
+      "comment": "7/13(월) 이후 KOSPI: 8,088→6,806→7,284→6,820 극한 변동. 한은 기준금리 2.75% 인상(3년반 만). 외국인·기관 이탈 속 개인 저가 매수 패턴 지속."
     },
     "overseas": {
-      "dow": { "close": "52,552.97", "change": "-104.36", "pct": "-0.20%" },
-      "sp500": { "close": "7,533.77", "change": "-38.63", "pct": "-0.51%" },
-      "nasdaq": { "close": "25,881.95", "change": "-387.28", "pct": "-1.47%" },
-      "oil": { "status": "하락 전환", "comment": "WTI $79.14 (-0.58%), 브렌트유 ~$84.20. 중동 리스크 속 하락" },
-      "keyStocks": "SOX(필라델피아 반도체) -5%, Sandisk·Western Digital·Marvell 큰 폭 하락. TSMC 5분기 연속 사상 최대 실적에도 투심 개선 실패. 넷플릭스 장 마감 후 실적 발표"
+      "dow": { "close": "52,208.08", "change": "-346.89", "pct": "-0.66%" },
+      "sp500": { "close": "7,463.84", "change": "-70.93", "pct": "-0.93%~-1.01%" },
+      "nasdaq": { "close": "25,560.54", "change": "-320.41", "pct": "-1.24%~-1.40%" },
+      "oil": { "status": "급등", "comment": "WTI $82.67 (+4.71%), 중동 리스크 — 미-이란 갈등 지속, 호르무즈 공급 차질 우려" },
+      "keyStocks": "SOX(필라델피아 반도체) -1.63% 추가 하락. 중국 Moonshot AI 신모델 출시로 AI 반도체 수요 피크아웃 우려. Apple, Nvidia 제치고 잠시 시총 1위. 넷플릭스 실적 발표 후 실망 매물."
     },
-    "topNews": "\"어제의 반등은 오늘의 낙폭을 키웠다\" — 하루 만에 +6.24% 폭등→-6.37% 급락, KOSPI 7,000선이 또 무너졌습니다.",
+    "topNews": "제헌절 휴장 중에도 글로벌 증시는 움직였다 — 간밤 美 증시, 반도체주 하락 지속. S&P 500·나스닥 주간 손실로 마감. 월요일 코스피 긴장감 감돕니다.",
     "otherNews": [
-      "🇰🇷 KOSPI 6.37% 급락, 7,000선 붕괴 — 전일 사상 최대 반등(+6.24%)을 하루 만에 모두 반납. 7월 들어 ±6%대 극변동",
-      "💾 SK하이닉스 -11%·삼성전자 -8% — 필라델피아 반도체 -5% + SK하이닉스 ADR -9% 여파. 반도체 업황 둔화 우려 재점화",
-      "🏦 한은, 기준금리 2.75%로 인상 — 3년6개월만의 긴축 전환. 물가·중동발 원자재 리스크 선제 대응",
-      "📊 정부, 삼전닉스 레버리지 ETF 예탁금 3,000만원으로 상향 — 증시 변동성 완화 목적",
-      "🇺🇸 TSMC 5분기 연속 사상 최대 분기 실적 — AI 수요 호조 지속. 그러나 美 반도체주는 하락",
-      "🛒 美 6월 소매판매 둔화 — 예상 하회. 경기 연착륙 기대 vs 둔화 우려 공존",
-      "☮️ 미-이란 갈등 격화 — 트럼프, 이란 지상군 투입 검토說. 홍해 봉쇄 가능성. 브렌트유 변동성 확대",
-      "📺 넷플릭스 실적 발표 — 장 마감 후 발표. 구독자·광고 요금제 성과 주목",
-      "📄 LinkedIn: 4건 새 1촌 신청 + 퍼즐 풀이 기술 추가 가능",
-      "📋 HRSS KR Admin: 경력증명서 요청 관련 (Citi)"
+      "🇨🇳 中 Moonshot AI 신모델 출시 — AI 반도체 수요 둔화 우려. 美 반도체주 추가 하락 (SOX -1.63%)",
+      "🛢️ WTI 4.71% 급등, $82.67 — 미-이란 갈등 지속, 호르무즈 공급 차질 우려. 브렌트유 동반 상승",
+      "🥇 금 사상 최초 $4,000 돌파 ($4,017) — 지정학 리스크 + 경기 불확실성에 안전자산 선호 급증",
+      "📺 넷플릭스 실적 발표 후 주가 하락 — 구독자 증가에도 비용 부담 등으로 실망 매물 출회",
+      "💾 SK하이닉스·삼성전자 — 美 반도체 약세 연장. 월요일 개장까지 업황 관심 집중",
+      "🤖 OpenAI Build Week 및 GPT-5.6 소식 — 이메일 뉴스레터 도착. 업데이트 확인 필요",
+      "📸 Instagram: gonggan.oktop 읽지 않은 메시지 — 답장/확인 필요",
+      "🔗 LinkedIn: 4촌 신청 + Jaewon Hwang 1촌 추천 + Serina Hourican 게시물",
+      "📄 미래에셋증권 금융거래정보 제공내역 (첨부 있음) — 확인 필요"
     ],
     "email": {
-      "HRSS KR Admin": "경력증명서 요청 (첨부 있음, citi.com) — 회신 내용 확인 필요",
-      "LinkedIn": "4건 새 1촌 신청 — 네트워킹 기회 검토 / 퍼즐 풀이 기술 추가 가능",
-      "케이뱅크": "계좌간자동이체약관 개정 안내",
-      "한국씨티은행": "환율정보서비스"
+      "OpenAI Dev News": "GPT-5.6, ChatGPT Work 관련 최신 AI 업데이트 확인 🤖",
+      "Instagram": "gonggan.oktop 읽지 않은 메시지 — 확인 및 회신 필요",
+      "LinkedIn": "4촌 신청 있음 + Jaewon Hwang 님 1촌 추천 — 네트워킹 기회 검토",
+      "미래에셋증권": "금융거래정보 제공내역 (첨부 있음) — 확인 필요",
+      "한국씨티은행": "환율정보서비스 — 참고"
     },
-    "insight": "\"롤러코스터 장세, 감정을 버리고 전략에 집중하라\" — 7월 국내 증시는 ±6%대 극한 변동성이 연속되는 롤러코스터 장세입니다. 2008년 금융위기 이후 처음 있는 일입니다. 핵심 변수 세 가지: ① 반도체 사이클 불확실성 (SK하이닉스 ADR·용인 Y1 팹 가속화·TSMC 사상 최대 실적에도 불구 단기 수급 변동성 극심), ② 한은 금리 인상(2.75%) — 시장 예상 수준이나 추가 인상 가능성 제한적, ③ 미-이란 갈등 — 지상군 투입 검토설까지, 유가 폭등 시 글로벌 경기·물가 동시 충격 우려. 오늘은 제헌절로 증시 휴장. 급등락 연속이었던 한 주를 마무리하며 마음을 정리할 시간. 극단적 변동성 장세에서는 분할 매수/매도 전략과 손절 라인 설정이 생존의 열쇠입니다. \"공포에 팔지 말고, 탐욕에 사지 말라\" — 누구나 아는 명언이지만, 지금처럼 감정이 극단으로 치닫는 장세에서 더욱 빛납니다. \"시장이 당신을 흔들 때, 당신의 전략이 당신을 지킨다.\" 🇰🇷"
+    "insight": "\"휴장 속에서도 움직이는 글로벌 시장 — 월요일을 준비하라\"\n\n제헌절 연휴(금) + 주말(토·일)로 3일간 휴장 중인 국내 증시. 하지만 글로벌 시장은 멈추지 않았습니다.\n\n간밤에 바뀐 세 가지:\n\n1️⃣ 중국 AI 신모델 등장: Moonshot AI의 신규 모델 공개 → 'AI 반도체 수요 피크 아웃' 우려 자극. 美 반도체주 추가 하락. 월요일 국내 반도체 대장주(SK하이닉스·삼성전자)에 부정적 영향 예상.\n\n2️⃣ 유가 4.7% 급등 + 금 사상 첫 $4,000: 중동 리스크가 점점 현실화되는 모양새. 유가 상승은 인플레 압력 → 추가 긴축 우려로 이어질 수 있어 주의 필요.\n\n3️⃣ VIX 18.59 (+11.12%): 공포지수가 다시 급등. 시장 불안이 가시지 않았음을 방증.\n\n월요일(7/20) 개장 전 점검 포인트: 美 반도체주 주말 간 추가 변동 여부, 중동 정세 변화(이란-美 갈등), 주말 동안의 글로벌 뉴스 흐름.\n\n3일의 휴장 기간은 숨 고르기에 최적입니다. 지난주 극한 변동성(±6%대 스윙)을 되돌아보고, 월요일 대응 전략을 미리 세워두세요. 특히 반도체 비중이 높은 포트폴리오라면 손절 라인과 분할 매수 계획을 점검하는 것이 좋습니다.\n\n\"시장이 닫혀 있을 때가 가장 명확히 생각할 수 있는 시간이다.\" — 비 오는 토요일, 치과 일정 잘 마치시고 편안한 주말 보내세요! 🌧️☕"
   },
   "sections": {
     "kor": {
@@ -75,22 +75,34 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "반도체 SOX지수 4%대 급락에 나스닥 1.47%↓…코스피 6.37% 폭락",
-                  "url": "https://www.mk.co.kr/news/stock/12100839",
-                  "eng": "Nasdaq falls 1.47% as semiconductor SOX index plunges 4%+",
-                  "body": "필라델피아 반도체지수가 5% 가까이 급락하며 뉴욕증시 나스닥이 1.47% 하락했다. SK하이닉스 ADR -9% 등 반도체주 전반의 매도세가 이어졌고, 이 여파로 KOSPI도 6.37% 급락하며 6,820선으로 밀려났다."
+                  "headline": "트럼프 \"中, 2020 美대선때 2억명 정보탈취\"…대국민연설서 또 부정선거론",
+                  "url": "https://www.mk.co.kr/news/world/12101113",
+                  "eng": "Trump claims China stole 200M voter data in 2020 election, revives fraud claims in national address",
+                  "body": "도널드 트럼프 미국 대통령이 대국민 연설에서 중국이 2020년 미국 대선 당시 2억 명의 유권자 정보를 탈취했다고 주장하며 또다시 부정선거론을 제기했다. 중간선거를 앞두고 지지층 결집을 노린 행보로 풀이된다. 중국 측은 \"완전히 날조된 악의적 비방\"이라고 반발했다."
                 },
                 {
-                  "headline": "기아 '신차 돌풍'…상반기 판매 현대차 첫 추월",
-                  "url": "https://www.mk.co.kr/",
-                  "eng": "Kia surpasses Hyundai in first-half sales for the first time amid new car boom",
-                  "body": "기아가 EV5·타스만 등 신차 효과에 힘입어 상반기 글로벌 판매량에서 현대차를 사상 처음으로 추월했다. 기아의 상반기 글로벌 판매는 전년 대비 증가한 반면, 현대차는 주요 시장 수요 둔화로 판매가 감소했다."
+                  "headline": "금리인상 후폭풍 … 고령층부터 타격 — 취약차주 5명 중 1명 60대 이상, 대출 연체율 4년 새 2배",
+                  "url": "https://www.mk.co.kr/news/economy/12101110",
+                  "eng": "Rate hike aftershock hits seniors first — 1 in 5 vulnerable borrowers over 60, delinquency rate doubles in 4 years",
+                  "body": "한국은행의 기준금리 인상(2.50→2.75%) 여파로 고령층 취약차주가 직격탄을 맞고 있다. 취약차주 5명 중 1명이 60대 이상이며, 이들의 대출 연체율은 4년 새 2배로 증가했다. 고령 자영업자의 평균 부채는 3억 9천만 원에 달한다."
                 },
                 {
-                  "headline": "워런 버핏 \"현재 금융시장은 도박\"…장기 가치투자 선호",
-                  "url": "https://www.mk.co.kr/news/world/12100661",
-                  "eng": "Warren Buffett: 'Current financial markets are gambling' — favors long-term value investing",
-                  "body": "워런 버핏 버크셔해서웨이 회장이 현 금융시장을 '도박'에 비유하며 장기 보유 가치투자의 중요성을 재차 강조했다. 글로벌 증시의 극심한 변동성을 우려한 발언으로 풀이된다."
+                  "headline": "[단독] 韓美거래소 8월 MOU … \"24시간 거래체계 협력\" — 22년 만에 협약 틀 개편",
+                  "url": "https://www.mk.co.kr/news/stock/12101114",
+                  "eng": "Korea Exchange and NYSE to sign MOU in August for 24-hour trading cooperation, first framework update in 22 years",
+                  "body": "한국거래소와 뉴욕증권거래소(NYSE)가 오는 8월 중 양해각서(MOU)를 체결하고 24시간 거래체계 협력에 나선다. 2004년 첫 MOU 이후 22년 만의 협약 틀 개편으로, 한미 증시 연계 강화가 기대된다. 결제주기 단축 경험 공유와 토큰증권 시장 협력도 논의된다."
+                },
+                {
+                  "headline": "급팽창하는 'AI 기판' 한 vs 일 국가대항전 — 2032년 27조 시장, 日 이비덴 독주 속 삼성전기 맹추격",
+                  "url": "https://www.mk.co.kr/news/business/12101111",
+                  "eng": "Korea vs Japan battle in fast-growing AI substrate market — 27T won market by 2032, Samsung Electro-Mechanics chases Japan's Ibiden",
+                  "body": "AI 반도체 패키징에 필수적인 기판(서브스트레이트) 시장이 2032년 27조 원 규모로 급성장할 전망이다. 일본 이비덴이 독주하는 가운데 삼성전기가 맹추격하며 한일 국가대항전 양상으로 전개되고 있다."
+                },
+                {
+                  "headline": "[포토] 텅텅 vs 빼곡 … 연휴 첫날 '도시탈출'",
+                  "url": "https://www.mk.co.kr/news/society/12101112",
+                  "eng": "Empty streets vs packed highways — exodus from city on first day of holiday weekend",
+                  "body": "제헌절 연휴 첫날인 17일, 서울 도심은 한산한 반면 주요 고속도로는 귀성·여행 차량으로 붐볐다. 신도평화대교 개통 후 첫 연휴를 맞아 영종도 방면 교통 체증도 극심했다."
                 }
               ]
             },
@@ -98,16 +110,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "3000만원으로 진입장벽 높였지만…변동성 감소 지켜봐야",
-                  "url": "https://www.mk.co.kr/news/stock/12100674",
-                  "eng": "Entry barrier raised to 30M won for leveraged ETFs, but volatility impact uncertain",
-                  "body": "정부가 삼성전자·SK하이닉스 단일종목 레버리지 ETF의 기본 예탁금을 1,000만원에서 3,000만원으로 상향했으나, 증시 전문가들은 변동성 감소 효과에 대해 회의적인 반응을 보였다. 두 종목 쏠림이 극심한 국내 증시 특성상 실효성이 제한적이라는 지적이다."
+                  "headline": "美기업 5~6곳 韓상장 논의 … K증시 글로벌화 발판 될 듯 — 시총 8억 달러 ESS 회사 포함, 美 기업들 코스닥행 타진",
+                  "url": "https://www.mk.co.kr/news/stock/12101134",
+                  "eng": "5-6 US companies in talks for KOSDAQ listing — including $800M ESS firm, boost for K-market globalization",
+                  "body": "미국 기업 5~6곳이 한국 증시 상장을 논의 중인 것으로 확인됐다. 시가총액 8억 달러 규모의 ESS(에너지저장장치) 회사도 포함됐으며, 한국거래소-NYSE MOU 체결을 계기로 코스닥 상장을 타진하는 미국 기업들이 늘고 있다. 토큰증권 시장 협력에 대한 기대도 크다."
                 },
                 {
-                  "headline": "申 \"물가 안정때까지 인상 기조\"…연내 3%대 기준금리 예고",
-                  "url": "https://m.mk.co.kr/amp/12100498",
-                  "eng": "BOK Governor Shin signals rate hikes until prices stabilize, 3% benchmark by year-end",
-                  "body": "신현송 한은 총재가 기준금리를 2.75%로 인상한 후 \"물가가 안정될 때까지 인상 기조를 이어갈 것\"이라고 밝혔다. 시장에서는 연내 추가 인상으로 기준금리가 3%대에 도달할 가능성을 높게 보고 있다."
+                  "headline": "대통령 지시에 낙태약 합법화 재시동…의료계 \"법·제도 정비부터\" — 임신중지약 '미프진' 논란",
+                  "url": "https://www.mk.co.kr/news/society/12101135",
+                  "eng": "Presidential order restarts abortion pill legalization — medical community calls for legal framework first",
+                  "body": "대통령의 지시로 임신중지약(미프진) 합법화 논의가 재개됐다. 정부는 안전관리 체계 구축을 약속했으나, 의료계는 법·제도 정비가 선행되어야 한다는 입장이다."
                 }
               ]
             },
@@ -115,16 +127,22 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "'마스가 동맹' 확장…울산·거제서 美군함 건조하나",
-                  "url": "https://www.mk.co.kr/news/business/12100460",
-                  "eng": "Musk-Trump alliance expands — US warships may be built in Ulsan and Geoje",
-                  "body": "트럼프 행정부의 '마스가(머스크+트럼프) 동맹'이 한국 조선업과의 협력으로 확장되고 있다. 한국 조선소에서 미 해군 함정을 건조하는 방안이 유력하게 검토 중이며, HD현대중공업(울산)과 한화오션(거제)이 후보지로 거론된다."
+                  "headline": "60대 이상 취약차주 빚 평균 1억원 … 30대보다 2배 많아 — 금리인상 직격탄, 고령층 취약차주 비상",
+                  "url": "https://www.mk.co.kr/news/economy/12101085",
+                  "eng": "Seniors' average debt 100M won — double that of 30s, rate hike hits elderly hardest",
+                  "body": "60대 이상 취약차주의 평균 부채가 1억 원에 달해 30대의 2배 수준인 것으로 나타났다. 한은 금리 인상 여파로 고령층의 이자 부담이 급증, 대출 연체율도 빠르게 상승하고 있다."
                 },
                 {
-                  "headline": "경찰 지연·혈연유착 뿌리뽑는다…순환인사 강화·가족사건 제외",
-                  "url": "https://www.mk.co.kr/news/society/12100738",
-                  "eng": "Police to root out cronyism with mandatory rotation and family conflict exclusion",
-                  "body": "장윤기 사건을 계기로 경찰이 조직 내 연고지 유착을 근절하기 위해 순환인사제를 전면 도입하고, 가족 관련 사건에서 해당 경찰관을 배제하는 방안을 추진한다."
+                  "headline": "\"韓주식 팔고 美로 갈까\" 버티던 슈퍼리치도 고민",
+                  "url": "https://www.mk.co.kr/news/stock/12101090",
+                  "eng": "Even ultra-rich waver — 'Should I sell Korean stocks and go to US market?'",
+                  "body": "국내 증시 변동성이 극심해지면서 그동안 한국 주식을 고수하던 슈퍼리치들 사이에서도 미국 증시로의 이탈을 고민하는 움직임이 나타나고 있다. 코스피 급등락이 반복되면서 자산가들의 포트폴리오 재편이 가속화되고 있다."
+                },
+                {
+                  "headline": "트럼프, MAGA마저 등 돌리자 … '中 선거개입' 내걸고 승부수",
+                  "url": "https://www.mk.co.kr/news/world/12101081",
+                  "eng": "As even MAGA base wavers, Trump plays 'China election interference' card",
+                  "body": "트럼프 대통령이 핵심 지지층인 MAGA 진영의 일부 이탈 조짐 속에 중국의 선거 개입 의혹을 전면에 내세우며 지지층 결집에 나섰다. 중간선거를 앞둔 승부수로 해석된다."
                 }
               ]
             }
@@ -138,22 +156,28 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "한은, 3년6개월만에 기준금리 인상…연내 추가 인상 예고",
-                  "url": "https://www.khan.co.kr/economy",
-                  "eng": "BOK raises rates for first time in 3.5 years, signals further hikes within 2026",
-                  "body": "한국은행 금융통화위원회가 기준금리를 연 2.50%에서 2.75%로 인상했다. 신현송 총재는 국내 증시 변동성이 지속되면 소비심리 약화 등으로 추가 금리 인상이 필요할 수 있다고 밝혔다."
+                  "headline": "외교부, 심우정 전 검찰총장 딸 연구원 합격 취소…\"채용 관련자들 징계\"",
+                  "url": "https://www.khan.co.kr/article/202607172015001",
+                  "eng": "Foreign Ministry cancels hiring of ex-Prosecutor General Shim Woo-jung's daughter, disciplines officials",
+                  "body": "외교부가 특혜 채용 의혹이 제기됐던 심우정 전 검찰총장의 딸 심모씨의 합격을 취소하고 채용 담당 관련자들에 대한 징계 절차에 들어갔다. 외교부는 채용점검위원회 심의를 거쳐 응시 자격 미충족을 이유로 지난 5월 29일 당사자에게 이메일로 합격 취소를 통보했다."
                 },
                 {
-                  "headline": "예탁금 3천만원으로 높인 '삼전닉스' 레버리지…변동성 잦아들까",
-                  "url": "https://www.khan.co.kr/article/202607161805001",
-                  "eng": "Government raises Samsung-SK Hynix leveraged ETF deposit to 30M won",
-                  "body": "정부가 국내 증시 변동성 확대의 주범으로 지목된 삼성전자·SK하이닉스 단일종목 레버리지 ETF의 투자자 기본 예탁금을 1,000만원에서 3,000만원으로 높이고 최소 주문 단위도 1주에서 20주로 상향했다."
+                  "headline": "한성숙 총리, 중부지방 폭우에 \"비상근무 태세 유지…국민안전 확보\" 긴급지시",
+                  "url": "https://www.khan.co.kr/article/202607172155001",
+                  "eng": "PM Han Sung-sook orders emergency stance as heavy rain hits central region, up to 300mm expected",
+                  "body": "한성숙 국무총리는 오는 18~19일 중부지방 최대 300mm 이상 폭우 예보에 따라 지방정부·산림청·경찰·소방에 비상근무 태세 유지와 안전 관리 철저를 긴급 지시했다."
                 },
                 {
-                  "headline": "통일교 1억 수수 권성동 징역 2년 확정…의원직 상실",
-                  "url": "https://www.khan.co.kr/article/202607161025001",
-                  "eng": "Supreme Court confirms 2-year sentence for Rep. Kwon Seong-dong, loses seat",
-                  "body": "대법원이 통일교로부터 불법 정치자금 1억원을 수수한 혐의를 받는 권성동 국민의힘 의원에 대해 징역 2년을 확정했다. 이 판결로 권 의원은 의원직을 상실했다."
+                  "headline": "주말 중부지방 최대 300㎜ 물폭탄…당국, 중대본 가동 등 비상대응 돌입",
+                  "url": "https://www.khan.co.kr/article/202607171630001",
+                  "eng": "Up to 300mm torrential rain forecast for central region, government activates emergency HQ",
+                  "body": "주말과 휴일에 중부지방을 중심으로 최대 300mm 안팎의 집중호우가 예상됨에 따라 행안부가 중앙재난안전대책본부(중대본)를 가동하고 비상대응 체계에 돌입했다. 윤호중 행안부 장관은 9개 시·도에 현장상황관리관 파견을 긴급 지시했다."
+                },
+                {
+                  "headline": "\"돈 내라, 내 메시지 더 빨리 보려면\"…트럼프의 놀라운 장삿속",
+                  "url": "https://www.khan.co.kr/article/202607171655001",
+                  "eng": "Pay to see my posts faster — Trump Media pitches $100K monthly fee for fast feed of president's posts",
+                  "body": "트럼프 미디어가 대통령의 트루스소셜 게시물을 고속으로 열람할 수 있는 서비스에 월 10만 달러(약 1억 5천만 원)의 이용료를 책정한 사실이 드러났다. 외신들은 이를 '최신형 창조경제'라고 비꼬았다."
                 }
               ]
             },
@@ -161,16 +185,22 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "미·이란 극한대치 중 트럼프 \"이란에 감사\"…물밑 대화 물꼬?",
-                  "url": "https://www.khan.co.kr/article/202607161504001",
-                  "eng": "Amid US-Iran standoff, Trump thanks Iran for releasing US citizen",
-                  "body": "이란이 간첩 혐의로 억류했던 미국인을 석방하자 도널드 트럼프 대통령이 \"이란이 내린 선의의 조치에 감사드린다\"고 화답했다. 종전 MOU 파행 후 극한 대치를 이어온 양국 간 대화 재개의 물꼬가 트일지 주목된다."
+                  "headline": "최태원 \"SK하이닉스 주식 가만히 갖고 있으면 돼…우상향할 것\" — 대한상의 하계포럼 대담",
+                  "url": "https://www.khan.co.kr/article/202607171047001",
+                  "eng": "SK Chairman Chey Tae-won: 'Just hold SK Hynix stock, it will trend upward' — Korea Chamber of Commerce summer forum",
+                  "body": "최태원 SK그룹 회장이 SK하이닉스 주가의 장기 우상향을 전망하며 \"샀다 팔았다 하지 말고 가만히 갖고 있는 게 재산 보전에 좋은 방법\"이라고 조언했다. 그는 AI 시대에 메모리 수요가 기하급수적으로 늘어날 것이라며 한국이 '지능 수출'로 승부해야 한다고 강조했다."
                 },
                 {
-                  "headline": "호르무즈 이어 홍해 봉쇄도 현실화하나…이란, 후티에 지시",
-                  "url": "https://www.khan.co.kr/article/202607162234001",
-                  "eng": "Iran instructs Houthis to prepare Red Sea blockade following Hormuz tensions",
-                  "body": "이란이 미국의 전력 기반시설 공격 가능성에 대비해 예멘 후티 반군에게 홍해 원유 수송로 봉쇄 준비를 지시한 것으로 알려졌다. 로이터통신은 이란 고위 소식통을 인용해 홍해 봉쇄 방안이 이란 수뇌부에서 논의됐다고 보도했다."
+                  "headline": "김민석·정청래·송영길·고민정·김보미…민주당 당대표 '5파전' 공식화",
+                  "url": "https://www.khan.co.kr/article/202607171825001",
+                  "eng": "Five-way race for Democratic Party leadership — Kim Min-seok, Chung Chung-rae, Song Young-gil, Ko Min-jung, Kim Bo-mi",
+                  "body": "더불어민주당 8·17 전당대회 당대표 선거가 고민정·김민석·김보미·송영길·정청래 후보의 5파전으로 확정됐다. 최고위원 선거에는 14명이 도전장을 냈으며, 21일 예비경선에서 각각 3명·8명으로 추려진다."
+                },
+                {
+                  "headline": "기초연금 지급 기준, 12년 만에 바뀐다…'기준 중위소득' 기준으로 개편 추진",
+                  "url": "https://www.khan.co.kr/article/202607171216001",
+                  "eng": "Basic pension eligibility to change after 12 years — shifting from bottom 70% income to median income standard",
+                  "body": "정은경 보건복지부 장관이 기초연금 지급 기준을 기존 '소득 하위 70%'에서 '기준 중위소득' 기반으로 변경하는 개편안을 추진 중이라고 밝혔다. 2014년 도입 이후 첫 대대적 손질이다."
                 }
               ]
             },
@@ -178,16 +208,22 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "TSMC 美 반도체 공장 증설 148조원 추가 투자",
-                  "url": "https://www.donga.com/news/article/all/20260716/134315178/2",
-                  "eng": "TSMC to invest additional $148T won in US semiconductor plant expansion",
-                  "body": "TSMC가 미국 애리조나 반도체 공장 증설에 148조원 규모의 추가 투자를 발표했다. AI 반도체 수요 급증에 대응하기 위한 선제적 투자로, 5분기 연속 사상 최대 실적을 기록한 TSMC의 공격적 행보다."
+                  "headline": "\"8월에 또 오를 수도\"…긴축 고삐 죄는 한은, 다시 '고금리 예금' 시대",
+                  "url": "https://www.khan.co.kr/article/202607171700001",
+                  "eng": "BOK may hike again in August — tightening cycle continues, high-rate deposit era returns",
+                  "body": "한국은행이 7월 기준금리 2.75% 인상에 이어 8월 추가 인상 가능성도 열어두면서 시중은행들이 예·적금 금리를 일제히 올리고 있다. 우리은행은 금리 인상 당일 수신 상품 금리를 0.25~0.30%p 인상했다."
                 },
                 {
-                  "headline": "배민 주인 바뀌나…우버, 딜리버리히어로 20조원 인수",
-                  "url": "https://www.khan.co.kr/article/202607161553001",
-                  "eng": "Uber to acquire Delivery Hero for ~$20B, Baedal Minjok ownership to change",
-                  "body": "미국 우버가 독일 딜리버리히어로(DH)를 약 125억유로(약 20조원)에 인수하는 계약 체결을 앞두고 있다. DH는 국내 배달의민족(배민)의 모회사로, 인수가 완료되면 배민의 소유권도 우버로 넘어가게 된다."
+                  "headline": "우버 품에 안긴 '배민'…배달앱 1위 지킬까, 쿠팡이츠와 경쟁 심화",
+                  "url": "https://www.khan.co.kr/article/202607171728001",
+                  "eng": "Baedal Minjok under Uber — can it keep No.1 spot as Coupang Eats rivalry intensifies?",
+                  "body": "우버가 배달의민족 운영사 우아한형제들의 모회사인 독일 딜리버리히어로(DH) 주주 대상 공개매수에 나서며 배민 인수에 나섰다. 주당 41.5유로 현금 지급 조건으로, 거래 완료는 내년 하반기로 예상된다. 쿠팡이츠와의 경쟁 격화가 예상된다."
+                },
+                {
+                  "headline": "트럼프 연설 베팅으로 10만달러 번 타짜…알고 보니 백악관 연설 담당자",
+                  "url": "https://www.khan.co.kr/article/202607171540001",
+                  "eng": "Trump speechwriter netted $100K on prediction market — using inside knowledge of president's remarks",
+                  "body": "트럼프 대통령의 연설 원고 담당자가 내부 정보를 이용해 예측시장 '칼시(Kalshi)'에서 10만 달러의 부당 이익을 챙긴 혐의로 미 상품선물거래위원회(CFTC) 조사를 받고 있다. 트럼프 행정부 내 이해충돌 논란이 재점화됐다."
                 }
               ]
             }
@@ -201,22 +237,34 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "3년6개월만에 금리 인상…연내 더 올린다",
-                  "url": "https://www.donga.com/news/article/all/20260717/134315499/2",
-                  "eng": "First rate hike in 3.5 years — more to come within 2026",
-                  "body": "한국은행이 기준금리를 연 2.50%에서 2.75%로 인상했다. 3년 6개월 만의 통화긴축 전환으로, 신현송 총재는 물가 안정을 위해 연내 추가 인상 가능성을 시사했다. 주담대 금리도 연 7%대에서 추가 상승이 예상된다."
+                  "headline": "美유학길 좁아진다… 학생비자 4년 제한",
+                  "url": "https://www.donga.com/news/article/all/20260717/134319369/2",
+                  "eng": "US narrows path for foreign students — student visas limited to 4 years",
+                  "body": "미국 정부가 외국인 학생비자 유효기간을 4년으로 제한하는 정책을 추진하면서 한국인 유학생과 가족 약 2만 5천 명에 비상이 걸렸다. 유학길이 좁아지면서 대안 유학지 모색 움직임도 나타나고 있다."
                 },
                 {
-                  "headline": "삼전닉스 레버리지 예탁금…현금 3000만원으로 상향",
-                  "url": "https://www.donga.com/news/article/all/20260716/134315493/2",
-                  "eng": "Samsung-SK Hynix leveraged ETF minimum deposit raised to 30M won",
-                  "body": "정부가 증시 변동성 확대의 주범으로 지목된 삼성전자·SK하이닉스 단일종목 레버리지 ETF에 대한 투자자 기본 예탁금을 1,000만원에서 3,000만원으로 대폭 상향 조정했다."
+                  "headline": "주말 내내 전국 장맛비… 중부 300㎜ 쏟아진다",
+                  "url": "https://www.donga.com/news/article/all/20260717/134319048/2",
+                  "eng": "Nationwide monsoon rain all weekend — up to 300mm in central region",
+                  "body": "주말 내내 전국적으로 장맛비가 이어지며 중부지방에는 최대 300mm의 폭우가 예상된다. 당국은 산사태와 침수 피해에 대비해 비상대응 태세에 들어갔다."
                 },
                 {
-                  "headline": "정부 \"14세 미만 청소년 SNS 가입 제한 추진\"",
-                  "url": "https://www.donga.com/news/article/all/20260716/134315497/2",
-                  "eng": "Government pushes to ban social media sign-ups for under-14s",
-                  "body": "정부가 14세 미만 청소년의 SNS 가입을 제한하고 19세 미만에는 '무한 스크롤' 기능을 제한하는 등 청소년 SNS 중독 차단 대책을 추진한다. 호주·프랑스 등 글로벌 규제 흐름에 동참하는 조치다."
+                  "headline": "상반기 서울 아파트값, 18년만에 가장 많이 올라",
+                  "url": "https://www.donga.com/news/article/all/20260717/134319367/2",
+                  "eng": "Seoul apartment prices jump most in 18 years during first half of 2026",
+                  "body": "2026년 상반기 서울 아파트값이 18년 만에 가장 큰 폭으로 상승했다. 서울 외곽 지역에서도 신고가가 잇따르며 봉천동은 반년 새 2억 원, 길음동은 3억 원이 올랐다."
+                },
+                {
+                  "headline": "'피크아웃' 공포 덮친 반도체, 주가 줄줄이 급락",
+                  "url": "https://www.donga.com/news/article/all/20260717/134319364/2",
+                  "eng": "Semiconductor 'peak-out' fear triggers broad sell-off in chip stocks",
+                  "body": "AI 반도체 수요가 정점을 찍었다는 '피크아웃' 공포가 시장을 덮치면서 반도체주가 줄줄이 급락했다. 필라델피아 반도체 지수는 20% 이상 하락하며 약세장에 진입했고, SK하이닉스와 삼성전자도 직격탄을 맞았다."
+                },
+                {
+                  "headline": "제헌절에 개헌론 재점화… 조정식 \"22대 국회내 매듭\"",
+                  "url": "https://www.donga.com/news/article/all/20260717/134319373/2",
+                  "eng": "Constitutional revision debate reignited on Constitution Day — National Assembly Speaker proposes amendment by 22nd Assembly",
+                  "body": "조정식 국회의장이 제78주년 제헌절인 17일 \"2027년에 국민주권 개헌안을 마련하고 22대 국회 내에 10차 개헌을 매듭짓자\"고 제안했다. '87 체제' 39년을 맞아 정치권의 개헌 논의가 재점화됐다."
                 }
               ]
             },
@@ -224,16 +272,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "레버리지 예탁금 3배로 '문턱' 높여…\"증시안정 효과 미지수\"",
-                  "url": "https://www.donga.com/news/article/all/20260716/134315619/2",
-                  "eng": "Tripling leveraged ETF deposit requirement may not stabilize markets, experts say",
-                  "body": "정부의 삼전닉스 레버리지 ETF 예탁금 3배 인상 조치에 대해 증시 전문가들은 회의적 반응을 보였다. 소액 개인투자자의 진입은 줄겠지만, 기관과 고액 자산가의 투기적 매매를 막기에는 역부족이라는 분석이다."
+                  "headline": "\"美유학 출국 앞두고 날벼락\"… 韓학생-가족 등 2만5000명 비상",
+                  "url": "https://www.donga.com/news/article/all/20260717/134319276/2",
+                  "eng": "25,000 Korean students and families in crisis as US student visa policy tightens",
+                  "body": "미국의 학생비자 4년 제한 정책에 출국을 앞둔 한국 유학생과 가족 약 2만 5천 명이 비상이다. 현지 대학들도 우수 외국인 인재 유치에 차질이 예상된다며 반발하고 있다."
                 },
                 {
-                  "headline": "'돈 없으면 이민 오지마'…美, 영주권 10만달러 보증금 검토",
-                  "url": "https://www.donga.com/news/article/all/20260716/134315617/2",
-                  "eng": "US considers $100K bond for green card applicants under toughened immigration",
-                  "body": "트럼프 행정부가 영주권 신청자에게 10만 달러(약 1억 5천만원)의 보증금을 요구하는 방안을 검토 중이다. 유학생·언론인 비자 요건도 대폭 강화하는 등 반이민 정책이 확대되고 있다."
+                  "headline": "서울 외곽 아파트 신고가 잇따라… 봉천동 2억-길음동 3억 껑충",
+                  "url": "https://www.donga.com/news/article/all/20260717/134319273/2",
+                  "eng": "Seoul outskirts see record apartment prices — Bongcheon-dong up 200M won, Gireum-dong up 300M won in 6 months",
+                  "body": "서울 외곽 지역 아파트값이 가파르게 상승하며 신고가가 잇따르고 있다. 반년 새 봉천동은 2억 원, 길음동은 3억 원이 오르는 등 서울 전역으로 집값 상승세가 확산되고 있다."
                 }
               ]
             },
@@ -241,16 +289,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "年 7%대 주담대 더 오른다…물가안정 기대속 영끌족 비상",
-                  "url": "https://www.donga.com/news/article/all/20260716/134315507/2",
-                  "eng": "Mortgage rates already at 7% set to rise further, straining borrowers",
-                  "body": "한은의 기준금리 인상으로 연 7%대 주택담보대출 금리가 연내 8%대까지 오를 수 있다는 전망이 나왔다. 고물가·고환율 속 '영끌' 차주들의 이자 부담이 급증할 것으로 보인다. 금리 인상기에는 고정금리 대출과 단기 예금이 유리하다."
+                  "headline": "공급과잉-투자지연 우려에 반도체株 휘청… 美빅테크 실적 촉각",
+                  "url": "https://www.donga.com/news/article/all/20260717/134319265/2",
+                  "eng": "Chip stocks wobble on oversupply and investment delay fears — eyes on Big Tech earnings",
+                  "body": "반도체주가 공급과잉과 AI 투자 지연 우려로 휘청이고 있다. 시장은 미국 빅테크 기업들의 실적 발표에 촉각을 곤두세우고 있으며, 이들의 AI 인프라 투자 계획에 따라 반도체 업황 전망이 결정될 것으로 보인다."
                 },
                 {
-                  "headline": "\"취약 대출자 부담 재정-금융정책으로 덜어줘야\"",
-                  "url": "https://www.donga.com/news/article/all/20260716/134315503/2",
-                  "eng": "Experts call for fiscal and financial policy support for vulnerable borrowers",
-                  "body": "금리 인상으로 취약 차주의 부담이 가중될 것이라는 우려에 대해 전문가들은 재정·금융 정책을 통한 보완 대책이 시급하다고 지적했다."
+                  "headline": "최태원 \"SK하이닉스株 우상향, 샀다 팔았다 말고 갖고 있어라\"",
+                  "url": "https://www.donga.com/news/article/all/20260717/134319262/2",
+                  "eng": "SK Chairman Chey: 'SK Hynix will rise long-term, don't trade—hold'",
+                  "body": "최태원 SK 회장이 대한상의 하계포럼에서 SK하이닉스 주가의 장기 우상향을 전망하며 투자자들에게 장기 보유를 조언했다. 최근 주가 급등락은 \"너무 빨리 올라서 현실에 적응하는 과정\"이라고 설명했다."
                 }
               ]
             }
@@ -264,16 +312,28 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "'삼전닉스 레버리지 ETF' 예탁금 3000만원으로 상향",
-                  "url": "https://www.hankyung.com/article/2026071602701",
-                  "eng": "Samsung-SK Hynix leveraged ETF deposit raised to 30M won",
-                  "body": "정부가 국내 증시 변동성을 키우는 주범으로 지목된 삼성전자·SK하이닉스 단일종목 레버리지 ETF의 기본 예탁금을 1,000만원에서 3,000만원으로 3배 인상했다. 최소 주문 단위도 1주에서 20주로 상향 조정된다."
+                  "headline": "\"처음 보는 수\"…카타고 변칙에 신진서 스텝 꼬였다 — 인류 최강, AI에 완패",
+                  "url": "https://www.hankyung.com/article/2026071712451",
+                  "eng": "Shin Jin-seo stunned by AI's novel move — humanity's Go champion falls to KataGo",
+                  "body": "인류 최강 바둑기사 신진서 9단이 AI 카타고의 변칙적인 신수에 말려 완패했다. 두 점 접바둑 대국에서도 인간이 AI를 넘지 못하는 현실을 재확인했다."
                 },
                 {
-                  "headline": "\"韓경제 핵심 지표는 반도체 가격…추가 인상, 데이터 보고 결정\"",
-                  "url": "https://www.hankyung.com/article/2026071602611",
-                  "eng": "BOK: Korea's key economic indicator is chip prices, further hikes data-dependent",
-                  "body": "신현송 한은 총재가 \"한국 경제의 핵심 지표는 반도체 가격\"이라며 물가·GDP 데이터를 본 후 추가 금리 인상을 결정하겠다고 밝혔다. 한은은 3년 6개월 만에 기준금리를 2.50%에서 2.75%로 인상했다."
+                  "headline": "황금주말 전국 '물폭탄' 최대 300㎜…수도권·충청권·경북 호우특보",
+                  "url": "https://www.hankyung.com/article/2026071712281",
+                  "eng": "Golden weekend hit by up to 300mm torrential rain — heavy rain alerts for capital, Chungcheong, North Gyeongsang",
+                  "body": "제헌절 연휴를 포함한 주말 동안 전국에 최대 300mm의 물폭탄이 쏟아질 전망이다. 수도권·충청권·경북에 호우특보가 발효됐으며, 당국은 산사태와 하천 범람에 대비해 비상근무에 돌입했다."
+                },
+                {
+                  "headline": "최태원 \"메모리 수요 지속…韓, 지능 수출해야\"",
+                  "url": "https://www.hankyung.com/article/2026071711931",
+                  "eng": "SK Chairman Chey: 'Memory demand will persist, Korea must export intelligence'",
+                  "body": "최태원 SK 회장이 대한상의 하계포럼에서 \"메모리는 계속 필요하며 AI 시대에 수요가 기하급수적으로 늘 것\"이라고 전망했다. 미·중 AI 패권 경쟁 속 한국이 살아남기 위한 전략으로 '틈새시장 공략'과 '지능 수출'을 제시했다."
+                },
+                {
+                  "headline": "영국 새 총리에 버넘 \"가장 큰 변화 만들 것\"",
+                  "url": "https://www.hankyung.com/article/2026071714221",
+                  "eng": "UK's new PM Burnham vows 'most significant change' as Labour leader takes power",
+                  "body": "앤디 버넘이 영국 노동당 대표로 선출된 후 새 총리로 취임하며 \"가장 큰 변화를 만들겠다\"고 선언했다. 스타머 전 총리의 작별 인사와 함께 정권 교체가 마무리됐다."
                 }
               ]
             },
@@ -281,16 +341,28 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "코스피 -23% vs S&P500 2%…'주식 이민' 시작되나",
-                  "url": "https://www.hankyung.com/article/2026071602151",
-                  "eng": "KOSPI down 23% vs S&P500 up 2% — are Korean retail investors moving to US stocks?",
-                  "body": "올해 들어 코스피가 23% 넘게 하락한 반면 S&P500은 2% 상승에 그치면서 국내 개인투자자들의 '주식 이민' 우려가 커지고 있다. '미장이 답인가'라는 자조 섞인 말이 나오는 가운데 서학개미 규모가 급증하는 추세다."
+                  "headline": "\"관세 매겨도 저렴\"…포스코베트남, 철강 수출 거점 부상",
+                  "url": "https://www.hankyung.com/article/2026071711921",
+                  "eng": "POSCO Vietnam emerges as steel export hub — 'cheaper even with tariffs'",
+                  "body": "포스코의 베트남 법인이 글로벌 철강 관세 장벽을 우회하는 수출 거점으로 부상하고 있다. 베트남산 철강은 관세가 매겨져도 가격 경쟁력을 유지하며 미국·유럽 시장에서 입지를 넓히고 있다."
                 },
                 {
-                  "headline": "美 6월 소매판매 전월비 0.2% 증가…전망치 부합",
-                  "url": "https://www.hankyung.com/article/2026071605007",
-                  "eng": "US June retail sales up 0.2% MoM, meeting forecasts but showing slowdown",
-                  "body": "미국 6월 소매판매가 전월 대비 0.2% 증가해 시장 전망치에 부합했다. 다만 증가세가 둔화되며 경기 연착륙 기대와 둔화 우려가 공존하는 양상이다. 소비가 미국 GDP의 약 70%를 차지하는 만큼 시장의 관심이 집중됐다."
+                  "headline": "\"베테랑 없인 못 만든다\"…변압기·케이블 품질 '손맛'이 좌우",
+                  "url": "https://www.hankyung.com/article/2026071712011",
+                  "eng": "Transformer and cable quality depends on veteran craftsmen's touch",
+                  "body": "AI 데이터센터와 전력 인프라 확충으로 수요가 급증한 변압기와 케이블 시장에서 베테랑 기술자의 '손맛'이 품질을 좌우하는 핵심 경쟁력으로 주목받고 있다. 연봉 1억 5천만 원의 고액 연봉에도 숙련공 확보 경쟁이 치열하다."
+                },
+                {
+                  "headline": "단말기 많은 토스, 성장 빠른 네이버…오프라인 결제 '정면승부'",
+                  "url": "https://www.hankyung.com/article/2026071712211",
+                  "eng": "Toss vs Naver — offline payment showdown between terminal giant and fast-growing platform",
+                  "body": "토스와 네이버가 오프라인 결제 시장에서 정면승부를 펼치고 있다. 단말기 보급 대수가 많은 토스와 성장 속도가 빠른 네이버페이의 경쟁 구도에 업계의 관심이 집중된다."
+                },
+                {
+                  "headline": "\"피의 복수\" 이란, 美 보복 타격…호르무즈 긴장 '최고조'",
+                  "url": "https://www.hankyung.com/article/2026071713027",
+                  "eng": "Iran vows 'blood revenge' with retaliatory strikes — Hormuz tensions at peak",
+                  "body": "이란이 미국의 공습에 대한 '피의 복수'를 선언하며 보복 타격에 나서면서 호르무즈 해협의 긴장이 최고조에 달했다. 국제유가가 4% 이상 급등하며 글로벌 에너지 시장이 요동치고 있다."
                 }
               ]
             },
@@ -298,16 +370,22 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "TSMC '어닝 서프라이즈' 달성…'반도체 거품론' 일축하나",
-                  "url": "https://www.hankyung.com/article/202607169717i",
-                  "eng": "TSMC posts earnings surprise — will it dispel semiconductor bubble fears?",
-                  "body": "TSMC가 5분기 연속 사상 최대 분기 실적을 기록하며 시장 예상을 뛰어넘는 어닝 서프라이즈를 달성했다. AI 반도체 수요가 여전히 견고함을 입증했으나, 글로벌 반도체주 하락 속에서 실적 호조가 투심 개선으로 이어질지는 미지수다."
+                  "headline": "AI 우려에 무너진 키옥시아·TSMC…아시아 증시, '검은 금요일'",
+                  "url": "https://www.hankyung.com/article/202607170983i",
+                  "eng": "Kioxia and TSMC crumble on AI fears — Asia markets see 'Black Friday'",
+                  "body": "AI 반도체 수요 둔화 우려로 일본 키옥시아와 대만 TSMC 주가가 급락하며 아시아 증시가 '검은 금요일'을 맞았다. 중국 Moonshot AI 신모델 출시가 AI 반도체 투자 심리를 얼어붙게 했다."
                 },
                 {
-                  "headline": "배민 주인 바뀐다…우버, 딜리버리히어로 인수",
-                  "url": "https://www.hankyung.com/",
-                  "eng": "Baedal Minjok to change hands as Uber acquires Delivery Hero",
-                  "body": "우버가 독일 배달업체 딜리버리히어로(DH)를 약 125억유로(약 20조원)에 인수하기로 합의했다. DH는 국내 1위 배달앱 '배달의민족'의 모회사로, 인수가 완료되면 배민의 경영권도 우버로 넘어가게 된다."
+                  "headline": "구글 '제미나이 3.5 프로' 출시 지연에 알파벳 주가 4% 넘게 하락",
+                  "url": "https://www.hankyung.com/article/202607171084i",
+                  "eng": "Alphabet shares fall over 4% as Google delays Gemini 3.5 Pro launch",
+                  "body": "구글의 차세대 AI 모델 '제미나이 3.5 프로' 출시가 지연되면서 모회사 알파벳의 주가가 4% 넘게 하락했다. AI 경쟁에서의 입지 약화 우려가 투자 심리를 위축시켰다."
+                },
+                {
+                  "headline": "3% 성장 전망에도…소상공인 60% \"하반기 경기 더 악화\"",
+                  "url": "https://www.hankyung.com/article/2026071712611",
+                  "eng": "Despite 3% growth forecast, 60% of small business owners expect worsening economy",
+                  "body": "정부가 올해 3% 경제성장률을 전망했지만, 소상공인 10명 중 6명은 하반기 경기가 더 악화될 것으로 내다봤다. 고금리와 원자재 가격 상승으로 내수 경기 회복 체감도는 여전히 낮은 상황이다."
                 }
               ]
             }
@@ -326,16 +404,22 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "To Explain the Chip Stock Selloff, Follow the Hedge Funds",
-                  "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-16-2026/card/to-explain-the-chip-stock-selloff-follow-the-hedge-funds-xUXh6rlpgQaoivL5Rtmi",
+                  "headline": "Oil Jumps as Trump Vows to Renew Iran Blockade",
+                  "url": "https://www.wsj.com/finance/stocks/oil-jumps-as-trump-vows-to-renew-iran-blockade-e69830e7",
                   "eng": "",
-                  "body": "Semiconductor stocks are selling off sharply as hedge funds unwind positions. The PHLX Semiconductor Index dropped 5% on July 16, dragging down the Nasdaq by 1.47%. The selloff was fueled by concerns over chip demand and geopolitical risks."
+                  "body": "Oil prices surged after President Trump said he would reimpose a U.S. blockade on Iranian shipping, sending Brent crude futures far above their prewar levels. U.S. stocks fell, with the Nasdaq composite ending 1.5% lower as a fresh wave of selling hit semiconductor stocks."
                 },
                 {
-                  "headline": "Netflix Earnings, Consumer Sentiment: What to Watch the Rest of the Week",
-                  "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-16-2026/card/netflix-earnings-consumer-sentiment-what-to-watch-the-rest-of-the-week-GCCEm7PcKyxyc5hHTnx3",
+                  "headline": "Fact-Checking Trump's Election Fraud Claims — What the Data Shows",
+                  "url": "https://www.wsj.com/",
                   "eng": "",
-                  "body": "Netflix reports Q2 earnings after market close, with investors focused on subscriber growth and ad-tier performance. Upcoming data includes the Philadelphia Fed business outlook survey, retail sales, and pending home sales index."
+                  "body": "President Trump's prime-time address revived unsubstantiated claims about 2020 election fraud and noncitizen voting. Experts say his assertion that 278,000 noncitizens are on voter rolls is incorrect, based on flawed data interpretation."
+                },
+                {
+                  "headline": "Nasdaq Slips as Chip Selloff Deepens — Markets Wrap",
+                  "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-16-2026",
+                  "eng": "",
+                  "body": "The Nasdaq slipped about 1%, with Sandisk, Western Digital and Marvell among the biggest losers. The PHLX Semiconductor index fell 5%, entering bear market territory as AI demand concerns mount."
                 }
               ]
             },
@@ -343,16 +427,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "Conflict Poses Threat to Chip Industry, South Korea Fears",
-                  "url": "https://www.wsj.com/livecoverage/iran-us-israel-conflict-2026/card/gWUvgv72FTmrYYGajdvp",
+                  "headline": "Behind the Market's Swings: Falling Chips, Rising Transports",
+                  "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-17-2026/card/GO9NVLCt2WuvL3JxmDOt",
                   "eng": "",
-                  "body": "Prolonged tensions in the Middle East could disrupt South Korea's chip industry, a top South Korean politician has warned. The KOSPI plummeted 6.37% on July 16 as chip giants Samsung and SK Hynix saw double-digit declines."
+                  "body": "Charts help explain what's happening in markets: falling chip stocks, rising transports, and indexes still within reach of records. The rotation from tech to cyclical sectors suggests a nuanced market narrative beneath the surface selloff."
                 },
                 {
-                  "headline": "Tech Selloff Weighs on Nasdaq; Precious Metals Scale New Peaks",
-                  "url": "https://www.wsj.com/finance/u-s-futures-fall-precious-metals-gain-on-iranian-unrest-d8a82a84",
+                  "headline": "Here's What Is Happening Behind the Market's Swings, in Charts",
+                  "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-17-2026/card/GO9NVLCt2WuvL3JxmDOt",
                   "eng": "",
-                  "body": "Stocks retreated Wednesday, with the Nasdaq leading declines as Nvidia and other chip stocks such as Broadcom traded lower. Meanwhile, precious metals scaled new peaks as investors sought safe havens amid Iran-related unrest."
+                  "body": "Key market indicators reveal divergence: transport stocks hit new highs while semiconductors enter bear territory. The Dow has held relatively steady, cushioning the broader market from tech-led selloffs."
                 }
               ]
             },
@@ -360,16 +444,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "Democrats Blockade U.S. National Security",
-                  "url": "https://www.wsj.com/opinion",
+                  "headline": "Chip Stocks Slide Into Bear Market in AI Unwind",
+                  "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-16-2026",
                   "eng": "",
-                  "body": "WSJ Opinion: Democratic lawmakers are blocking critical national security legislation, drawing sharp criticism. The piece argues that partisan gridlock is endangering U.S. defense readiness at a time of heightened global tensions."
+                  "body": "The semiconductor sector has officially entered bear market territory, with the PHLX index down over 20% from its record. A breakthrough AI model from China's Moonshot AI has raised questions about whether the AI infrastructure buildout may be overextended."
                 },
                 {
-                  "headline": "Lindsey Graham's Plan to Pressure Russia",
-                  "url": "https://www.wsj.com/opinion",
+                  "headline": "Stock Market News, July 16, 2026: Nasdaq Slips as Chip Selloff Spreads",
+                  "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-16-2026",
                   "eng": "",
-                  "body": "Senator Lindsey Graham outlines a strategy to increase pressure on Russia amid the ongoing Ukraine conflict. The plan involves tighter sanctions and increased military aid to Ukraine, coordinated with European allies."
+                  "body": "The Nasdaq slipped about 1%, with semiconductor stocks leading the decline. Memory makers Sandisk and Western Digital were among the biggest losers. The broader market held up better, with the Dow showing relative resilience."
                 }
               ]
             }
@@ -383,16 +467,22 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "Chip Selloff Hits Kospi, BOK Begins Rate Hikes",
-                  "url": "https://www.bloomberg.com/news/videos/2026-07-16/the-asia-trade-7-16-2026-video",
+                  "headline": "Chip Stocks Slide Into Bear Market in AI Unwind",
+                  "url": "https://www.bloomberg.com/news/articles/2026-07-16/stock-market-today-dow-s-p-live-updates",
                   "eng": "",
-                  "body": "The KOSPI plunged 6.37% as semiconductor stocks led a broad selloff in Asian markets. The Bank of Korea raised its benchmark rate to 2.75%, its first hike in three and a half years, citing inflation risks and Middle East tensions."
+                  "body": "The cohort of semiconductor powerhouses saw its worst week since April 2025, with a key industry gauge sinking 20% from a record. A breakthrough AI model from China's Moonshot AI triggered the selloff, raising concerns about AI semiconductor demand sustainability."
                 },
                 {
-                  "headline": "Emerging Currencies Dip as Dollar Gains Over Iran Worries",
-                  "url": "https://www.bloomberg.com/news/articles/2026-07-16/emerging-stocks-slump-as-korea-curbs-fan-selloff-in-chip-giants",
+                  "headline": "Global Stocks Fall as Tech Volatility Weighs on Markets",
+                  "url": "https://www.youtube.com/watch?v=LR5VFZJYrVY",
                   "eng": "",
-                  "body": "Emerging market currencies edged lower as the dollar strengthened on safe-haven demand amid escalating US-Iran tensions. Korean stocks were hit hardest, with the KOSPI entering extreme volatility territory with ±6% daily swings."
+                  "body": "US equity futures dragged following a selloff in memory giants including Samsung and SK Hynix as Apple's price increase announcement stoked AI cost concerns. Bloomberg Surveillance reports deepening chip selloff as oil climbs higher."
+                },
+                {
+                  "headline": "SK Hynix Slumps in US Market After Historic ADR Listing",
+                  "url": "https://www.bloomberg.com/news/videos/2026-07-13/bloomberg-businessweek-daily-7-13-2026-video",
+                  "eng": "",
+                  "body": "SK Hynix's US-listed ADR tumbled in only its second day of trading, reflecting the broader semiconductor selloff. Oil prices soared amid escalating Middle East tensions following Trump's renewed Iran blockade threats."
                 }
               ]
             },
@@ -400,16 +490,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "Abbott Laboratories Surges on 2026 Profit Guidance Raise",
-                  "url": "https://www.bloomberg.com/",
+                  "headline": "Chip Stocks Off to Rough Start in Third Quarter With 2-Day Skid",
+                  "url": "https://www.bloomberg.com/news/articles/2026-07-02/chip-stocks-off-to-rough-start-in-third-quarter-with-2-day-skid",
                   "eng": "",
-                  "body": "Abbott Laboratories shares surged after the healthcare company raised its full-year 2026 profit guidance, citing strong demand for its medical devices and diagnostics products. The upbeat forecast stood out amid broader market weakness."
+                  "body": "Semiconductor stocks started the third quarter with their worst two-day selloff in nearly a month. The AI trade that propelled markets higher through early 2026 has begun to show cracks as investors reassess sky-high valuations."
                 },
                 {
-                  "headline": "Merck's $3,800-a-Year Cholesterol Drug Gains FDA Approval",
-                  "url": "https://www.bloomberg.com/",
+                  "headline": "Bloomberg Businessweek Weekend - July 17th, 2026",
+                  "url": "https://www.bloomberg.com/businessweek",
                   "eng": "",
-                  "body": "Merck received FDA approval for its novel cholesterol-lowering drug, priced at $3,800 per year. The oral PCSK9 inhibitor offers a more convenient alternative to injectable treatments and could capture a significant share of the multi-billion dollar market."
+                  "body": "This weekend's edition covers the AI chip selloff, the story behind viral fake AI ads (Ziplink/Froggle), and analysis of how long oil markets can absorb the Hormuz shock. Special report on the Trump administration's escalating trade tensions."
                 }
               ]
             },
@@ -417,16 +507,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "Kalshi Will Offer Sports-Style Betting on Drug Trial Results",
-                  "url": "https://www.bloomberg.com/",
+                  "headline": "Gold Slips But Holds Near Record; Oil Extends Gains on Hormuz Risk",
+                  "url": "https://www.youtube.com/watch?v=HaL8TtwlKSo",
                   "eng": "",
-                  "body": "Prediction market platform Kalshi is expanding into healthcare by allowing users to bet on clinical drug trial outcomes. The move raises ethical questions but reflects growing demand for event-based trading in regulated markets."
+                  "body": "Gold prices slipped for the third session but remained near the historic $4,000/oz level as geopolitical uncertainty and central bank buying provided support. Oil edged higher with traders assessing the risk of supply disruptions through the Strait of Hormuz."
                 },
                 {
-                  "headline": "US-Iran Tensions Flare as MOU Collapses; G7 Seeks Diplomatic Path",
-                  "url": "https://www.bloomberg.com/news/videos/2026-06-17/bloomberg-brief-6-17-2026-video",
+                  "headline": "Apple Briefly Leapfrogs Nvidia as World's Most Valuable Company",
+                  "url": "https://www.bloomberg.com/markets",
                   "eng": "",
-                  "body": "The US-Iran ceasefire MOU has collapsed, with both sides trading fresh strikes. The G7 is scrambling to find a diplomatic resolution as oil markets remain on edge. Tehran is reportedly preparing proxy forces for potential Red Sea disruptions."
+                  "body": "Apple briefly surpassed Nvidia to become the world's most valuable company as the iPhone maker's shares proved more resilient to the AI chip selloff. The rotation highlights diverging fortunes between AI infrastructure and consumer tech."
                 }
               ]
             }
@@ -443,13 +533,19 @@
                   "headline": "Tech Stocks Drive 'Unnerving' Sell-Off in Global Markets",
                   "url": "https://www.nytimes.com/2026/06/23/business/stock-market-down-tech-ai-asia-sp500-oil-gas.html",
                   "eng": "",
-                  "body": "Global markets experienced an unnerving sell-off as tech and AI-related stocks plunged. The S&P 500 fell 0.51% and the Nasdaq dropped 1.47%. The sell-off was fueled by concerns over chip demand, the Iran conflict, and rising interest rates."
+                  "body": "A deepening selloff in technology stocks driven by AI demand concerns sent shockwaves through global markets. The semiconductor sector entered bear market territory as China's Moonshot AI unveiled a competitive model, raising fears that the AI infrastructure spending boom may be peaking."
                 },
                 {
-                  "headline": "Wildfire Smoke Closes Parks and Limits Visitors' Options",
-                  "url": "https://www.nytimes.com/",
+                  "headline": "Meta and Anthropic in Talks for Up to $10 Billion Data Center Deal",
+                  "url": "https://www.nytimes.com/2026/07/17/technology/meta-anthropic-data-center-deal.html",
                   "eng": "",
-                  "body": "Wildfire smoke from Canadian fires is blanketing the Northeast and Mid-Atlantic, forcing park closures and limiting outdoor activities. Air quality alerts have been issued for multiple states, and conditions are expected to worsen through Friday."
+                  "body": "Meta is in talks to rent computing power to AI company Anthropic in a deal valued at up to $10 billion. The social media giant is considering launching a cloud business as it spends $145 billion on infrastructure, signaling continued AI investment despite market concerns."
+                },
+                {
+                  "headline": "US Chip Stocks Notch Up Worst Week in More Than a Year",
+                  "url": "https://www.nytimes.com/2026/07/17/business/chip-stocks-worst-week.html",
+                  "eng": "",
+                  "body": "High-flying semiconductor shares suffered their worst weekly performance in over a year as momentum trades backfired. The selloff spread from chipmakers to broader AI-exposed sectors, with concerns about China's growing AI capabilities adding to the pressure."
                 }
               ]
             },
@@ -457,16 +553,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "Stocks Notch Strongest Quarter Since 2020 — But July Reversal Stings",
-                  "url": "https://www.nytimes.com/2026/06/30/business/oil-gas-prices-iran.html",
+                  "headline": "It's Not Just U.S. Stocks — AI and Oil Are Moving Global Markets, Too",
+                  "url": "https://www.nytimes.com/2026/05/15/business/chip-ai-oil-emerging-stock-markets.html",
                   "eng": "",
-                  "body": "The semiconductor index rose over 10% in June and has doubled in value since the AI boom began. However, July has seen a sharp reversal as geopolitical tensions and valuation concerns trigger profit-taking across the tech sector."
+                  "body": "The twin forces of AI uncertainty and Middle East oil shocks are reshaping global markets far beyond Wall Street. Emerging markets and Asian exchanges are being whipsawed by the same dynamics, with Korean, Taiwanese, and Japanese chip stocks particularly vulnerable."
                 },
                 {
-                  "headline": "Why Does Smoke Turn the Sky Orange?",
-                  "url": "https://www.nytimes.com/",
+                  "headline": "Markets Recoil in Global Sell-Off Driven by Tech Stocks",
+                  "url": "https://www.nytimes.com/2026/07/17/business/global-markets-tech-selloff.html",
                   "eng": "",
-                  "body": "NYT Science explains the atmospheric optics behind wildfire smoke turning skies orange. Fine particulate matter scatters blue light while allowing red and orange wavelengths to pass through, creating the eerie phenomenon observed across the eastern US."
+                  "body": "Global markets recoiled as a tech-driven selloff intensified, with the Nasdaq leading losses. The escalation of attacks in the Middle East and Trump's renewed Iran blockade vows added to the risk-off sentiment sweeping through global exchanges."
                 }
               ]
             },
@@ -474,16 +570,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "Trump Pressures ICE to Resume Traffic Stops After Agency Pulls Back",
-                  "url": "https://www.nytimes.com/section/todayspaper",
+                  "headline": "Supreme Court Upholds Birthright Citizenship, Blocking a Key Trump Policy",
+                  "url": "https://www.nytimes.com/issue/todayspaper/2026/07/01/todays-new-york-times",
                   "eng": "",
-                  "body": "President Trump is pressuring Immigration and Customs Enforcement to resume traffic stops and other enforcement actions after the agency pulled back following community backlash. The shift highlights the administration's aggressive deportation agenda."
+                  "body": "The Supreme Court upheld birthright citizenship in a landmark ruling, blocking a key Trump administration policy that sought to restrict automatic citizenship for children of undocumented immigrants. The decision maintains the long-standing interpretation of the 14th Amendment."
                 },
                 {
-                  "headline": "Zelensky Ousts Popular Defense Minister, Architect of Ukraine's Drone Program",
-                  "url": "https://www.nytimes.com/",
+                  "headline": "Trump Media Pitched $100,000 Monthly Fee for Fast Feed of President's Posts",
+                  "url": "https://www.nytimes.com/2026/07/17/business/trump-media-truth-social-fees.html",
                   "eng": "",
-                  "body": "Ukrainian President Zelensky dismissed Defense Minister Mykhailo Fedorov, who was credited with revolutionizing Ukraine's drone warfare program. The ouster, reportedly due to clashes with the military chief, raises concerns about Ukraine's defense strategy."
+                  "body": "Trump Media & Technology Group has quoted a six-figure monthly sum for high-speed access to the Truth Social platform, raising ethics concerns about the president's continued ownership of the family company. The $100,000/month tier provides faster delivery of Trump's posts."
                 }
               ]
             }
@@ -497,16 +593,22 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "Trump Approval Stuck in the 30s Amid Pessimism on Iran and Economy, Poll Finds",
-                  "url": "https://www.washingtonpost.com/politics/2026/07/16/trump-approval-stuck-30s-post-ipsos-poll-shows/",
+                  "headline": "Four Takeaways from Trump's Prime-Time Address — Election Fraud Claims Revived",
+                  "url": "https://www.washingtonpost.com/politics/2026/07/17/trump-revives-election-fraud-claims-white-house-speech/",
                   "eng": "",
-                  "body": "A Washington Post-Ipsos poll shows President Trump's approval rating remains stuck in the 30s, with 61% disapproval. Americans express broad pessimism about his handling of the Iran conflict and the economy. Many Republicans have also lost enthusiasm."
+                  "body": "President Trump revived debunked election fraud claims in a prime-time White House address, alleging China stole 200 million voter records in 2020. Major broadcast networks declined to carry the speech live. The address appeared aimed at rallying his base ahead of midterm elections."
                 },
                 {
-                  "headline": "Wildfire Smoke Will Worsen in the Northeast and Mid-Atlantic Through Friday",
-                  "url": "https://www.washingtonpost.com/",
+                  "headline": "House GOP Seeks to Push Funding Deadline to Avoid Shutdown Before Midterms",
+                  "url": "https://www.washingtonpost.com/politics/2026/07/17/house-republicans-seek-push-funding-deadline-avoid-shutdown-before-midterms/",
                   "eng": "",
-                  "body": "Canadian wildfire smoke is expected to worsen across the Northeast and Mid-Atlantic through Friday, triggering air quality alerts. Officials recommend limiting outdoor exposure as fine particulate matter reaches unhealthy levels."
+                  "body": "House Republicans released a continuing resolution to extend government funding at current levels until December 4, aiming to avert a shutdown before the November midterm elections. Speaker Mike Johnson plans to bring the resolution to the floor next week."
+                },
+                {
+                  "headline": "ICE Arrests Have Surged in July, Reaching a High Under Trump",
+                  "url": "https://www.washingtonpost.com/immigration/2026/07/17/ice-arrests-have-surged-july-reaching-high-under-trump/",
+                  "eng": "",
+                  "body": "Immigration and Customs Enforcement has arrested on average more than 1,400 people every day in July, the highest point during this administration. The surge comes amid Trump's push to make immigration enforcement a centerpiece of his midterm campaign strategy."
                 }
               ]
             },
@@ -514,16 +616,22 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "Iran Releases U.S. Citizen in Goodwill Gesture, Trump Says",
-                  "url": "https://www.washingtonpost.com/world/",
+                  "headline": "Trump Urges Sen. Darline Graham to Run for Full Term",
+                  "url": "https://www.washingtonpost.com/politics/2026/07/17/trump-urges-sen-darline-graham-run-full-term/",
                   "eng": "",
-                  "body": "Iran has released a U.S. citizen detained since the Biden administration, in what President Trump described as a goodwill gesture. The release comes amid extreme tensions between the two nations and may signal a potential diplomatic opening."
+                  "body": "President Trump has personally urged Senator Darline Graham (R-South Carolina), who was appointed to fill Lindsey Graham's seat, to run for a full term. The endorsement could reshape the South Carolina Senate race and solidify Trump's influence over GOP primary contests."
                 },
                 {
-                  "headline": "ICE Halts Traffic Enforcement After Backlash Over Profiling Claims",
-                  "url": "https://www.washingtonpost.com/latest-headlines/",
+                  "headline": "Trump Said 278,000 Noncitizens Are on Voting Rolls. Experts Say That's Wrong.",
+                  "url": "https://www.washingtonpost.com/politics/2026/07/17/trump-said-278000-noncitizens-are-voting-rolls-experts-say-thats-wrong/",
                   "eng": "",
-                  "body": "Immigration and Customs Enforcement has temporarily halted traffic stop operations following widespread criticism over racial profiling allegations. The move comes as the administration faces legal challenges over its expanded deportation policies."
+                  "body": "President Trump's claim that 278,000 noncitizens are registered to vote is based on flawed methodology, according to election experts. The allegation, made during his prime-time address, misinterprets data from states that have flagged potential noncitizen registrations for further verification."
+                },
+                {
+                  "headline": "Wildfire Smoke Will Linger and Spread This Weekend — See Which Cities Most Affected",
+                  "url": "https://www.washingtonpost.com/weather/2026/07/17/wildfire-smoke-will-linger-spread-this-weekend-search-your-citys-forecast/",
+                  "eng": "",
+                  "body": "Wildfire smoke from Canadian blazes will continue to blanket major US cities through the weekend. Trump threatened Canada with tariffs over the 'invasion' of smoke. Air quality warnings remain in effect across the Northeast and Midwest."
                 }
               ]
             },
@@ -531,16 +639,22 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "'An Unavoidable Lesson': Four Takeaways from the World Cup",
-                  "url": "https://www.washingtonpost.com/opinions/",
+                  "headline": "How to Stop China from Leapfrogging the U.S. in Biotech",
+                  "url": "https://www.washingtonpost.com/opinions/2026/07/17/how-stop-china-leapfrogging-us-biotech/",
                   "eng": "",
-                  "body": "Analysis of the 2026 World Cup semifinals, where Argentina defeated England in a dramatic match. Lionel Messi led a stunning comeback with two late goals, putting Argentina one step away from a second consecutive World Cup title."
+                  "body": "Editorial Board warns that China is rapidly closing the gap with the US in biotechnology, much as it did in AI. The piece argues for increased federal R&D funding and stronger IP protections to maintain American leadership in the strategic sector."
                 },
                 {
-                  "headline": "The Endlessly Pliable JD Vance Has No Aversion to Conversions",
-                  "url": "https://www.washingtonpost.com/opinions/",
+                  "headline": "Fareed Zakaria: The Iran War Is a Gift — Just Not for the United States",
+                  "url": "https://www.washingtonpost.com/opinions/2026/07/17/how-iran-war-handed-china-strategic-windfall/",
                   "eng": "",
-                  "body": "Opinion piece examining Vice President JD Vance's political evolution and policy reversals since joining the Trump ticket. The analysis highlights Vance's shifting positions on key issues and what it means for the administration's credibility."
+                  "body": "Columnist Fareed Zakaria argues that the US-Iran conflict is providing a strategic windfall for China, which benefits from rising oil prices that hurt Western economies while Moscow and Beijing strengthen their energy ties with Tehran."
+                },
+                {
+                  "headline": "George F. Will: Crucial Questions to Ask Senate Candidates About Social Security",
+                  "url": "https://www.washingtonpost.com/opinions/2026/07/17/social-security-crisis-is-coming-do-senate-candidates-have-plan/",
+                  "eng": "",
+                  "body": "George Will argues that the coming Social Security crisis demands specific answers from Senate candidates about reform plans. With the trust fund projected to be depleted within the decade, voters should press candidates for detailed solvency proposals rather than general reassurances."
                 }
               ]
             }
@@ -554,16 +668,28 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "Stocks and Bonds Drop as Mounting US-Iran Tensions Rattle Markets",
-                  "url": "https://www.ft.com/content/54be872f-c0a2-46dd-9337-5cad9124e734",
+                  "headline": "US Chip Stocks Notch Up Worst Week in More Than a Year",
+                  "url": "https://www.ft.com/content/79a15abd-5892-4f1c-b038-b09a1ceecabb",
                   "eng": "",
-                  "body": "Global stocks and bonds fell as US-Iran tensions escalated. South Korea's Kospi led declines in Asia with a 6.37% drop, entering a period of extreme volatility. Oil futures gave up earlier gains as traders assessed the risk of supply disruptions."
+                  "body": "High-flying semiconductor shares fell as momentum trades backfired, marking the worst week for US chip stocks in over a year. The selloff was triggered by China's Moonshot AI model launch, which raised doubts about the sustainability of AI semiconductor demand growth."
                 },
                 {
-                  "headline": "Chipmakers Put Pressure on Equity Indexes Globally, Oil Futures Give Up Gains",
-                  "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-07-16/",
+                  "headline": "Apple Briefly Leapfrogs Nvidia as World's Most Valuable Company",
+                  "url": "https://www.ft.com/content/9586223a-8339-4a57-9e2f-251899ebd211",
                   "eng": "",
-                  "body": "Tech-heavy equity indexes around the world fell as investors offloaded chip stocks. The Philadelphia Semiconductor Index dropped 5%, dragging down markets from Seoul to New York. Oil futures initially rose on Iran fears but later retreated."
+                  "body": "Apple's shares have escaped the AI sell-off that has battered chipmaker Nvidia, briefly making the iPhone maker the world's most valuable company. The rotation highlights diverging investor views on AI infrastructure versus consumer-facing technology."
+                },
+                {
+                  "headline": "Trump Threatens Canada with Tariffs Over 'Invasion' of Wildfire Smoke",
+                  "url": "https://www.ft.com/content/fa4e24db-9324-47e2-8512-a581ca9c1aba",
+                  "eng": "",
+                  "body": "President Trump threatened Canada with new tariffs over what he called an 'invasion' of wildfire smoke drifting across US cities. He plans to call PM Mark Carney to demand action on the 'filthy, polluted' air affecting American communities."
+                },
+                {
+                  "headline": "Trump Media Pitched $100,000 Monthly Fee for Fast Feed of President's Posts",
+                  "url": "https://www.ft.com/content/e466df85-fa3b-4a7f-a4a1-ae04d66db99f",
+                  "eng": "",
+                  "body": "Trump Media & Technology Group has quoted a six-figure monthly sum for high-speed access to Truth Social, the president's social media platform. The revelation raises fresh concerns about the intersection of Trump's business interests and his public office."
                 }
               ]
             },
@@ -571,16 +697,22 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "Oil Traders Warn Market Is Close to Running on Empty",
-                  "url": "https://www.ft.com/markets",
+                  "headline": "How Long Can Oil Markets Absorb the Hormuz Shock?",
+                  "url": "https://www.ft.com/content/55f5860b-6ef0-42ed-a87f-c49af6ef9d29",
                   "eng": "",
-                  "body": "Oil traders are warning that global crude markets are dangerously close to running on empty as the Iran conflict threatens key supply routes. With both the Strait of Hormuz and potentially the Red Sea at risk, Brent crude remains volatile near $84."
+                  "body": "Improvements in oil intensity have cushioned the global economy from the Strait of Hormuz crisis so far — but could prompt reckless political choices. The FT analysis examines whether sustained $80+ oil could derail central bank efforts to tame inflation."
                 },
                 {
-                  "headline": "Uber to Acquire Delivery Hero in $20 Billion Deal",
-                  "url": "https://www.ft.com/companies",
+                  "headline": "Meta and Anthropic in Talks for Up to $10bn Data Centre Deal",
+                  "url": "https://www.ft.com/content/0ae58f76-3386-464a-9248-090cc68e9864",
                   "eng": "",
-                  "body": "Uber is set to acquire German food delivery company Delivery Hero for approximately €12.5 billion ($20 billion). The deal would give Uber control of South Korea's Baedal Minjok (Baemin), expanding its Asian food delivery footprint significantly."
+                  "body": "Meta is in talks to rent computing power to AI giant Anthropic in a deal valued at up to $10 billion. The social media company is considering launching a cloud business as it spends $145 billion on infrastructure, despite broader AI market uncertainty."
+                },
+                {
+                  "headline": "Burnham Takes Labour Reins as Focus Shifts to Delivering on Vision",
+                  "url": "https://www.ft.com/content/cbe9b7a5-55f5-47ac-8d30-333faf1322eb",
+                  "eng": "",
+                  "body": "New Labour leader Andy Burnham won a rapturous reception but faces immediate questions over how he will keep bold promises. Shabana Mahmood is set to become chancellor as the party transitions from opposition to government."
                 }
               ]
             },
@@ -588,16 +720,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "UK Economy Faces Headwinds in 2026 as Inflation Persists",
-                  "url": "https://www.ft.com/",
+                  "headline": "FT View: Britain's Burnham and Nostalgia for a Semi-Imaginary Past",
+                  "url": "https://www.ft.com/content/5fdb4431-e714-40d3-afe6-44b7f0f9fcf7",
                   "eng": "",
-                  "body": "The UK economy is facing significant headwinds as persistent inflation and high interest rates constrain growth. The Bank of England faces a difficult balancing act between controlling prices and supporting a fragile economic recovery."
+                  "body": "The FT editorial board argues that new PM Burnham must set out a coherent and business-friendly platform rather than relying on nostalgia. The piece warns that Burnham's ambitious spending promises will face immediate fiscal constraints."
                 },
                 {
-                  "headline": "Semiconductors: Inside the Black Market for AI Chips",
-                  "url": "https://www.youtube.com/watch?v=WHdqRoohQ-U",
+                  "headline": "Anglo American Poised to Sell De Beers Diamond Business",
+                  "url": "https://www.ft.com/content/88bd18dd-60e6-4b6f-9e5b-1931f4171a1d",
                   "eng": "",
-                  "body": "FT investigation reveals a growing black market for advanced AI semiconductors, with chips being smuggled to sanctioned nations. The report highlights how export controls are being circumvented as demand for AI computing power surges globally."
+                  "body": "Anglo American is poised to sell its De Beers diamond business to a consortium led by former CEO Gareth Penny. A Botswanan minister confirmed the miner has identified the consortium as the preferred bidder for the iconic diamond brand."
                 }
               ]
             }
