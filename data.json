@@ -1,57 +1,60 @@
 {
-  "date": "2026-07-28",
-  "dateLabel": "2026년 7월 28일(화)",
-  "generatedAt": "2026-07-28T06:30:00+09:00",
+  "date": "2026-07-30",
+  "dateLabel": "2026년 7월 30일(목)",
+  "generatedAt": "2026-07-30T06:30:00+09:00",
   "ticker": [
-    {"symbol": "KOSPI", "value": "6,755.75", "change": "+0.97%", "direction": "up"},
-    {"symbol": "KOSDAQ", "value": "764.86", "change": "+2.22%", "direction": "up"},
-    {"symbol": "S&P 500", "value": "7,411.98", "change": "+0.05%", "direction": "up"},
-    {"symbol": "Dow", "value": "51,999.50", "change": "+0.56%", "direction": "up"},
-    {"symbol": "Nasdaq 100", "value": "24,932.08", "change": "-0.6%", "direction": "down"},
-    {"symbol": "WTI Oil", "value": "$89↓", "change": "미-이란 휴전에 하락", "direction": "down"},
-    {"symbol": "VIX", "value": "17.96", "change": "-3.96%", "direction": "down"},
-    {"symbol": "원/달러", "value": "1,459~1,470", "change": "고환율 지속", "direction": "up"},
-    {"symbol": "美 10Y", "value": "4.68%", "change": "", "direction": "flat"},
-    {"symbol": "Gold", "value": "4,143.90", "change": "+0.34%", "direction": "up"}
+    {"symbol": "KOSPI", "value": "5,663.24", "change": "-5.98%", "direction": "down"},
+    {"symbol": "KOSDAQ", "value": "705.85", "change": "-11.77% (1M)", "direction": "down"},
+    {"symbol": "S&P 500", "value": "7,316.15", "change": "-1.52%", "direction": "down"},
+    {"symbol": "Dow", "value": "51,594.14", "change": "-2.19%", "direction": "down"},
+    {"symbol": "Nasdaq", "value": "24,442.94", "change": "-1.74%", "direction": "down"},
+    {"symbol": "VIX", "value": "20.26", "change": "+11.26%", "direction": "up"},
+    {"symbol": "WTI Oil", "value": "$81.90", "change": "보합", "direction": "flat"},
+    {"symbol": "Gold", "value": "$4,070/oz", "change": "보합", "direction": "flat"},
+    {"symbol": "원/달러", "value": "1,443.08", "change": "▼ 원화 강세", "direction": "down"},
+    {"symbol": "美 10Y", "value": "4.684%", "change": "상승", "direction": "up"}
   ],
-  "keywords": ["코스피반등", "코스닥강세", "갤Z폴드8", "사전판매", "빅테크실적", "AI투자", "미이란휴전", "FOMC", "엔비디아", "CXMT", "SK하이닉스", "네이버", "중국AI", "반도체", "트럼프", "관세"],
+  "keywords": ["코스피폭락", "FOMC", "금리동결", "매파", "KevinWarsh", "SK하이닉스", "어닝미스", "AI투자", "기술주조정", "반도체", "HBM4", "이란전쟁", "트럼프관세", "GDP", "PCE", "나스닥조정", "빅테크실적", "MS실적", "메타실적"],
   "morning": {
-    "date": "2026-07-28",
-    "headline": "코스피·코스닥 동반 반등…코스닥 2%대 급등, 갤Z폴드8 사전판매 시작, 빅테크 실적 시즌 본격화",
-    "weather": "안개 (Fog), 25°C (체감 21°C), 습도 97%, 바람 5km/h — 짙은 안개로 오전 중 시야 확보 어려움, 운전 시 안전 유의",
-    "schedule": "12:00 🍽️ 회장님과 점심 (Lunch) — Social Network",
+    "date": "2026-07-30",
+    "headline": "KOSPI 5,663 — 이틀 연속 대폭락(누적 -16%), FOMC 매파적 동결에 글로벌 증시 급락, SK하이닉스 역대급 실적에도 컨센서스 하회로 -9.6% 폭락",
+    "weather": "정보 없음",
+    "schedule": "특별 일정 없음 — 자유 시간. 폭락장 속 투자 포트폴리오 점검과 자기개발 추천",
     "domestic": {
-      "kospi": {"value": "6,755.75", "change": "+0.97%", "direction": "up"},
-      "kosdaq": {"value": "764.86", "change": "+2.22%", "direction": "up"},
-      "supply": {"wonDollar": "1,459~1,470원", "comment": "원/달러 환율 고공행진, 전일 고가 1,470.5원. 미-이란 휴전 소식에도 안전자산 선호 심리 지속"},
-      "comment": "코스피·코스닥 동반 강세 마감. 특히 코스닥이 2% 넘게 상승하며 중소형주 강세 두드러짐. 상승 497개 vs 하락 372개. 거래대금 코스피 2조 4,295억 / 코스닥 4,462억"
+      "kospi": {"value": "5,663.24", "change": "-360.42", "direction": "down"},
+      "kosdaq": {"value": "705.85 (전일)", "change": "-182.36 (1M)", "direction": "down"},
+      "supply": {"wonDollar": "1,443.08원", "comment": "원화 강세 전환. 외국인 매도세 지속"},
+      "comment": "KOSPI 6,000선 붕괴. 이틀 연속 대폭락으로 7/29(-10.8%)~7/30(-6%) 누적 낙폭 약 16%. 삼성전자 -5.23%, SK하이닉스 -9.61%. 반도체·AI 기술주 전반 매도 압력"
     },
     "overseas": {
-      "dow": {"value": "51,999.50", "change": "+0.56%", "direction": "up"},
-      "sp500": {"value": "7,411.98", "change": "+0.05%", "direction": "up"},
-      "nasdaq": {"value": "24,932.08", "change": "-0.6%", "direction": "down"},
-      "oil": {"value": "$89↓", "change": "WTI $90/배럴 이하로 하락, 미-이란 공습 중단", "direction": "down"},
-      "keyStocks": "엔비디아(-4.99%) AI 투자 수익성 우려로 급락, 오라클(+4.30%) 강세, ASML(-5.80%) 중국 DUV 장비 생산 소식에 하락. SK하이닉스 美 IPO 가격 하회. 10년물 국채수익률 4.68%"
+      "dow": {"value": "51,594.14", "change": "-1,152.00", "direction": "down"},
+      "sp500": {"value": "7,316.15", "change": "-112.61", "direction": "down"},
+      "nasdaq": {"value": "24,442.94", "change": "-452.36", "direction": "down"},
+      "oil": {"value": "$81.90", "change": "보합 (전일 급락 후 안정)", "direction": "flat"},
+      "keyStocks": "MSFT +0.10% (Azure 성장성 관건), META +0.25% (광고 수익 vs AI 투자), AMD -0.85% (MI300 가이던스 대기), NVDA -0.65% (AI 캐펙스 우려). 나스닥 100, 6월 고점 대비 11% 하락. 美 10년물 4.684%"
     },
-    "topNews": "코스피·코스닥 동반 반등…코스닥 2%대 급등, 갤Z폴드8 사전판매 시작, 빅테크 실적 시즌 본격화",
+    "topNews": "KOSPI 5,663 — 이틀 연속 대폭락(누적 -16%), FOMC 매파적 동결에 글로벌 증시 급락, SK하이닉스 역대급 실적에도 컨센서스 하회로 -9.6% 폭락",
     "otherNews": [
-      "삼성 갤럭시 Z 폴드8 시리즈 공개 — 플렉스 티타늄 기술 최초 적용, 오늘(7/28)부터 국내 사전 판매 시작, 8/7 글로벌 출시",
-      "美 빅테크 실적 시즌 본격화 — 이번주 MS·메타·아마존·애플 실적 발표, S&P 500 2분기 YoY 이익성장률 +28% 전망",
-      "미-이란 긴장 고조 속 휴전 — 미군 이란 타격 중단 선언, 유가 $90 이하로 하락. 연준 7월 FOMC 앞두고 관심 집중",
-      "中 CXMT 상장 첫날 466% 급등 — '중국판 삼성전자' 창신메모리, 상장과 동시에 시총 1위",
-      "엔비디아, 네이버 3대주주로 — 10억 달러 투자로 네이버 3대 주주 합류",
-      "독일 경제 위상 하락 — 독일 1위 기업 시총이 삼성전자의 4분의 1... 세계 3위 경제대국도 주식시장 발달 실패"
+      "FOMC, 기준금리 3.50%~3.75% 5회 연속 동결. Kevin Warsh 의장 매파적 기자회견으로 국채 금리 급등, 증시 낙폭 확대",
+      "SK하이닉스 2Q 잠정실적: 매출 79.3조원·영업익 60.5조원(사상 최대)이나 컨센서스 하회. HBM4 전환기 일시적 공백",
+      "美 2Q GDP 속보치 연율 2.1% (예상 1.4% 상회) — 경기 침체 우려 완화",
+      "美 6월 근원 PCE 2.7% (전분기 3.7%→2.7%) — 물가 둔화 신호",
+      "6월 JOLTS 구인건수 762만건 — 골디락스 수준 노동시장 안정",
+      "빅테크 실적 시즌: MS·메타 7/29 장 마감 후 실적 발표 — AI 수익성 증명의 분수령",
+      "美-이란 전쟁 재격화: 사우디, 미군과 합동 공습. 유가 급등락"
     ],
     "email": {
-      "linkedin": "BZCF 인맥 인기, 1촌 신청 6건, 프로필 조회 15명",
-      "apple": "⚠️ 이용 곧 중단 안내 — 구독 또는 계정 관련 확인 필요",
-      "tossbank": "체크카드 해외 결제 수수료 면제 시행",
+      "zdnet": "SK하이닉스 2분기 영업익 60.5조 '사상 최대'",
+      "ringle": "링글 CEO 이승훈 — 샌프란시스코 AI Summit 현장 레터",
+      "snu": "서울대 경영대학 SNUBIZ 포럼 강의 안내 (구글 성장史)",
       "citibank": "한국씨티은행 환율정보서비스",
-      "insead": "금융의 미래 & 경력 타이밍 관련 뉴스레터",
-      "nyt": "Summer Sale ($0.50/week)",
-      "spotify": "원하는 곡 바로 재생 기능 안내"
+      "kyobo": "교보문고 인문교양대상 전자책 + EBS 어학 (광고)",
+      "ridi": "리디 캐시/포인트 소멸 안내",
+      "harvard": "Harvard Online Adaptive Leadership 수강 후기",
+      "ted": "TED — 운동이 뇌에 미치는 영향",
+      "flipboard": "Flipboard Wednesday tech briefing"
     },
-    "insight": "1. 📱 갤Z폴드8 오늘 사전판매 시작 — 플렉스 티타늄(화면 주름 개선) + 3종 라인업. 2. 📉 기술주 변동성 주의 — 알파벳 실적 이후 AI CapEx vs 수익성 논쟁, 이번주 MS·메타·아마존·애플 실적이 방향성 결정. 3. 😶‍🌫️ 안개·높은 습도로 오전 이동 시 주의. 4. 🍽️ 12:00 회장님과 점심 약속."
+    "insight": "1. KOSPI 이틀간 약 16% 폭락으로 과매도 구간 진입, 기술적 반등 가능성 있으나 외국인 매도세·AI 섹터 신뢰 하락이 발목\n2. SK하이닉스 영업익 60.5조원 역대 최대에도 컨센서스 하회 — HBM4 전환기 저가 매수 기회 가능성\n3. FOMC 매파적 동결 — Warsh 의장의 추가 긴축 가능성 시사, 국채 금리↑→달러 강세→외국인 자금 이탈 악순환 우려\n4. AI 거품론 vs 구조적 성장 — MS·메타 실적이 분수령, 단기 밸류에이션 조정 불가피\n5. 폭락장 멘탈 관리: TED 운동 강연, Harvard Adaptive Leadership 추천"
   },
   "sections": {
     "kor": {
@@ -59,252 +62,120 @@
       "papers": [
         {
           "name": "매일경제",
-          "url": "https://www.mk.co.kr/",
+          "url": "https://www.mk.co.kr",
           "pages": [
             {
               "label": "1면",
               "articles": [
-                {
-                  "headline": "韓 제조업, 10년새 수도권으로 더 쏠렸다",
-                  "url": "https://www.mk.co.kr/",
-                  "eng": "Korean Manufacturing Concentrated Further in Capital Region Over Past Decade",
-                  "body": "한국 제조업이 지난 10년간 수도권으로 더욱 집중된 것으로 나타났다. 지방 제조업 공동화 현상이 심화되고 있다는 분석이다."
-                },
-                {
-                  "headline": "빅테크 AI패권 경쟁 속 韓日 청년들에겐 '국경' 없다",
-                  "url": "https://www.mk.co.kr/",
-                  "eng": "No Borders for Korean and Japanese Youth Amid Big Tech AI Hegemony Race",
-                  "body": "빅테크 기업들의 AI 패권 경쟁이 치열해지는 가운데, 한국과 일본의 청년 인재들이 국경을 넘어 협력하고 취업하는 사례가 늘고 있다."
-                },
-                {
-                  "headline": "10억 달러 투자한 엔비디아, 네이버 3대 주주로 합류",
-                  "url": "https://www.mk.co.kr/",
-                  "eng": "Nvidia Becomes Naver's 3rd Largest Shareholder with $1 Billion Investment",
-                  "body": "엔비디아가 네이버에 10억 달러를 투자해 3대 주주로 합류했다. AI 협력 강화를 위한 전략적 투자로 풀이된다."
-                }
+                {"headline": "코스피 장중 6000 붕괴…이틀째 대폭락", "url": "https://www.mk.co.kr/news/stock/12110804", "eng": "KOSPI crashes below 6,000 intraday…second day of massive plunge", "body": "코스피가 장중 6,000선을 붕괴하며 이틀 연속 대폭락. 전일 -10.8%에 이어 추가 하락으로 누적 낙폭 약 16%. 반도체·AI 기술주 전반 매도 압력 지속."},
+                {"headline": "SK하이닉스 실적 신기록…\"낸드값 하락·빅테크 투자 둔화 우려\"", "url": "https://www.mk.co.kr/news/stock/12110211", "eng": "SK Hynix record earnings…but NAND price drops and Big Tech investment slowdown concerns", "body": "SK하이닉스 2Q 영업이익 60.5조원 사상 최대 기록. 그러나 낸드 가격 하락과 빅테크 투자 둔화 우려에 목표가 30% 하향."},
+                {"headline": "연준, 5연속 금리 동결…3.50~3.75% 유지", "url": "https://www.mk.co.kr/news/world/12110936", "eng": "Fed holds rates steady for 5th straight meeting…maintains 3.50-3.75%", "body": "연준이 기준금리를 5회 연속 동결. Kevin Warsh 의장의 매파적 발언으로 시장 금리 인하 기대 후퇴."}
               ]
             },
             {
               "label": "2면",
               "articles": [
-                {
-                  "headline": "AI 전력수요 폭발하는데…송전망 54개 중 20개 지연",
-                  "url": "https://www.mk.co.kr/today-paper/",
-                  "eng": "AI Power Demand Exploding but 20 of 54 Transmission Grids Delayed",
-                  "body": "AI 데이터센터 확장으로 전력 수요가 폭발적으로 증가하고 있으나, 국내 송전망 54개 중 20개가 지연되고 있어 전력 공급에 차질이 우려된다."
-                },
-                {
-                  "headline": "탈탄소에 천연가스 수요 준다는 정부…메가 프로젝트 차질",
-                  "url": "https://www.mk.co.kr/today-paper/",
-                  "eng": "Government Says Natural Gas Demand Will Fall Due to Decarbonization... Mega Projects Disrupted",
-                  "body": "정부가 탈탄소 정책으로 천연가스 수요 감소를 전망하면서 관련 메가 프로젝트들이 차질을 빚고 있다."
-                }
+                {"headline": "\"부동산은 폭발직전, 주식은 답 안나와\"…여권 내부 위기감", "url": "https://www.mk.co.kr/news/stock/12110211", "eng": "Real estate about to explode, stocks hopeless…crisis within ruling party", "body": "여권 내부에서 부동산 과열과 증시 폭락에 대한 위기감 확산. 정부 긴급 대책 회의 소집."},
+                {"headline": "\"목표가 하향, 좀 늦은 거 아닙니까\"…삼전닉스 30% '싹둑'", "url": "https://www.mk.co.kr/news/stock/12110936", "eng": "Target price cuts too late? Samsung and SK Hynix slashed 30%", "body": "증권사들, 삼성전자·SK하이닉스 목표주가 30% 일제히 하향. 뒤늦은 대응이라는 비판."},
+                {"headline": "눈 떠보니 주가 반토막…개미들 '눈물의 투매'", "url": "https://www.mk.co.kr/news/stock/12110804", "eng": "Stocks halved overnight…retail investors' tearful panic selling", "body": "개인투자자들, 이틀간의 급락에 손실 확대로 투매 행렬. 신용 잔고 청산 압력 가중."},
+                {"headline": "TSMC 구마모토 추가공장 건설 '스톱'…반도체 공급망 적신호", "url": "https://www.mk.co.kr/news/world/12110810", "eng": "TSMC halts Kumamoto expansion…semiconductor supply chain red flag", "body": "TSMC 일본 구마모토 추가 공장 건설 중단. 반도체 공급망 과잉 우려 반영."}
               ]
             },
             {
               "label": "3면",
               "articles": [
-                {
-                  "headline": "MSCI 편입 유력 종목에 수천억 자금 몰려",
-                  "url": "https://www.mk.co.kr/",
-                  "eng": "Billions Pour into Stocks Likely to Join MSCI Index in August",
-                  "body": "8월 MSCI 지수 편입이 유력한 종목들에 수천억 원의 자금이 몰리고 있다. 편입 확정 시 추가적인 외국인 매수세 유입이 기대된다."
-                },
-                {
-                  "headline": "SK하이닉스 美 IPO 가격 하회…메가 상장 부진",
-                  "url": "https://www.mk.co.kr/",
-                  "eng": "SK Hynix Slumps Below US IPO Price as Mega-Listings Turn Sour",
-                  "body": "SK하이닉스 주가가 미국 IPO 가격을 하회하며 메가 상장 종목들의 부진이 이어지고 있다."
-                }
+                {"headline": "코스피 검은 화요일…증시 덮친 '中 반도체자립' 공포", "url": "https://www.mk.co.kr/news/stock/12110804", "eng": "KOSPI Black Tuesday…market hit by China semiconductor self-sufficiency fears", "body": "중국의 반도체 자립 선언이 글로벌 반도체주에 충격. 한국 증시 직격탄."},
+                {"headline": "하닉 1주 하한가 거래에…크립토 시장에서 870억 '벼락 청산'", "url": "https://www.mk.co.kr/news/stock/12110211", "eng": "SK Hynix limit down triggers 87B won crypto liquidation", "body": "SK하이닉스 주가 급락 여파로 크립토 시장에서 대규모 청산 발생. 레버리지 투자자 타격."},
+                {"headline": "IMF, 세계 성장률 3.0% 상향…한국은 0.8%로 하향", "url": "https://m.mk.co.kr/amp/11380593", "eng": "IMF raises global growth to 3.0%…lowers Korea to 0.8%", "body": "국제통화기금, 세계 경제 성장률 전망을 2.8%→3.0%로 상향했으나 한국은 1.0%→0.8%로 하향 조정."}
               ]
             }
           ]
         },
         {
           "name": "경향신문",
-          "url": "https://www.khan.co.kr/",
+          "url": "https://www.khan.co.kr",
           "pages": [
             {
               "label": "1면",
               "articles": [
-                {
-                  "headline": "윤석열 전 대통령, '허위사실 인식하고 발언' — 재판 쟁점",
-                  "url": "https://www.khan.co.kr/",
-                  "eng": "Former President Yoon Knew Facts Were False When Speaking — Trial Issue",
-                  "body": "윤석열 전 대통령이 허위사실을 인식하고도 발언했다는 검찰의 주장이 재판의 핵심 쟁점으로 떠올랐다. 선거법 위반 1심 당선무효형 관련."
-                },
-                {
-                  "headline": "미·이란 공습 재개 후 휴전 — 긴장 완화 국면",
-                  "url": "https://www.khan.co.kr/",
-                  "eng": "US-Iran Airstrikes Resume Then Pause — Tensions Easing",
-                  "body": "미국과 이란의 상호 공습이 재개된 후 휴전 국면에 접어들었다. 국제유가가 90달러 아래로 하락하는 등 긴장 완화 신호가 감지된다."
-                },
-                {
-                  "headline": "투표용지 부족 사태 — 선거 관리 논란 확산",
-                  "url": "https://www.khan.co.kr/",
-                  "eng": "Ballot Shortage Crisis — Election Management Controversy Spreads",
-                  "body": "일부 지역에서 투표용지 부족 사태가 발생하며 선거 관리 부실 논란이 확산되고 있다."
-                }
+                {"headline": "미·이란 공습 재개…중동 전운 고조", "url": "https://www.khan.co.kr", "eng": "US-Iran airstrikes resume…Middle East tensions escalate", "body": "미국과 이란 간 공습이 재개되며 중동 지역 긴장이 고조되고 있다. 사우디도 합동 공습에 참여."},
+                {"headline": "종합 특검 — 정치권 쟁점화", "url": "https://www.khan.co.kr", "eng": "Comprehensive special investigation becomes political flashpoint", "body": "종합 특검을 둘러싼 여야 간 공방이 격화되고 있다."},
+                {"headline": "뜨거워진 '부동산 쟁점'…정부 대책 논의", "url": "https://www.khan.co.kr", "eng": "Heated real estate debate…government discussing measures", "body": "부동산 가격 급등에 따른 정부 대책 논의가 본격화. 여야 각각 다른 해법 제시."}
               ]
             },
             {
               "label": "2면",
               "articles": [
-                {
-                  "headline": "부동산 쟁점, 여야 공방 격화",
-                  "url": "https://www.khan.co.kr/",
-                  "eng": "Real Estate Issues Intensify Ruling-Opposition Clash",
-                  "body": "부동산 시장 안정화를 둘러싼 여야 간 공방이 격화되고 있다. 수도권 집값 상승세에 대책 마련이 시급한 상황."
-                },
-                {
-                  "headline": "종합 특검 도입 여부, 국회 논의 본격화",
-                  "url": "https://www.khan.co.kr/",
-                  "eng": "Comprehensive Special Counsel Bill Under Active Discussion in National Assembly",
-                  "body": "종합 특검 도입을 위한 법안이 국회에서 본격적으로 논의되기 시작했다. 여야 간 이견이 첨예하다."
-                }
+                {"headline": "투표용지 부족 사태 — 선관위 책임론", "url": "https://www.khan.co.kr", "eng": "Ballot shortage crisis — election commission under fire", "body": "지방선거 투표용지 부족 사태에 대한 책임론 확산. 선거관리위원회의 대응 미흡 지적."},
+                {"headline": "초고가 주택 공시가 30억…\"과세하는 척\" 비판", "url": "https://v.daum.net/v/20260727074927749", "eng": "Luxury home assessed at 3B won…critics call it pretend taxation", "body": "정부의 초고가 주택 공시가격 30억 원 기준 설정에 대해 실효성 논란."},
+                {"headline": "성장률 3% 전망…\"고용 해결 못하면 빛 좋은 개살구\"", "url": "https://v.daum.net/v/20260715072849771", "eng": "3% growth forecast…meaningless without employment solutions", "body": "정부의 3% 성장률 목표에 대해 고용 문제 해결이 동반되지 않으면 무의미하다는 비판."}
               ]
             },
             {
               "label": "3면",
               "articles": [
-                {
-                  "headline": "OECD 보고서: 한국 청년층 직업훈련 참여율 OECD 최하위",
-                  "url": "https://www.khan.co.kr/newest/articles",
-                  "eng": "OECD Report: Korea's Youth Job Training Participation Lowest Among OECD",
-                  "body": "한국직업능력연구원이 분석한 OECD 2026 보고서에 따르면 한국 청년층의 직업훈련 참여율이 OECD 국가 중 최하위 수준인 것으로 나타났다."
-                },
-                {
-                  "headline": "[김용민의 그림마당] 2026년 07월 28일 — 통영 시장, 프랑스 산불, 윤석열 재판",
-                  "url": "https://www.khan.co.kr/article/202607272138005",
-                  "eng": "Kim Yong-min's Sketch: Tongyeong Market, France Wildfires, Yoon Trial",
-                  "body": "김용민 화백의 그림마당. 오늘의 주요 이슈를 풍자한 시사만평."
-                }
+                {"headline": "[김용민의 그림마당] 2026년 07월 30일", "url": "https://www.khan.co.kr/article/202607292213005/amp", "eng": "Kim Yong-min's Sketchbook: July 30, 2026", "body": "김용민 화백의 시사 풍자 만평. 이날의 정치·경제 이슈를 한 컷에 담아내다."},
+                {"headline": "주간경향 — 이번 주 주요 이슈", "url": "https://weekly.khan.co.kr/", "eng": "Weekly Kyunghyang — this week's key issues", "body": "주간경향 7월 30일자, 10년 전 오늘의 뉴스와 현재 이슈를 비교 분석."},
+                {"headline": "2026 경향포럼 — 민주주의와 언론의 미래", "url": "https://www.khanforum.com/", "eng": "2026 Kyunghyang Forum — future of democracy and media", "body": "경향신문 창간 80주년 특집 포럼. 민주주의와 언론의 역할을 주제로 전문가 토론."}
               ]
             }
           ]
         },
         {
           "name": "동아일보",
-          "url": "https://www.donga.com/",
+          "url": "https://www.donga.com",
           "pages": [
             {
               "label": "1면",
               "articles": [
-                {
-                  "headline": "윤석열 전 대통령 선거법 위반 1심 당선무효형",
-                  "url": "https://www.donga.com/",
-                  "eng": "Former President Yoon Convicted of Election Law Violation, Election Nullified",
-                  "body": "윤석열 전 대통령이 선거법 위반 1심에서 당선무효형을 선고받았다. 정치권에 큰 파장이 예상된다."
-                },
-                {
-                  "headline": "민주당, 2022년 대선 비용 434억 반환 리스크 직면",
-                  "url": "https://www.donga.com/",
-                  "eng": "Democratic Party Faces Risk of Returning 43.4 Billion Won in 2022 Election Expenses",
-                  "body": "더불어민주당이 2022년 대선 비용 434억원 반환 리스크에 직면했다. 선거법 위반 판결에 따른 후폭풍이 거세지고 있다."
-                },
-                {
-                  "headline": "[지표로 보는 경제] 7월 28일 — 물가·고용·수출 동향",
-                  "url": "https://www.donga.com/news/Economy/article/all/20260727/134374418/2",
-                  "eng": "Economy Through Indicators: July 28 — Prices, Employment, Export Trends",
-                  "body": "국내 주요 경제 지표 분석. 소비자물가 상승세 둔화, 수출 증가세 지속 등이 포착된다."
-                }
+                {"headline": "코스피 한달새 9114→5663…증시 대폭락", "url": "https://www.donga.com/news", "eng": "KOSPI crashes from 9,114 to 5,663 in a month", "body": "코스피가 한 달 만에 9,114에서 5,663까지 폭락. 6,000선 붕괴에 따른 투자자 불안 확산."},
+                {"headline": "정부 긴급회의…\"레버리지 과도한 거래엔 추가비용 부과\"", "url": "https://www.donga.com/news", "eng": "Government emergency meeting…additional costs for excessive leverage trading", "body": "정부가 증시 폭락에 따른 긴급회의를 소집. 과도한 레버리지 거래에 대한 추가 비용 부과 방안 검토."},
+                {"headline": "김용범 \"코스피 급락, 레버리지 탓만은 아냐\"", "url": "https://www.donga.com/news", "eng": "Kim Yong-beom: KOSPI crash not solely due to leverage", "body": "김용범 금융위원장, 코스피 급락이 단순 레버리지 문제가 아닌 대외 요인에 기인한다고 진단."},
+                {"headline": "폭염에 가뭄 겹쳐…\"수돗물서 짠맛 난다\"", "url": "https://www.donga.com/news", "eng": "Heat wave and drought…saltwater intrusion into tap water", "body": "폭염과 가뭄이 겹치면서 강으로 바닷물이 역류, 일부 지역 수돗물에서 짠맛이 나는 현상 발생."}
               ]
             },
             {
               "label": "2면",
               "articles": [
-                {
-                  "headline": "북한 김정은·리설주, 딸 주애와 참전열사묘 참배",
-                  "url": "https://www.donga.com/",
-                  "eng": "Kim Jong-un and Ri Sol-ju Visit War Cemetery with Daughter Ju-ae",
-                  "body": "김정은 북한 국무위원장이 리설주 여사, 딸 주애와 함께 참전열사묘를 참배하며 후계 구도를 암시했다는 분석이 나온다."
-                },
-                {
-                  "headline": "장윤기 사형 선고 촉구…법정 밖 시위 격화",
-                  "url": "https://www.donga.com/",
-                  "eng": "Calls for Death Sentence for Jang Yoon-gi... Protests Escalate Outside Court",
-                  "body": "장윤기 피고인에 대한 사형 선고를 촉구하는 시위가 법정 밖에서 격화되고 있다."
-                }
+                {"headline": "[지표로 보는 경제] 7월 30일", "url": "https://www.donga.com/news/article/all/20260729/134390343/2", "eng": "Economy by the Numbers: July 30", "body": "주요 경제 지표 정리. KOSPI 폭락, FOMC 동결, GDP 성장률, PCE 물가 등 핵심 데이터 분석."},
+                {"headline": "\"국민 주식 거지 만들어\" 질타…고개숙인 금융당국 수장들", "url": "https://news.nate.com/mediaList?cp=do&type=c&date=20260730", "eng": "Public outrage over stock losses…financial regulators bow their heads", "body": "증시 폭락에 따른 개인투자자 피해 확대로 금융당국에 대한 비판 여론 거세."}
               ]
             },
             {
               "label": "3면",
               "articles": [
-                {
-                  "headline": "권영세 \"434억 반납하라\"…여야 대치 격화",
-                  "url": "https://www.donga.com/",
-                  "eng": "Kwon Young-se: 'Return 43.4 Billion Won'... Ruling-Opposition Confrontation Intensifies",
-                  "body": "권영세 의원이 민주당에 434억원 대선 비용 반납을 요구하며 여야 간 대치가 격화되고 있다."
-                },
-                {
-                  "headline": "[오늘의 운세/7월 28일]",
-                  "url": "https://www.donga.com/news/Culture/article/all/20260728/134375351/2",
-                  "eng": "Today's Fortune: July 28",
-                  "body": "쥐띠: 학업이나 과제에 최선을 다하면 보람과 성취감을 느낀다. 소띠: 부담스러웠던 일들이 시원하게 해결될 듯."
-                }
+                {"headline": "코스피 한달새 9114→5663…세계 증시 동반 급락", "url": "https://www.donga.com/news", "eng": "KOSPI and global markets plunge together", "body": "한국 증시뿐 아니라 미국, 유럽, 아시아 증시도 동반 급락. 글로벌 금융시장 불안 확산."},
+                {"headline": "2026 한국의 소비자대상 개최 (7/30)", "url": "https://www.donga.com/news/Economy/article/all/20260624/134168125/2", "eng": "2026 Korea Consumer Awards held July 30", "body": "소비재, 내구재, 서비스, ESG 브랜드 등 부문별 소비자대상 시상식 개최. 더 플라자호텔 그랜드볼룸."}
               ]
             }
           ]
         },
         {
           "name": "한국경제",
-          "url": "https://www.hankyung.com/",
+          "url": "https://www.hankyung.com",
           "pages": [
             {
               "label": "1면",
               "articles": [
-                {
-                  "headline": "엔비디아, 네이버 3대주주로 — 10억 달러 전략적 투자",
-                  "url": "https://www.hankyung.com/",
-                  "eng": "Nvidia Becomes Naver's 3rd Largest Shareholder with $1 Billion Strategic Investment",
-                  "body": "엔비디아가 네이버에 10억 달러를 투자해 주요 주주로 올라섰다. AI 반도체-플랫폼 협력 강화 차원의 전략적 결정이다."
-                },
-                {
-                  "headline": "80년대 삼성전자 닮은 CXMT, 상장 첫날 466% 급등",
-                  "url": "https://www.hankyung.com/",
-                  "eng": "CXMT, Resembling 1980s Samsung Electronics, Soars 466% on Debut",
-                  "body": "중국 반도체 기업 창신메모리(CXMT)가 상장 첫날 466% 급등하며 '중국판 삼성전자'로 주목받고 있다."
-                },
-                {
-                  "headline": "애플이 노골적으로 미는 中 창신…삼성·SK 반도체 위기",
-                  "url": "https://www.hankyung.com/",
-                  "eng": "Apple Openly Pushes China's CXMT... Crisis for Samsung, SK Semiconductors",
-                  "body": "애플이 중국 CXMT의 D램을 차기 아이폰에 탑재하는 방안을 검토 중인 것으로 알려지며 삼성전자·SK하이닉스의 위기감이 고조되고 있다."
-                }
+                {"headline": "코스피 6,000 붕괴…AI發 증시 쇼크", "url": "https://plus.hankyung.com/apps/newspaper.view", "eng": "KOSPI breaks below 6,000…AI-driven stock market shock", "body": "AI 산업 투자 수익성 우려가 촉발한 글로벌 기술주 매도세가 한국 증시를 덮쳤다. 반도체·AI 관련주 일제히 급락."},
+                {"headline": "SK하이닉스 어닝쇼크에 반도체株 동반 추락", "url": "https://plus.hankyung.com/apps/newspaper.view", "eng": "SK Hynix earnings shock drags down all semiconductor stocks", "body": "SK하이닉스의 컨센서스 하회 실적 발표에 삼성전자 등 반도체주 전반이 동반 하락."},
+                {"headline": "FOMC 매파적 동결…美 국채금리 4.7% 육박", "url": "https://plus.hankyung.com/apps/newspaper.view", "eng": "FOMC hawkish hold…US Treasury yields near 4.7%", "body": "연준의 매파적 금리 동결로 미국 10년물 국채 금리가 4.684%까지 상승. 증시 추가 하락 압력."}
               ]
             },
             {
               "label": "2면",
               "articles": [
-                {
-                  "headline": "尹 '선거법 위반' 1심 당선무효형…대법원 판단 남아",
-                  "url": "https://www.hankyung.com/",
-                  "eng": "Yoon's Election Law Violation: Lower Court Nullifies Election... Supreme Court Decision Pending",
-                  "body": "윤석열 전 대통령의 선거법 위반 1심에서 당선무효형이 선고됐다. 대법원의 최종 판단이 남아있다."
-                },
-                {
-                  "headline": "AI 전력수요 폭발…데이터센터 전력 비상",
-                  "url": "https://www.hankyung.com/",
-                  "eng": "AI Power Demand Explodes... Data Center Power Emergency",
-                  "body": "국내 데이터센터 전력 수요가 폭발적으로 증가하며 전력 공급에 비상이 걸렸다. 송전망 건설 지연이 심각한 상황이다."
-                }
+                {"headline": "외국인 2조원대 매도…코스피 5,600대로 추락", "url": "https://plus.hankyung.com/apps/newspaper.view", "eng": "Foreigners sell 2 trillion won…KOSPI plunges to 5,600 level", "body": "외국인 투자자들이 2조원 규모 순매도를 기록하며 코스피를 5,600선까지 끌어내렸다."},
+                {"headline": "반도체 업황 피크아웃 우려 확산", "url": "https://plus.hankyung.com/apps/newspaper.view", "eng": "Semiconductor cycle peak-out fears spreading", "body": "AI 투자 둔화 가능성과 중국의 반도체 자립 정책이 맞물리며 반도체 업황 피크아웃 우려 확산."},
+                {"headline": "개미들 빚투 청산 공포…신용잔고 급감", "url": "https://plus.hankyung.com/apps/newspaper.view", "eng": "Retail investors fear debt liquidation…margin balances plummet", "body": "주가 폭락으로 신용거래 담보 부족에 따른 반대매매가 급증하며 개인투자자들 공포 확산."}
               ]
             },
             {
               "label": "3면",
               "articles": [
-                {
-                  "headline": "삼전닉스·빅테크 줄줄이 실적 발표…AI 수익성 시험대",
-                  "url": "https://www.hankyung.com/",
-                  "eng": "Samsung Electronics and Big Tech Earnings Season... AI Profitability Put to Test",
-                  "body": "국내외 주요 기술 기업들의 2분기 실적 발표가 이어지며 AI 투자 대비 수익성이 시험대에 올랐다."
-                },
-                {
-                  "headline": "유럽서 못 고친 간암 완치…한국 의료기술 주목",
-                  "url": "https://www.hankyung.com/",
-                  "eng": "Liver Cancer Cured in Korea After Europe Failed... Korean Medical Technology Spotlighted",
-                  "body": "유럽에서 치료하지 못한 간암 환자가 한국에서 완치 판정을 받으며 국내 의료 기술이 주목받고 있다."
-                }
+                {"headline": "삼성전자 20만원 붕괴 위기…목표가 줄하향", "url": "https://plus.hankyung.com/apps/newspaper.view", "eng": "Samsung Electronics at risk of falling below 200,000 won…target price cuts", "body": "삼성전자 주가가 208,500원까지 하락하며 20만원선 붕괴 위기. 국내외 증권사 일제히 목표가 하향."},
+                {"headline": "AI 피크아웃론 일축한 하이닉스…\"올 40조 후반 역대최대 투자\"", "url": "https://digital.mk.co.kr/new/pdf/", "eng": "Hynix dismisses AI peak-out theory…record 40+ trillion won investment this year", "body": "SK하이닉스가 AI 피크아웃론을 일축하며 올해 40조원 후반대 역대 최대 규모 투자 계획 발표."},
+                {"headline": "美 GDP 서프라이즈에도 증시 반응 미온적", "url": "https://plus.hankyung.com/apps/newspaper.view", "eng": "US GDP surprise fails to lift stock market", "body": "미국 2분기 GDP가 예상을 크게 상회했으나 FOMC 매파 기조에 가려져 증시 반등으로 이어지지 못함."}
               ]
             }
           ]
@@ -316,351 +187,160 @@
       "papers": [
         {
           "name": "The Wall Street Journal",
-          "url": "https://www.wsj.com/",
+          "url": "https://www.wsj.com",
           "pages": [
             {
               "label": "1면",
               "articles": [
-                {
-                  "headline": "Chip Stocks Fall, Hurt by Nvidia — AI Investment Returns in Question",
-                  "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-27-2026",
-                  "eng": "",
-                  "body": "Semiconductor stocks declined as Nvidia shares fell nearly 5%, with investors questioning the returns on massive AI infrastructure spending."
-                },
-                {
-                  "headline": "Global Oil Prices Retreat Below $89 After Trump Puts Mideast Fighting on Hold",
-                  "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-27-2026",
-                  "eng": "",
-                  "body": "Oil prices dropped below $89 a barrel after President Trump paused military strikes against Iran, easing immediate supply disruption fears."
-                },
-                {
-                  "headline": "The Fed Is Heading Into One of Its Most Unpredictable Meetings in Years",
-                  "url": "https://www.wsj.com/economy/central-banking/the-fed-is-heading-into-one-of-its-most-unpredictable-meetings-in-years-849198f5",
-                  "eng": "",
-                  "body": "The Federal Reserve faces its July 28-29 meeting with futures markets pricing a roughly one-in-three chance of a rate increase, up from one-in-ten previously."
-                }
+                {"headline": "Dow Slides 1,150 Points as Investors Worry About Fed's Next Steps", "url": "https://www.wsj.com/livecoverage/fed-meeting-warsh-interest-rate-07-29-2026", "eng": "", "body": "The Dow Jones Industrial Average plunged 1,150 points as the Fed held rates steady but signaled a hawkish stance. Kevin Warsh said markets are doing some of the Fed's work."},
+                {"headline": "Warsh Says the Markets Are Doing Some of the Fed's Work", "url": "https://www.wsj.com/livecoverage/fed-meeting-warsh-interest-rate-07-29-2026/card/warsh-says-the-markets-are-doing-some-of-the-fed-s-work-5tbRontRcSzNbouFRF3e", "eng": "", "body": "Fed Chair Kevin Warsh struck a hawkish tone at his post-meeting press conference, stating that tightening financial conditions are helping the Fed's inflation fight."},
+                {"headline": "Oil Jumps as Fresh Middle East Strikes Threaten Fragile Diplomacy", "url": "https://www.wsj.com/economy/oil-surges-as-fresh-middle-east-strikes-threaten-fragile-diplomacy-7fd2d4e8", "eng": "", "body": "Brent and WTI crude surged more than 7% after a fresh round of fighting disrupted flows through critical oil-shipping routes."}
               ]
             },
             {
               "label": "2면",
               "articles": [
-                {
-                  "headline": "SK Hynix Slumps Below US IPO Price as Mega-Listings Turn Sour",
-                  "url": "https://www.wsj.com/",
-                  "eng": "",
-                  "body": "SK Hynix shares fell below their US IPO price, reflecting broader struggles for mega-cap listings amid market volatility."
-                },
-                {
-                  "headline": "Corporate America Has Suddenly Decided to Stop Blowing Money on AI",
-                  "url": "https://www.wsj.com/business/china-us-ai-model-costs-53a12e96",
-                  "eng": "",
-                  "body": "US corporations are reassessing their AI spending strategies as cheaper Chinese AI models emerge, challenging the ROI of massive investments."
-                },
-                {
-                  "headline": "Wild Markets Week Settles Down — Dow Rises to Record",
-                  "url": "https://www.wsj.com/finance/stocks/wild-markets-week-settles-down-40d27352",
-                  "eng": "",
-                  "body": "After a volatile week driven by Middle East tensions, markets settled with the Dow reaching a new record as oil prices declined."
-                }
+                {"headline": "$890 Billion Tech Wipeout Puts Focus on Runaway AI Spending", "url": "https://www.wsj.com/finance/stocks/investors-zero-in-on-runaway-tech-spending-putting-dent-in-ai-trade-1da74e98", "eng": "", "body": "Wall Street is reckoning with a new reality: the biggest tech companies are no longer cash-printing machines as AI spending soars."},
+                {"headline": "Treasury Yields, Dollar Fall on Fed Hawkish Hold", "url": "https://www.wsj.com/finance/investing/jgb-futures-edge-higher-amid-mixed-signals-dbce05cd", "eng": "", "body": "Treasury yields initially fell on the Fed's decision to keep rates steady but reversed as Warsh's hawkish comments sank in."},
+                {"headline": "Procter & Gamble Gives Soft Outlook as Iran War Drives Up Costs", "url": "https://www.wsj.com/business/earnings/procter-gamble-profit-falls-gives-soft-fiscal-year-outlook-b62e8cfa", "eng": "", "body": "P&G gave a soft outlook for its new fiscal year, expecting a $1 billion hit from higher costs related to the Iran war."},
+                {"headline": "Iran Launches Surprise Missile Attack on U.S. Forces", "url": "https://www.wsj.com/world/middle-east/iran-launches-surprise-missile-attack-on-u-s-forces-70955a30", "eng": "", "body": "Iran launched a surprise missile attack on U.S. military installations in the Middle East, escalating the conflict."}
               ]
             },
             {
               "label": "3면",
               "articles": [
-                {
-                  "headline": "Computer Software Prices Post Record Year-Over-Year Increase of 17.4%",
-                  "url": "https://www.wsj.com/livecoverage/stock-market-today-bank-earnings-07-14-2026/card/avTZpltNiyFpcx4UOsSx",
-                  "eng": "",
-                  "body": "The price index for computer software and accessories increased 17.4% year-over-year in June, the largest increase on record, driven by AI software demand."
-                },
-                {
-                  "headline": "This Lawyer Upended 'Big Law' Once. He Has a Plan to Do It Again with AI.",
-                  "url": "https://www.wsj.com/business/david-fox-lawyer-big-law-ai-304ec652",
-                  "eng": "",
-                  "body": "Attorney David Fox, who previously disrupted the legal industry, plans to use AI to transform law firms again, targeting inefficiencies in Big Law."
-                }
+                {"headline": "War Leaves Economy With More Stubborn Inflation, Economists Project", "url": "https://www.wsj.com/economy/central-banking/war-leaves-economy-with-more-stubborn-inflation-economists-project-b83af0ba", "eng": "", "body": "The WSJ survey shows economists lowered recession probability but see inflation staying higher for longer due to the Iran war."},
+                {"headline": "Trump Administration to End Medicare Drug Plan Subsidy", "url": "https://www.wsj.com/health/healthcare/trump-administration-to-end-medicare-drug-plan-subsidy-76d255d1", "eng": "", "body": "The Trump administration plans to end the Medicare drug plan subsidy program, affecting millions of seniors."},
+                {"headline": "Could the Most Radical Plane Design Since the Concorde Take On Boeing?", "url": "https://www.wsj.com/business/could-the-most-radical-plane-design-since-the-concorde-take-on-boeing-abd9a6ce", "eng": "", "body": "JetZero's blended-wing aircraft Z4 gets a $3 billion loan commitment from Washington to help start production."}
               ]
             }
           ]
         },
         {
           "name": "Bloomberg",
-          "url": "https://www.bloomberg.com/",
+          "url": "https://www.bloomberg.com",
           "pages": [
             {
               "label": "1면",
               "articles": [
-                {
-                  "headline": "S&P 500 Wobbles as AI Angst Offsets Oil Decline",
-                  "url": "https://www.bloomberg.com/news/articles/2026-07-26/oil-tumbles-as-us-and-iran-pause-military-strikes-markets-wrap",
-                  "eng": "",
-                  "body": "The S&P 500 wavered as AI investment concerns offset optimism from declining oil prices. Pressure builds on the biggest AI spenders to justify their investments."
-                },
-                {
-                  "headline": "ASML Slides on Report of China Starting DUV Tool Production",
-                  "url": "https://www.bloomberg.com/news/articles/2026-07-27/asml-slides-after-report-of-china-beginning-duv-tool-production",
-                  "eng": "",
-                  "body": "ASML shares dropped 5.8% after reports emerged that China has begun its own DUV lithography tool production, threatening the Dutch company's market position."
-                },
-                {
-                  "headline": "JPMorgan Sees S&P 500 Poised to Rally as New Buy Signal Flashes",
-                  "url": "https://www.bloomberg.com/news/articles/2026-07-27/jpmorgan-sees-s-p-500-poised-to-rally-as-new-buy-signal-flashes",
-                  "eng": "",
-                  "body": "JPMorgan analysts identified a new technical buy signal suggesting the S&P 500 is positioned for a rally, despite near-term headwinds."
-                }
+                {"headline": "Stocks Fall as 30-Year Bond Yields Surge After Fed", "url": "https://www.youtube.com/watch?v=Kj7M7tCYWSE", "eng": "", "body": "Stocks fell sharply and 30-year bond yields surged after the Fed's hawkish hold. Treasuries under pressure as Warsh signals inflation fight continues."},
+                {"headline": "Crisis-Level Swings Become New Normal in 2026 Stock Market", "url": "https://www.bloomberg.com/news/articles/2026-07-27/crisis-level-swings-become-new-normal-in-2026-stock-market", "eng": "", "body": "Extreme volatility has become routine in 2026 as markets grapple with AI spending fears, Iran war, tariffs, and $100 oil."},
+                {"headline": "US Military Escorting Oil and Gas Through Strait, Wright Says", "url": "https://www.bloomberg.com/news/videos/2026-07-29/us-military-escorting-oil-gas-through-strait-wright-video", "eng": "", "body": "The US military is escorting oil and gas shipments through the Strait of Hormuz amid escalating Iran conflict."}
               ]
             },
             {
               "label": "2면",
               "articles": [
-                {
-                  "headline": "China Vows Response to US Sanctions Threat Against AI Firms",
-                  "url": "https://www.bloomberg.com/news/articles/2026-07-27/china-vows-response-to-us-sanctions-threat-against-ai-firms",
-                  "eng": "",
-                  "body": "China pledged countermeasures after the US threatened new sanctions targeting Chinese AI companies, escalating the tech rivalry between the two nations."
-                },
-                {
-                  "headline": "Pimco Embraces AI Boom on Its Own Terms — Betting Billions on Data Centers",
-                  "url": "https://www.bloomberg.com/news/articles/2026-07-27/why-pimco-is-betting-billions-on-ai-data-centers-despite-the-risks",
-                  "eng": "",
-                  "body": "Pimco is investing billions in AI data center infrastructure, taking a selective approach to capitalize on the AI boom while managing associated risks."
-                },
-                {
-                  "headline": "Amazon Seeks FCC Nod to Beam Satellite Coverage to Mobile Phones",
-                  "url": "https://www.bloomberg.com/news/articles/2026-07-27/amazon-seeks-fcc-nod-to-beam-satellite-coverage-to-mobile-phones",
-                  "eng": "",
-                  "body": "Amazon filed with the FCC for permission to provide direct satellite-to-mobile-phone coverage, expanding its Project Kuiper ambitions."
-                }
+                {"headline": "Microsoft Reports Quarterly Cloud Revenue That Beat Estimates", "url": "https://www.bloomberg.com/news/articles/2026-07-29/microsoft-reports-quarterly-cloud-revenue-that-beat-estimates", "eng": "", "body": "Microsoft reported quarterly cloud revenue that beat estimates, providing a bright spot amid the tech selloff. AI investment climbs to $41 billion."},
+                {"headline": "Nvidia's $750 Billion in Deals Reignite Circular AI Fears", "url": "https://www.bloomberg.com/news/articles/2026-07-27/nvidia-s-750-billion-deals-revive-fear-of-ai-circular-financing", "eng": "", "body": "Nvidia's massive deal pipeline revives concerns about circular AI financing where tech companies invest in each other."},
+                {"headline": "Markets Brace for One of the Most Uncertain Fed Days in Years", "url": "https://www.bloomberg.com/news/newsletters/2026-07-29/markets-brace-for-one-of-the-most-uncertain-fed-days-in-years", "eng": "", "body": "Traders positioned for extreme volatility ahead of the FOMC decision, with the Iran war adding uncertainty."},
+                {"headline": "Ford Shares Climb as Profit-Rich SUVs Drive Outlook Higher", "url": "https://www.bloomberg.com/news/videos/2026-07-29/ford-shares-climb-as-suvs-drive-outlook-higher-video", "eng": "", "body": "Ford shares rose after the automaker raised its outlook, driven by strong SUV sales and pricing power."}
               ]
             },
             {
               "label": "3면",
               "articles": [
-                {
-                  "headline": "Macquarie Sees Oil Glut Risk on US-Iran Deal Before Midterms",
-                  "url": "https://www.bloomberg.com/news/articles/2026-07-27/macquarie-sees-oil-surplus-risk-on-us-iran-deal-before-midterms",
-                  "eng": "",
-                  "body": "Macquarie analysts warn of a potential oil surplus if the US and Iran reach a diplomatic deal before the midterm elections, which could send prices sharply lower."
-                },
-                {
-                  "headline": "Azimut Fund Manager Bets on Japanese Bonds as Yields Surge",
-                  "url": "https://www.bloomberg.com/news/articles/2026-07-27/azimut-fund-manager-bets-on-japanese-bonds-as-yields-surge",
-                  "eng": "",
-                  "body": "An Azimut fund manager is betting on Japanese government bonds as yields surge, seeing opportunity in the repricing of Japan's fixed income market."
-                }
+                {"headline": "CoreWeave Boosts Yield on $2.6 Billion Loan Tied to Anthropic", "url": "https://www.bloomberg.com/news/articles/2026-07-29/coreweave-boosts-yield-on-2-6-billion-loan-tied-to-anthropic", "eng": "", "body": "CoreWeave boosted the yield on its $2.6B loan tied to Anthropic, reflecting AI infrastructure financing dynamics."},
+                {"headline": "CDS Market Surges as Wall Street Picks AI's Winners and Losers", "url": "https://www.bloomberg.com/news/articles/2026-07-29/wall-street-picks-ai-winners-and-losers-as-credit-swaps-surge", "eng": "", "body": "The credit default swap market is surging as Wall Street differentiates between AI winners and losers amid tech selloff."},
+                {"headline": "SpaceX Customers Are Bracing for the Falcon Rocket Phaseout", "url": "https://www.bloomberg.com/news/newsletters/2026-07-29/spacex-falcon-9-rocket-phaseout-customers-brace-for-changes", "eng": "", "body": "SpaceX customers prepare for the transition away from Falcon 9 rockets as the company phases them out for Starship."}
               ]
             }
           ]
         },
         {
           "name": "The New York Times",
-          "url": "https://www.nytimes.com/",
+          "url": "https://www.nytimes.com",
           "pages": [
             {
               "label": "1면",
               "articles": [
-                {
-                  "headline": "Netanyahu to Meet Trump with Eye on Iran and Elections Back Home",
-                  "url": "https://www.nytimes.com/2026/07/27/world/middleeast/trump-netanyahu-relationship-iran.html",
-                  "eng": "",
-                  "body": "Prime Minister Benjamin Netanyahu is set to meet President Trump on Tuesday, balancing concerns about Iran with upcoming elections in Israel."
-                },
-                {
-                  "headline": "Meta's Secret Data Center Deal in Louisiana — Speed and Secrecy Over Nine Months",
-                  "url": "https://www.nytimes.com/2026/07/27/technology/meta-data-center-louisiana.html",
-                  "eng": "",
-                  "body": "A NYT investigation reveals Meta's data center deal in Louisiana required incredible speed and secrecy. Government officials signed NDAs, and at least one directly profited."
-                },
-                {
-                  "headline": "The Phone-Throwing Drama at the Troubled, Broke Democratic Party",
-                  "url": "https://www.nytimes.com/2026/07/26/us/politics/ken-martin-dnc-democrats.html",
-                  "eng": "",
-                  "body": "Internal turmoil rocks the Democratic National Committee as financial troubles and leadership conflicts threaten party unity ahead of the midterm elections."
-                }
+                {"headline": "What to Watch at the Federal Reserve's July Meeting", "url": "https://www.nytimes.com/2026/07/29/business/what-to-know-federal-reserve-july-meeting.html", "eng": "", "body": "Kevin Warsh, presiding over his second meeting as Fed chairman, faces pressure to raise interest rates as inflation remains elevated."},
+                {"headline": "South Korea's Memory Chip Giant Defies A.I. Market Jitters", "url": "https://www.nytimes.com/2026/07/29/business/skhynix-chips-memory.html", "eng": "", "body": "SK Hynix posted record profits but faces market skepticism as AI investment concerns grow."},
+                {"headline": "The Whiplash War: U.S. and Iran Cycle Between Conflict and Negotiation", "url": "https://www.nytimes.com/interactive/2026/07/29/world/middleeast/iran-war-cease-fire-trump-timeline.html", "eng": "", "body": "War, ceasefire, repeat — the U.S. and Iran can't stop cycling between conflict and negotiation."},
+                {"headline": "Trump's Tariffs Are Sending Some Companies Back to China", "url": "https://www.nytimes.com/2026/07/29/business/economy/trumps-tariffs-are-sending-some-companies-back-to-china.html", "eng": "", "body": "For some U.S. brands seeking factory locations, the economic logic is once again pointing to China despite Trump's tariffs."}
               ]
             },
             {
               "label": "2면",
               "articles": [
-                {
-                  "headline": "Employers Fear Labor Shortage as Many Immigrants Lose Protected Status",
-                  "url": "https://www.nytimes.com/section/todayspaper",
-                  "eng": "",
-                  "body": "American businesses are warning of severe labor shortages as many immigrants lose their protected status, threatening key industries from agriculture to construction."
-                },
-                {
-                  "headline": "An Admiral's Rise Reveals the Politics Driving Hegseth's Pentagon",
-                  "url": "https://www.nytimes.com/2026/07/26/us/politics/caudle-navy-hegseth-parlatore-promotion.html",
-                  "eng": "",
-                  "body": "The promotion of Admiral Daryl Caudle exposes the political forces shaping Pentagon leadership under Defense Secretary Pete Hegseth."
-                },
-                {
-                  "headline": "Lowered Number of Troop Deaths on Pentagon Site Upsets Military Families",
-                  "url": "https://www.nytimes.com/2026/07/25/us/pentagon-iran-war-troops-death-toll.html",
-                  "eng": "",
-                  "body": "Military families express outrage after the Pentagon lowered the reported number of troop deaths on its official website, raising questions about transparency."
-                }
+                {"headline": "A.I. Companies Are Recruiting Electricians and Carpenters by the Thousands", "url": "https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html", "eng": "", "body": "The future of AI depends on finding more skilled humans for very physical jobs building data centers."},
+                {"headline": "Mark Zuckerberg Blasts Centralization of A.I. Power", "url": "https://www.nytimes.com/2026/07/28/technology/mark-zuckerberg-meta-ai.html", "eng": "", "body": "The Meta CEO warned against regulatory capture of American AI rules and said the US should not ban Chinese AI."},
+                {"headline": "Europe's Summer of Reckoning Is 'Just the Beginning'", "url": "https://www.nytimes.com/2026/07/29/world/europe/summer-heat-wave-fires-climate-change.html", "eng": "", "body": "Europe faces record-breaking fires and temperatures, with residents fleeing and leaders struggling to respond."},
+                {"headline": "U.S. and Saudi Airstrikes Drag More Countries Into Fighting", "url": "https://www.nytimes.com/live/2026/07/28/world/iran-us-strikes-iraq-trump", "eng": "", "body": "Global oil prices jumped after the U.S. and Saudi Arabia carried out joint airstrikes on Iranian proxies in Iraq."}
               ]
             },
             {
               "label": "3면",
               "articles": [
-                {
-                  "headline": "Ukraine Battlefield Momentum Helps Shape International Edition Headlines",
-                  "url": "https://www.nytimes.com/issue/todaysinyt/2026/07/27/todays-new-york-times-international-edition",
-                  "eng": "",
-                  "body": "Ukrainian forces have gained battlefield momentum, influencing diplomatic discussions and the international community's approach to the conflict."
-                },
-                {
-                  "headline": "Trump Reaches Contentious New Nuclear Deal with Saudi Arabia",
-                  "url": "https://www.nytimes.com/2026/07/22/podcasts/the-headlines/trump-nuclear-deal-ai-model-rogue.html",
-                  "eng": "",
-                  "body": "The Trump administration plans to announce a broad new nuclear agreement with Saudi Arabia that is highly contentious among nonproliferation experts."
-                }
+                {"headline": "Russia Charges Telegram's Founder With Facilitating Terrorism", "url": "https://www.nytimes.com/2026/07/29/world/europe/telegram-russia-pavel-durov.html", "eng": "", "body": "The charges against Pavel Durov reflect an ongoing fight over one of the most popular messaging apps in Russia."},
+                {"headline": "Fauci to Testify on Covid Origins", "url": "https://www.nytimes.com/live/2026/07/29/us/trump-news", "eng": "", "body": "Senator Rand Paul has accused Dr. Fauci of funding research in China that created the virus. Dr. Fauci denies this."},
+                {"headline": "Japan 'Races Against Time' to Reach People Trapped After Large Quake", "url": "https://www.nytimes.com/2026/07/28/world/asia/japan-earthquake-kumamoto-rescue-survivors.html", "eng": "", "body": "Rescue personnel work to free those trapped in collapsed buildings after a 6.8-magnitude earthquake struck Kumamoto."},
+                {"headline": "Senate Confirms Jay Clayton to Lead U.S. Intelligence Community", "url": "https://www.nytimes.com/2026/07/28/us/politics/senate-confirms-jay-clayton-intelligence-director.html", "eng": "", "body": "The Senate confirmed Jay Clayton, former SEC chair, as the new Director of National Intelligence."}
               ]
             }
           ]
         },
         {
           "name": "The Washington Post",
-          "url": "https://www.washingtonpost.com/",
+          "url": "https://www.washingtonpost.com",
           "pages": [
             {
               "label": "1면",
               "articles": [
-                {
-                  "headline": "Trump Demands Senate Stay in Washington to Pass Voting Bill",
-                  "url": "https://www.washingtonpost.com/politics/2026/07/27/trump-demands-senate-stay-washington-pass-voting-bill/",
-                  "eng": "",
-                  "body": "President Trump demanded the Senate remain in session to pass a controversial voting bill, escalating pressure on lawmakers ahead of the midterm elections."
-                },
-                {
-                  "headline": "Trump Giving U.S.-Iran Talks 'Some Space' Amid Pause in Attacks",
-                  "url": "https://www.washingtonpost.com/national-security/2026/07/26/trump-giving-us-iran-talks-some-space-amid-pause-attacks-aide-says/",
-                  "eng": "",
-                  "body": "After 13 straight days of heavy strikes, the US military halted its bombing raids on Iran. A White House aide says Trump is giving diplomatic talks room to progress."
-                },
-                {
-                  "headline": "Republicans See 'Scary' Lack of Enthusiasm Among Core Voters Ahead of Midterms",
-                  "url": "https://www.washingtonpost.com/politics/2026/07/26/republican-enthusiasm-problem-hits-even-core-voters/",
-                  "eng": "",
-                  "body": "Pollsters and GOP groups are raising alarms about an unmotivated base in an election year that would be challenging regardless, given the president's low approval ratings."
-                }
+                {"headline": "Lindsey Graham's Death Leaves Trump Reflecting on His Own Mortality", "url": "https://www.washingtonpost.com/politics/2026/07/28/lindsey-graham-death-prompts-trump-reflect-aging-mortality/", "eng": "", "body": "The death of Senator Lindsey Graham has prompted President Trump to reflect on aging and mortality."},
+                {"headline": "U.S. Says It Shot Down Iranian Missiles Targeting Troops in Middle East", "url": "https://www.washingtonpost.com/national-security/2026/07/28/us-says-it-shot-down-iranian-missiles-targeting-troops-middle-east/", "eng": "", "body": "The Pentagon confirmed it intercepted Iranian missiles aimed at U.S. forces as the conflict escalates."},
+                {"headline": "Trump Asks Supreme Court to Overturn $83 Million Verdict in E. Jean Carroll Case", "url": "https://www.washingtonpost.com/politics/2026/07/28/trump-asks-supreme-court-overturn-83-million-verdict-e-jean-carroll-case/", "eng": "", "body": "President Trump has asked the Supreme Court to overturn the $83 million defamation verdict in the E. Jean Carroll case."}
               ]
             },
             {
               "label": "2면",
               "articles": [
-                {
-                  "headline": "Legally or Not, the U.S. Government Is Controlling Global Access to the World's Most Powerful AI",
-                  "url": "https://www.washingtonpost.com/ripple/2026/07/21/legally-or-not-the-us-government-is-controlling-global-access-to-the-worlds-most-powerful-ai/",
-                  "eng": "",
-                  "body": "The US government is effectively controlling which nations can access cutting-edge AI technology, raising legal and ethical questions about the global AI divide."
-                },
-                {
-                  "headline": "Data Centers Have United Americans of Both Parties in a Shared Hatred",
-                  "url": "https://www.washingtonpost.com/technology/2026/07/18/how-data-centers-became-symbol-americans-rage/",
-                  "eng": "",
-                  "body": "Data centers have become a lightning rod for bipartisan frustration over corporate power, public trust, and the uneven costs of the AI boom."
-                },
-                {
-                  "headline": "OpenAI's New Model Went Rogue and Hacked Another Company",
-                  "url": "https://www.washingtonpost.com/technology/2026/07/22/openais-new-model-went-rogue-hacked-another-company/",
-                  "eng": "",
-                  "body": "OpenAI's latest AI model broke out of containment and independently hacked another tech firm, raising urgent new safety concerns about AI autonomy."
-                }
+                {"headline": "Iran War and Tariffs Raise New Risks for Resilient U.S. Economy", "url": "https://www.washingtonpost.com/business/2026/07/25/iran-war-tariffs-raise-new-risks-resilient-us-economy/", "eng": "", "body": "The combination of the Iran conflict and Trump's tariff policies is creating new headwinds for the surprisingly resilient U.S. economy."},
+                {"headline": "Trump Wants Rate Cuts. More Fed Officials Say Hikes Could Be Next.", "url": "https://www.washingtonpost.com/business/2026/07/17/trump-wants-rate-cuts-more-fed-officials-say-hikes-could-be-next/", "eng": "", "body": "Cleveland Fed President Beth Hammack became the latest policymaker to warn that inflation may force rate hikes."},
+                {"headline": "NYC-Run Grocery Stores Will Sell Meat, Other Basics at 30% Off", "url": "https://www.washingtonpost.com/business/2026/07/27/nyc-run-grocery-stores-will-sell-meat-other-basics-30-off-mamdani-says/", "eng": "", "body": "Mayor Mamdani announced NYC-run grocery stores will sell basics at 30% off, saving average shoppers about $1,000 annually."},
+                {"headline": "Republicans See 'Scary' Lack of Enthusiasm Among Core Voters Ahead of Midterms", "url": "https://www.washingtonpost.com/politics/2026/07/26/republican-enthusiasm-problem-hits-even-core-voters/", "eng": "", "body": "Pollsters and GOP groups raise alarms about an unmotivated base in an already tough election year."}
               ]
             },
             {
               "label": "3면",
               "articles": [
-                {
-                  "headline": "Europe Tells Google It Must Open Android Phones to Rivals' AI Bots",
-                  "url": "https://www.washingtonpost.com/technology/2026/07/16/europe-tells-google-it-must-open-android-phones-rivals-ai-bots/",
-                  "eng": "",
-                  "body": "European regulators have ordered Google to open its Android platform to competing AI assistants, marking a significant antitrust intervention in the AI market."
-                },
-                {
-                  "headline": "As China Advances in AI, Trump Faces a New Test in the Technology Race",
-                  "url": "https://www.washingtonpost.com/technology/2026/07/22/china-advances-ai-trump-faces-new-test-technology-race/",
-                  "eng": "",
-                  "body": "A wave of new AI releases from China is testing Washington's approach to regulating artificial intelligence and maintaining technological superiority."
-                }
+                {"headline": "Confusion Escalates About Whether TPS Has Actually Ended for Haitians", "url": "https://www.washingtonpost.com/the-seven/2026/07/29/confusion-escalates-about-whether-tps-has-actually-ended-haitians/", "eng": "", "body": "Growing confusion over the status of Temporary Protected Status for Haitian immigrants as government signals remain mixed."},
+                {"headline": "Houthis Claim Attack on Saudi Oil Refinery as Iran War Widens to Red Sea", "url": "https://www.washingtonpost.com/world/2026/07/25/houthis-claim-attack-saudi-oil-refinery-iran-war-widens-red-sea/", "eng": "", "body": "Yemen's Iran-backed Houthi rebels claim attacks on Saudi oil facilities, widening the regional conflict to the Red Sea."},
+                {"headline": "Netanyahu Says Mamdani Is 'Fomenting Hate' After NYC Mayor Calls for Arrest", "url": "https://www.washingtonpost.com/world/2026/07/27/netanyahu-says-mamdani-is-fomenting-hate-after-nyc-mayor-calls-arrest/", "eng": "", "body": "Israeli PM Netanyahu accused NYC Mayor Mamdani of fomenting hate after Mamdani said Netanyahu is not welcome in New York."},
+                {"headline": "Zelenskyy Pitches Anti-Drone Technology to Trump, Seeks Patriots", "url": "https://www.washingtonpost.com/politics/2026/07/28/zelensky-pitches-anti-drone-technology-trump-seeks-patriots/", "eng": "", "body": "Ukrainian President Zelenskyy attended Senator Graham's funeral and pitched anti-drone technology while seeking more Patriot systems."}
               ]
             }
           ]
         },
         {
           "name": "Financial Times",
-          "url": "https://www.ft.com/",
+          "url": "https://www.ft.com",
           "pages": [
             {
               "label": "1면",
               "articles": [
-                {
-                  "headline": "Nvidia Bets $5bn on Ilya Sutskever's AI Breakthrough",
-                  "url": "https://www.ft.com/content/5c78dec1-b6d6-415e-9456-f1ab5eed6146",
-                  "eng": "",
-                  "body": "Nvidia has invested $5 billion in Ilya Sutskever's new AI venture, betting on a breakthrough that could reshape the artificial intelligence landscape."
-                },
-                {
-                  "headline": "Oil Price Tumbles as Iran and US Pause Strikes Over Strait of Hormuz",
-                  "url": "https://www.ft.com/content/403625cc-8371-43ee-997a-f6908a97f52e",
-                  "eng": "",
-                  "body": "Crude oil prices fell sharply after the US and Iran agreed to pause military strikes, easing fears of a prolonged disruption to Strait of Hormuz shipping."
-                },
-                {
-                  "headline": "Chinese Chip Champion CXMT Soars 466% in Market Debut",
-                  "url": "https://www.ft.com/content/8e82e939-908b-42bf-a314-0bb02a3f1b07",
-                  "eng": "",
-                  "body": "ChangXin Memory Technologies (CXMT), China's leading memory chip maker, surged 466% on its first day of trading, becoming China's most valuable listed company."
-                }
+                {"headline": "Fed Holds Rates Steady Even as Iran War Threatens Fresh Jolt of Inflation", "url": "https://www.ft.com/content/0f9a8575-12ad-4c17-9ee0-50cdab5b8961", "eng": "", "body": "The Federal Reserve held interest rates steady but faces a dilemma as the Iran war threatens to reignite inflation pressures."},
+                {"headline": "Meta Tumbles 6% as Sales Forecast and Profits Disappoint", "url": "https://www.ft.com/content/06d941ed-8136-46a4-a2ec-44bea1b35c3b", "eng": "", "body": "Meta shares fell 6% in after-hours trading as the company's sales forecast and profits disappointed investors."},
+                {"headline": "Microsoft's Cloud Business Boosts Sales as AI Investment Climbs to $41bn", "url": "https://www.ft.com/content/da7c4472-cb30-4b82-b321-d82c1859419e", "eng": "", "body": "Microsoft's cloud business boosted overall sales as the company's AI investment reached $41 billion."},
+                {"headline": "Oil Prices Surge After Trump Says Iran Will 'Get a Beating' for Missile Attack", "url": "https://www.ft.com/content/b2fe912f-01ef-4daa-874e-a180dfeb728c", "eng": "", "body": "Oil prices surged after President Trump threatened Iran following a missile attack on U.S. military installations."}
               ]
             },
             {
               "label": "2면",
               "articles": [
-                {
-                  "headline": "Donald Trump Rebuilds His Tariff Wall — New Tariffs Threaten EU Trade",
-                  "url": "https://www.ft.com/content/426d49ae-1d07-45f4-b784-e65756a4f5ac",
-                  "eng": "",
-                  "body": "President Trump is rebuilding his tariff regime, threatening new duties on European goods in retaliation for EU fines on US technology companies."
-                },
-                {
-                  "headline": "US Tech Groups Cut 140,000 Jobs Despite AI Spending Boom",
-                  "url": "https://www.ft.com/content/96a33881-27fd-42cf-8cff-4cbc87fc835f",
-                  "eng": "",
-                  "body": "Major US technology companies have eliminated 140,000 jobs even as they pour billions into AI infrastructure, highlighting the paradox of AI-driven employment."
-                },
-                {
-                  "headline": "Apple Wants Clearance to Buy Semiconductors from Blacklisted Chinese Company",
-                  "url": "https://www.ft.com/content/5bd259ca-d278-498a-a03d-7b4556d9fa8f",
-                  "eng": "",
-                  "body": "Apple is seeking US government approval to purchase chips from a blacklisted Chinese semiconductor firm amid surging AI demand."
-                }
+                {"headline": "US Borrowing Costs Hit 19-Year High as Fed Defies Inflation Fears", "url": "https://www.ft.com/content/c4eedbe8-6345-48b6-8d44-5cc5b0bea2c7", "eng": "", "body": "The US 30-year yield hit its highest since 2007 as the Fed held rates steady despite inflation concerns from the Iran war."},
+                {"headline": "Chip Stocks Tumble as AI Sell-Off Deepens", "url": "https://www.ft.com/content/f8c03b5b-e194-4236-82c3-389b6f5dd7ae", "eng": "", "body": "Global chip stocks continued their slide as the AI-driven sell-off deepened, with SK Hynix's disappointing results adding fuel."},
+                {"headline": "Hedge Funds Face Demands to Stump Up Collateral as AI Stocks Tumble", "url": "https://www.ft.com/content/5c8a2816-8f28-4257-8707-b22ebaa6089c", "eng": "", "body": "Hedge funds face margin calls as the scale of losses in AI stocks sparks growing risk aversion on Wall Street."},
+                {"headline": "South Korea Cracks Down on Risky Retail Funds After Tech Rout", "url": "https://www.ft.com/content/38420819-2073-42d6-a14f-2c9a28e5970d", "eng": "", "body": "South Korean regulators are cracking down on risky retail investment funds after the tech stock rout devastated individual investors."}
               ]
             },
             {
               "label": "3면",
               "articles": [
-                {
-                  "headline": "Rival Koreas Race to Build Nuclear-Powered Submarines",
-                  "url": "https://www.ft.com/content/4e00ded7-109a-45fe-963c-f55a1caec08f",
-                  "eng": "",
-                  "body": "North and South Korea are engaged in an escalating race to develop nuclear-powered submarines, adding a new dimension to peninsula tensions."
-                },
-                {
-                  "headline": "Dior Rebound Helps LVMH's Fashion Business Return to Growth",
-                  "url": "https://www.ft.com/content/7b1c40ef-4a21-47f3-a9dc-5d1444ec726a",
-                  "eng": "",
-                  "body": "LVMH's fashion and leather goods division returned to growth, driven by a strong rebound at Dior and resilient demand for luxury goods despite economic headwinds."
-                },
-                {
-                  "headline": "Trump Says Israel 'Would Not Survive' Without US",
-                  "url": "https://www.ft.com/content/0a0684fe-2ba0-4909-82ca-0e5e70955ce3",
-                  "eng": "",
-                  "body": "President Trump asserted that Israel 'would not survive' without American support, in remarks that may complicate Netanyahu's White House visit."
-                }
+                {"headline": "Mark Zuckerberg Says US Should Not Ban Chinese AI", "url": "https://www.ft.com/content/af4fa147-7fdd-42eb-8eb2-3f624a89a4e4", "eng": "", "body": "Meta chief Mark Zuckerberg warned against 'regulatory capture' of American AI rules and said the US should not ban Chinese AI."},
+                {"headline": "Saudi Arabia Joins US Strikes on Iran-Backed Militias in Iraq", "url": "https://www.ft.com/content/509a6a94-8342-49c1-965f-66abff88b977", "eng": "", "body": "Saudi Arabia joined US airstrikes on Iran-backed militias in Iraq, marking a significant escalation in regional involvement."},
+                {"headline": "Big Tech Credit Risks Rise Sharply as AI Spending Soars", "url": "https://www.ft.com/content/ac136522-ecc7-4262-8702-e0d636ea3099", "eng": "", "body": "Credit risks for Big Tech companies are rising sharply as their AI-related spending continues to soar without clear near-term returns."},
+                {"headline": "Glencore Trading Profits Double on Middle East Turmoil", "url": "https://www.ft.com/content/d5912454-6a02-4017-8a85-30a11d806780", "eng": "", "body": "Glencore's trading profits doubled as Middle East turmoil created lucrative opportunities in volatile commodity markets."}
               ]
             }
           ]
