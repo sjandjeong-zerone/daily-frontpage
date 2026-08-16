@@ -1,131 +1,137 @@
 {
-  "date": "2026-08-14",
-  "dateLabel": "2026년 8월 14일(금요일)",
-  "generatedAt": "2026-08-14T07:15:00+09:00",
+  "date": "2026-08-17",
+  "dateLabel": "2026년 8월 17일(월요일)",
+  "generatedAt": "2026-08-17T07:22:41+09:00",
   "ticker": [
     {
       "name": "KOSPI",
-      "value": "6,813.34",
-      "change": "+3.56%"
+      "value": "6,977.94",
+      "change": "+2.42%"
     },
     {
       "name": "KOSDAQ",
-      "value": "859.89",
-      "change": "+0.29%"
+      "value": "864.65",
+      "change": "+0.38%"
     },
     {
       "name": "S&P 500",
-      "value": "7,781.59",
-      "change": "+0.43%"
+      "value": "7,785.76",
+      "change": "-0.17%"
     },
     {
       "name": "NASDAQ",
-      "value": "26,741.66",
-      "change": "+0.58%"
+      "value": "26,729.16",
+      "change": "-0.28%"
     },
     {
       "name": "WTI",
-      "value": "$81.6",
-      "change": "-0.5%"
+      "value": "$82.40",
+      "change": "+1.42%"
     },
     {
       "name": "USD/KRW",
-      "value": "1,418.88",
-      "change": "+0.10%"
+      "value": "1,416",
+      "change": "약보합"
     }
   ],
   "keywords": [
     "KOSPI",
+    "7,000선",
     "삼성전자",
     "SK하이닉스",
     "반도체",
     "S&P 500",
-    "사상최고치",
+    "소매판매",
     "PPI",
-    "AI",
-    "엔비디아",
-    "마이크론",
-    "SanDisk",
-    "Gemini",
-    "국제유가",
+    "광복절",
+    "휴장",
+    "Reddit",
+    "Anthropic",
+    "LG",
+    "젠슨 황",
+    "현대차",
+    "로봇",
+    "피지컬 AI",
     "호르무즈",
-    "부동산대책",
-    "빌게이츠",
-    "SMR",
-    "가계대출"
+    "국제유가",
+    "금리인하"
   ],
   "morning": {
-    "date": "2026-08-14",
-    "headline": "KOSPI 4거래일 연속 급등·6,800선 회복…S&P 500 사상 최고치, AI 랠리 재점화",
-    "weather": "⛅ 서울 24°C · 부분흐림 · 체감 26°C · 습도 74% · 바람 4km/h",
-    "schedule": "18:00 🏦 MK 및 씨티모임 (Meet-up)",
+    "date": "2026-08-17",
+    "headline": "KOSPI 장중 사상 첫 7,000선 돌파·주간 +11.49%…오늘(8/17) 광복절 대체휴일로 국내 증시 휴장",
+    "weather": "🌦️ 서울 23°C · Light rain shower · 체감 27°C · 습도 92% · 바람 4km/h",
+    "schedule": "📆 광복절(대체 휴일) — 국내 증시 휴장 · 은행 휴무",
     "domestic": {
       "kospi": {
-        "value": "6,813.34",
-        "change": "+234.30",
-        "changeRate": "+3.56%"
+        "value": "6,977.94",
+        "change": "+164.60",
+        "changeRate": "+2.42%"
       },
       "kosdaq": {
-        "value": "859.89",
-        "change": "+2.49",
-        "changeRate": "+0.29%"
+        "value": "864.65",
+        "change": "+3.28",
+        "changeRate": "+0.38%"
       },
       "supply": {
-        "usdkrw": "1,418.88",
-        "change": "+0.10%"
+        "usdkrw": "1,416",
+        "change": "약보합"
       },
-      "comment": "KOSPI 4거래일 연속 상승, 나흘간 8.15% 급등하며 6,800선 회복. 삼성전자(+4.89%·268,000원)·SK하이닉스(+5.92%·159만3천원) '쌍두마차'가 지수 견인. 외국인·기관 동반 순매수로 강한 모멘텀 유지. 코스닥은 +0.29%로 상대적으로 소외."
+      "comment": "KOSPI 5거래일 연속 상승 + 주간 +11.49% 폭등. 장중 7,010.86까지 터치하며 사상 첫 7,000선을 돌파했으나 종가는 6,977.94로 마감(7,000선 하회). 외국인·기관 동반 순매수, 삼성전자·SK하이닉스 반도체 '투톱'이 상승 주도. 코스닥(+0.38%)은 대형주·반도체 쏠림으로 상대적 부진. 8/15(토) 광복절 + 8/17(월) 대체휴일로 오늘 휴장, 다음 영업일은 8/18(화)."
     },
     "overseas": {
       "dow": {
-        "value": "53,674.13",
-        "changeRate": "-0.18%"
+        "value": "53,732.41",
+        "changeRate": "-0.20%"
       },
       "sp500": {
-        "value": "7,781.59",
-        "changeRate": "+0.43%"
+        "value": "7,785.76",
+        "changeRate": "-0.17%"
       },
       "nasdaq": {
-        "value": "26,741.66",
-        "changeRate": "+0.58%"
+        "value": "26,729.16",
+        "changeRate": "-0.28%"
       },
       "vix": {
-        "value": "15.28",
-        "changeRate": "-1.2%"
+        "value": "14.25",
+        "changeRate": "-2.60%"
       },
       "us10y": {
-        "value": "4.65%",
-        "change": "-5bp"
+        "value": "4.69%",
+        "change": "+5bp"
       },
       "dxy": {
-        "value": "99.84",
-        "changeRate": "보합"
+        "value": "99.65",
+        "changeRate": "-0.20%"
       },
       "oil": {
-        "wti": "$81.6/배럴 (▼0.5%)",
-        "brent": "$88/배럴 (보합)"
+        "wti": "$82.40/배럴 (▲1.42%)",
+        "brent": "$88.52/배럴 (▲1.67%)"
       },
-      "keyStocks": "반도체지수(SOX) +1.8% 1개월래 최고 — SanDisk +15%, Micron +5.6% 급등. 엔비디아·애플·MS 동반 강세, 시스코 -9% 부진으로 다우만 하락."
+      "keyStocks": "S&P 500 8/13 사상 최고 경신 후 8/14 소폭 하락(-0.17%)…3주 연속 상승 마감. VIX 14.25(▼2.60%) 1월 이후 최저. 메모리 반도체 강세 — SanDisk +13.67%, SK하이닉스 ADR +7.29%. Reddit S&P 500 편입 발표에 +12% 급등. Russell 2000 +0.51%."
     },
-    "topNews": "KOSPI 4거래일 연속 급등·6,800선 회복…S&P 500 사상 최고치, AI 랠리 재점화",
+    "topNews": "KOSPI 장중 사상 첫 7,000선 돌파·주간 +11.49%…오늘(8/17) 광복절 대체휴일로 국내 증시 휴장",
     "otherNews": [
-      "삼성전자 4.89%↑ 268,000원·SK하이닉스 5.92%↑ 159만원 — 반도체 '쌍두마차'가 지수 견인",
-      "S&P 500 장중 사상 최고치 경신 — 7월 PPI 예상 하회(전월비 +0.1%)로 금리 인상 우려 완화",
-      "반도체지수(SOX) +1.8% — SanDisk +15%, Micron +5.6%, 엔비디아·애플·MS 동반 강세",
-      "Google, Gemini 3.7 Flash AI 모델 공개 — 코딩·에이전트 워크플로우 특화",
-      "우크라이나, 흑해 휴전 제안 — 식량 공급 우려 속 러시아에 조건부 제안",
-      "Lenovo 호실적에 델·HP 동반 상승 — 글로벌 PC 수요 회복 신호",
-      "WTI 소폭 하락(▼0.5%) — 지정학적 리스크 지속되나 PPI 후 위험선호 회복",
-      "리벨리온, SKT에 K-NPU '리벨' 칩 공급 (ZDNet Korea)"
+      "KOSPI 주간 +11.49% 폭등, 장중 7,000선 돌파 — 7월 29일 저점(5,593) 대비 25% 급등, 기술적 강세장 진입",
+      "S&P 500 8/13 사상 최고 경신 후 8/14 소폭 하락…3주 연속 상승 마감",
+      "美 7월 소매판매 전월비 -0.6% (예상 +0.1% 크게 하회) — 소비 둔화 신호",
+      "美 7월 PPI 둔화 (전년비 +4.7%, 6월 +5.5% 대비 ↓) — 금리 인상 우려 완화",
+      "LG 구광모 회장, 젠슨 황과 두 달 만에 재회 — 로봇·AI 팩토리 협력 논의",
+      "현대차, '차 부품 말고 로봇 만들어라' 특명 — 로봇·피지컬 AI 관련주 급등",
+      "Reddit, S&P 500 편입 발표 — 8/18 정규장 앞서 편입, 주가 12% 급등",
+      "Anthropic, 60억달러 조달 — AI 경쟁 심화, AI 인프라 투자 확대",
+      "호르무즈 해협 선박 추가 피격 — 유가 반등, 향후 추가 상승 리스크"
     ],
     "email": {
-      "financial": "한국금융연수원 — 개인정보이용내역 안내 (확인)",
-      "zdnet": "ZDNet Korea — 리벨리온, SKT에 K-NPU '리벨' 칩 공급",
-      "citi": "한국씨티은행 — 씨티글로벌월렛 체크카드 갱신 안내 (액션 필요)",
-      "samsung": "삼성증권 — 양자컴퓨터가 여는 디지털 자산 전환 (광고)",
-      "linkedin": "LinkedIn — 6명의 새 1촌 신청 있음"
+      "facebook": "Facebook — 최철식님의 새로운 업데이트 (소셜)",
+      "instagram": "Instagram — gonggan.oktop 읽지 않은 메시지 1개 · ch__young님 외 8명 공유 콘텐츠",
+      "paddle": "Paddle — AlDente Pro 구독 갱신 예정 (구독 관리 필요)",
+      "naverplus": "네이버플러스 — 멤버십 신규 혜택 및 적립 대상 변경 (약관 확인)",
+      "googlealerts": "Google Alerts — 헬스케어 / healthcare / 생성형 AI / generative AI (관심분야)",
+      "pokemongo": "Pokémon GO — 뮤츠 시간제한 리서치 (10주년 기념)",
+      "spotify": "Spotify — 프리미엄 3개월 무료 혜택 (프로모션)",
+      "dyson": "Dyson — Seokjin, 20% 할인 오너 리워드 (쇼핑)"
     },
-    "insight": "나흘간 8.15% 급등하며 7월 말 폭락(7/30 저점 5,593) 대비 +21.8% 만회. 반도체 '쌍두마차' 삼성전자·SK하이닉스가 연일 4~6% 상승하며 6,800선 회복, 이제 7,000선이 목표. 美 7월 PPI가 예상(0.2%)을 밑돈 0.1%에 그치며 연준 긴축 경계감 완화 + S&P 500 장중 사상 최고치. 유가도 전일 급등에서 진정되며 증시 하방 압력 완화. 다만 7,000선 근접 시 차익실현 물량 부담과 이란 협상 불확실성은 주의. 오늘 관전 포인트: KOSPI 6,900선 돌파 여부, 삼성전자 270,000원·SK하이닉스 160만원 돌파, 美 주간 고용지표 결과."
+    "insight": "KOSPI가 장중 7,010까지 오르며 사상 첫 7,000선을 터치했습니다. 7월 29일 저점(5,593) 대비 불과 12거래일 만에 25% 급등한 셈입니다. 외국인 자금 유입과 반도체 업황 개선 기대가 상승 동력이었지만, 단기 급등에 따른 피로감과 차익실현 욕구도 분명 존재합니다. 오늘(8/17)은 휴장이므로 8/18(화) 개장 전까지 주말·월요일 글로벌 변수를 체크해야 합니다. 美 7월 소매판매(-0.6%)와 소비자심리(51.0) 약세는 연준의 9월 금리 동결 가능성을 높이지만, 동시에 실물 경기 둔화 우려도 커집니다. 시장은 '골디락스'와 '경기 침체' 시나리오 사이에서 등락할 것으로 보입니다. 샌디스크(+13.67%)·SK하이닉스 ADR(+7.29%) 등 메모리 반도체 업황 회복 시그널이 뚜렷합니다. AI 인프라 투자 확대와 함께 반도체 업종의 중장기 전망은 긍정적이나 단기 기술적 조정 가능성도 염두에 둬야 합니다. LG 구광모 회장의 젠슨 황 재회와 현대차의 '로봇 전환' 특명은 국내 기업의 AI·로봇 투자 본격화를 시사합니다. 피지컬 AI(로봇·자율주행·제조 자동화)는 2026년 하반기 핵심 테마가 될 가능성이 높습니다. 휴장일 전략: 8/18(화) 개장가에 주말 글로벌 변수가 선반영될 가능성이 큽니다. 유가(호르무즈), 美 국채금리, S&P 500 선물, 비트코인 동향을 모니터링하고 개장 전 전략을 수립하세요."
   },
   "sections": {
     "kor": {
@@ -139,28 +145,28 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "남양주 등 2.7만가구 공급…연내 7.3만가구 더",
-                  "url": "https://www.mk.co.kr/news/realestate/12126881",
-                  "eng": "2.7 million homes in Namyangju and more, with 73,000 additional units within the year",
-                  "body": "8·13 부동산대책으로 신규택지 착공을 37개월로 단축하고 수도권 23만가구+α를 공급. 대출여력 30조원 확대로 돈줄에 '숨통'을 튼다는 구상."
+                  "headline": "김정은과 친분 또 강조… 트럼프 \"한미 연합훈련 축소 지시\"",
+                  "url": "https://www.mk.co.kr/news/economy/12129185",
+                  "eng": "Trump again touts ties with Kim Jong-un, orders cut to joint US-Korea drills",
+                  "body": "트럼프 대통령이 16일(현지시간) 트루스소셜에 김정은 위원장과 친분을 과시하며 헤그세스 국방장관에 한미 합동 군사훈련 대폭 축소를 지시했다고 밝혔다."
                 },
                 {
-                  "headline": "코스피 56% 오를 때 '고작 3%'…디폴트옵션 초라한 성적표, 왜",
-                  "url": "https://www.mk.co.kr/news/stock/12126883",
-                  "eng": "While KOSPI jumped 56%, default options returned just 3% — why the poor report card",
-                  "body": "사전지정운용(디폴트옵션) 수익률이 증시 상승세에 크게 못 미치고 있다. 56조원 중 83%가 초저위험상품에 묶여 퇴직연금이 불장 수혜를 못 누린다는 지적."
+                  "headline": "앤트로픽 매출 14배 뛰었다… 상장땐 기업가치 2820조원",
+                  "url": "https://www.mk.co.kr/news/it/12129026",
+                  "eng": "Anthropic revenue jumps 14-fold; IPO could value it at 2,820 trillion won",
+                  "body": "앤트로픽이 매출 14배 성장을 기록하며 상장 시 기업가치가 2820조원에 달할 수 있다는 분석이 나왔다."
                 },
                 {
-                  "headline": "중국 YMTC 낸드 대약진…키옥시아 제치고 출하량 첫 '3위'",
-                  "url": "https://www.mk.co.kr/news/world/12126884",
-                  "eng": "China's YMTC surges in NAND flash, overtaking Kioxia to rank third in shipments",
-                  "body": "중국 YMTC가 올 2분기 낸드플래시 출하량에서 일본 키옥시아를 제치고 처음으로 3위에 올랐다. CXMT와 함께 중국 반도체 굴기가 가속화되고 있다."
+                  "headline": "삼전닉스, 반년 새 현금 곳간 117조원↑… 설비투자 대비 실탄 확보",
+                  "url": "https://www.mk.co.kr/news/business/12129186",
+                  "eng": "Samsung and SK Hynix cash reserves up 117 trillion won in half a year",
+                  "body": "삼성전자·SK하이닉스가 반년 만에 현금 보유액을 117조원 늘리며 설비투자 대비 실탄을 확보했다."
                 },
                 {
-                  "headline": "한투지주, KDB생명 산다…매각 우선협상대상자 선정",
-                  "url": "https://www.mk.co.kr/news/economy/12126882",
-                  "eng": "Korea Investment Holdings to buy KDB Life, named preferred bidder",
-                  "body": "한국투자금융지주가 KDB생명 매각 우선협상대상자로 선정됐다."
+                  "headline": "부실기업 즉각 퇴출에 100개 기업 '상폐 공포'",
+                  "url": "https://www.mk.co.kr/news/economy/12129162",
+                  "eng": "100 companies face delisting fears amid immediate removal of insolvent firms",
+                  "body": "부실기업 즉각 퇴출 정책에 따라 상장폐지 공포가 확산되며 약 100개 기업이 위험에 노출됐다."
                 }
               ]
             },
@@ -168,16 +174,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "'이주비 대란' 한숨 돌렸지만…비거주 1주택 전세대출은 차단",
-                  "url": "https://www.mk.co.kr/news/economy/12126810",
-                  "eng": "Relief for move-in loans, but non-resident one-home jeonse loans to be blocked",
-                  "body": "대출 정책을 투 트랙으로 운용해 실수요자는 풀고 갭투자는 막는다. 대출 총량 증가율을 1.5%→3%로 올려 5대 시중은행 가계대출 여력을 4.3조→8.6조원으로 확대. 내년부터 비거주 1주택자의 신규 전세대출은 불가능해진다."
+                  "headline": "영끌에 빚투까지… '2000조' 빚의 늪에 빠진 한국",
+                  "url": "https://www.mk.co.kr/news/economy/12129091",
+                  "eng": "Korea sinks into a 2,000 trillion won debt swamp amid debt-financed investing",
+                  "body": "영끌(영혼까지 끌어모아 대출)과 빚투(빚내서 투자)가 겹치며 한국의 가계·기업 부채가 2000조원을 넘어섰다."
                 },
                 {
-                  "headline": "청년들, 오피스텔·빌라 사면 저리대출 지원…아파트는 해당 안돼",
-                  "url": "https://www.mk.co.kr/news/realestate/12126809",
-                  "eng": "Low-rate loans for young people buying officetels and villas, but not apartments",
-                  "body": "청년미래보금자리론을 출시해 4억원 이하 비아파트 구입 시 저리대출을 지원한다. 전세대출 보증상품 강화 등 세입자 청년 위주로 지원을 집중한다."
+                  "headline": "호남 이은 수도권 승… 김민석, 누적 49.9% 선두",
+                  "url": "https://www.mk.co.kr/news/politics/12129143",
+                  "eng": "Kim Min-seok leads with 49.9% after wins in Honam and Seoul metro area",
+                  "body": "김민석 후보가 호남에 이어 수도권 경선에서도 승리하며 누적 득표율 49.9%로 선두를 유지했다."
                 }
               ]
             },
@@ -185,16 +191,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "'미니신도시' 남양주, 광역교통망 관건…서울은 연말 전 추가발표",
-                  "url": "https://www.mk.co.kr/news/realestate/12126881",
-                  "eng": "Mini new town Namyangju hinges on transport links; more Seoul supply by year-end",
-                  "body": "신규 공급계획의 핵심인 남양주는 광역교통망 확충이 관건으로 꼽힌다. 정부는 서울 지역 추가 공급책을 연말 전에 내놓을 방침이다."
+                  "headline": "\"가뜩이나 차 막히는데…\" 남양주 주민들, 개발 호재에도 걱정",
+                  "url": "https://www.mk.co.kr/news/realestate/12129055",
+                  "eng": "Namyangju residents worry about traffic despite development boom",
+                  "body": "남양주 신도시 개발 호재에도 불구하고 주민들은 교통난 등 인프라 부족을 우려하고 있다."
                 },
                 {
-                  "headline": "재개발 동의율 75% → 70%로 낮춰…서울 연 3만가구 착공 목표",
-                  "url": "https://www.mk.co.kr/news/realestate/12126864",
-                  "eng": "Redevelopment consent threshold lowered from 75% to 70%, targeting 30,000 Seoul units a year",
-                  "body": "재개발·재건축 규제를 완화해 서울에서 연 3만가구 착공을 목표로 한다. 동의율 요건을 낮춰 정비사업 속도를 높인다는 계획."
+                  "headline": "경남 거제 폭우로 도로 곳곳 침수… 차량 통행 통제",
+                  "url": "https://www.mk.co.kr/news/society/12129175",
+                  "eng": "Torrential rain floods roads in Geoje, halting traffic",
+                  "body": "경남 거제에 집중호우가 쏟아져 도로 곳곳이 침수되고 차량 통행이 통제됐다."
                 }
               ]
             }
@@ -208,16 +214,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "'집 못 지어서 미쳤나 소리 듣게 지어라'…남양주 덕소농장·경기광주·염창공원에 12만호 공급",
-                  "url": "https://www.khan.co.kr/article/202608131200041",
-                  "eng": "'Build so no one says you're crazy for not building' — 120,000 homes in Namyangju, Gwangju and Yeomchang",
-                  "body": "정부가 8·13 부동산대책에서 남양주 덕소농장·경기광주·염창공원 등에 12만호를 공급한다. 이재명 대통령이 '공급 절벽'에 특단의 대응을 주문했다."
+                  "headline": "\"종전 위한 당사자들 논의 시작하자\"…이재명 대통령 '다자 협의' 첫 제안",
+                  "url": "https://www.khan.co.kr/article/202608162134005",
+                  "eng": "President Lee Jae-myung first proposes multilateral talks to end the war",
+                  "body": "이재명 대통령이 81주년 광복절 경축사에서 남북한·미·중 참여 다자 대화를 통한 종전선언과 북핵 동결, 한반도 평화체제 구축의 단계적 구상을 밝혔다."
                 },
                 {
-                  "headline": "[속보] 올해 가계대출 약 30조원 더 푼다…이주비·잔금대출 숨통 트일 듯",
-                  "url": "https://www.khan.co.kr/article/202608131200021",
-                  "eng": "About 30 trillion won more in household loans this year, easing move-in and balance payments",
-                  "body": "8·13 부동산대책으로 올해 가계대출 증가 목표치를 3%로 상향, 약 30조원의 추가 여력을 확보해 이주비·잔금대출 병목을 푼다."
+                  "headline": "임미애·김영호 최고위원 후보 사퇴…'김용 구하기' 표심 결집 호소",
+                  "url": "https://www.khan.co.kr/article/202608162105001",
+                  "eng": "Supreme council candidates step down to rally votes for Kim Yong",
+                  "body": "민주당 8·17 전당대회를 앞두고 임미애·김영호 의원이 최고위원 후보에서 사퇴하며 김용 후보 지지를 호소했다."
                 }
               ]
             },
@@ -225,16 +231,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "정부 주택공급 대책에 서울시 \"그린벨트 훼손 안돼…서울 패싱 유감\"",
-                  "url": "https://www.khan.co.kr/article/202608131555001",
-                  "eng": "Seoul pushes back on housing supply plan: 'no greenbelt damage… regret being passed over'",
-                  "body": "서울시가 정부의 8·13 주택공급 대책에 대해 그린벨트 훼손을 우려하며 서울 지역 공급이 빠진 데 유감을 표명했다."
+                  "headline": "미·중 AI 전쟁 격화···미, 한국 등 35개국에 \"미국과 중국 중 양자택일하라\" 압박",
+                  "url": "https://www.khan.co.kr/article/202608161244001",
+                  "eng": "US pressures Korea and 34 other nations to choose sides in the AI race",
+                  "body": "미 국무부가 'AI 기회 파트너십' 서명국 35개국에 미국과 중국 중 하나를 선택하라는 서한을 보낼 예정이라고 로이터가 보도했다."
                 },
                 {
-                  "headline": "청와대 \"용산공원 주택 공급 서울시와 협의중…임기내 150만호 착공\"",
-                  "url": "https://www.khan.co.kr/article/202608132235001",
-                  "eng": "Presidential office in talks with Seoul on Yongsan Park housing; 1.5 million homes by term end",
-                  "body": "청와대는 용산공원 주택 공급을 서울시와 협의 중이라며 임기 내 150만호 착공 목표를 밝혔다."
+                  "headline": "내년부터 고가 아파트 대출 더 깐깐해진다…대출땐 은행이 자본금 더 쌓아야",
+                  "url": "https://www.khan.co.kr/article/202608161800001",
+                  "eng": "Banks to hold more capital for loans on expensive apartments next year",
+                  "body": "금융당국이 내년부터 고가 아파트 담보 주담대에 더 많은 자기자본을 쌓도록 하는 방안을 추진한다."
                 }
               ]
             },
@@ -242,16 +248,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "[단독] '부동산대출사기' 당한 은행 더 있다…지방은행·상호금융까지 총 1400억 규모",
-                  "url": "https://www.khan.co.kr/article/202608131824001",
-                  "eng": "More banks hit by real estate loan fraud — up to 1.4 trillion won including regional banks",
-                  "body": "부동산 허위 분양 대출 사기가 5대 시중은행은 물론 지방은행·상호금융권에서 총 1400억원 규모로 발생한 것으로 파악됐다. 경찰 수사 과정에서 규모가 더 늘어날 가능성도 있다."
+                  "headline": "이달 수익률 '주요국 1위'인데 불안한 코스닥···삼전닉스 반등하면 상승세 꺾일라",
+                  "url": "https://www.khan.co.kr/article/202608161639001",
+                  "eng": "KOSDAQ tops global returns this month but a chip rebound could stall the rally",
+                  "body": "코스닥이 이달 세계 주요 증시 중 가장 높은 수익률을 기록했지만, 반도체주 재강세로 상승세가 꺾일 우려가 제기된다."
                 },
                 {
-                  "headline": "민주당 지지층서 김민석 44%·정청래 25%…이 대통령 지지율 49%, 취임 후 최저",
-                  "url": "https://www.khan.co.kr/article/202608131123001",
-                  "eng": "Kim Min-seok leads with 44% among DP supporters; president's approval at record-low 49%",
-                  "body": "전국지표조사(NBS)에서 이재명 대통령 지지율이 49%로 취임 후 최저치를 기록했다. 민주당 지지층 차기 당대표 적합도는 김민석 44%, 정청래 25%로 나타났다."
+                  "headline": "'마스가' 시동 걸리나…\"한국도 실익 챙길 협력구조 짜야\"",
+                  "url": "https://www.khan.co.kr/article/202608161611001",
+                  "eng": "US shipbuilding project gains momentum; Korea urged to secure its own benefits",
+                  "body": "트럼프 대통령의 미 군함 해외 건조 허용 각서 서명으로 한·미 조선 협력 '마스가(MASGA)' 프로젝트가 본격화될지 주목된다."
                 }
               ]
             }
@@ -265,16 +271,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "수도권 택지 영끌…주택 23만채 추가 공급",
-                  "url": "https://www.donga.com/news/List",
-                  "eng": "Metropolitan land mobilized to supply 230,000 additional homes",
-                  "body": "정부가 수도권 개발제한구역(그린벨트)을 풀고 유휴부지를 활용해 주택 23만채를 추가 공급한다. 8·13 부동산대책의 핵심이다."
+                  "headline": "김민석-정청래 8.4%P差… 오늘 당대표 결정",
+                  "url": "https://www.donga.com/news/Politics/article/all/20260817/134486869/2",
+                  "eng": "Kim Min-seok leads Jeong Cheong-rae by 8.4 points; party leader decided today",
+                  "body": "민주당 전당대회에서 김민석 후보가 정청래 후보를 누적 8.4%포인트 차로 앞선 가운데 17일 당대표가 결정된다."
                 },
                 {
-                  "headline": "코스피 4거래일 연속 상승…6,800선 회복, 반도체 '쌍두마차' 랠리",
-                  "url": "https://www.donga.com/news/Economy",
-                  "eng": "KOSPI rises for a fourth straight session, reclaiming 6,800 on chip rally",
-                  "body": "삼성전자·SK하이닉스가 동반 급등하며 코스피가 나흘 연속 상승, 6,800선을 회복했다. 외국인·기관이 동반 순매수했다."
+                  "headline": "트럼프 \"호르무즈 해협, 조만간 美영토로 선언\"… 이란 \"망상, 계속 봉쇄\"",
+                  "url": "https://www.donga.com/news/Inter/article/all/20260816/134486461/2",
+                  "eng": "Trump says Hormuz Strait to be declared US territory; Iran calls it delusion",
+                  "body": "트럼프 대통령이 호르무즈 해협을 미국 영토로 선언하겠다고 밝히자 이란은 '망상'이라며 봉쇄를 계속하겠다고 맞받았다."
                 }
               ]
             },
@@ -282,16 +288,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "집값도 전셋값도 고공행진…공급 부족에 서민 주거 불안 '확산'",
-                  "url": "https://www.donga.com/news/Economy/article/all/20260813/134469303/1",
-                  "eng": "Home and jeonse prices soar as supply shortage spreads housing anxiety",
-                  "body": "수도권 집값과 전셋값이 동시에 고공행진하며 공급 부족에 따른 서민 주거 불안이 확산되고 있다. 정부는 수도권 연 27만호 신규 착공 목표를 내놨다."
+                  "headline": "그린벨트 풀어 10만 가구 공급…강남·용산 빠진 대책 실효성은",
+                  "url": "https://www.donga.com/news/Economy/article/all/20260817/134487091/1",
+                  "eng": "Greenbelt release to supply 100,000 homes; doubts over plan excluding Gangnam and Yongsan",
+                  "body": "정부의 그린벨트 해제를 통한 10만 가구 공급 대책이 강남·용산을 제외하면서 실효성 논란이 일고 있다."
                 },
                 {
-                  "headline": "與 \"13일 본회의서 주택공급 법안 등 110건 처리\"",
-                  "url": "https://www.donga.com/news/Politics/article/all/20260811/134453995/2",
-                  "eng": "Ruling party to process 110 bills including housing supply in Aug 13 plenary session",
-                  "body": "더불어민주당이 부동산 공급 대책을 포함해 본회의에 계류된 110여 건의 법안을 13일 처리하겠다고 밝혔다."
+                  "headline": "로봇 경쟁, 눈에서 손으로 이동… '손끝'에서 승부 갈린다",
+                  "url": "https://www.donga.com/news/Economy/article/all/20260817/134486282/2",
+                  "eng": "Robot race shifts from vision to hands as competition moves to the fingertips",
+                  "body": "로봇 산업 경쟁의 중심이 시각(눈)에서 촉각(손끝 센서)으로 이동하고 있다. 손끝 센서 시장은 2034년 64억달러 규모로 성장 전망."
                 }
               ]
             },
@@ -299,16 +305,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "[지표로 보는 경제] 8월 13일",
-                  "url": "https://www.donga.com/news/Economy/article/all/20260812/134467919/2",
-                  "eng": "Economy by the numbers: August 13",
-                  "body": "동전주·시총미달 36곳의 상장폐지 경고등, 공공기관 지방 이전 등 주요 경제지표와 현안을 정리했다."
+                  "headline": "5대銀 주담대 여력 7.5조 늘지만… \"연말전에 빠르게 동날수도\"",
+                  "url": "https://www.donga.com/news/Economy/article/all/20260816/134486587/2",
+                  "eng": "Big banks gain 7.5 trillion won lending capacity but may run out before year-end",
+                  "body": "8·13 대책으로 5대 시중은행의 주담대 여력이 7.5조원 늘지만, 연말 전에 빠르게 소진될 수 있다는 우려가 나온다."
                 },
                 {
-                  "headline": "이란, 트럼프 호텔 층수까지 꿰뚫는 정보전…중동 긴장 지속",
-                  "url": "https://www.donga.com/news/List",
-                  "eng": "Iran's intelligence warfare even tracks Trump hotel floors as Mideast tensions persist",
-                  "body": "이란의 대미 정보전 양상이 드러나며 중동 긴장이 지속되고 있다. 국제유가와 글로벌 증시에 변수로 작용하고 있다."
+                  "headline": "'월급 일자리' 4개월째 감소, 코로나 이후 처음… 자영업은 급증",
+                  "url": "https://www.donga.com/news/Economy/article/all/20260816/134486590/2",
+                  "eng": "Wage jobs fall for fourth straight month, first since COVID; self-employment surges",
+                  "body": "월급 일자리가 코로나 이후 처음으로 4개월 연속 감소한 반면 자영업은 급증했다."
                 }
               ]
             }
@@ -322,16 +328,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "빌 게이츠 1년 만에 방한…소형원전 공급망 머리 맞댄다",
-                  "url": "https://www.hankyung.com/article/2026081159501",
-                  "eng": "Bill Gates returns to Korea after a year to discuss SMR supply chain",
-                  "body": "소형모듈원전(SMR) 기업 테라파워 창업자 빌 게이츠가 14일 방한해 한성숙 국무총리와 면담한다. SK·HD현대 등과 SMR 사업 협력 방안을 구체화할 전망이다."
+                  "headline": "'52척 vs 37척'…LNG선 수주도 중국이 한국 제쳤다",
+                  "url": "https://www.hankyung.com/article/2026081641711",
+                  "eng": "China overtakes Korea in LNG carrier orders, 52 ships vs 37",
+                  "body": "고부가가치 선박인 LNG 운반선 수주에서도 중국이 한국을 앞지르며 조선업 위기감이 커지고 있다."
                 },
                 {
-                  "headline": "코스피 6,800선 회복…삼성전자·SK하이닉스 '쌍두마차' 4거래일 연속 랠리",
-                  "url": "https://www.hankyung.com/",
-                  "eng": "KOSPI reclaims 6,800 as Samsung and SK Hynix rally for a fourth day",
-                  "body": "반도체 대형주 강세에 코스피가 6,800선을 회복했다. 삼성전자 268,000원(+4.89%), SK하이닉스 159만3천원(+5.92%)으로 동반 급등했다."
+                  "headline": "\"中메모리 쓰지 마라\"…美정부, 애플에 제동",
+                  "url": "https://www.hankyung.com/article/2026081641751",
+                  "eng": "US government presses Apple not to use Chinese memory chips",
+                  "body": "미국 정부가 애플에 중국산 메모리 반도체 사용 중단을 요구하며 중국 반도체 견제를 강화했다."
                 }
               ]
             },
@@ -339,16 +345,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "[8·13 부동산대책] 가계대출 30조원 추가 공급…청년·실수요자 핀셋 지원",
-                  "url": "https://www.hankyung.com/economy/",
-                  "eng": "30 trillion won more in household loans, targeted at young and real-demand buyers",
-                  "body": "금융당국이 가계대출 증가 목표치를 1.5%→3%로 상향해 약 30조원의 대출 여력을 확보하고 청년·실수요자에 집중 지원한다."
+                  "headline": "\"코스피 오르니 불안해\"…7000 앞두고 개미 '하락 베팅'",
+                  "url": "https://www.hankyung.com/article/2026081639276",
+                  "eng": "Individual investors bet on a decline as KOSPI nears 7,000",
+                  "body": "코스피가 7,000선에 근접하자 개인투자자들이 오히려 하락에 베팅하며 불안 심리를 드러냈다."
                 },
                 {
-                  "headline": "수도권 23만호+α 공급…신규택지 착공 37개월로 단축",
-                  "url": "https://www.hankyung.com/economy/",
-                  "eng": "230,000+ homes in metro area; new land construction period cut to 37 months",
-                  "body": "정부가 수도권에 23만호 이상을 추가 공급하고 신규 택지 착공 기간을 37개월로 단축해 공급 속도를 높인다."
+                  "headline": "단독 年수익률 20%…변동장에 돌아온 ELS",
+                  "url": "https://www.hankyung.com/article/2026081642091",
+                  "eng": "ELS returns with 20% annual yields amid a volatile market",
+                  "body": "연 수익률 20%대 ELS 상품이 변동성 장세 속에서 다시 인기를 얻고 있다."
                 }
               ]
             },
@@ -356,16 +362,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "빌 게이츠 방한에 원전·SMR株 들썩…테라파워 공급망 국내 기업 수혜",
-                  "url": "https://www.hankyung.com/",
-                  "eng": "Nuclear and SMR stocks jump on Bill Gates' visit as local firms benefit from Terrapower supply chain",
-                  "body": "빌 게이츠의 방한을 계기로 원전·SMR 관련주가 강세다. HD현대중공업·두산에너빌리티 등 테라파워 공급망에 참여한 국내 기업이 수혜주로 꼽힌다."
+                  "headline": "소비둔화 우려에 주요지수 약세…샌디스크는 또 폭등",
+                  "url": "https://www.hankyung.com/article/2026081529647",
+                  "eng": "Major indexes weak on consumer slowdown fears; SanDisk soars again",
+                  "body": "미국 소비 둔화 우려로 주요 지수가 약세를 보인 가운데 샌디스크는 또다시 폭등했다."
                 },
                 {
-                  "headline": "과징금 감면받은 제지업체들, 재활용 원료 의무비율 갈등",
-                  "url": "https://www.hankyung.com/",
-                  "eng": "Paper firms granted fine reductions clash over recycled material mandates",
-                  "body": "과징금을 감면받은 제지업체들을 둘러싸고 재활용 원료 의무 비율을 놓고 업계 갈등이 이어지고 있다."
+                  "headline": "로봇 무장한 中 '제조업 독식'…태국선 매달 100여곳 줄폐업",
+                  "url": "https://www.hankyung.com/article/2026081641521",
+                  "eng": "Robot-armed China dominates manufacturing; 100 Thai firms close monthly",
+                  "body": "로봇 자동화로 무장한 중국의 제조업 독식이 심화하며 태국에서는 매달 100여곳이 폐업하고 있다."
                 }
               ]
             }
@@ -384,16 +390,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "The Jobless Boom Has Arrived",
-                  "url": "https://www.wsj.com/economy/jobs/the-jobless-boom-has-arrived-41361a06",
-                  "eng": "'실업 동반 호황'이 도래했다",
-                  "body": "The economy is booming even as unemployment ticks up, upending long-held assumptions about the labor market."
+                  "headline": "Prosecutors Focus on Four Businesses Tied to Dodgers Owner Mark Walter",
+                  "url": "https://www.wsj.com/finance/prosecutors-focus-on-four-businesses-tied-to-dodgers-owner-mark-walter-965e382b",
+                  "eng": "검찰, 다저스 구단주 마크 월터 연루 기업 4곳에 집중",
+                  "body": "Prosecutors are focusing on four businesses tied to Dodgers owner Mark Walter as part of an ongoing investigation."
                 },
                 {
-                  "headline": "S&P 500 Hits Fresh Record",
-                  "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-13-2026",
-                  "eng": "S&P 500 사상 최고치 경신",
-                  "body": "The S&P 500 notched a fresh record close after cooler-than-expected producer price data eased inflation worries."
+                  "headline": "Stock-Picking Funds Are Performing as Poorly as Ever",
+                  "url": "https://www.wsj.com/finance/investing/stock-picking-funds-are-performing-as-poorly-as-ever-fee28e30",
+                  "eng": "액티브 펀드 수익률, 역대 최악 수준",
+                  "body": "Just 13% of U.S. large-cap funds have outperformed indexes over the past decade, new data show."
                 }
               ]
             },
@@ -401,16 +407,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "White House Press Secretary Karoline Leavitt to Step Down",
-                  "url": "https://www.wsj.com/politics/policy/white-house-press-secretary-karoline-leavitt-to-step-down-c10d534c",
-                  "eng": "백악관 대변인 캐럴라인 레빗 사임",
-                  "body": "Karoline Leavitt, the youngest-ever White House press secretary, will step down after returning from maternity leave."
+                  "headline": "Iran Says Pilots Missing After a Brazen Bombing Run Are Prisoners in Qatar",
+                  "url": "https://www.wsj.com/world/iran-says-pilots-missing-after-a-brazen-bombing-run-are-prisoners-in-qatar-9095fac0",
+                  "eng": "이란, 폭격 후 실종 조종사들이 카타르에 억류됐다고 주장",
+                  "body": "Iran says three crew members whose jets were downed early in the war are held as prisoners in Qatar, which denies the claim."
                 },
                 {
-                  "headline": "FAA Plans Antennas, Communications Fixes After Incident With Helicopter Carrying Trump",
-                  "url": "https://www.wsj.com/business/airlines/faa-plans-antennas-communications-fixes-after-incident-with-helicopter-carrying-trump-e25d7767",
-                  "eng": "트럼프 탑승 헬기 사고 후 FAA, 안테나·통신 개선 추진",
-                  "body": "The FAA plans to add antennas and fix communications after an incident involving a helicopter carrying President Trump."
+                  "headline": "A Millennial Furniture Designer Is Behind the Drones Battering Russia",
+                  "url": "https://www.wsj.com/world/ukraine-fire-point-ceo-iryna-terekh-drones-d93ec97b",
+                  "eng": "가구 디자이너 출신 CEO, 러시아 공격 드론 업체를 이끈다",
+                  "body": "Iryna Terekh, 34, used to design benches. She is now the CEO of Ukraine's largest private defense company."
                 }
               ]
             },
@@ -418,16 +424,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "Asian Markets Climb on AI Enthusiasm as Yields Dip",
-                  "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-13-2026",
-                  "eng": "금리 하락에 AI 훈풍, 아시아 증시 상승",
-                  "body": "Asian stocks advanced on renewed AI enthusiasm as Treasury yields dipped following the soft PPI report."
+                  "headline": "Trump's Ballroom Was His Dream of Beauty and Space. Now It's a 'Military Complex.'",
+                  "url": "https://www.wsj.com/politics/policy/trumps-ballroom-was-his-dream-of-beauty-and-space-now-its-a-military-complex-89a7e230",
+                  "eng": "트럼프 볼룸, '아름다움의 꿈'에서 '군사시설'로",
+                  "body": "As courts questioned the president's authority for the project, he leaned into arguments of national security."
                 },
                 {
-                  "headline": "Chipmakers Lead Rally After Cooler Producer Prices",
-                  "url": "https://www.wsj.com/",
-                  "eng": "생산자물가 둔화에 반도체주 랠리 주도",
-                  "body": "Semiconductor stocks surged, with SanDisk and Micron among the biggest gainers, as inflation fears eased."
+                  "headline": "The 'Country Hicks' Who Refused $26 Million from an AI Data Center",
+                  "url": "https://www.wsj.com/tech/ai/ai-data-center-rural-america-backlash-c0af4e16",
+                  "eng": "AI 데이터센터의 2600만달러 제안을 거절한 '촌뜨기' 모녀",
+                  "body": "A Kentucky mother and daughter turned down a life-changing offer for their farmland, dividing their town."
                 }
               ]
             }
@@ -441,16 +447,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "S&P 500 Hits All-Time High on Inflation Cooldown: Markets Wrap",
-                  "url": "https://www.bloomberg.com/news/articles/2026-08-12/stock-market-today-dow-s-p-live-updates",
-                  "eng": "인플레 둔화에 S&P 500 사상 최고치",
-                  "body": "U.S. stocks rose as cooler-than-expected PPI data eased inflation worries, sending the S&P 500 to an all-time high."
+                  "headline": "Trump Says He's Curtailing Military Drills With South Korea",
+                  "url": "https://www.bloomberg.com/news/articles/2026-08-16/trump-says-he-s-curtailing-military-drills-with-south-korea",
+                  "eng": "트럼프, 한미 군사훈련 축소 지시",
+                  "body": "Donald Trump said in a social post that the drills were costly and sent an 'inappropriate signal' to North Korea."
                 },
                 {
-                  "headline": "AI Earnings Boost Stock Futures; CPI Data Looms",
-                  "url": "https://www.bloomberg.com/news/videos/2026-08-12/bloomberg-brief-08-12-2026-video",
-                  "eng": "AI 실적 호조에 주가지수선물 상승, CPI 발표 대기",
-                  "body": "CoreWeave and Super Micro pushed U.S. stock futures higher as strong forecasts reinvigorated the AI trade ahead of CPI data."
+                  "headline": "Covert Mideast Oil Flows Are Keeping Global Prices in Check",
+                  "url": "https://www.bloomberg.com/news/articles/2026-08-16/covert-mideast-oil-flows-are-keeping-global-prices-in-check",
+                  "eng": "중동 원유의 은밀한 이동이 유가 안정을 지지",
+                  "body": "Incognito crossings of the world's most vital energy chokepoint have become a lifeline for markets bracing for a supply shock."
                 }
               ]
             },
@@ -458,16 +464,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "SEC Delays Crypto Regulation Meeting in Latest Industry Setback",
-                  "url": "https://www.bloomberg.com/news/articles/2026-08-13/sec-delays-crypto-regulation-meeting-in-latest-industry-setback",
-                  "eng": "SEC, 암호화폐 규제 회의 연기…업계 또 한 번 좌절",
-                  "body": "The SEC postponed a key crypto regulation meeting, the latest setback for an industry seeking clearer rules."
+                  "headline": "What Bessent's Economic Isolation of Iran Could Look Like",
+                  "url": "https://www.bloomberg.com/news/articles/2026-08-15/what-bessent-s-economic-isolation-of-iran-could-look-like",
+                  "eng": "베센트의 이란 경제 고립 전략 전망",
+                  "body": "The U.S. and Iran are locked in a war neither knows how to win, with economic isolation emerging as a key front."
                 },
                 {
-                  "headline": "SpaceX Passes First Lockup Expiry Test With $500 Billion Rally",
-                  "url": "https://www.bloomberg.com/news/articles/2026-08-13/spacex-passes-first-lockup-expiry-test-with-500-billion-rally",
-                  "eng": "스페이스X, 첫 락업 해제 시험 통과…5000억달러 랠리",
-                  "body": "SpaceX shares held up after its first lockup expiry, capping a rally that added $500 billion in value."
+                  "headline": "Bond Traders Are Agonizing Over $70 Billion of Shadow Credit Backstops For AI Companies",
+                  "url": "https://www.bloomberg.com/news/articles/2026-08-15/bond-traders-agonize-over-ai-companies-70-billion-of-shadow-credit-backstops",
+                  "eng": "채권 트레이더, AI 기업 700억달러 그림자 신용에 우려",
+                  "body": "Bond traders are agonizing over $70 billion of shadow credit backstops tied to AI companies."
                 }
               ]
             },
@@ -475,16 +481,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "Tyson to Close More Beef Plants as US Cattle Shortage Drags On",
-                  "url": "https://www.bloomberg.com/news/articles/2026-08-13/tyson-to-close-more-beef-plants-as-us-cattle-shortage-drags-on",
-                  "eng": "타이슨, 소 부족 장기화에 육가공 공장 추가 폐쇄",
-                  "body": "Tyson Foods will close more beef plants as a prolonged U.S. cattle shortage squeezes its meat business."
+                  "headline": "Iran and the US Are Trapped In a War Neither Knows How to Win",
+                  "url": "https://www.bloomberg.com/news/articles/2026-08-14/us-iran-war-why-neither-side-knows-how-to-win",
+                  "eng": "미국과 이란, 승리할 수 없는 전쟁에 갇히다",
+                  "body": "As the Iran war drags on, neither Washington nor Tehran has a clear path to victory."
                 },
                 {
-                  "headline": "Workday Jumps After Report Silver Lake in Talks to Buy",
-                  "url": "https://www.bloomberg.com/news/articles/2026-08-13/workday-jumps-after-reuters-reports-silver-lake-in-talks-to-buy",
-                  "eng": "실버레이크 인수설에 워크데이 주가 급등",
-                  "body": "Workday shares jumped after Reuters reported Silver Lake is in talks to acquire the software company."
+                  "headline": "Why Chinese Citizens Are Far More Optimistic About AI Than Americans",
+                  "url": "https://www.bloomberg.com/news/articles/2026-08-14/why-ai-optimism-is-so-much-higher-in-china-than-the-us",
+                  "eng": "중국인이 미국인보다 AI에 훨씬 낙관적인 이유",
+                  "body": "New polling shows Chinese citizens are far more optimistic about AI than their American counterparts."
                 }
               ]
             }
@@ -498,16 +504,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "Homeland Security Paid $464 Million for Airplanes. Then It Parked Them.",
-                  "url": "https://www.nytimes.com/2026/08/13/us/politics/homeland-security-parked-airplanes.html",
-                  "eng": "국토안보부, 4억6400만달러 주고 산 비행기를 방치",
-                  "body": "The agency used a no-bid contract to buy 10 used jets, saying they were urgently needed for deportation flights, then left them parked."
+                  "headline": "The U.S. Military Wants A.I. Dominance. Feuds and China May Thwart It.",
+                  "url": "https://www.nytimes.com/2026/08/16/us/politics/military-ai-china-anthropic.html",
+                  "eng": "미군, AI 패권 원하지만 내분과 중국이 걸림돌",
+                  "body": "The Trump administration is veering wildly in its response to the national security implications of A.I. as China charges ahead."
                 },
                 {
-                  "headline": "Russian Strikes on Dozens of Grain Ships Threaten Global Food Supplies",
-                  "url": "https://www.nytimes.com/2026/08/13/world/europe/russia-ukraine-ports-odesa-cargo-ship-attacks.html",
-                  "eng": "러시아의 곡물선 공격이 세계 식량 공급 위협",
-                  "body": "Russian strikes on grain ships in the Black Sea threaten global food supplies as the maritime battle with Ukraine intensifies."
+                  "headline": "As Iran War Turns Into Economic Battle, New U.S. Strategy Recalls Old Ones",
+                  "url": "https://www.nytimes.com/2026/08/16/world/middleeast/iran-war-us-trump.html",
+                  "eng": "이란전, 경제전으로…미국, 과거 전략 소환",
+                  "body": "The U.S. and Iran are poised to blow past Monday's self-imposed deadline to broker terms on peace and Iran's nuclear program."
                 }
               ]
             },
@@ -515,16 +521,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "Putin Visits Islands Seized from Japan in World War II, Angering Tokyo",
-                  "url": "https://www.nytimes.com/2026/08/13/world/asia/putin-visit-islands-japan-russia.html",
-                  "eng": "푸틴, 2차대전 때 일본에서 빼앗은 섬 방문…도쿄 반발",
-                  "body": "Vladimir Putin visited islands seized from Japan during World War II, drawing sharp protest from Tokyo."
+                  "headline": "Is the Democratic Party Facing Its Own Tea Party Moment?",
+                  "url": "https://www.nytimes.com/2026/08/16/us/politics/democratic-party-tea-party-moment.html",
+                  "eng": "민주당, '티파티 모먼트'를 맞나",
+                  "body": "A string of primary wins by progressive candidates has revealed the strength of a high-energy insurgent movement, and its limits."
                 },
                 {
-                  "headline": "Trump Administration Lets Key Gun Law Lapse Following Court Ruling",
-                  "url": "https://www.nytimes.com/2026/08/13/us/politics/national-firearms-act-gun-control-doj.html",
-                  "eng": "법원 판결 후 트럼프 행정부, 총기법 시효 종료 방치",
-                  "body": "The administration allowed a key gun-control provision to lapse after a court ruling, a win for gun-rights advocates."
+                  "headline": "Hurricane Lala Lashes Hawaii's Big Island but Avoids Landfall",
+                  "url": "https://www.nytimes.com/live/2026/08/16/weather/lala-tropical-storm-hurricane-hawaii",
+                  "eng": "허리케인 랄라, 하와이 빅아일랜드 강타했지만 상륙은 피해",
+                  "body": "The storm brought damaging winds and widespread power outages as its eyewall grazed the Big Island's southern tip."
                 }
               ]
             },
@@ -532,16 +538,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "America Wants to Make Its Own Humanoid Robots. That Won't Be Easy.",
-                  "url": "https://www.nytimes.com/2026/08/13/business/humanoid-robot-us-china.html",
-                  "eng": "미국의 휴머노이드 로봇 자체 생산, 쉽지 않다",
-                  "body": "China already manufactures humanoid robots by the thousands. A new generation of U.S. start-ups is betting there is still time to compete."
+                  "headline": "Trump's Other Hold on the Americas: The Visa",
+                  "url": "https://www.nytimes.com/2026/08/16/world/americas/trump-americas-visas.html",
+                  "eng": "미국의 또 다른 지렛대, 비자",
+                  "body": "As part of its expansionist approach to the Western Hemisphere, the administration is reasserting dominance one U.S. visa at a time."
                 },
                 {
-                  "headline": "Stagflation, the Scourge of the 1970s, Is Back",
-                  "url": "https://www.nytimes.com/2026/08/13/opinion/stagflation-warsh-trump-inflation-economy.html",
-                  "eng": "1970년대 악몽, 스태그플레이션이 돌아왔다",
-                  "body": "Opinion: The combination of stubborn inflation and slowing growth is reviving fears of a return to 1970s-style stagflation."
+                  "headline": "How a False Nuclear Claim About Iran Ricocheted From India to Washington",
+                  "url": "https://www.nytimes.com/2026/08/16/business/iran-nuclear-false-claims.html",
+                  "eng": "이란 핵 관련 허위 주장, 인도에서 워싱턴까지 확산",
+                  "body": "A dubious post that spread on X became the basis of false claims that Iran's leadership had declared the country a nuclear power."
                 }
               ]
             }
@@ -555,16 +561,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "Putin Angers Japan With Visit to Islands Seized by Soviet Union in WWII",
-                  "url": "https://www.washingtonpost.com/world/2026/08/13/putin-angers-japan-with-visit-islands-seized-by-soviet-union-wwii/",
-                  "eng": "푸틴, 소련이 점령한 섬 방문으로 일본 자극",
-                  "body": "President Vladimir Putin's visit to islands seized by the Soviet Union in World War II drew anger from Tokyo."
+                  "headline": "Angry at the Supreme Court, liberals push a slew of plans for overhauling it",
+                  "url": "https://www.washingtonpost.com/politics/2026/08/16/democrats-are-proposing-adding-supreme-court-justices-limiting-their-terms/",
+                  "eng": "대법원에 분노한 진보, 개혁안 봇물",
+                  "body": "As the midterms near, Democrats are proposing to add more justices, limit their terms and more."
                 },
                 {
-                  "headline": "Record El Niño Could Fast-Forward Planet's Temperature by a Decade",
-                  "url": "https://www.washingtonpost.com/weather/2026/08/13/record-el-nio-could-fast-forward-planets-temperature-by-decade/",
-                  "eng": "기록적 엘니뇨, 지구 기온을 10년 앞당길 수도",
-                  "body": "A record-strength El Niño could fast-forward the planet's temperature rise by a decade, scientists warn."
+                  "headline": "Trump says White House needs 'military complex' as courts block his ballroom",
+                  "url": "https://www.washingtonpost.com/politics/2026/08/16/trump-says-white-house-needs-military-complex-courts-block-his-ballroom/",
+                  "eng": "법원이 볼룸 저지하자 트럼프, '군사시설' 필요 주장",
+                  "body": "A court ordered administration officials to halt construction by Aug. 21 unless Congress authorizes the project."
                 }
               ]
             },
@@ -572,16 +578,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "Embattled Trump Ally Farage May Beat Count Binface as Scandal Mars Populist's Image",
-                  "url": "https://www.washingtonpost.com/world/2026/08/13/embattled-trump-ally-farage-may-beat-count-binface-his-troubles-continue/",
-                  "eng": "스캔들 휩싸인 트럼프 우군 패라지, '빈페이스 백작'과 대결",
-                  "body": "Nigel Farage's demanded by-election has turned into a punch line after major parties declined to field candidates."
+                  "headline": "Blanche on whether DOJ will be independent: 'I'm not going to pledge that'",
+                  "url": "https://www.washingtonpost.com/politics/2026/08/16/blanche-whether-doj-will-be-independent-im-not-going-pledge-that/",
+                  "eng": "법무부 독립성에 '약속 못 해'…블랜치 장관",
+                  "body": "The newly sworn-in attorney general rejected the idea of an independent Justice Department and declared the 'anti-weaponization' fund dead."
                 },
                 {
-                  "headline": "$1 Billion Powerball Jackpot Has a Winner",
-                  "url": "https://www.washingtonpost.com/nation/2026/08/13/104-billion-powerball-drawing-finds-winner/",
-                  "eng": "10억달러 파워볼 잭팟, 당첨자 나와",
-                  "body": "A single ticket matched all numbers in the $1 billion Powerball drawing, one of the largest jackpots ever."
+                  "headline": "Navy weighs major warship redesign to match president's aesthetic preferences",
+                  "url": "https://www.washingtonpost.com/national-security/2026/08/15/navy-weighs-major-warship-redesign-match-trumps-preferences/",
+                  "eng": "해군, 대통령 미적 취향 맞춰 함정 재설계 검토",
+                  "body": "President Trump wants new aircraft carriers to more resemble those from World War II, a change that could cost billions."
                 }
               ]
             },
@@ -589,16 +595,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "Zhu Rongji, China Premier Crucial to Economic Transformation, Dies at 97",
-                  "url": "https://www.washingtonpost.com/obituaries/2026/08/12/zhu-rongji-former-china-premier-dies-97/",
-                  "eng": "중국 경제 개혁 주도한 주룽지 전 총리 별세, 향년 97세",
-                  "body": "Zhu Rongji negotiated China's entry into the WTO and pushed through reforms that reshaped its state-directed economy."
+                  "headline": "U.S., Canada aim for deal to avert Trump's threat of 50 percent tariffs",
+                  "url": "https://www.washingtonpost.com/business/2026/08/15/canada-tariffs-trump-deadline/",
+                  "eng": "미·캐나다, 50% 관세 위협 피하려 협상",
+                  "body": "The U.S. and Canada are working toward a deal to avert President Trump's threatened 50 percent tariffs."
                 },
                 {
-                  "headline": "Former Syrian Dictator Bashar al-Assad Is Sentenced to Death in Absentia",
-                  "url": "https://www.washingtonpost.com/world/2026/08/11/former-syrian-dictator-bashar-al-assad-is-sentenced-death-absentia/",
-                  "eng": "시리아 아사드 전 대통령, 궐석재판서 사형 선고",
-                  "body": "Bashar al-Assad, living in exile in Russia since his 2024 ouster, was sentenced for crimes against humanity and war crimes."
+                  "headline": "Tommy John, whose elbow surgery transformed baseball, dies at 83",
+                  "url": "https://www.washingtonpost.com/nation/2026/08/16/tommy-john-whose-elbow-surgery-transformed-baseball-dies-83/",
+                  "eng": "토미 존 수술로 야구를 바꾼 토미 존, 83세로 별세",
+                  "body": "The lefty made four all-star teams; the innovative elbow procedure extended his career to 26 seasons."
                 }
               ]
             }
@@ -612,16 +618,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "US Stocks Close at Record High After Inflation Falls Short of Worst Fears",
-                  "url": "https://www.ft.com/content/2afd5e99-8d1b-4cfd-b83b-e700782ac1d1",
-                  "eng": "인플레 우려 완화에 미국 증시 사상 최고치 마감",
-                  "body": "U.S. stocks closed at a record high after producer price inflation came in below expectations, easing fears of aggressive Fed tightening."
+                  "headline": "Most US voters say they are worse off under Trump — FT poll",
+                  "url": "https://www.ft.com/content/fd40a98d-2a7f-4246-a296-73e956bf03c0",
+                  "eng": "미 유권자 대다수, 트럼프 아래 더 나빠졌다 — FT 여론조사",
+                  "body": "Democrats lead Republicans on the economy just months ahead of the midterm elections, according to an FT poll."
                 },
                 {
-                  "headline": "Ukraine Agrees to Stop Targeting Non-Russian Vessels in the Black Sea",
-                  "url": "https://www.ft.com/content/f1cdce9c-3c14-4300-bb64-473b6ab5a900",
-                  "eng": "우크라이나, 흑해에서 비러시아 선박 공격 중단 합의",
-                  "body": "Ukraine agreed to stop targeting non-Russian vessels in the Black Sea, a step toward easing pressure on global food supply chains."
+                  "headline": "'Capitalism's not working': why Democrats are turning to socialism",
+                  "url": "https://www.ft.com/content/b56a910a-c2b4-41e5-9f8f-18e6fe7b2efd",
+                  "eng": "'자본주의는 실패했다'…사회주의로 기우는 민주당",
+                  "body": "Rising economic discontent is pushing a growing faction of Democrats toward socialist ideas."
                 }
               ]
             },
@@ -629,16 +635,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "Ukraine Calls for Black Sea Grain Deal to Extend to Other Products",
-                  "url": "https://www.ft.com/content/f1cdce9c-3c14-4300-bb64-473b6ab5a900",
-                  "eng": "우크라이나, 흑해 곡물 협정 다른 품목 확대 요구",
-                  "body": "Ukraine has called for the deal easing Russia's blockade of its Black Sea grain exports to be extended to metals and other products."
+                  "headline": "Ukraine presses drone attacks on Moscow and Russian logistics",
+                  "url": "https://www.ft.com/content/a71bcea9-b0eb-4ed2-8bc9-f4dace738e37",
+                  "eng": "우크라이나, 모스크바·러시아 보급망 드론 공세",
+                  "body": "Kyiv launched more than 600 drones at the enemy capital in one of its largest assaults of the summer."
                 },
                 {
-                  "headline": "Buyers Should Beware the Dangers of New ETFs",
-                  "url": "https://www.ft.com/us",
-                  "eng": "새 ETF의 위험성에 주의해야 (FT View)",
-                  "body": "High leverage and insufficient oversight in a wave of new ETFs could amplify risks for investors, the FT warns."
+                  "headline": "Jamie Dimon warns UK chancellor against higher bank taxes",
+                  "url": "https://www.ft.com/content/44c08ae9-f209-4992-8744-cfff430eca07",
+                  "eng": "제이미 다이먼, 영국 은행세 인상 경고",
+                  "body": "The JPMorgan chief's call is part of lobbying by the financial sector ahead of the October Budget."
                 }
               ]
             },
@@ -646,16 +652,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "Eleven People Injured in UK Train Derailment",
-                  "url": "https://www.ft.com/news-feed",
-                  "eng": "영국 열차 탈선 사고로 11명 부상",
-                  "body": "Eleven people were injured in a train derailment in the UK, prompting a transport safety investigation."
+                  "headline": "July inflation decline does not mean Fed's September rise is off the table",
+                  "url": "https://www.ft.com/content/d76aabd7-55a1-43d8-b87a-0f812815a28a",
+                  "eng": "7월 물가 둔화에도 9월 연준 인상 가능성은 여전",
+                  "body": "Cooler July inflation data has not ruled out a Federal Reserve rate move in September, analysts say."
                 },
                 {
-                  "headline": "FBI Seized Phone of Mark Walter",
-                  "url": "https://www.ft.com/news-feed",
-                  "eng": "FBI, 마크 월터 휴대전화 압수",
-                  "body": "The FBI seized the phone of billionaire Mark Walter as part of an ongoing investigation."
+                  "headline": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
+                  "url": "https://www.ft.com/content/32a70a3c-7d28-40b4-808e-36edb58c7d01",
+                  "eng": "중국 AI 부상 속 오픈AI·앤트로픽 가격 경쟁",
+                  "body": "OpenAI and Anthropic are cutting prices as Chinese AI rivals gain ground."
                 }
               ]
             }
