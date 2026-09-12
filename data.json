@@ -1,7 +1,7 @@
 {
-  "date": "2026-09-12",
-  "dateLabel": "2026년 9월 12일(토요일)",
-  "generatedAt": "2026-09-12T07:21:00+09:00",
+  "date": "2026-09-13",
+  "dateLabel": "2026년 9월 13일(일요일)",
+  "generatedAt": "2026-09-13T07:15:44+09:00",
   "ticker": [
     {
       "name": "KOSPI",
@@ -12,7 +12,7 @@
     {
       "name": "KOSDAQ",
       "value": "820.64",
-      "change": "-1.75%",
+      "change": "-1.95%",
       "dir": "dn"
     },
     {
@@ -23,62 +23,50 @@
     },
     {
       "name": "NASDAQ",
-      "value": "",
+      "value": "26,333.04",
       "change": "+0.96%",
       "dir": "up"
     },
     {
-      "name": "다우",
-      "value": "52,836",
-      "change": "+0.98%",
-      "dir": "up"
-    },
-    {
       "name": "브렌트유",
-      "value": "$104.61",
-      "change": "-2.81%",
+      "value": "$103.98",
+      "change": "-3.39%",
       "dir": "dn"
     },
     {
-      "name": "SK하이닉스",
-      "value": "1,785,000원",
-      "change": "-4.10%",
-      "dir": "dn"
-    },
-    {
-      "name": "삼성전자",
-      "value": "259,200원",
-      "change": "-3.72%",
+      "name": "금",
+      "value": "$4,377",
+      "change": "-1.87%",
       "dir": "dn"
     }
   ],
   "keywords": [
     {
-      "label": "① KOSPI 7,000선 붕괴",
-      "desc": "유가 $100↑·국채 5%↑·CPI 삼중충격에 6,909 마감, 외인·기관 동반 매도"
+      "label": "① 9월 FOMC 인상확률 86%",
+      "desc": "8월 근원 CPI 0.3% 상회(예상 상회) → 9/17(목) D-4, '한 차례 인상' 베이스·연내 두 차례 가능성"
     },
     {
-      "label": "② 美 8월 CPI 예상 부합",
-      "desc": "헤드라인 +3.4% 부합, 근원 +0.3% 소폭 상회 — 슈퍼코어 2.8%→3.0%"
+      "label": "② 젠슨황 'AI 보안' 발언",
+      "desc": "사이버보안 이니셔티브 '데이브레이크' — 샌즈랩·엑스게이트·에스피소프트 상한가, 드림시큐리티 23%↑"
     },
     {
-      "label": "③ 9월 인상 확률 87%",
-      "desc": "전일 72%→CPI 후 급등, 9/17 FOMC가 분수령"
+      "label": "③ 유가 롤러코스터",
+      "desc": "Brent 장중 $119→$103, WTI $99.62 — 중동 리스크 vs 수요 둔화 공방, $100선 방어 관건"
     },
     {
-      "label": "④ 유가 $100 진정",
-      "desc": "호르무즈 임시 합의 추진(FT)에 WTI -2.37%, 브렌트 $104.61"
+      "label": "④ KOSPI 7,000선 붕괴",
+      "desc": "6,909.91(-1.76%) 마감, FOMC 불확실성 해소 전까지 6,800~7,050 박스권 예상"
     },
     {
-      "label": "⑤ 오라클 실적 서프라이즈",
-      "desc": "AI 데이터센터 수주 확대 → 시간외 +6% 급등"
+      "label": "⑤ JASMY·STORJ 거래종료",
+      "desc": "Upbit 9/14 15시 거래지원 종료 — 보유 시 오늘·내일 오전 중 정리 필요"
     }
   ],
   "morning": {
-    "date": "2026-09-12",
-    "headline": "코스피 6,909(-1.76%) 7,000선 붕괴…유가·금리·CPI 삼중충격에 외인·기관 동반 매도",
-    "weather": "🌤️ 서울: 흐림, 19°C (체감 19°C), 습도 65%, 바람 4km/h",
-    "schedule": "📅 17:00 금호역인근(Social Network) · 종일 대출금리이자 낮추는 것 요구(미리알림)",
+    "date": "2026-09-13",
+    "headline": "FOMC D-4 인상확률 86%…KOSPI 7,000선 붕괴·유가 롤러코스터 속 'AI 보안株' 폭등",
+    "weather": "💨 미세먼지 · 체감 21°C — 편안한 일요일 보내세요, 형.",
+    "schedule": "📅 일요일 · 특별 일정 없음",
     "domestic": {
       "kospi": {
         "value": "6,909.91",
@@ -87,49 +75,48 @@
       },
       "kosdaq": {
         "value": "820.64",
-        "change": "▼ 14.62",
-        "changeRate": "-1.75%"
+        "change": "▼ 16.32",
+        "changeRate": "-1.95%"
       },
       "supply": {
-        "usdkrw": "",
-        "change": "외국인 2,736억 · 기관 3,574억 순매도 vs 개인 5,440억 순매수"
+        "usdkrw": "1,341.59",
+        "change": "▼ 0.61% (원화 강세)"
       },
-      "comment": "전일 7,051에서 하루 만에 7,000선이 붕괴되며 6,909.91(-1.76%)로 마감했습니다. 미국 국채금리 급등(10년 4.95%)과 유가 $100 돌파가 증시를 직접 강타했고, 외국인과 기관이 동반 매도하며 낙폭을 키웠습니다. 삼성전자(-3.72%)·SK하이닉스(-4.10%)가 지수를 끌어내렸고, 삼성전기(+0.50%)·KB금융(+0.87%) 등 방어주만 선방했습니다."
+      "comment": "9/11(금) 코스피는 6,909.91(-1.76%)로 7,000선이 하루 만에 붕괴되며 마감했습니다. 젠슨황 'AI 다음 핵심은 보안' 발언에 AI 보안주가 폭등(샌즈랩·엑스게이트·에스피소프트 상한가, 드림시큐리티 23%↑)했고, 원/달러는 1,341.59원(-0.61%)으로 원화가 강세를 보였습니다. 삼성전자는 29~30만 원 구간이 강한 저항으로 작용 중이며 차트상 상승 3파 후반부라는 분석이 나옵니다."
     },
     "overseas": {
       "dow": {
-        "value": "52,836",
-        "changeRate": "+0.98%"
+        "value": "",
+        "changeRate": ""
       },
       "sp500": {
         "value": "7,656.98",
         "changeRate": "+0.86%"
       },
       "nasdaq": {
-        "value": "",
+        "value": "26,333.04",
         "changeRate": "+0.96%"
       },
       "oil": {
-        "wti": "$100.05",
-        "brent": "$104.61"
+        "wti": "$99.62",
+        "brent": "$103.98"
       },
-      "keyStocks": "CPI 안도와 유가 하락에 3대 지수 일제 반등(다우 +0.98%·S&P +0.86%·나스닥 +0.96%). 오라클은 AI 데이터센터 수주 확대에 시간외 +6% 급등. 美 10년물 금리 4.92~4.98%로 3년來 최고 유지. 연준 9월 인상 확률 87%까지 급등(전일 72%)."
+      "keyStocks": "유가 급락(+6%→▼3%)에 5거래일 만에 3대 지수 반등(S&P +0.86%·나스닥 +0.96%). 금은 $4,377(-1.87%) 하락. Brent 장중 $119→$103 롤러코스터, WTI $99.62 — 중동 리스크 vs 글로벌 수요 둔화 공방. S&P 연초 대비 +12.72%, 이번 주 -0.8%."
     },
-    "topNews": "코스피 6,909(-1.76%) 7,000선 붕괴…유가·금리·CPI 삼중충격에 외인·기관 동반 매도",
+    "topNews": "FOMC D-4 인상확률 86%…KOSPI 7,000선 붕괴·유가 롤러코스터 속 'AI 보안株' 폭등",
     "otherNews": [
-      "유가·금리 더블펀치 — WTI $100 돌파 후 호르무즈 협상 소식에 -2.37% 조정, 브렌트 $104.61",
-      "사우디 동서파이프라인 펌프장 피격 — 후티·이라크 드론 공격, 700만 배럴 영향권·사우디 생산 30년來 최저(600만bpd)",
-      "후티, 바브엘만데브 해협 페림섬 점령 — 해상 물류 추가 압박",
-      "8월 CPI 전년比 +3.4% 예상 부합…근원 CPI +0.3% 소폭 상회, 연준 인상 확률 87%로 급등",
-      "오라클 분기 실적 서프라이즈 + AI 데이터센터 수주 확대 → 시간외 +6%",
-      "아이폰 듀오(폴더블) $1,999 출시 — 존 터너스 CEO 데뷔, 10/23 한국 출시",
-      "미 디젤 $6/gallon 첫 돌파 — 중동전·러 정유공장 타격 영향"
+      "9월 FOMC 인상확률 86% 급등 — 8월 근원 CPI 0.3% 상회(예상 상회), 9/17(목) D-4, 연내 두 차례 가능성도",
+      "젠슨황 'AI 다음 핵심 시장은 보안' — 사이버보안 이니셔티브 '데이브레이크', 에스투더블유 오픈AI Daybreak 파트너 참여",
+      "AI 보안주 폭등 — 샌즈랩·엑스게이트·에스피소프트 상한가, 드림시큐리티 23%↑",
+      "유가 롤러코스터 — 9/11 Brent 장중 $119→$103, 9/12 $109→$103, WTI $99.62",
+      "비트코인 $78~79K 근방 — 점진적 회복, 전주 대비 보합",
+      "삼성전자 29~30만 원 강한 저항 — 차트상 상승 3파 후반부"
     ],
     "email": {
       "google": "",
-      "note": "AIA생명 보험료 미납(납입최고) 안내 — 확인 요망 · Slack AX test 평가판 7일 후 종료 · Upbit JASMY·STORJ 거래지원 종료(9/14)"
+      "note": "Apple 영수증(구매내역 확인) · Harvard Online AI 코스 신규 안내 · Instagram gonggan.oktop 읽지 않은 메시지 · Citibank 환율정보서비스 · Upbit JASMY·STORJ 거래지원 종료(9/14 15시) · 한국투자증권 주식거래 제도변경 안내"
     },
-    "insight": "📉 KOSPI 7,000선 붕괴 — 유가·금리·CPI 삼중충격 현실화\n\n전일까지 7,000선을 간신히 수성했지만 9/11엔 결국 무너졌습니다(6,909 마감). 유가 쇼크(WTI $100↑)와 금리 급등(10년 4.95%)이 증시를 직접 강타했고, 외국인·기관 동반 매도로 낙폭이 확대됐습니다. 삼성전자(-3.72%)·SK하이닉스(-4.10%)가 지수를 끌어내렸습니다.\n\n🛢️ CPI '안도' vs '매파' 해석 엇갈려\n8월 CPI는 표면적으론 예상 부합(+3.4%)으로 안도랠리가 나왔지만, 근원 CPI가 +0.3%로 컨센서스(+0.2%)를 웃돌았고 연준 9월 인상 확률은 87%까지 치솟았습니다. 실질 안도 요인은 유가가 호르무즈 협상 소식에 하루 만에 2~3% 진정된 점(WTI $100.05, -2.37%)입니다.\n\n⚡ 근본 리스크는 여전\n사우디 동서파이프라인 피격(700만bpd)·사우디 생산 30년 최저(600만bpd)·후티의 바브엘만데브 페림섬 점령 등 공급 차질은 확대 중입니다. 주말 사이 추가 악재가 터지면 월요일 개장에 직접 충격이 될 수 있습니다.\n\n📅 다음 주 FOMC(9/17)가 분수령\n87%의 인상 확률을 뒤집을 변수는 유가 급락이나 고용쇼크뿐인데 둘 다 가능성이 낮습니다. 관건은 연준이 '25bp 인상+일회성 시그널'을 줄지, '인상+추가 가능성'을 열어둘지입니다. 전자면 제한적 안도, 후자면 추가 하락이 예상됩니다.\n\n💼 형의 오늘\n토요일. 오후 5시 금호역인근 Social Network 일정이 있고, '대출금리이자 낮추는 것 요구' 미리알림과 AIA 보험료 미납 안내 메일을 확인해보세요."
+    "insight": "📅 이번 주 핵심은 FOMC(9/17 목)와 유가 방향성\n\n1. FOMC D-4 — CPI로 인상 확률 86%까지 올랐지만 시장은 이미 상당 부분 반영한 상태. 인상 발표 자체보다 파월(워시) 의장의 기자회견 톤(매파 추가 vs 동결 시그널)이 변수. '매파적 인상' vs '비둘기적 인상' — 이 차이가 주 후반 방향을 가름.\n\n2. 유가 롤러코스터 — 9/11 Brent 장중 $119→$103, 9/12 $109→$103. 중동 불확실성은 여전하지만 $100선 방어가 관건. FOMC 전 유가 안정 여부가 증시 변동성 축소의 전제 조건.\n\n3. KOSPI 7,000선 재탈환 여부 — 6,909에서 반등 트리거 필요. FOMC 불확실성 해소(목) 전까지 6,800~7,050 박스권 등락 예상. AI 보안주 테마는 단기 모멘텀이지만 지수 전체를 견인하긴 어려움.\n\n4. JASMY·STORJ — 내일(9/14) 거래종료. 보유 중이라면 오늘·내일 오전 중 정리 필요.\n\n📌 관전 포인트: ①FOMC(9/17) ②유가 ③KOSPI 7,000 회복 ④삼성전자 30만 저항 돌파"
   },
   "sections": {
     "kor": {
@@ -143,22 +130,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "[뉴스&분석] 유가 110弗·국채 5% '더블펀치' 공포",
-                  "url": "https://www.mk.co.kr/news/world/12150881",
-                  "eng": "Oil at $110 and 5% bond yields deliver a 'double punch'",
-                  "body": "美 10년물 금리 4.97%로 5% 턱밑, 브렌트유는 장중 109달러까지 치솟고 30년물 금리도 19년來 최고를 기록했다. 8월 CPI 3.4%로 고물가가 여전해 금융시장 위기론이 고개를 든다."
+                  "headline": "코스피 7,000선 붕괴…유가·금리 '더블펀치'에 6,909 마감",
+                  "url": "https://www.mk.co.kr/news/stock/",
+                  "eng": "KOSPI breaks below 7,000 as oil and rate fears deepen",
+                  "body": "9/11 코스피가 6,909.91(-1.76%)로 마감하며 7,000선이 붕괴됐다. 8월 근원 CPI 상회로 FOMC 인상 확률이 86%까지 치솟았고, 유가 변동성이 지수를 짓눌렀다."
                 },
                 {
-                  "headline": "삼성E&A, 4.7조원 사우디 플랜트 수주 '잭팟'",
-                  "url": "https://www.mk.co.kr/news/realestate/12150717",
-                  "eng": "Samsung E&A lands record 4.7tn-won Saudi plant order",
-                  "body": "비료 생산설비로 2030년 완공 예정. 올해 해외건설 단일수주 최대 규모로, 중동 리스크 속에서도 국내 건설사의 기술 수주 역량을 확인시켰다."
-                },
-                {
-                  "headline": "KB금융 차기회장 후보 이재근",
-                  "url": "https://www.mk.co.kr/news/economy/12150718",
-                  "eng": "KB Financial taps Lee Jae-keun as next chairman candidate",
-                  "body": "회장추천위원회가 이재근 부문장을 최종 낙점했다. 양종희 회장의 연임 실패가 '이변'으로 평가되며 세대교체 흐름이 본격화하고 있다."
+                  "headline": "러트닉 \"한국은 조건 받아들이거나 관세\"…대미 투자 3500억弗 협상 압박",
+                  "url": "https://www.mk.co.kr/news/society/11418233",
+                  "eng": "Lutnick: Korea must accept terms or face tariffs",
+                  "body": "하워드 러트닉 미 상무장관이 대미 투자 3500억달러를 조건으로 관세율 협상을 압박했다. 매경이 전하는 세상의 지식(9월 13일)에서 다뤘다."
                 }
               ]
             },
@@ -166,16 +147,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "해킹·감시는 기본, 생화학 무기 개발까지…앤트로픽이 밝힌 'AI 디스토피아'",
-                  "url": "https://www.mk.co.kr/news/it/12150640",
-                  "eng": "Anthropic reveals 'AI dystopia' in Claude abuse report",
-                  "body": "자사 AI '클로드' 악용 사례 리포트를 공개했다. 중국 AI기업의 무단 사용, 민간인 CCTV 감시자료 유출, 신원 미상 군 연구소 과학자의 바이러스 연구 등이 적발됐고 위험 계정을 차단했다."
+                  "headline": "'구형 반도체라 무시했는데 주문 2배 폭주'…한 달 새 21% 뛴 DB하이텍",
+                  "url": "https://www.mk.co.kr/news/stock/12151057",
+                  "eng": "DB HiTek surges 21% in a month on chip order surge",
+                  "body": "구형 반도체로 분류됐던 DB하이텍이 주문 폭주로 한 달 새 21% 급등했다. AI 수요가 성숙 공정 반도체까지 확산하는 양상이다."
                 },
                 {
-                  "headline": "'아스트라' 수요 폭증에…오픈AI '月200달러 구독' 가입 일시 중단",
-                  "url": "https://www.mk.co.kr/news/it/12150639",
-                  "eng": "OpenAI suspends $200/month 'Astra' signups on demand surge",
-                  "body": "서버가 감당 못 할 정도로 인기를 끌면서 고가 구독 신규 가입을 일시 중단했다. 오픈AI는 'AGI 시대의 시작'이라고 밝혔다."
+                  "headline": "무역수지 104억달러 흑자…반도체 수출 165억달러 '폭등'",
+                  "url": "https://www.mk.co.kr/news/society/12150706",
+                  "eng": "Trade surplus hits $10.4bn as chip exports surge",
+                  "body": "반도체 수출이 165억달러로 급증하며 열흘 만에 무역수지 104억달러 흑자를 기록했다."
                 }
               ]
             },
@@ -183,16 +164,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "불붙은 중동에 긴축 가속…6500~7000 '박스피' 갇힌 코스피",
-                  "url": "https://www.mk.co.kr/news/stock/12150655",
-                  "eng": "KOSPI trapped in 6,500-7,000 range as Middle East and tightening bite",
-                  "body": "글로벌 거시경제 불안에 코스피가 7,000선을 재이탈했다. 전쟁發 유가급등과 금리 부채질이 겹쳤고 이달 FOMC가 최대 변수다. 8월 근원 CPI 전월比 0.3%↑, 美 이달 금리인상 확률은 88%로 올랐다. 반도체의 탄탄한 실적이 버팀목이다."
+                  "headline": "'9월에도 조정 올 듯'…위험자산 40%·안정자산 60% 전략",
+                  "url": "https://www.mk.co.kr/news/stock/12138407",
+                  "eng": "Analysts brace for September correction, favor defensive mix",
+                  "body": "NH투자증권 분석가들은 9월 증시 조정 가능성을 경고하며 위험자산 40%·안정자산 60%의 방어적 배분을 제안했다. ETF 일일 거래대금은 21조9000억원을 기록했다."
                 },
                 {
-                  "headline": "'나홀로 자영업' 430만명…변동금리 대출이 66%",
-                  "url": "https://www.mk.co.kr/news/economy/12150654",
-                  "eng": "4.3 million solo self-employed, 66% on variable-rate loans",
-                  "body": "금리·유가 급등이 서민경제를 직격하고 있다. 나홀로 자영업자 430만명 중 66%가 변동금리 대출을 안고 있어 금리 상승에 취약한 구조다."
+                  "headline": "젠슨황 'AI 보안' 발언에 AI 보안주 상한가 — 샌즈랩·엑스게이트·에스피소프트",
+                  "url": "https://www.mk.co.kr/news/stock/",
+                  "eng": "AI security stocks hit limit-up on Huang's remarks",
+                  "body": "젠슨황의 'AI 다음 핵심은 보안' 발언에 국내 AI 보안주가 일제 급등했다. 샌즈랩·엑스게이트·에스피소프트가 상한가, 드림시큐리티는 23% 상승했다."
                 }
               ]
             }
@@ -206,16 +187,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "중동발 경제위기 현실화…유가·금리 급등에 서민 물가 '비상등'",
+                  "headline": "중동발 경제위기 현실화…유가 롤러코스터에 서민 물가 '비상등'",
                   "url": "https://www.khan.co.kr/economy",
                   "eng": "Middle East-driven economic crisis hits household prices",
-                  "body": "후티의 사우디 원유 인프라 공격과 호르무즈 긴장으로 유가가 $100을 넘고 국채금리가 치솟으면서 에너지·서민 물가에 비상이 걸렸다."
+                  "body": "후티의 홍해 장악과 호르무즈 긴장으로 Brent가 장중 119달러까지 치솟는 등 유가가 롤러코스터를 타면서 서민 물가에 비상이 걸렸다."
                 },
                 {
-                  "headline": "이재명 대통령 지지율 7%P 급락…8·30 개각 역풍",
-                  "url": "https://www.khan.co.kr/politics",
-                  "eng": "President Lee's approval dives 7 points after cabinet reshuffle",
-                  "body": "NBS(9월 7~9일) 조사에서 긍정평가가 43%로 직전 조사 대비 7%포인트 하락했다. 내각 인선과 부동산 민심 악화가 발목을 잡았다."
+                  "headline": "종합 특검·부동산대책 후폭풍…정국 격랑 속 네팔 대홍수 지원 확대",
+                  "url": "https://www.khan.co.kr/",
+                  "eng": "Special counsel probe and housing fallout dominate the news",
+                  "body": "경향신문 9/13자 주요 이슈로 종합 특검, 부동산대책 후폭풍, 네팔 대홍수 등이 포진했다. 집중호우로 네팔 사망자가 급증하며 국제사회 지원이 확대되고 있다."
                 }
               ]
             },
@@ -223,10 +204,10 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "[사설] 심상치 않은 글로벌 국채금리 급등세, 한국 경제 방어망 점검해야",
-                  "url": "https://www.khan.co.kr/article/202609021825011",
-                  "eng": "Editorial: Check Korea's defenses against global bond-yield surge",
-                  "body": "미국발 국채금리 상승이 주요국으로 번지고 있다. 한계차주와 취약기업의 금리 부담, 외화 건전성을 꼼꼼히 점검하고 재정 건전성에 대한 시장 신뢰를 확보해야 한다."
+                  "headline": "[사설] 9월 FOMC 앞두고 한국 경제 방어망 점검해야",
+                  "url": "https://www.khan.co.kr/opinion",
+                  "eng": "Editorial: Check Korea's defenses ahead of the Fed decision",
+                  "body": "미국발 금리인상 가능성(86%)과 유가 급등이 겹치며 한계차주와 취약기업의 부담이 커지고 있다. 재정 건전성과 외화 유동성을 점검해야 한다는 사설."
                 },
                 {
                   "headline": "부동산대책 후폭풍…아파트 거래 '절벽' 심화",
@@ -240,16 +221,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "[김용민의 그림마당] 2026년 09월 12일",
-                  "url": "https://www.khan.co.kr/article/202609122115005",
-                  "eng": "Kim Yong-min's editorial cartoon, September 12, 2026",
-                  "body": "경향신문 김용민 화백의 시사만평. 이날은 유가·금리 급등과 중동 정세 등 화제를 다뤘다."
+                  "headline": "2026 아시안게임 개막 임박…대표팀 결단식",
+                  "url": "https://www.khan.co.kr/sports",
+                  "eng": "Asian Games on the horizon as teams finalize rosters",
+                  "body": "2026 아시안게임 개막이 임박한 가운데 대한민국 선수단이 결단식을 갖고 필승 의지를 다졌다."
                 },
                 {
-                  "headline": "[경제직필] 주가에 대한 정치적 책임",
-                  "url": "https://www.khan.co.kr/article/202608252002015",
-                  "eng": "Column: Political responsibility for the stock market",
-                  "body": "코스피가 급등락을 반복하는 가운데, 증시 안정을 위한 정치적·정책적 책임을 짚는 칼럼."
+                  "headline": "[김용민의 그림마당] 2026년 9월 13일",
+                  "url": "https://www.khan.co.kr/article/202609132115005",
+                  "eng": "Kim Yong-min's editorial cartoon, September 13, 2026",
+                  "body": "경향신문 김용민 화백의 시사만평. 유가·금리 급등과 FOMC, 중동 정세를 다뤘다."
                 }
               ]
             }
@@ -263,16 +244,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "코스피 6,909 마감…유가·금리 공포에 7,000선 붕괴",
+                  "headline": "코스피 6,909 마감…7,000선 붕괴에 'FOMC D-4' 경계감 확산",
                   "url": "https://www.donga.com/news/Economy/",
-                  "eng": "KOSPI ends at 6,909 as oil and rate fears break 7,000",
-                  "body": "미국과 이란의 중동 충돌이 이어지는 가운데 국제유가가 100달러를 돌파하고 인플레이션 우려가 재점화되면서 위험자산 투자심리가 위축됐다."
+                  "eng": "KOSPI ends at 6,909 as FOMC looms",
+                  "body": "9/11 코스피가 6,909.91(-1.76%)로 마감하며 7,000선을 내줬다. 9/17 FOMC를 앞두고 인상 확률이 86%까지 오르며 경계감이 확산되고 있다."
                 },
                 {
-                  "headline": "호르무즈 충돌 지속…국제유가 100달러 재돌파",
-                  "url": "https://www.donga.com/news/Inter/",
-                  "eng": "Hormuz clashes push oil back above $100",
-                  "body": "중동전 격화로 WTI가 100달러를 재돌파하고 브렌트유는 104달러대를 기록했다. 호르무즈 해협을 둘러싼 미·이란 충돌이 물류와 공급망에 압박을 가하고 있다."
+                  "headline": "김승원 \"李 사건 처리, 檢 중립성 지키게 철저히 지휘하겠다\"",
+                  "url": "https://www.donga.com/news/Politics/",
+                  "eng": "Justice minister nominee vows neutrality in Lee probe",
+                  "body": "김승원 법무장관 후보자가 이재명 대통령 사건 처리와 관련해 검찰 중립성을 지키도록 철저히 지휘하겠다고 밝혔다. 용혜인 후보자 청문회 시한은 22일로 정해졌다."
                 }
               ]
             },
@@ -280,16 +261,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "[지표로 보는 경제] 9월 12일",
-                  "url": "https://www.donga.com/news/Economy/article/all/20260911/134653338/2",
-                  "eng": "Economy in indicators, September 12",
-                  "body": "동아일보가 주요 경제 지표와 일정을 정리해 제공하는 코너."
+                  "headline": "[지표로 보는 경제] 9월 13일",
+                  "url": "https://www.donga.com/news/Economy/article/all/20260912/",
+                  "eng": "Economy in indicators, September 13",
+                  "body": "동아일보가 주요 경제 지표와 일정을 정리해 제공하는 코너. FOMC(9/17)와 유가 동향이 핵심 지표로 제시됐다."
                 },
                 {
-                  "headline": "김승원·용혜인 인선 논란…지지율 43%로 하락",
-                  "url": "https://www.donga.com/news/Politics/article/all/20260910/134641837/2",
-                  "eng": "Cabinet pick controversy drags approval to 43%",
-                  "body": "NBS 조사에서 '김승원 인선 잘못' 47%, '용혜인 잘못' 63%로 부정 여론이 우세했다. 이 대통령 국정운영 긍정평가는 43%, 부정평가는 48%로 나타났다."
+                  "headline": "핀란드가 '유럽의 텍사스'가 된 이유…녹슨 제지공장이 AI 팩토리로",
+                  "url": "https://www.donga.com/news/Series/70010000001020",
+                  "eng": "How Finland became 'Europe's Texas' for AI data centers",
+                  "body": "요즘 '유럽의 AI 데이터센터 허브'로 급부상 중인 핀란드를 딥다이브했다. 녹슨 제지공장이 AI 팩토리로 변신하며 전력·냉각 인프라가 주목받고 있다."
                 }
               ]
             },
@@ -297,16 +278,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "美연준, 9월 FOMC '인상 vs 동결' 팽팽…CPI가 마지막 퍼즐",
+                  "headline": "美연준 9월 FOMC '인상 vs 동결'…CPI가 마지막 퍼즐",
                   "url": "https://www.donga.com/news/Inter/",
                   "eng": "Fed's September FOMC: hike or hold hangs on CPI",
-                  "body": "8월 CPI가 예상에 부합하면서 시장은 안도했지만 근원 물가가 소폭 웃돌아 9월 금리인상 확률은 87%까지 올랐다. 9/17 FOMC가 분수령이다."
+                  "body": "8월 근원 CPI가 0.3%로 예상을 웃돌며 9월 금리인상 확률이 86%까지 올랐다. 9/17 FOMC가 분수령이다."
                 },
                 {
-                  "headline": "네팔 대홍수 사망자 급증…국제사회 지원 확대",
-                  "url": "https://www.donga.com/news/Inter/",
-                  "eng": "Nepal flood death toll climbs as global aid expands",
-                  "body": "집중호우로 네팔에서 대규모 홍수가 발생해 사망자가 급증하고 있다. 국제사회가 긴급 구호 지원을 확대하고 있다."
+                  "headline": "젠슨황 'AI 다음은 보안'…사이버보안 이니셔티브 '데이브레이크'",
+                  "url": "https://www.donga.com/news/Economy/",
+                  "eng": "Huang calls cybersecurity AI's next big market",
+                  "body": "젠슨황이 AI의 다음 핵심 시장으로 보안을 지목하며 사이버보안 이니셔티브 '데이브레이크'를 공개했다. 에스투더블유가 오픈AI Daybreak 파트너 생태계에 참여했다."
                 }
               ]
             }
@@ -320,16 +301,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "코스피, 유가·금리 공포 속 낙폭 줄여 6900선 마감",
-                  "url": "https://www.hankyung.com/article/2026091192816",
-                  "eng": "KOSPI pares losses to close at 6,900 on oil and rate fears",
-                  "body": "브렌트유에 이어 WTI도 100달러를 돌파하고 미국채 10년물 금리가 5% 턱밑에 근접했다. 외인·기관 동반 매도에 1% 넘게 하락했으나 기타법인 매수와 반도체 수출 호조가 하방을 지지했다."
+                  "headline": "코스피 7,000선 붕괴…FOMC D-4, 시장 '숨고르기'",
+                  "url": "https://www.hankyung.com/finance",
+                  "eng": "KOSPI breaks 7,000 as market turns cautious before FOMC",
+                  "body": "9/11 코스피가 6,909.91(-1.76%)로 7,000선이 붕괴됐다. 9/17 FOMC를 앞두고 인상 확률이 86%로 급등하며 관망세가 짙어지고 있다."
                 },
                 {
-                  "headline": "브렌트유 이어 WTI도 100달러 돌파…10년물 금리 5% '턱밑'",
-                  "url": "https://www.hankyung.com/economy",
-                  "eng": "WTI tops $100 after Brent; 10-year yield nears 5%",
-                  "body": "미 8월 CPI 발표를 앞둔 경계감까지 더해져 매크로 우려가 정점을 찍었다. 국고채 3년물 금리도 장중 4%를 넘어섰다."
+                  "headline": "젠슨황 'AI 보안' 발언에 샌즈랩·엑스게이트 상한가",
+                  "url": "https://www.hankyung.com/finance",
+                  "eng": "AI security stocks surge on Huang's cybersecurity call",
+                  "body": "젠슨황의 'AI 다음 핵심은 보안' 발언에 AI 보안주가 폭등했다. 샌즈랩·엑스게이트·에스피소프트가 상한가를 기록했다."
                 }
               ]
             },
@@ -337,16 +318,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "AI수요 급증에 HDD까지 '금값'…SSD 품귀에 대체 수요 폭발",
-                  "url": "https://www.hankyung.com/tech",
-                  "eng": "HDD prices soar as AI demand and SSD shortage spark substitution",
-                  "body": "SSD 품귀가 이어지면서 그간 밀려났던 HDD까지 대체 수요가 몰려 가격이 급등하고 있다. AI 데이터센터 수요가 저장장치 시장 전반으로 번지는 양상이다."
+                  "headline": "유가 롤러코스터…Brent 장중 $119→$103, WTI $99.62",
+                  "url": "https://www.hankyung.com/economy",
+                  "eng": "Oil roller coaster: Brent swings from $119 to $103",
+                  "body": "중동 리스크와 글로벌 수요 둔화 공방 속 국제유가가 급등락을 반복했다. Brent는 장중 119달러까지 치솟았다가 103달러로 되밀렸다."
                 },
                 {
-                  "headline": "구로·동대문도 월세 400만원…상가·오피스 임대료 급등",
-                  "url": "https://www.hankyung.com/realestate",
-                  "eng": "Monthly rent hits 4 million won in Guro and Dongdaemun",
-                  "body": "비핵심 상권까지 월세 400만원 시대가 도래했다. 임대료 급등이 소상공인 부담을 키우고 있다."
+                  "headline": "삼성전자 29~30만 원 강한 저항…'상승 3파 후반부' 진단",
+                  "url": "https://www.hankyung.com/finance",
+                  "eng": "Samsung Electronics faces stiff resistance at 290,000-300,000 won",
+                  "body": "차트 분석가들은 삼성전자가 29~30만 원 구간에서 강한 저항에 직면했으며 상승 3파 후반부에 있다고 진단했다."
                 }
               ]
             },
@@ -354,16 +335,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "반도체 수출 270% 급증…삼성전자·하이닉스 하방 지지",
-                  "url": "https://www.hankyung.com/finance",
-                  "eng": "Chip exports surge 270%, cushioning Samsung and Hynix",
-                  "body": "이달 1~10일 반도체 수출이 165억달러로 1년 전보다 270% 급증했다. 삼성전자(-3.53%)·SK하이닉스(-2.21%)가 낙폭을 일부 되돌리며 마감했다."
+                  "headline": "Upbit, JASMY·STORJ 거래지원 종료…9/14 15시",
+                  "url": "https://www.hankyung.com/economy",
+                  "eng": "Upbit to end support for JASMY and STORJ on Sept 14",
+                  "body": "업비트가 JASMY·STORJ의 거래지원을 9/14 15시 종료한다. 보유 투자자는 기한 내 정리가 필요하다."
                 },
                 {
-                  "headline": "美 8월 CPI 발표 앞두고 경계감 확산…시장 '숨고르기'",
-                  "url": "https://www.hankyung.com/economy",
-                  "eng": "Markets turn cautious ahead of August CPI",
-                  "body": "예상치를 웃돈 근원 CPI에 9월 금리인상 확률이 급등하면서 시장의 경계심리가 커졌다. FOMC를 앞두고 관망세가 짙어지는 모습이다."
+                  "headline": "한국투자증권, 주식거래 제도변경 안내",
+                  "url": "https://www.hankyung.com/finance",
+                  "eng": "Korea Investment & Securities announces trading rule changes",
+                  "body": "한국투자증권이 주식거래 제도변경 사항을 투자자들에게 안내했다. 이메일로 발송된 제도변경 내용을 확인할 필요가 있다."
                 }
               ]
             }
@@ -382,16 +363,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "Oil Falls Amid Prospects for Reopening of Strait of Hormuz",
-                  "url": "https://www.wsj.com/business/energy-oil/oil-markets-hormuz-us-iran-deal-cf79ca70",
-                  "eng": "Oil Falls Amid Prospects for Reopening of Strait of Hormuz",
-                  "body": "Crude prices retreated as diplomats pursued a provisional agreement on transit through the Strait of Hormuz, easing fears of a prolonged supply disruption."
+                  "headline": "Firm Inflation Reading Pushes Fed Closer to a Rate Increase",
+                  "url": "https://www.wsj.com/economy/cpi-inflation-report-august-2026-e2b1e5e7",
+                  "eng": "Firm Inflation Reading Pushes Fed Closer to a Rate Increase",
+                  "body": "The Fed is now widely expected to raise rates next week after August core inflation rose 0.3%, above forecasts. Traders put the odds of a September hike at 87%."
                 },
                 {
-                  "headline": "Iran Says It Is Pausing Talks After Trump Threats",
-                  "url": "https://www.wsj.com/world/middle-east/war-in-lebanon-casts-shadow-over-renewed-iran-u-s-nuclear-talks-f457c7e9",
-                  "eng": "Iran Says It Is Pausing Talks After Trump Threats",
-                  "body": "Tehran said it was suspending negotiations after fresh threats from Washington, clouding prospects for a diplomatic off-ramp to the war."
+                  "headline": "South Korea Nears Agreement on Billions in U.S. Investments, a Win for Trump",
+                  "url": "https://www.wsj.com/world/asia/south-korea-nears-agreement-on-billions-in-u-s-investments-a-win-for-trump-2b58dc4a",
+                  "eng": "South Korea Nears Agreement on Billions in U.S. Investments",
+                  "body": "The potential deals, which could include large investments in nuclear energy, are part of last year's U.S.-South Korea trade deal."
                 }
               ]
             },
@@ -399,16 +380,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "Russia Faces Spreading Fuel Shortages After Ukrainian Drones Pummel Refineries",
-                  "url": "https://www.wsj.com/world/russia-faces-spreading-fuel-shortages-after-ukrainian-drones-pummel-refineries-60e96bc0",
-                  "eng": "Russia Faces Spreading Fuel Shortages After Ukrainian Drone Strikes",
-                  "body": "Ukrainian drone attacks on refineries are squeezing Russian fuel supplies, adding another strain to global energy markets already roiled by the Iran war."
+                  "headline": "The Fed Is Poised to Raise Interest Rates for the First Time in Years",
+                  "url": "https://www.wsj.com/economy/central-banking/the-fed-is-poised-to-raise-interest-rates-for-the-first-time-in-years-b9629772",
+                  "eng": "The Fed Is Poised to Raise Interest Rates for the First Time in Years",
+                  "body": "Interest-rate futures imply about an 85% chance the central bank will raise rates by a quarter point next week."
                 },
                 {
-                  "headline": "Gold, Silver Rise on Hopes for U.S.-Iran Deal",
-                  "url": "https://www.wsj.com/finance/commodities-futures/gold-silver-rise-on-hopes-for-u-s-iran-deal-1ffacfe6",
-                  "eng": "Gold, Silver Rise on Hopes for U.S.-Iran Deal",
-                  "body": "Precious metals climbed as investors weighed a potential U.S.-Iran agreement that could calm Middle East tensions."
+                  "headline": "How Wall Street Sussed Out That Situational Awareness Was On the Ropes",
+                  "url": "https://www.wsj.com/finance/investing/how-wall-street-sussed-out-that-situational-awareness-was-on-the-ropes-6aa8b39d",
+                  "eng": "How Wall Street Sussed Out That Situational Awareness Was On the Ropes",
+                  "body": "From whispers of an Anthropic stake sale to strange options moves, traders sensed trouble at the AI startup and swung into action."
                 }
               ]
             },
@@ -416,16 +397,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "Trump Says a Deal for Talks With Iran to End War Is Near Finalization",
-                  "url": "https://www.wsj.com/world/middle-east/trump-announces-near-finalization-of-deal-to-end-iran-war-8244e2f6",
-                  "eng": "Trump Says a Deal for Talks With Iran Is Near Finalization",
-                  "body": "The president said an agreement to open talks aimed at ending the war is close to completion, though aides privately brace for a longer fight."
+                  "headline": "Risk Report: How Chinese AI Firms Tried to Clone U.S. Models",
+                  "url": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-how-chinese-ai-firms-tried-to-clone-u-s-ai-models-32b77c8f",
+                  "eng": "Risk Report: How Chinese AI Firms Tried to Clone U.S. Models",
+                  "body": "Chinese AI firms have attempted to replicate American models, adding to concerns over intellectual property and security."
                 },
                 {
-                  "headline": "All the Money Flooding Into AI Is a Giant Warning Sign",
-                  "url": "https://www.wsj.com/finance/all-the-money-flooding-into-ai-is-a-giant-warning-sign",
-                  "eng": "All the Money Flooding Into AI Is a Giant Warning Sign",
-                  "body": "The scale of capital pouring into AI is raising concerns among analysts about overinvestment and a potential bubble."
+                  "headline": "America's Great AI Freakout Has Begun",
+                  "url": "https://www.wsj.com/tech/ai/americas-great-ai-freakout-has-begun-c04cf644",
+                  "eng": "America's Great AI Freakout Has Begun",
+                  "body": "Rising anxiety over AI's capabilities is reshaping markets and corporate strategy."
                 }
               ]
             }
@@ -439,16 +420,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "Fed Faces Intensifying Pressure to Raise Rates After Hot CPI",
-                  "url": "https://www.bloomberg.com/news/articles/2026-09-11/fed-pressured-raise-rates-hot-cpi",
-                  "eng": "Fed Faces Intensifying Pressure to Raise Rates After Hot CPI",
-                  "body": "Underlying inflation rose more than expected in August, strengthening the case for a rate increase at next week's FOMC meeting."
+                  "headline": "Nvidia's Huang Touts Cybersecurity as Next Big Market for AI",
+                  "url": "https://www.bloomberg.com/news/articles/2026-09-10/nvidia-s-huang-touts-cybersecurity-as-next-big-market-for-ai",
+                  "eng": "Nvidia's Huang Touts Cybersecurity as Next Big Market for AI",
+                  "body": "Jensen Huang said cybersecurity is the next big market for AI, with advances set to disrupt an industry geared to defending against threats."
                 },
                 {
-                  "headline": "Dollar Wavers as Inflation Aids Fed Hike Bets While Oil Falls",
-                  "url": "https://bloomberg.com/news/articles/2026-09-11/dollar-wavers-as-inflation-aids-fed-hike-bets-while-oil-falls",
-                  "eng": "Dollar Wavers as Inflation Aids Fed Hike Bets While Oil Falls",
-                  "body": "The dollar oscillated after core monthly inflation rose 0.3%, above the 0.2% expected, pushing traders to add to Fed hike bets before oil declines weighed on the greenback."
+                  "headline": "Larry Ellison Ends Plan to Sell Up to $7.5 Billion in Oracle Stock",
+                  "url": "https://www.bloomberg.com/news/articles/2026-09-12/larry-ellison-scraps-plan-to-sell-up-to-50-million-oracle-shares",
+                  "eng": "Larry Ellison Ends Plan to Sell Up to $7.5 Billion in Oracle Stock",
+                  "body": "Oracle's co-founder scrapped plans to sell up to 50 million shares after strong AI data-center bookings lifted the stock."
                 }
               ]
             },
@@ -456,16 +437,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "US-Iran Truce Collapses as Attacks Worsen and Blockade Returns",
-                  "url": "https://www.bloomberg.com/news/articles/2026-09-11/us-iran-truce-collapses-blockade",
-                  "eng": "US-Iran Truce Collapses as Attacks Worsen and Blockade Returns",
-                  "body": "The U.S. reimposed a naval blockade and launched another wave of airstrikes, while Iran attacked more oil tankers transiting the Strait of Hormuz."
+                  "headline": "Core CPI Hikes Ahead of FOMC Meeting",
+                  "url": "https://www.bloomberg.com/news/videos/2026-09-11/bloomberg-businessweek-daily-9-11-2026-video",
+                  "eng": "Core CPI Hikes Ahead of FOMC Meeting",
+                  "body": "A key gauge of US consumer prices rose more than expected last month, bolstering the case for Federal Reserve officials to raise interest rates."
                 },
                 {
-                  "headline": "Hormuz Tensions Put Commodity Supplies at Risk Far Beyond Oil",
-                  "url": "https://www.bloomberg.com/news/articles/2026-09-11/hormuz-commodity-supplies-risk",
-                  "eng": "Hormuz Tensions Put Commodity Supplies at Risk Far Beyond Oil",
-                  "body": "The chokepoint's disruption threatens flows of liquefied natural gas, grains and other goods, rippling through global supply chains."
+                  "headline": "How the Oil Price Is Pressuring Treasuries",
+                  "url": "https://www.bloomberg.com/news/videos/2026-09-01/how-the-oil-price-is-pressuring-treasuries-video",
+                  "eng": "How the Oil Price Is Pressuring Treasuries",
+                  "body": "Rising oil prices are bolstering expectations that the Fed will hike, pressuring Treasuries."
                 }
               ]
             },
@@ -473,16 +454,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "Oracle Rises After AI Data-Center Orders Fuel Revenue Beat",
-                  "url": "https://www.bloomberg.com/news/articles/2026-09-11/oracle-ai-data-center-orders",
-                  "eng": "Oracle Rises After AI Data-Center Orders Fuel Revenue Beat",
-                  "body": "Shares jumped in extended trading after the company reported a quarterly beat driven by surging AI data-center bookings."
+                  "headline": "Bridgewater's Jensen on AI's Extinction Risk",
+                  "url": "https://www.bloomberg.com/news/audio/2026-09-11/odd-lots-bridgewater-s-jensen-on-ai-s-extinction-risk-podcast",
+                  "eng": "Bridgewater's Jensen on AI's Extinction Risk",
+                  "body": "The hedge-fund co-CIO warned AI poses an extinction-level risk if left uncurbed."
                 },
                 {
-                  "headline": "Bridgewater's Jensen on AI's Extinction Risk",
-                  "url": "https://www.bloomberg.com/news/articles/2026-09-11/bridgewater-jensen-ai-extinction-risk",
-                  "eng": "Bridgewater's Jensen on AI's Extinction Risk",
-                  "body": "The hedge-fund co-CIO warned that AI poses an extinction-level risk if left uncurbed, urging guardrails before capabilities outpace control."
+                  "headline": "Robert Friedland on the World's Monumental Shortage of Copper",
+                  "url": "https://www.bloomberg.com/news/audio/2026-09-12/robert-friedland-on-the-world-s-monumental-shortage-of-copper",
+                  "eng": "Robert Friedland on the World's Monumental Shortage of Copper",
+                  "body": "The mining magnate says a monumental copper shortage looms as demand from electrification and AI surges."
                 }
               ]
             }
@@ -496,16 +477,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "Iran May Escalate as U.S. Officials Fear Military and Cyberattacks",
-                  "url": "https://www.nytimes.com/2026/09/11/us/politics/iran-escalation-cyberattacks.html",
-                  "eng": "Iran May Escalate as U.S. Officials Fear Military and Cyberattacks",
-                  "body": "Recent U.S. intelligence reports suggest Tehran is weighing a significant escalation, including mounting cyberattacks on essential domestic systems."
+                  "headline": "As Oil Prices Rise, BRICS Leaders Have What the U.S. Doesn't: Iran at the Table",
+                  "url": "https://www.nytimes.com/2026/09/12/world/asia/brics-summit-china-india-russia-iran.html",
+                  "eng": "As Oil Prices Rise, BRICS Leaders Have Iran at the Table",
+                  "body": "Finding unity among the loose grouping of emerging economies will be difficult as the war in the Middle East strains their interests."
                 },
                 {
-                  "headline": "Hacks on U.S. Water Supply Follow Years of Warnings and Neglect",
-                  "url": "https://www.nytimes.com/2026/09/11/us/politics/water-systems-hack-iran.html",
-                  "eng": "Hacks on U.S. Water Supply Follow Years of Warnings and Neglect",
-                  "body": "Federal and state officials are racing to address an assault on the nation's water supply that they believe is the work of Iranian hackers."
+                  "headline": "Houthis Seize a Key Red Sea Island, Threatening Another Global Oil Route",
+                  "url": "https://www.nytimes.com/section/todayspaper",
+                  "eng": "Houthis Seize a Key Red Sea Island",
+                  "body": "The militia captured the island in the Bab al-Mandab, threatening a key global oil route."
                 }
               ]
             },
@@ -513,16 +494,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "After Minnesota, Suspected Iranian Hack Spreads to Water Systems in Michigan",
-                  "url": "https://www.nytimes.com/2026/09/11/us/politics/water-hack-michigan-minnesota.html",
-                  "eng": "Suspected Iranian Hack Spreads to Water Systems in Michigan",
-                  "body": "At least five states have now reported water-system intrusions, with Iran considered the top suspect by U.S. officials."
+                  "headline": "Why It's Tough for Tech Companies to Keep A.I. Out of Trouble",
+                  "url": "https://www.nytimes.com/2026/09/12/technology/why-its-tough-for-tech-companies-to-keep-ai-out-of-trouble.html",
+                  "eng": "Why It's Tough for Tech Companies to Keep A.I. Out of Trouble",
+                  "body": "Researchers at Anthropic, OpenAI, Meta and Google are increasingly trying to raise awareness about the threats posed by artificial intelligence."
                 },
                 {
-                  "headline": "Trump Said Qatari Jet Was Destined for His Library. That May Change.",
-                  "url": "https://www.nytimes.com/2026/09/11/us/politics/trump-qatari-jet-library.html",
-                  "eng": "Trump Said Qatari Jet Was Destined for His Library. That May Change.",
-                  "body": "The plan to display a Qatari jet at the president's library faces fresh scrutiny and may be altered."
+                  "headline": "Trump Harnesses Agencies to Curtail Press Freedoms",
+                  "url": "https://www.nytimes.com/2026/09/12/us/politics/trump-free-speech.html",
+                  "eng": "Trump Harnesses Agencies to Curtail Press Freedoms",
+                  "body": "A sweeping campaign across government agencies is curtailing press freedoms, free speech advocates say."
                 }
               ]
             },
@@ -530,16 +511,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "A Four-Ton SpaceX Rocket Stage Hit the Moon, but Almost No One Saw It",
-                  "url": "https://www.nytimes.com/2026/09/11/science/spacex-rocket-stage-moon.html",
-                  "eng": "A Four-Ton SpaceX Rocket Stage Hit the Moon",
-                  "body": "Amateur and professional astronomers trained telescopes on the impact site, but most detected nothing of the four-ton stage's collision."
+                  "headline": "Mokha, Historic Port That Shaped the Coffee Trade, Is a Prize in Yemen's Civil War",
+                  "url": "https://www.nytimes.com/2026/09/12/world/middleeast/mokha-yemen-houthis-mocha-coffee.html",
+                  "eng": "Mokha Is a Prize in Yemen's Civil War",
+                  "body": "The historic port of Mokha is a prize as fighting between the Saudi-backed government and Iran-backed Houthis pushes Yemen to the brink."
                 },
                 {
-                  "headline": "TikTok Is Laying Off 250 Employees in Its Nashville Office",
-                  "url": "https://www.nytimes.com/2026/09/11/technology/tiktok-nashville-layoffs.html",
-                  "eng": "TikTok Is Laying Off 250 Employees in Its Nashville Office",
-                  "body": "The company is cutting staff at its Nashville office as it streamlines operations amid ongoing regulatory pressure."
+                  "headline": "Alabama Is Set to Execute a Murderer. The Jury Wanted Him to Live.",
+                  "url": "https://www.nytimes.com/2026/09/12/us/alabama-execution-jeffrey-lee.html",
+                  "eng": "Alabama Is Set to Execute a Murderer",
+                  "body": "Alabama is set to carry out an execution despite a jury's recommendation for life."
                 }
               ]
             }
@@ -553,16 +534,16 @@
               "label": "1면",
               "articles": [
                 {
+                  "headline": "Oil's rise past $100 per barrel deepens GOP's midterm challenge",
+                  "url": "https://www.washingtonpost.com/business/",
+                  "eng": "Oil's rise past $100 per barrel deepens GOP's midterm challenge",
+                  "body": "High gas prices are likely to haunt Republican candidates through Election Day as oil tops $100."
+                },
+                {
                   "headline": "Stocks fall on Wall Street as oil prices jump back above $100 a barrel after Iran war escalates",
                   "url": "https://www.washingtonpost.com/business/2026/09/09/stock-markets-inflation-currencies-fed-rates/00dd857e-ac06-11f1-b498-8697f35a6743_story.html",
                   "eng": "Stocks fall as oil prices jump back above $100",
-                  "body": "The S&P 500 fell 0.5%, the Dow dropped 0.8% and the Nasdaq gave up 0.6% as crude climbed back above $100 amid further escalation in the U.S. war with Iran."
-                },
-                {
-                  "headline": "Oil prices keep rising and weigh on Wall Street",
-                  "url": "https://www.washingtonpost.com/business/2026/09/08/stocks-markets-trump-oil-ai-rates/9d42b7bc-ab49-11f1-b498-8697f35a6743_story.html",
-                  "eng": "Oil prices keep rising and weigh on Wall Street",
-                  "body": "The latest fighting in the war with Iran pushed oil prices higher, with the S&P 500 down 0.6% and the Dow off 628 points in its return from a three-day weekend."
+                  "body": "The S&P 500 fell 0.5% and the Dow dropped 0.8% as crude climbed back above $100 amid further escalation in the U.S. war with Iran."
                 }
               ]
             },
@@ -570,16 +551,16 @@
               "label": "2면",
               "articles": [
                 {
+                  "headline": "Fed holds rates steady as war in Iran clouds outlook",
+                  "url": "https://www.washingtonpost.com/business/2026/03/18/fed-interest-rates-iran-inflation/",
+                  "eng": "Fed holds rates steady as war in Iran clouds outlook",
+                  "body": "The Fed held interest rates steady as the Persian Gulf conflict threatens to reignite inflation."
+                },
+                {
                   "headline": "Federal Reserve faces rate-hike dilemma as inflation stays hot and Iran war escalates",
                   "url": "https://www.washingtonpost.com/business/2026/09/11/fed-rate-hike-dilemma-iran-inflation/",
                   "eng": "Federal Reserve faces rate-hike dilemma amid hot inflation",
-                  "body": "Policymakers weigh the need to tame inflation against the economic shock of an escalating war and $100 oil ahead of next week's FOMC meeting."
-                },
-                {
-                  "headline": "What's behind the bond market roller coaster?",
-                  "url": "https://www.washingtonpost.com/latest-headlines/",
-                  "eng": "What's behind the bond market roller coaster?",
-                  "body": "The bond market was already on edge, and surging oil plus hot inflation data have amplified the swings in long-term yields."
+                  "body": "Policymakers weigh taming inflation against the economic shock of an escalating war ahead of next week's FOMC meeting."
                 }
               ]
             },
@@ -587,16 +568,16 @@
               "label": "3면",
               "articles": [
                 {
+                  "headline": "Oil prices keep rising and weigh on Wall Street",
+                  "url": "https://www.washingtonpost.com/business/2026/09/08/stocks-markets-trump-oil-ai-rates/9d42b7bc-ab49-11f1-b498-8697f35a6743_story.html",
+                  "eng": "Oil prices keep rising and weigh on Wall Street",
+                  "body": "More expensive oil has worsened worries about inflation and the path of interest rates."
+                },
+                {
                   "headline": "Diesel hits record $6 a gallon as Iran war drags on",
                   "url": "https://www.washingtonpost.com/business/2026/09/11/diesel-record-6-gallon-iran-war/",
                   "eng": "Diesel hits record $6 a gallon as Iran war drags on",
-                  "body": "Diesel prices hit a record $6 a gallon as the Iran war drags on, adding cost pressure to manufacturing, agriculture and retail."
-                },
-                {
-                  "headline": "New aircraft carrier arrives in Arabian Sea to replace long-stationed USS Abraham Lincoln",
-                  "url": "https://www.washingtonpost.com/national/2026/09/11/uss-george-washington-arabian-sea/",
-                  "eng": "New aircraft carrier arrives in Arabian Sea",
-                  "body": "The USS George Washington is relieving a vessel that has gone months without a port stop, reflecting the strain of the prolonged deployment."
+                  "body": "Diesel prices hit a record $6 a gallon, adding cost pressure to manufacturing, agriculture and retail."
                 }
               ]
             }
@@ -610,16 +591,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "Iran and Gulf states to meet in push for Hormuz deal",
-                  "url": "https://www.ft.com/content/df2d9bcc-59f9-4122-aa4d-2020bef77e0e",
-                  "eng": "Iran and Gulf states to meet in push for Hormuz deal",
-                  "body": "Diplomats are working toward a provisional agreement on transit through the Strait of Hormuz, a move that could calm oil markets."
+                  "headline": "Oil nears $100 as US launches new strikes on Iranian tankers",
+                  "url": "https://www.ft.com/content/b460b828-6183-4914-9140-5dfb6d61312c",
+                  "eng": "Oil nears $100 as US launches new strikes on Iranian tankers",
+                  "body": "Crude neared $100 a barrel as the US launched fresh strikes on Iranian tankers, keeping supply risks elevated."
                 },
                 {
-                  "headline": "Oil prices fall as Iran and US pause strikes over Strait of Hormuz tensions",
-                  "url": "https://www.ft.com/content/403625cc-8371-43ee-997a-f6908a97f52e",
-                  "eng": "Oil prices fall as Iran and US pause strikes",
-                  "body": "Crude retreated after a pause in strikes over Hormuz tensions, though supply risks remain elevated."
+                  "headline": "Oil traders warn market is close to running on empty as Hormuz shuts",
+                  "url": "https://www.ft.com/content/6c314457-ce9a-4689-b3e1-ff637de0d6bf",
+                  "eng": "Oil traders warn market is close to running on empty",
+                  "body": "The latest flare-up in the Strait of Hormuz threatens a fresh crude supply crunch without the stockpiles to cushion it."
                 }
               ]
             },
@@ -627,16 +608,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "Oil hits $86 as battle for Strait of Hormuz alarms energy markets",
-                  "url": "https://www.ft.com/content/2d899824-5f94-4f0c-81fc-c54a0750e498",
-                  "eng": "Oil hits $86 as battle for Strait of Hormuz alarms energy markets",
-                  "body": "The battle for the strategic waterway has alarmed energy markets and threatens to tighten global supply."
+                  "headline": "Fed under pressure to hike after hot US inflation",
+                  "url": "https://www.ft.com/us",
+                  "eng": "Fed under pressure to hike after hot US inflation",
+                  "body": "Inflation remained stubbornly elevated at 3.4% in August at the end of a week of surging oil prices, strengthening the case for a rate hike."
                 },
                 {
-                  "headline": "Fed under pressure to hike after hot US inflation",
-                  "url": "https://www.ft.com/content/403625cc-8371-43ee-997a-f6908a97f52e",
-                  "eng": "Fed under pressure to hike after hot US inflation",
-                  "body": "Sticky core inflation has strengthened the case for the central bank to raise rates, raising the stakes for next week's FOMC decision."
+                  "headline": "Strait of Hormuz will not reopen this year, agency says",
+                  "url": "https://www.ft.com/oil",
+                  "eng": "Strait of Hormuz will not reopen this year, agency says",
+                  "body": "An energy agency warned the Strait of Hormuz will not reopen this year, prolonging the oil supply shock."
                 }
               ]
             },
@@ -645,13 +626,13 @@
               "articles": [
                 {
                   "headline": "Global supply chains brace for Hormuz fallout beyond oil",
-                  "url": "https://www.ft.com/content/df2d9bcc-59f9-4122-aa4d-2020bef77e0e",
+                  "url": "https://www.ft.com/markets",
                   "eng": "Global supply chains brace for Hormuz fallout beyond oil",
                   "body": "Shippers and manufacturers are rerouting cargo as the chokepoint's disruption ripples through LNG, grains and container trade."
                 },
                 {
                   "headline": "Big Tech's AI capex boom shows no sign of slowing",
-                  "url": "https://www.ft.com/content/2d899824-5f94-4f0c-81fc-c54a0750e498",
+                  "url": "https://www.ft.com/markets",
                   "eng": "Big Tech's AI capex boom shows no sign of slowing",
                   "body": "Oracle's strong data-center bookings underscore that corporate demand for AI infrastructure remains robust even amid market turmoil."
                 }
