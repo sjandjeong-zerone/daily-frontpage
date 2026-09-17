@@ -1,122 +1,128 @@
 {
-  "date": "2026-09-17",
-  "dateLabel": "2026년 9월 17일(목요일)",
-  "generatedAt": "2026-09-17T07:17:40+09:00",
+  "date": "2026-09-18",
+  "dateLabel": "2026년 9월 18일(금요일)",
+  "generatedAt": "2026-09-18T07:19:14+09:00",
   "ticker": [
     {
       "name": "KOSPI",
-      "value": "6,717.97",
-      "change": "+1.37%",
-      "dir": "up"
+      "value": "6,715.41",
+      "change": "-0.04%",
+      "dir": "dn"
     },
     {
       "name": "KOSDAQ",
-      "value": "815.98",
-      "change": "+0.44%",
+      "value": "822.18",
+      "change": "+0.76%",
       "dir": "up"
     },
     {
       "name": "S&P 500",
-      "value": "7,635.03",
-      "change": "-0.29%",
+      "value": "7,619.98",
+      "change": "-0.48%",
       "dir": "dn"
     },
     {
-      "name": "NASDAQ",
-      "value": "26,247.92",
-      "change": "-0.32%",
+      "name": "NASDAQ 100",
+      "value": "29,127.16",
+      "change": "-0.82%",
+      "dir": "dn"
+    },
+    {
+      "name": "필라델피아 반도체",
+      "value": "11,131.28",
+      "change": "-5.86%",
       "dir": "dn"
     },
     {
       "name": "브렌트유",
-      "value": "$105.68",
+      "value": "$103.90",
       "change": "▼",
       "dir": "dn"
     },
     {
       "name": "WTI",
-      "value": "$98~99",
+      "value": "$101.82",
       "change": "▼",
       "dir": "dn"
     }
   ],
   "keywords": [
     {
-      "label": "① 연준 3년 만의 금리인상 단행 — 25bp→3.75~4.00%",
-      "desc": "FOMC 만장일치로 기준금리 0.25%p 인상, 3년 2개월 만의 첫 인상. 워시 의장 \"물가 여전히 높아\". 사전 확률 90% 넘어 '예견된 인상'"
+      "label": "① FOMC 25bp 인상 단행(3.75→4.00%) — 3년 만의 첫 인상",
+      "desc": "12명 만장일치, 2023년 7월 이후 3년 만의 첫 인상. 점도표 연말 3.8%→4.1%로 상향(연내 추가 1회 시사), 워시 의장 '완화적 정책 일부 회수' 매파 발언"
     },
     {
-      "label": "② 점도표 '연내 추가 인상 1회' 시사",
-      "desc": "FOMC 중간값 기준 연내 0.25%p 추가 인상 1회 전망, 위원 16명 인상 예상·절반은 내년 또 한 번. '일회성 vs 추가 인상' 해석이 오늘 방향 결정"
+      "label": "② 필라델피아 반도체 -5.86% 급락",
+      "desc": "금리 인상+추가 긴축 우려에 반도체주 약세 전환, AI·반도체 섹터의 금리 민감도 재확인. 금융주는 고금리 수혜로 상대적 강세"
     },
     {
-      "label": "③ 유가 고공행진 — Brent $105·WTI $98~99",
-      "desc": "이란-미국 긴장 지속으로 중동 프리미엄 장기화. $90~100 박스권 등락 예상, 화학·정유 수혜 vs 항공·운송 부담"
+      "label": "③ 美 10년물 국채금리 5% 재돌파",
+      "desc": "워시 발언 이후 국채금리 급등, 2년물 2024년 이후 최고. 글로벌 자금 흐름 변화 주시"
     },
     {
-      "label": "④ 美 10년물 4.968% — 5% 안팎 등락",
-      "desc": "19년래 최고 수준 유지. 금리·유가 이중 압박으로 성장주·IT 민감주 부담 지속"
+      "label": "④ KOSPI 6,715 보합 — 외국인 순매도·개인 순매수 방어",
+      "desc": "FOMC 금리인상 소화하며 보합 마감, 장중 6,780선 반등했으나 워시 매파 발언에 상승분 반납. 삼성전자 25만원 보합, SK하이닉스 강보합"
     },
     {
-      "label": "⑤ KOSPI 6,717 안도 랠리 — 회전율 연중 최저",
-      "desc": "FOMC 인상 기대에 코스피 +1.37% 마감, 6,700선 안착 시도. 삼성전자·SK하이닉스 최대 150조 자사주 카드가 지지력"
+      "label": "⑤ 원/달러 1,390원대 — 고환율 지속",
+      "desc": "고환율 부담 지속, 오늘 美 미시간대 소비자심리지수(9월) 발표 주시"
     }
   ],
   "morning": {
-    "date": "2026-09-17",
-    "headline": "FOMC 3년 만의 금리인상 단행(25bp→3.75~4.00%)…연내 추가 인상 시사, KOSPI 6,717 안도 랠리",
-    "weather": "☁️ 흐림, 18°C (체감 17°C, 습도 63%, 바람 6km/h)",
-    "schedule": "📅 목요일 · 12:00 사무국장님 점심(Zeniel) · 19:00 운용사 77 모임",
+    "date": "2026-09-18",
+    "headline": "FOMC 25bp 인상(3.75→4.00%)·점도표 상향에 필라델피아 반도체 -5.86% 급락…코스피 6,715 보합",
+    "weather": "🌤️ 흐림, 19°C (체감 18°C, 습도 68%)",
+    "schedule": "📅 금요일 · 오늘 美 미시간대 소비자심리지수(9월) 발표",
     "domestic": {
       "kospi": {
-        "value": "6,717.97",
-        "change": "▲ 90.71",
-        "changeRate": "+1.37%"
+        "value": "6,715.41",
+        "change": "▼ 2.56",
+        "changeRate": "-0.04%"
       },
       "kosdaq": {
-        "value": "815.98",
-        "change": "▲ 3.57",
-        "changeRate": "+0.44%"
+        "value": "822.18",
+        "change": "▲ 6.20",
+        "changeRate": "+0.76%"
       },
       "supply": {
-        "usdkrw": "1,368",
-        "change": "▲ (원화 약세, 23개월 최저 수준 유지)"
+        "usdkrw": "1,390",
+        "change": "▲ (고환율 지속, 원화 약세)"
       },
-      "comment": "9/16(수) 코스피는 FOMC 인상 기대감에 상승 전환하며 전일비 1.37%(+90.71) 오른 6,717.97로 마감, 종가 기준 당일 최고가를 기록하며 6,700선 안착을 시도했습니다. 코스닥도 815.98(+0.44%)로 상승했습니다. 다만 회전율이 연중 최저를 기록해 지수는 올랐지만 매수 주체가 좁아진 장세라는 분석이 나옵니다. 삼성전자·SK하이닉스 합산 최대 150조원 자사주 매입 카드가 하방 지지력으로 작용할 전망입니다."
+      "comment": "9/17(목) 코스피는 FOMC 금리인상을 소화하며 전일비 0.04%(-2.56) 내린 6,715.41로 보합 마감했습니다. 장중 6,780선까지 반등했으나 워시 의장의 매파 발언에 상승분을 반납했습니다. 코스닥은 상대적 강세로 822.18(+0.76%)을 기록하며 822선을 회복했습니다. 삼성전자 25만원 보합, SK하이닉스 강보합. 외국인 순매도가 지속되는 가운데 개인 순매수로 하방을 방어했습니다."
     },
     "overseas": {
       "dow": {
-        "value": "52,520.06",
-        "changeRate": "-0.10%"
+        "value": "52,110.79",
+        "changeRate": "-0.52%"
       },
       "sp500": {
-        "value": "7,635.03",
-        "changeRate": "-0.29%"
+        "value": "7,619.98",
+        "changeRate": "-0.48%"
       },
       "nasdaq": {
-        "value": "26,247.92",
-        "changeRate": "-0.32%"
+        "value": "29,127.16",
+        "changeRate": "-0.82%"
       },
       "oil": {
-        "wti": "$98~99",
-        "brent": "$105.68"
+        "wti": "$101.82",
+        "brent": "$103.90"
       },
-      "keyStocks": "미국 증시는 FOMC를 앞둔 관망세에 소폭 하락 마감했습니다(S&P -0.29%·Dow -0.10%·Nasdaq -0.32%). 이후 새벽 발표된 FOMC에서 연준은 만장일치로 기준금리를 0.25%p 인상(3.75~4.00%)했고, 점도표는 연내 추가 인상 1회를 시사했습니다. Brent는 $105.68(-2.83%)로 하락했고, 美 10년물 국채금리는 4.968%로 5% 안팎에서 등락했습니다."
+      "keyStocks": "미국 증시는 FOMC 금리인상(25bp·3.75→4.00%) 이후 급락 마감했습니다(S&P -0.48%·나스닥100 -0.82%). 점도표 상향(연말 4.1%)과 워시 의장의 매파 발언에 필라델피아 반도체 지수가 5.86% 급락하며 AI·반도체주가 직격탄을 맞았습니다. 美 10년물 국채금리는 5%를 재돌파했고, 금융주는 고금리 수혜로 상대적 강세를 보였습니다. WTI $101.82·Brent $103.90로 유가는 고공행진을 이어갔습니다."
     },
-    "topNews": "FOMC 3년 만의 금리인상 단행(25bp→3.75~4.00%)…연내 추가 인상 시사, KOSPI 6,717 안도 랠리",
+    "topNews": "FOMC 25bp 인상(3.75→4.00%)·점도표 상향에 필라델피아 반도체 -5.86% 급락…코스피 6,715 보합",
     "otherNews": [
-      "미 연준 FOMC, 기준금리 0.25%p 인상(3.50~3.75%→3.75~4.00%) — 3년 2개월 만의 첫 인상, 워시 의장 \"물가 여전히 높아\"",
-      "FOMC 점도표 중간값 '연내 추가 25bp 인상 1회' 시사, 위원 16명 올해 한 번 더 인상 예상·절반은 내년 추가 인상 전망",
-      "KOSPI FOMC 인상 기대에 +1.37% 반등, 6,717.97 마감 — 회전율 연중 최저로 매수 주체 좁아진 장세",
-      "삼성전자·SK하이닉스 합산 최대 150조원 자사주 매입·소각 카드 대기",
-      "美 10년물 국채금리 4.968% — 5% 돌파 후 소폭回落, 19년래 최고 수준",
-      "Brent $105.68(-2.83%)·WTI $98~99 — 중동 프리미엄 장기화로 고유가 부담 지속"
+      "Fed 3년 만에 금리 인상 — 시장은 선반영했으나 점도표 상향(연말 4.1%)이 예상보다 강한 매파 신호, 연내 추가 인상 가능성",
+      "美 10년물 국채금리 5% 재돌파 — 워시 발언 이후 급등, 2년물 2024년 이후 최고, 글로벌 자금 흐름 변화 주시",
+      "삼성전자·SK하이닉스 목표가 상향 — 증권가 '이익 대비 저평가', SK하이닉스 목표가 380만원 제시",
+      "필라델피아 반도체 -5.86% 급락 — 금리 인상+추가 긴축 우려에 반도체주 약세, 금융주 상대적 강세(고금리 수혜)",
+      "삼성 갤럭시 Z 폴드8 출시",
+      "원/달러 환율 1,390원대 — 고환율 지속"
     ],
     "email": {
-      "google": "동아사이언스(손발 신경 재생 기술) · 삼성증권(FOMC Preview) · ZDNet(클래리티법 부결·비트코인 7.5만$ 붕괴) · 경희대 AgeTech연구소(돌봄기술 R&D 수요조사)",
-      "note": "LinkedIn 프로필 조회 18명 · 새 1촌 신청 6건"
+      "google": "동아사이언스(티라노사우루스 이빨 분석·체온 36도) · Harvard Online(AI 신기술 전략) · 삼성증권('AI 속도 조절론, 위기일까 기회일까?')",
+      "note": ""
     },
-    "insight": "📅 FOMC 3년 만의 금리인상 — '인상이 동결보다 낫다'…키는 점도표와 워시 발언\n\n새벽 FOMC에서 연준은 만장일치로 기준금리를 0.25%p 인상(3.75~4.00%)했습니다. 시장이 이미 90% 이상 인상을 선반영했던 만큼, 오히려 동결이었다면 혼란을 불렀을 상황입니다. JP모건의 '얕은 인상' 시나리오가 현실화된 셈입니다.\n\n핵심 변수 3가지:\n1. 점도표 '연내 추가 1회' — 위원 16명이 올해 한 번 더 인상을 전망. 워시 의장의 기자회견 톤이 '일회성(비둘기파) vs 추가 인상(매파)' 판단을 좌우\n2. 유가 $98~105 — 이란·미국 긴장 해소 기미가 없는 한 $90~100 박스권 지속, KOSPI 화학·정유 수혜 vs 항공·운송 부담\n3. 회전율 연중 최저 — 지수는 올랐지만 매수 주체가 좁아, 펀더멘털 확신 부족 반영. 삼성전자·SK하이닉스 150조 자사주 카드가 하방 지지\n\n비둘기파적 인상으로 해석될 경우 단기 위험자산 랠리 가능성이 열려 있습니다. 오늘 장 초반 FOMC 해석에 따른 방향성이 결정될 전망입니다.\n\n📌 관전 포인트: ①워시 기자회견 톤(일회성 vs 추가 인상) ②유가 향방 ③10년물 5% 지속 여부 ④KOSPI 6,700선 안착\n📅 오늘 일정: 12:00 사무국장님 점심(Zeniel) · 19:00 운용사 77 모임"
+    "insight": "**FOMC 이후 시장 방향성**\n\n예상된 25bp 인상이었지만 점도표 상향(연말 4.1%)이 시장을 짓눌렀습니다. 특히 필라델피아 반도체 -5.86%는 AI·반도체 섹터의 금리 민감도를 다시 확인시켜줬습니다. 오늘 코스피는 美증시 하락과 반도체 약세를 반영해 약세 출발이 예상됩니다. 다만 FOMC라는 빅 이벤트가 지나갔고, 시장의 관심은 다음주 미시간대 소비자심리지수(9월)로 이동할 전망입니다.\n\n**체크포인트**\n- 오늘(금) 미국 미시간대 소비자심리지수 발표\n- 다음주 주요 일정 확인 필요\n- 원/달러 환율 1,390원대 (고환율 지속)\n\n> ✨ _예상된 비가 그친 뒤, 무지개를 보는 안목이 필요합니다._"
   },
   "sections": {
     "kor": {
@@ -130,16 +136,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "연준 3년 만의 금리인상…코스피 6,717 '안도 랠리'",
-                  "url": "https://www.mk.co.kr/news/stock/12143387",
-                  "eng": "Fed raises rates for first time in three years; KOSPI rallies to 6,717",
-                  "body": "미 연준이 3년 2개월 만에 기준금리를 0.25%포인트 인상(3.50~3.75%→3.75~4.00%)한 가운데 코스피가 안도감에 전일비 1.37% 오른 6,717.97로 마감했다. 다만 회전율이 연중 최저를 기록해 매수 주체가 좁아진 장세라는 지적이 나온다."
+                  "headline": "FOMC 위원들 25bp 인상 '만장일치'…3년 만의 첫 긴축",
+                  "url": "https://www.mk.co.kr/",
+                  "eng": "FOMC members unanimously raise rates 25bp, first hike in three years",
+                  "body": "미 연방공개시장위원회(FOMC)가 기준금리를 0.25%포인트 인상(3.75→4.00%)했다. 12명 만장일치로, 2023년 7월 이후 3년 만의 첫 인상이다. 점도표는 연말 금리 전망을 3.8%에서 4.1%로 상향해 연내 추가 인상 가능성을 시사했다."
                 },
                 {
-                  "headline": "삼성전자·SK하이닉스 최대 150조 자사주 카드 대기",
-                  "url": "https://www.mk.co.kr/news/stock/12139452",
-                  "eng": "Samsung, SK Hynix ready up to 150 trillion won buyback card",
-                  "body": "삼성전자와 SK하이닉스가 최대 150조원 규모의 자사주 매입·소각 카드를 검토 중인 것으로 알려졌다. 지수 반등의 핵심 하방 지지력으로 작용할 전망이다."
+                  "headline": "트럼프가 뽑은 워시, '강력 매파' 인플레이션 파이터로",
+                  "url": "https://www.mk.co.kr/",
+                  "eng": "Trump-picked Warsh emerges as a forceful inflation-fighting hawk",
+                  "body": "케빈 워시 연준 의장이 인상 배경으로 인플레이션 위험을 강조하며 '완화적 정책을 일부 거둬들이는 것'이라고 밝혔다. 시장은 이번 인상이 일회성인지 추가 인상의 시작인지 해석에 분주하다."
                 }
               ]
             },
@@ -147,16 +153,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "FOMC 점도표 '연내 추가 인상 1회' 시사…위원 16명 인상 전망",
-                  "url": "https://www.mk.co.kr/news/economy/12078633",
-                  "eng": "Fed dot plot signals one more hike in 2026",
-                  "body": "FOMC 점도표 중간값은 연내 0.25%포인트 추가 인상 1회를 시사했다. 위원 16명이 올해 한 번 더 인상을 예상했고, 절반은 내년 추가 인상을 전망했다."
+                  "headline": "원화값 1380원대로 '뚝'…외국인, 코스피서 일단 피신",
+                  "url": "https://www.mk.co.kr/news/economy/12155626",
+                  "eng": "Won slides to 1,380 range as foreigners retreat from KOSPI",
+                  "body": "미 연준의 3년여 만의 금리 인상에 원화값이 1380원대로 밀려나고, 은행채 1년물 금리도 4%대 진입을 목전에 뒀다. 외국인은 연일 코스피에서 순매도(이날 2조1800억원)했고 개인이 받으며 증시는 6500~7000 박스권을 이어갔다."
                 },
                 {
-                  "headline": "워시 의장 \"물가 여전히 높아\"…비둘기파 인상 논쟁",
-                  "url": "https://www.mk.co.kr/news/stock/12144044",
-                  "eng": "Warsh says inflation is still too high",
-                  "body": "케빈 워시 연준 의장은 기자회견에서 \"물가가 여전히 높다\"며 인상 배경을 설명했다. 시장은 이번 인상이 '일회성'인지 '추가 인상의 시작'인지 해석에 분주하다."
+                  "headline": "한미 금리 격차 1%p로 확대…기준금리 11월 인상에 무게",
+                  "url": "https://www.mk.co.kr/news/economy/12155455",
+                  "eng": "Korea-US rate gap widens to 1%p, raising odds of a November BOK hike",
+                  "body": "연준의 금리 인상으로 한미 금리 격차가 1%포인트로 벌어지면서 한국은행의 11월 기준금리 인상 가능성에 무게가 실리고 있다. 달러 강세 압력이 커질 수 있다는 우려도 나온다."
                 }
               ]
             },
@@ -164,16 +170,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "비트코인 7.5만 달러 붕괴…美 클래리티법 부결 여파",
-                  "url": "https://www.mk.co.kr/news/stock/12144555",
-                  "eng": "Bitcoin slides below $75,000 after Clarity Act rejection",
-                  "body": "미국의 스테이블코인 규제법(클래리티법)이 부결되며 비트코인이 7.5만 달러 아래로 밀렸다. FOMC 이후 가상자산 시장의 변동성이 확대되고 있다."
+                  "headline": "삼성전자 55만원·SK하이닉스 380만원…이익에 비하면 아직 싸다",
+                  "url": "https://www.mk.co.kr/news/stock/12058405",
+                  "eng": "Analysts lift Samsung, SK Hynix targets on valuation gap",
+                  "body": "증권가가 삼성전자·SK하이닉스 목표주가를 잇따라 상향했다. 미래에셋증권은 SK하이닉스 목표주가를 380만원으로 18.8% 올리며 2026~2028년 평균 ROE가 66%에 이를 것으로 추정했다. 이익 대비 저평가라는 분석이다."
                 },
                 {
-                  "headline": "유가 $100선 하회…WTI $98대·Brent $105대 안착",
-                  "url": "https://www.mk.co.kr/news/business/12151024",
-                  "eng": "Oil retreats below $100 as WTI holds near $98",
-                  "body": "국제유가가 전일 대비 하락하며 WTI는 98달러대, Brent는 105달러대에 안착했다. 다만 중동 긴장이 지속돼 고유가 부담은 여전하다."
+                  "headline": "대주주는 1조5천억 팔았다…",
+                  "url": "https://www.mk.co.kr/",
+                  "eng": "Major shareholders sold 1.5 trillion won",
+                  "body": "상장사 대주주들의 지분 매각이 이어지며 최근 1조5천억원 규모의 매도가 이뤄진 것으로 집계됐다. 수급 부담 요인으로 주목된다."
                 }
               ]
             }
@@ -187,16 +193,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "美 연준, 3년 2개월 만에 금리 인상…'물가 여전히 높아'",
-                  "url": "https://www.khan.co.kr/article/202609162109020",
-                  "eng": "US Fed hikes rates after 38 months, citing high inflation",
-                  "body": "미국 연방준비제도가 기준금리를 0.25%포인트 인상(3.75~4.00%)하며 3년 2개월 만에 긴축으로 선회했다. 워시 의장은 \"물가가 여전히 높다\"며 인상 배경을 밝혔다."
+                  "headline": "트럼프, 연준 금리 인상에 즉각 반발…'1% 이하로 신속하게 낮춰라'",
+                  "url": "https://www.khan.co.kr/article/202609170829001",
+                  "eng": "Trump pushes back on Fed hike, demands rates below 1%",
+                  "body": "도널드 트럼프 미국 대통령이 연준의 기준금리 인상(3.75~4.00%) 직후 '1% 이하로 신속하게 낮춰라'며 강도 높은 비판을 내놨다. 이번 인상은 2023년 7월 이후 약 3년 만이다."
                 },
                 {
-                  "headline": "쌀쌀한 아침 출근길…한낮엔 살짝 더위",
-                  "url": "https://www.khan.co.kr/article/202609162045005",
-                  "eng": "Chilly morning commute gives way to mild afternoon heat",
-                  "body": "17일 아침은 흐리고 쌀쌀하겠다. 한낮에는 기온이 올라 살짝 더위가 찾아오겠다."
+                  "headline": "이재명 대통령 기자회견…헌법 개정 논의 탄력 주목",
+                  "url": "https://www.khan.co.kr/politics",
+                  "eng": "President Lee's press conference may boost constitutional revision talks",
+                  "body": "이재명 대통령의 기자회견을 계기로 헌법 개정 논의가 탄력을 받을지 주목된다. 청와대는 '주요 현안에 대한 분명한 입장을 밝힐 것'이라고 예고했다."
                 }
               ]
             },
@@ -204,16 +210,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "집값 오를 거란 믿음 5년 만 최고…대출 규제에도 '무풍'",
-                  "url": "https://www.khan.co.kr/article/202607282051005",
-                  "eng": "Housing price expectations hit five-year high despite curbs",
-                  "body": "주택담보대출 문턱이 높아지고 금리가 인상되는데도 집값이 오를 것이란 기대심리가 약 5년 만에 최고치를 기록했다는 조사 결과가 나왔다."
+                  "headline": "'1% 이하로 서둘러서 낮춰라'…미 금리 인상에 트럼프는 반발, 인하 압박",
+                  "url": "https://www.khan.co.kr/article/202609172113005",
+                  "eng": "Trump pressures Fed to cut rates quickly after hike",
+                  "body": "트럼프 대통령이 자신이 임명한 워시 의장 취임 이후 첫 금리 인상에 강하게 반발하며 인하 압박을 이어갔다. 백악관과 연준의 갈등이 금융시장 불확실성을 키우는 요인으로 부상했다."
                 },
                 {
-                  "headline": "웨스팅하우스 지분 15% 인수 추진…원전 수출 승부수",
-                  "url": "https://www.khan.co.kr/article/202609162108001",
-                  "eng": "Korea pursues 15% Westinghouse stake for nuclear export push",
-                  "body": "한국이 미국 원전 기업 웨스팅하우스 지분 15% 인수를 추진하며 원전 수출 경쟁력 강화에 나선다."
+                  "headline": "아이치·나고야 아시안게임 19일 개막…한국 선수단 본진 도착",
+                  "url": "https://www.khan.co.kr/newest/articles",
+                  "eng": "Aichi-Nagoya Asian Games open on the 19th",
+                  "body": "아이치·나고야 아시안게임이 19일 개막한다. 한국 선수단 본진이 현지에 도착해 경기 준비에 들어갔다."
                 }
               ]
             },
@@ -221,16 +227,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "[김용민의 그림마당] 2026년 9월 17일 — FOMC 금리인상·유가",
-                  "url": "https://www.khan.co.kr/article/202609162109015",
-                  "eng": "Editorial cartoon: Fed rate hike and oil prices",
-                  "body": "경향신문 김용민 화백의 시사만평. FOMC 금리 인상과 국제유가, 중동 정세를 다뤘다."
+                  "headline": "미 금리 만장일치 인상…'일회성 아닌 연속 인상의 시작'",
+                  "url": "https://www.khan.co.kr/economy",
+                  "eng": "Fed's unanimous hike seen as start of a tightening cycle",
+                  "body": "FOMC가 정책금리를 3.75~4%로 0.25%포인트 인상하고 점도표를 통해 연내 추가 인상을 시사했다. 한은 뉴욕사무소는 '예상보다 상당히 매파적'이라고 평가했다. 한미 금리차는 다시 1%포인트로 벌어졌다."
                 },
                 {
-                  "headline": "금리 인상에도 '추가 인상' 신호…가계대출 억제책 재점검",
-                  "url": "https://www.khan.co.kr/article/202609162045010",
-                  "eng": "Rate hike and further increases spark mortgage curbs review",
-                  "body": "미국발 금리 인상이 국내 시장금리 상승으로 이어지며 금융당국의 가계대출 관리 대책 재점검 필요성이 제기된다."
+                  "headline": "매파 워시에 9월 금리 인상 베팅 40%대로 '쑥'",
+                  "url": "https://www.khan.co.kr/economy",
+                  "eng": "Hawkish Warsh lifts September hike bets above 40%",
+                  "body": "워시 의장의 매파적 신호에 선물시장에서 금리 인상 베팅이 40%대로 치솟았다. 2회 인상 확률도 31%로 상승하며 채권시장 긴장감이 확산되고 있다."
                 }
               ]
             }
@@ -244,16 +250,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "워시 연준, 3년 만 금리 인상 단행…'연내 한 번 더' 시사",
-                  "url": "https://www.donga.com/news/Inter/article/all/20260831/134572941/2",
-                  "eng": "Warsh Fed hikes rates after three years, signals one more",
-                  "body": "미 연준이 기준금리를 0.25%포인트 인상하며 3년 만에 긴축에 나섰다. 점도표는 연내 추가 인상 가능성을 시사했다."
+                  "headline": "[단독]한화오션 골리앗 크레인 나흘째 멈췄다…조선·철강 파업 확산",
+                  "url": "https://www.donga.com/news/Economy/article/all/20260917/134687678/1",
+                  "eng": "Hanwha Ocean's goliath crane halted for fourth day as strikes spread",
+                  "body": "한화오션 노동조합이 선박 건조의 핵심 설비인 '골리앗 크레인'을 나흘째 멈춰 세우며 파업 수위를 높이고 있다. HD현대중공업도 쟁의대책위원회를 출범시키는 등 조선·철강 파업이 확산되는 양상이다."
                 },
                 {
-                  "headline": "[지표로 보는 경제] 9월 17일",
-                  "url": "https://www.donga.com/news/Economy/article/all/20260916/134683776/2",
-                  "eng": "Economy by the numbers: September 17",
-                  "body": "금리 인상, 국제유가, 환율 등 주요 경제 지표를 정리했다."
+                  "headline": "해외 관계자들 앞에서 추락한 'KAI 드론'",
+                  "url": "https://www.donga.com/",
+                  "eng": "KAI drone crashes before overseas officials",
+                  "body": "KAI가 해외 관계자들 앞에서 선보인 드론이 추락하는 사고가 발생했다. 방산 수출 신뢰도에 악영향을 줄 수 있다는 우려가 나온다."
                 }
               ]
             },
@@ -261,16 +267,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "美 10년물 국채금리 4.968%…5% 안팎 등락",
-                  "url": "https://www.donga.com/news/Inter/article/all/20260915/134668625/1",
-                  "eng": "10-year Treasury yield hovers around 5%",
-                  "body": "미국 10년물 국채금리가 4.968%로 5% 안팎에서 등락하며 19년래 최고 수준을 유지하고 있다."
+                  "headline": "美국채금리 상승, 대미투자에 불똥…",
+                  "url": "https://www.donga.com/",
+                  "eng": "Rising US Treasury yields hit investment in the US",
+                  "body": "미 국채금리 상승으로 기업 자금조달과 투자가 위축될 수 있다는 우려가 커지고 있다. FOMC 금리 인상과 점도표 상향이 채권시장 매도세를 부추겼다."
                 },
                 {
-                  "headline": "이란·미국 긴장 지속…'중동 프리미엄' 장기화",
-                  "url": "https://www.donga.com/news/Inter/article/all/20260915/134668918/1",
-                  "eng": "Iran-US tensions keep Middle East premium elevated",
-                  "body": "이란과 미국의 긴장이 해소 기미를 보이지 않으면서 국제유가의 중동 프리미엄이 장기화될 전망이다."
+                  "headline": "'美연준 금리인상 확률 92%'…기업 자금조달·투자위축 우려",
+                  "url": "https://www.donga.com/news/Issue/02",
+                  "eng": "Fed hike odds at 92% stoke corporate funding worries",
+                  "body": "국제유가 급등에 따른 물가 상승 우려로 국채 금리가 급등하면서 미국 연준의 금리 인상 확률이 92%까지 치솟았다. 기업 자금조달과 투자 위축 우려가 확산되고 있다."
                 }
               ]
             },
@@ -278,16 +284,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "FOMC 인상 선반영…코스피 6,700선 안착 시도",
-                  "url": "https://www.donga.com/news/Economy/article/all/20260917/134685001/1",
-                  "eng": "KOSPI bids to settle above 6,700 after Fed hike priced in",
-                  "body": "시장이 FOMC 인상을 90% 이상 선반영한 가운데 코스피가 1.37% 상승하며 6,700선 안착을 시도하고 있다."
+                  "headline": "FOMC 인상 소화…코스피 6,715 보합 마감",
+                  "url": "https://www.donga.com/news/Economy",
+                  "eng": "KOSPI closes flat at 6,715 after digesting Fed hike",
+                  "body": "코스피가 FOMC 금리 인상을 소화하며 6,715.41(-0.04%)로 보합 마감했다. 장중 6,780선까지 반등했으나 워시 의장 매파 발언에 상승분을 반납했다. 코스닥은 822.18(+0.76%)로 상대적 강세를 보였다."
                 },
                 {
                   "headline": "삼성전자·SK하이닉스 150조 자사주 카드…수급 개선 기대",
-                  "url": "https://www.donga.com/news/Economy/article/all/20260917/134685010/1",
-                  "eng": "Samsung and SK Hynix buyback card to improve supply-demand",
-                  "body": "반도체 대장주의 대규모 자사주 매입 카드가 외국인 매도세를 완화할 수급 개선 요인으로 주목받는다."
+                  "url": "https://www.donga.com/news/Economy",
+                  "eng": "Samsung, SK Hynix buyback card to support supply-demand",
+                  "body": "반도체 대장주의 대규모 자사주 매입·소각 카드가 외국인 매도세를 완화할 수급 개선 요인으로 주목받는다. 증권가는 이익 대비 저평가를 근거로 목표가 상향을 이어가고 있다."
                 }
               ]
             }
@@ -301,16 +307,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "연준 3년 만 금리인상…워시 '추가 인상' 열어놔",
-                  "url": "https://www.hankyung.com/article/2026091750437",
-                  "eng": "Fed hikes after three years as Warsh leaves door open",
-                  "body": "미 연준이 기준금리를 0.25%포인트 인상한 가운데 워시 의장이 추가 인상 가능성을 열어두며 긴축 경계감이 이어지고 있다."
+                  "headline": "코스피 6,715 보합 마감…FOMC 인상 소화, 장중 6,780 반등 후 반납",
+                  "url": "https://www.hankyung.com/",
+                  "eng": "KOSPI flat at 6,715 after Fed hike digest",
+                  "body": "코스피가 전일 대비 0.04% 하락한 6,715.41로 마감했다. 코스닥은 822.18(+0.76%). FOMC 금리 인상을 소화하며 장중 6,780선까지 반등했으나 워시 의장의 매파 발언에 상승분을 반납했다."
                 },
                 {
-                  "headline": "코스피 '안도 랠리' 6,717 마감…회전율은 연중 최저",
-                  "url": "https://www.hankyung.com/article/2026091666361",
-                  "eng": "KOSPI rallies to 6,717 but turnover hits yearly low",
-                  "body": "코스피가 FOMC 인상 기대에 1.37% 상승 마감했지만 회전율이 연중 최저를 기록하며 매수 주체가 좁아진 것으로 나타났다."
+                  "headline": "미성년자 미수거래 제한…증권사 '빚투' 관행 손본다",
+                  "url": "https://www.hankyung.com/economy",
+                  "eng": "Brokerages curb minors' margin trading",
+                  "body": "미성년자 계좌를 통한 미수거래 잔고가 급증하면서 대형 증권사들이 잇따라 미수거래 차단에 나서고 있다. 증권사들이 '빚투' 관행을 손보기 시작했다."
                 }
               ]
             },
@@ -318,16 +324,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "한국, 웨스팅하우스 지분 15% 인수 추진",
-                  "url": "https://www.hankyung.com/article/2026091566461",
-                  "eng": "South Korea pursues 15% stake in Westinghouse",
-                  "body": "한국이 미국 원전 기업 웨스팅하우스 지분 15% 인수를 추진하는 것으로 확인됐다. 원전 수출 경쟁력 강화를 위한 전략적 투자로 풀이된다."
+                  "headline": "'금리보다 유가'…하루 만에 급반등한 美증시, 나스닥 1.6%↑",
+                  "url": "https://www.hankyung.com/",
+                  "eng": "US stocks rebound as oil outweighs rates, Nasdaq up 1.6%",
+                  "body": "국제유가 진정세에 미국 증시가 하루 만에 급반등했다. 금리 인상에도 불구하고 유가 하락 효과에 나스닥이 1.6% 상승하는 등 투자심리가 개선됐다."
                 },
                 {
-                  "headline": "반도체 대장주 자사주 150조 카드…외국인 매도 진정 기대",
-                  "url": "https://www.hankyung.com/article/202609176980i",
-                  "eng": "Chip leaders' 150 trillion won buyback may ease foreign selling",
-                  "body": "삼성전자·SK하이닉스의 대규모 자사주 매입·소각 카드가 외국인 매도세를 진정시킬 요인으로 주목받고 있다."
+                  "headline": "오픈웨이트AI 모델 주의보…암호화폐 해킹 1년새 440% 급증",
+                  "url": "https://www.hankyung.com/",
+                  "eng": "Crypto hacking surges 440% in a year amid open-weight AI models",
+                  "body": "오픈웨이트(공개 가중치) AI 모델 확산으로 암호화폐 해킹이 1년 새 440% 급증했다는 분석이 나왔다. AI를 악용한 사이버 공격이 새로운 위협으로 부상하고 있다."
                 }
               ]
             },
@@ -335,16 +341,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "유가 $100 하회에도 고공행진…정유·화학 수혜 vs 항공·운송 부담",
-                  "url": "https://www.hankyung.com/article/202609156931i",
-                  "eng": "Oil retreats below $100 but stays high, splitting sectors",
-                  "body": "국제유가가 100달러를 하회했지만 여전히 높은 수준을 유지하며 정유·화학 업종은 수혜, 항공·운송 업종은 부담을 받고 있다."
+                  "headline": "시중은행 예대금리차, 4년 전보다 30% 이상 벌어졌다",
+                  "url": "https://www.hankyung.com/economy",
+                  "eng": "Banks' deposit-loan rate spread widens 30% in four years",
+                  "body": "시중은행의 예대금리차가 4년 전보다 30% 이상 벌어진 것으로 나타났다. 금리 인상기에 대출금리는 빠르게 오르는 반면 예금금리는 더디게 따라붙는 탓이다."
                 },
                 {
-                  "headline": "점도표 '연내 1회 추가 인상'…채권시장 긴장",
-                  "url": "https://www.hankyung.com/article/2026091564501",
-                  "eng": "Dot plot shows one more hike this year, unnerving bonds",
-                  "body": "FOMC 점도표가 연내 추가 인상 1회를 시사하면서 국내외 채권시장에 긴장감이 확산되고 있다."
+                  "headline": "SK하이닉스 목표가 380만원 제시…'이익 대비 저평가'",
+                  "url": "https://www.hankyung.com/article/2026073044666",
+                  "eng": "SK Hynix target lifted to 380,000 won on valuation",
+                  "body": "증권가가 SK하이닉스 목표주가를 380만원으로 상향 제시하며 '이익 대비 저평가'라는 분석을 내놨다. 삼성전자 목표주가도 55만원으로 상향 조정됐다."
                 }
               ]
             }
@@ -363,16 +369,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "Fed Raises Rates for First Time in Three Years, Signals One More Hike This Year",
-                  "url": "https://www.wsj.com/livecoverage/fed-meeting-warsh-interest-rate-09-16-2026/card/GzwYXVukCwLHvYSA8NEb",
-                  "eng": "Fed lifts rates after three years and signals one more hike this year",
-                  "body": "The Federal Reserve unanimously raised its benchmark rate by a quarter point to a 3.75%–4.00% range, its first increase in three years, while the dot plot signaled one additional move in 2026."
+                  "headline": "Warsh Takes Hawkish Turn With Rate Rise and Hints of More to Come",
+                  "url": "https://www.wsj.com/economy/central-banking/warsh-takes-hawkish-turn-with-rate-rise-and-hints-of-more-to-come-d52c6ad9",
+                  "eng": "",
+                  "body": "Fed Chair Kevin Warsh led the central bank to its first rate rise since 2023, lifting the benchmark by a quarter point to a 3.75%–4.00% range, and signaled that investors should not rule out further increases this year."
                 },
                 {
-                  "headline": "The Fed Is Poised for a Rate Hike. It Rarely Stops at One.",
-                  "url": "https://www.wsj.com/economy/central-banking/the-fed-is-poised-for-a-rate-hike-it-rarely-stops-at-one-c7455e98",
-                  "eng": "A Fed rate hike rarely stops at one",
-                  "body": "Investors have all but concluded the central bank would raise rates for the first time in three years. History suggests a single hike is rarely the end of the story."
+                  "headline": "U.S. Strikes Three Iranian Ships After Missiles Fired at American Aircraft Carrier",
+                  "url": "https://www.wsj.com/world/middle-east/u-s-strikes-three-iranian-ships-after-missiles-fired-at-american-aircraft-carrier-ec5b3d5c",
+                  "eng": "",
+                  "body": "The U.S. struck three Iranian ships after missiles were fired at an American aircraft carrier, escalating the conflict in the Middle East and keeping oil markets on edge."
                 }
               ]
             },
@@ -380,16 +386,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "After Past Fed Rate Hikes, How Did Stocks Move?",
-                  "url": "https://www.wsj.com/livecoverage/fed-meeting-warsh-interest-rate-09-16-2026/card/GzwYXVukCwLHvYSA8NEb",
-                  "eng": "How stocks fared after past Fed rate hikes",
-                  "body": "The S&P 500 rose by an average of 10.7% in the 12 months following prior Fed rate hikes, suggesting today's move need not derail the market."
+                  "headline": "Bonds Extend Selloff, Sending 10-Year Yield Above 4.9%",
+                  "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-10-2026",
+                  "eng": "",
+                  "body": "A bond selloff pushed the 10-year Treasury yield above 4.9%, its highest level since 2007, as traders priced in a more hawkish Federal Reserve and elevated oil prices."
                 },
                 {
-                  "headline": "10-Year Treasury Yield Hovers Near 5% as Oil Pressure Mounts",
-                  "url": "https://www.wsj.com/finance/investing/stock-investors-should-root-for-a-rate-hike-yeah-really-5e821273",
-                  "eng": "10-year yield hovers near 5% amid oil pressure",
-                  "body": "The benchmark 10-year Treasury yield traded near 5%, its highest since 2007, as elevated oil prices kept inflation fears alive."
+                  "headline": "Iran's Oil Dollars Are Drying Up—and Plunging It Deeper Into Crisis",
+                  "url": "https://www.wsj.com/world/middle-east/irans-oil-dollars-are-drying-upand-plunging-it-deeper-into-crisis-21bae4bd",
+                  "eng": "",
+                  "body": "Sanctions and war damage are choking off Iran's oil revenue, deepening an economic crisis and raising pressure on Tehran as the conflict drags on."
                 }
               ]
             },
@@ -397,16 +403,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "Fed Rate Hike Odds Climb to 95% Ahead of Decision",
-                  "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-14-2026/card/fed-rate-hike-odds-climb-to-90--PKjS440txiDqzMAPoCUC",
-                  "eng": "Rate hike odds climb to 95% before the decision",
-                  "body": "Traders priced in as much as a 95% chance of a quarter-point hike heading into the meeting, reflecting the breadth of inflation concerns."
+                  "headline": "The Fed Is Poised for a Rate Hike. It Rarely Stops at One.",
+                  "url": "https://www.wsj.com/economy/central-banking/the-fed-is-poised-for-a-rate-hike-it-rarely-stops-at-one-c7455e98",
+                  "eng": "",
+                  "body": "History suggests a single Fed rate hike is rarely the end of the story. Investors have begun betting the central bank is at the start of a series of increases."
                 },
                 {
-                  "headline": "Warsh Faces Pressure to Back Inflation Warnings With Action",
-                  "url": "https://www.wsj.com/economy/central-banking/the-fed-is-poised-for-a-rate-hike-it-rarely-stops-at-one-c7455e98",
-                  "eng": "Warsh pressed to back inflation warnings with action",
-                  "body": "Fed Chair Kevin Warsh faced pressure to back repeated inflation warnings with a credible hike, risking the ire of a president who wants lower rates."
+                  "headline": "Iran Is Producing Ballistic Missiles Again",
+                  "url": "https://www.wsj.com/world/middle-east/iran-ballistic-missile-production-5538af12",
+                  "eng": "",
+                  "body": "Iran has resumed production of ballistic missiles, according to officials, adding a new dimension to the military standoff with the United States and its allies."
                 }
               ]
             }
@@ -420,16 +426,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "Fed Raises Rates 25 Basis Points, Median Forecast Shows One More Hike in 2026",
-                  "url": "https://www.bloomberg.com/news/live-blog/2026-09-16/fed-rate-decision-live-coverage-warsh-speaks-at-news-conference",
-                  "eng": "Fed lifts rates 25bp; median sees one more hike in 2026",
-                  "body": "The Federal Reserve unanimously raised its benchmark rate by 25 basis points to a 3.75%–4% range, with the median FOMC forecast pointing to one additional quarter-point hike this year."
+                  "headline": "Yardeni on Cutting His S&P Outlook, Fed, Oil Prices",
+                  "url": "https://www.bloomberg.com/news/videos/2026-09-17/yardeni-on-cutting-his-s-p-outlook-fed-oil-prices-video",
+                  "eng": "",
+                  "body": "Veteran strategist Ed Yardeni discussed trimming his S&P 500 outlook, the Federal Reserve's rate path and elevated oil prices amid the Iran conflict."
                 },
                 {
-                  "headline": "Fed's Warsh on Trump Collision Course as Rate Hike Looms",
-                  "url": "https://www.bloomberg.com/news/videos/2026-09-14/fed-s-warsh-on-trump-collision-course-as-rate-hike-looms-video",
-                  "eng": "Warsh and Trump on a collision course over rates",
-                  "body": "The central bank faced mounting pressure to hike to tame elevated inflation, putting Chair Kevin Warsh on a collision course with President Donald Trump."
+                  "headline": "Why High Bond Yields Look Like the New Normal",
+                  "url": "https://www.bloomberg.com/news/articles/2026-09-17/why-high-yields-on-treasury-bonds-government-debt-look-like-the-new-normal",
+                  "eng": "",
+                  "body": "With the Fed raising rates, sticky inflation and heavy Treasury issuance, strategists argue that elevated bond yields may persist rather than fade."
                 }
               ]
             },
@@ -437,16 +443,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "Stocks Fall in Run-Up to Fed as Yields Stay High",
-                  "url": "https://www.bloomberg.com/news/videos/2026-09-15/stocks-fall-in-run-up-to-fed-as-yields-stay-high-video",
-                  "eng": "Stocks slip before the Fed as yields stay high",
-                  "body": "Wall Street traders refrained from riskier bets in the countdown to the decision, with elevated oil prices and bond yields weighing on sentiment."
+                  "headline": "Saudis Seek to Resume Half of Key Oil Pipeline Within Days",
+                  "url": "https://www.bloomberg.com/news/articles/2026-09-16/saudis-seek-to-resume-half-of-key-oil-pipeline-within-days",
+                  "eng": "",
+                  "body": "Saudi Arabia aims to restart about half of a key oil pipeline within days after an attack, as producers scramble to stabilize crude flows through the Middle East."
                 },
                 {
-                  "headline": "Oil Retreats Toward $98 as Middle East Premium Persists",
-                  "url": "https://www.bloomberg.com/markets",
-                  "eng": "Oil fades toward $98 but Middle East premium persists",
-                  "body": "WTI eased toward $98–99 a barrel while Brent hovered near $105, as an Iran-US standoff kept a risk premium in the crude market."
+                  "headline": "Bank of England Eases Bond-Market Pain With Gilt Sales Overhaul",
+                  "url": "https://www.bloomberg.com/news/articles/2026-09-17/boe-scraps-long-end-gilt-sales-in-plan-to-unwind-qe-by-2034",
+                  "eng": "",
+                  "body": "The Bank of England scrapped long-end gilt sales in a plan to unwind quantitative easing by 2034, easing pressure on bond markets after the Fed's rate rise."
                 }
               ]
             },
@@ -454,16 +460,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "Fed Decision, Dot Plot Take Center Stage This Week",
-                  "url": "https://www.bloomberg.com/markets",
-                  "eng": "Fed decision and dot plot in focus this week",
-                  "body": "The Federal Reserve's decision and updated projections dominated a week marked by an AI-led selloff, rising oil and elevated yields."
+                  "headline": "McDonald's Is Planning to Revamp Its Value Strategy to Revive US Sales",
+                  "url": "https://www.bloomberg.com/news/articles/2026-09-17/mcdonald-s-value-menu-to-get-revamp-as-us-growth-slows",
+                  "eng": "",
+                  "body": "McDonald's is planning to revamp its value-menu strategy to revive U.S. sales as growth slows, betting that affordable offerings can win back budget-conscious diners."
                 },
                 {
-                  "headline": "Global Central Banks in Focus as BOJ and BOE Follow the Fed",
-                  "url": "https://www.bloomberg.com/markets",
-                  "eng": "BOJ and BOE in focus after the Fed move",
-                  "body": "Attention turns to the Bank of Japan and Bank of England, with policy divergence widening after the Fed's first hike in three years."
+                  "headline": "Argentine Economy Posts First Quarterly Contraction Since 2024",
+                  "url": "https://www.bloomberg.com/news/articles/2026-09-17/argentine-economy-posts-first-quarterly-contraction-since-2024",
+                  "eng": "",
+                  "body": "Argentina's economy contracted in the latest quarter for the first time since 2024, underscoring the strain of austerity under President Javier Milei."
                 }
               ]
             }
@@ -477,16 +483,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "Fed Raises Interest Rates for First Time in Three Years as Inflation Persists",
-                  "url": "https://www.nytimes.com/2026/09/11/business/economy/inflation-cpi-august.html",
-                  "eng": "Fed hikes rates for first time in three years as inflation persists",
-                  "body": "The Federal Reserve raised interest rates a quarter point, its first increase in three years, as persistent inflation outweighed concerns about slowing growth."
+                  "headline": "The Fed, After Raising Rates, Grapples With What Comes Next",
+                  "url": "https://www.nytimes.com/2026/09/17/business/economy/fed-interest-rates-warsh.html",
+                  "eng": "",
+                  "body": "After raising interest rates for the first time in three years, the Federal Reserve faces a difficult question: how much further to tighten without choking off growth."
                 },
                 {
-                  "headline": "Elevated Inflation Kept Pressure on the Fed to Raise Rates",
-                  "url": "https://www.nytimes.com/2026/09/11/business/economy/inflation-cpi-august.html",
-                  "eng": "Elevated inflation pressured the Fed to act",
-                  "body": "Odds of a quarter-point increase surged to 90 percent after August's consumer price data showed inflation running hot."
+                  "headline": "The Global Economy Is Running Out of Wiggle Room",
+                  "url": "https://www.nytimes.com/2026/09/17/business/economy/iran-war-energy-prices.html",
+                  "eng": "",
+                  "body": "Higher energy prices from the Iran war and rising borrowing costs are squeezing the global economy, leaving policymakers with little room to maneuver."
                 }
               ]
             },
@@ -494,16 +500,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "What to Watch After the Fed's First Rate Hike in Three Years",
-                  "url": "https://www.nytimes.com/2026/07/29/business/economy/what-to-watch-at-the-meeting.html",
-                  "eng": "What to watch after the Fed's first hike in three years",
-                  "body": "Policymakers signaled additional increases may be needed to bring inflation back toward the 2 percent target."
+                  "headline": "Bank of England Holds Rates Steady but Warns of Inflation Pressures",
+                  "url": "https://www.nytimes.com/2026/09/17/business/bank-of-england-interest-rates.html",
+                  "eng": "",
+                  "body": "The Bank of England held interest rates steady but warned of lingering inflation pressures, in contrast with the Federal Reserve's move to raise rates."
                 },
                 {
-                  "headline": "Fed Officials Split on Path Ahead as Warsh Reins In Guidance",
-                  "url": "https://www.nytimes.com/live/2026/06/17/business/fed-meeting-warsh-interest-rates",
-                  "eng": "Fed officials split on the path ahead",
-                  "body": "Policymakers remain divided between holding rates and further increases, bracing for higher inflation into next year."
+                  "headline": "King Charles to Meet With A.I. Executives About Safety Risks",
+                  "url": "https://www.nytimes.com/2026/09/17/business/king-charles-ai.html",
+                  "eng": "",
+                  "body": "King Charles is set to meet with artificial-intelligence executives about safety risks, as warnings about advanced AI systems mount."
                 }
               ]
             },
@@ -511,16 +517,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "Oil Prices in Focus as Middle East Tensions Keep Markets on Edge",
-                  "url": "https://www.nytimes.com/topic/destination/saudi-arabia",
-                  "eng": "Oil in focus amid Middle East tensions",
-                  "body": "Brent crude held near $105 a barrel as an Iran-US standoff kept global energy markets on edge."
+                  "headline": "Trump Wanted Canada as the 51st State. He Ended Up Pushing It Toward the E.U.",
+                  "url": "https://www.nytimes.com/2026/09/16/us/politics/trump-canada-51st-state-eu.html",
+                  "eng": "",
+                  "body": "President Trump's aggressive trade tactics toward Canada have backfired, driving Ottawa to deepen its ties with the European Union."
                 },
                 {
-                  "headline": "How Higher Rates Ripple Through Housing and Consumers",
-                  "url": "https://www.nytimes.com/section/business",
-                  "eng": "How higher rates ripple through housing and consumers",
-                  "body": "The Fed's first hike in three years is set to lift borrowing costs for mortgages, auto loans and credit cards."
+                  "headline": "World Bank Courts Private Financing Amid Global Debt Burden",
+                  "url": "https://www.nytimes.com/2026/09/17/business/world-bank-courts-private-financing-amid-global-debt-burden.html",
+                  "eng": "",
+                  "body": "The World Bank is courting private financing as a mounting global debt burden strains the capacity of governments and traditional lenders."
                 }
               ]
             }
@@ -534,16 +540,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "Fed Raises Rates Despite Trump's Demands for Lower Borrowing Costs",
-                  "url": "https://www.washingtonpost.com/business/2026/07/17/trump-wants-rate-cuts-more-fed-officials-say-hikes-could-be-next/",
-                  "eng": "Fed hikes rates despite Trump's pressure for cuts",
-                  "body": "The Federal Reserve raised interest rates a quarter point, defying President Trump's repeated demands for lower borrowing costs as it moved to tame inflation."
+                  "headline": "U.S. will let Iranian leaders attend U.N. General Assembly in New York",
+                  "url": "https://www.washingtonpost.com/politics/2026/09/17/us-will-let-iranian-leaders-attend-un-general-assembly-new-york/",
+                  "eng": "",
+                  "body": "The United States will allow Iranian leaders to attend the U.N. General Assembly in New York, a rare diplomatic opening amid the ongoing war."
                 },
                 {
-                  "headline": "Raising Rates Will Curb Inflation and Maintain Fed Credibility",
-                  "url": "https://www.washingtonpost.com/opinions/2026/09/14/raising-interest-rates-will-curb-inflation-maintain-fed-credibility/",
-                  "eng": "Raising rates curbs inflation and preserves credibility",
-                  "body": "The rate increase may earn the president's enmity, but it signals the central bank remains independent and will not tolerate inflation persistently above target."
+                  "headline": "Microsoft exec called AI the 'largest theft of labor' in history, court records show",
+                  "url": "https://www.washingtonpost.com/business/2026/09/17/microsoft-exec-called-ai-largest-theft-labor-history-court-records-show/",
+                  "eng": "",
+                  "body": "A Microsoft executive privately called AI 'the largest theft of labor' in history, according to court records, amid a legal fight over the technology."
                 }
               ]
             },
@@ -551,16 +557,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "More Fed Officials See Hikes Ahead as Inflation Stays Elevated",
-                  "url": "https://www.washingtonpost.com/business/2026/07/17/trump-wants-rate-cuts-more-fed-officials-say-hikes-could-be-next/",
-                  "eng": "More officials see hikes ahead as inflation stays high",
-                  "body": "A growing number of Fed officials said further rate increases could be needed, with inflation still running well above the 2 percent target."
+                  "headline": "Iran war cost $38 billion through July, report says",
+                  "url": "https://www.washingtonpost.com/politics/2026/09/15/iran-war-cost-38-billion-through-july-report-says/",
+                  "eng": "",
+                  "body": "The war with Iran has cost the United States $38 billion through July, with spending running $2 billion to $3 billion per month, the Congressional Budget Office reported."
                 },
                 {
-                  "headline": "High Inflation Keeps Pressure on the Federal Reserve",
-                  "url": "https://www.washingtonpost.com/opinions/2026/08/12/high-inflation-rate-keeps-pressure-federal-reserve/",
-                  "eng": "High inflation keeps pressure on the Fed",
-                  "body": "Inflation has slowed only modestly, leaving the central bank's sense of urgency to bring prices under control intact."
+                  "headline": "Senate fails to advance crypto bill, dooming the effort this Congress",
+                  "url": "https://www.washingtonpost.com/business/2026/09/15/senate-fails-advance-crypto-bill-dooming-effort-this-congress/",
+                  "eng": "",
+                  "body": "The Senate failed to advance a landmark crypto bill, dooming the effort this Congress after Democrats raised concerns about President Trump's crypto ties."
                 }
               ]
             },
@@ -568,16 +574,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "Warsh Reins In Guidance as Rate Hikes Return",
-                  "url": "https://www.washingtonpost.com/business/2026/07/17/trump-wants-rate-cuts-more-fed-officials-say-hikes-could-be-next/",
-                  "eng": "Warsh reins in guidance as hikes return",
-                  "body": "Nine Fed officials expected at least one hike this year, with six supporting two or more, as Chair Warsh scaled back forward guidance."
+                  "headline": "Republicans have soured on the economy, poll finds",
+                  "url": "https://www.washingtonpost.com/politics/2026/09/15/republicans-have-soured-economy-poll-finds/",
+                  "eng": "",
+                  "body": "Less than a third of Republican voters say the economy is better than a year ago, a new poll finds, a warning sign for the party ahead of the midterms."
                 },
                 {
-                  "headline": "Oil and Inflation Keep Markets on Edge Into Fed Week",
-                  "url": "https://www.washingtonpost.com/business/",
-                  "eng": "Oil and inflation keep markets on edge into Fed week",
-                  "body": "Elevated crude prices and sticky inflation kept investors cautious heading into the central bank's decision."
+                  "headline": "House passes measure intended halt Iran war",
+                  "url": "https://www.washingtonpost.com/national-security/2026/09/15/house-passes-measure-intended-halt-iran-war/",
+                  "eng": "",
+                  "body": "The House passed a measure intended to halt the Iran war, reflecting growing unease with the conflict as its costs mount."
                 }
               ]
             }
@@ -591,16 +597,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "Kevin Warsh Under Mounting Pressure to Raise Rates as US Inflation Persists",
-                  "url": "https://www.ft.com/content/24646e74-9506-4718-b1be-789208db86d9",
-                  "eng": "Warsh under pressure to hike as US inflation persists",
-                  "body": "Fed Chair Kevin Warsh faced mounting pressure to raise rates as inflation persisted, with Evercore ISI's Krishna Guha saying 'a rate hike next week now looks like a go.'"
+                  "headline": "Trump fails to bend the Fed to his will",
+                  "url": "https://www.ft.com/content/fb8e1037-8c48-49d2-809e-950472bcbae5",
+                  "eng": "",
+                  "body": "Kevin Warsh has led the U.S. central bank to its first rate rise since 2023 less than four months into the job, defying Donald Trump's demands for lower borrowing costs."
                 },
                 {
-                  "headline": "US Central Bank Drops Bias for Rate Cuts as Warsh Era Begins",
-                  "url": "https://www.ft.com/content/76c16d57-8546-412d-9b76-0e55e6a79348",
-                  "eng": "Fed drops rate-cut bias as Warsh era begins",
-                  "body": "The Federal Reserve abandoned its easing bias, with US stocks tumbling as traders upped bets that the central bank could raise rates."
+                  "headline": "Fed defies Trump with first rate rise since 2023",
+                  "url": "https://www.ft.com/content/f5ce5c38-76e3-4212-8c60-4c868f6dee70",
+                  "eng": "",
+                  "body": "The Federal Reserve raised interest rates for the first time since 2023, defying pressure from President Trump as it moved to tame persistent inflation."
                 }
               ]
             },
@@ -608,16 +614,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "Wall Street Bets on 2026 Rate Rise as Kevin Warsh Takes Charge",
-                  "url": "https://www.ft.com/content/7a0b2b54-c62b-4498-8b8d-512ef7f2cb5d",
-                  "eng": "Wall Street bets on a 2026 rate rise under Warsh",
-                  "body": "Markets priced in higher borrowing costs by year-end as Kevin Warsh took charge of the Fed and signaled resolve on inflation."
+                  "headline": "China cuts US Treasury holdings to lowest level since 2008",
+                  "url": "https://www.ft.com/content/69f02abc-e0dc-46e5-aa6c-61d209e095d9",
+                  "eng": "",
+                  "body": "China has cut its holdings of U.S. Treasuries to the lowest level since 2008, a gradual unwinding that comes as the rift between the world's two largest economies deepens."
                 },
                 {
-                  "headline": "Oil Price Swings Darken Global Trade Outlook",
-                  "url": "https://www.ft.com/content/9ad38fc0-24bd-4378-997c-4dc215a9a7fd",
-                  "eng": "Oil swings darken the global trade outlook",
-                  "body": "Analysts warned sustained high oil prices could shave 0.5 percentage points off global growth in 2026."
+                  "headline": "US rate rise jolts yen ahead of Bank of Japan meeting",
+                  "url": "https://www.ft.com/content/5226dcb7-d89d-4b68-981f-b2736d7e4dca",
+                  "eng": "",
+                  "body": "The Federal Reserve's rate increase jolted the yen ahead of a Bank of Japan meeting, adding pressure on Tokyo to tighten monetary policy."
                 }
               ]
             },
@@ -625,16 +631,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "Will Kevin Warsh Offer Clues on the Fed's Rate Outlook?",
-                  "url": "https://www.ft.com/content/e4bdee0e-8927-4f2e-b929-8d1c3c9d272d",
-                  "eng": "Will Warsh offer clues on the Fed's rate outlook?",
-                  "body": "Minutes from Warsh's early meetings showed many rate setters were concerned about inflation, raising questions about the path ahead."
+                  "headline": "Ten-year Treasury yield hits highest level since 2007",
+                  "url": "https://www.ft.com/content/5e2327aa-dbd0-4a79-8c99-622a893876d7",
+                  "eng": "",
+                  "body": "The ten-year Treasury yield reached its highest level since 2007 as investors braced for further Fed tightening and elevated inflation."
                 },
                 {
-                  "headline": "Kevin Warsh Seeks to Reassure Investors as US Strains Mount",
-                  "url": "https://www.ft.com/content/40ae9cd3-fbc8-4a55-adaa-c24bc80481c9",
-                  "eng": "Warsh seeks to reassure investors as strains mount",
-                  "body": "Warsh has reduced guidance on future interest rates, seeking to reassure investors even as economic strains build."
+                  "headline": "US passes bill targeting importers of Russian oil",
+                  "url": "https://www.ft.com/content/42ab32f0-8c22-4912-a928-c73552305b7e",
+                  "eng": "",
+                  "body": "The U.S. passed a bill targeting importers of Russian oil, with Trump expected to sign a measure authorizing tariffs of up to 100% on buyers of Moscow's energy supplies."
                 }
               ]
             }
