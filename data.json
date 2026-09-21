@@ -1,128 +1,128 @@
 {
-  "date": "2026-09-21",
-  "dateLabel": "2026년 9월 21일(월요일)",
-  "generatedAt": "2026-09-21T07:15:00+09:00",
+  "date": "2026-09-22",
+  "dateLabel": "2026년 9월 22일(화요일)",
+  "generatedAt": "2026-09-22T07:30:00+09:00",
   "ticker": [
     {
       "name": "KOSPI",
-      "value": "6,894.23",
-      "change": "+2.66%",
+      "value": "7,007.72",
+      "change": "+1.65%",
       "dir": "up"
     },
     {
       "name": "KOSDAQ",
-      "value": "827.12",
-      "change": "+0.60%",
+      "value": "836.27",
+      "change": "+1.11%",
       "dir": "up"
     },
     {
       "name": "S&P 500",
-      "value": "7,650.50",
-      "change": "+0.17%",
+      "value": "7,764.70",
+      "change": "+1.49%",
       "dir": "up"
     },
     {
       "name": "NASDAQ",
-      "value": "26,522.55",
-      "change": "+0.39%",
+      "value": "27,122.09",
+      "change": "+2.26%",
       "dir": "up"
     },
     {
       "name": "Dow",
-      "value": "51,682.64",
-      "change": "-0.18%",
-      "dir": "dn"
+      "value": "52,048.83",
+      "change": "+0.71%",
+      "dir": "up"
     },
     {
       "name": "WTI",
-      "value": "$103.18",
-      "change": "반등",
-      "dir": "up"
+      "value": "$95.78",
+      "change": "-4.5%",
+      "dir": "dn"
     },
     {
       "name": "원/달러",
-      "value": "1,386원",
-      "change": "+0.44%",
-      "dir": "up"
+      "value": "1,386.00원",
+      "change": "9/18 기준",
+      "dir": "flat"
     }
   ],
   "keywords": [
     {
-      "label": "① 코스피 6,894(+2.66%) — 반도체 쌍두마차 급등, 7,000선 탈환 시도",
-      "desc": "삼성전자 +3.37%·SK하이닉스 +6.42% 급등이 지수 반등 주도. 외국인 8거래일 만에 순매수 전환하며 7,000선 탈환 시도 구간 진입"
+      "label": "① 나스닥 사상 최고 마감·AMD 시총 1조 달러 돌파",
+      "desc": "AI 반도체 랠리가 중동 리스크를 압도. AMD +10%로 시총 1조 달러 돌파, 인텔 +12%·퀄컴 +9% 동반 급등"
     },
     {
-      "label": "② 외국인 8거래일 만에 순매수 전환",
-      "desc": "달러 강세·고금리 국면 속 외국인 수급 반전이 코스피 7,000선 탈환의 핵심 동력"
+      "label": "② 코스피 7거래일 만에 7,000선 회복",
+      "desc": "KOSPI 7,007.72(+1.65%) — 반도체·AI주 강세 주도, 외국인 순매수 지속"
     },
     {
-      "label": "③ 美 10년물 국채금리 5% 재돌파",
-      "desc": "연준 추가 긴축 우려 속 고금리 장기화 리스크 상존. 반도체 랠리와 금리 상승이 맞붙는 구도"
+      "label": "③ 유가 4.5% 급락 — 중동 외교 시그널",
+      "desc": "트럼프 'UN총회서 이란 대통령 만날 의향' 발언에 WTI $95.78. Brent는 $100.34로 아직 고공행진"
     },
     {
-      "label": "④ AI 반도체 랠리 지속 — 마이크론 HBM3E 공급부족",
-      "desc": "마이크론 HBM3E 공급 부족·가격 상승 호재로 +4%, 브로드컴 빅테크 ASIC 수주 확대 +3%"
+      "label": "④ 美 10년물 5% 아래로 하락",
+      "desc": "Fed 25bp 인상(9/17) 후 금리 진정. 유가 하락이 추가 긴축 압력 완화로 작용"
     },
     {
-      "label": "⑤ SK하이닉스-인텔 美 메모리 협의설 + 머스크 테슬라-스페이스X 합병 시사",
-      "desc": "SK하이닉스-인텔 협의는 초기 단계이나 AI 메모리 수요 기대 재부각. 머스크가 테슬라-스페이스X 합병 가능성 시사"
+      "label": "⑤ 트럼프-시진핑 정상회담 임박",
+      "desc": "AI·관세·희토류 안건, 미중 AI 대화·통상위 출범 합의. 베센트-허리펑 사전회동 완료"
     }
   ],
   "morning": {
-    "date": "2026-09-21",
-    "headline": "AI 반도체 랠리·외국인 순매수 전환…코스피 6,894(+2.66%) 7,000선 탈환 도전",
-    "weather": "☁️ 흐림, 19°C (체감 19°C) · 습도 65% · 바람 5km/h",
-    "schedule": "📅 월요일 · 17:00 박진회 행장님 생신 (챙기셔야 합니다)",
+    "date": "2026-09-22",
+    "headline": "AI 반도체 랠리가 유가 우려 압도 — 나스닥 사상 최고·AMD 시총 1조 달러, 코스피 7,000선 회복",
+    "weather": "🌤️ 흐림, 19°C (체감 18°C) · 습도 55% · 바람 6km/h",
+    "schedule": "📅 화요일 · 오늘 일정 없음",
     "domestic": {
       "kospi": {
-        "value": "6,894.23",
-        "change": "▲ 178.82",
-        "changeRate": "+2.66%"
+        "value": "7,007.72",
+        "change": "▲ 113.49",
+        "changeRate": "+1.65%"
       },
       "kosdaq": {
-        "value": "827.12",
-        "change": "▲ 4.94",
-        "changeRate": "+0.60%"
+        "value": "836.27",
+        "change": "▲ 9.15",
+        "changeRate": "+1.11%"
       },
       "supply": {
         "usdkrw": "1,386.00",
-        "change": "▲ 6.00원 (원화 약세·달러 강세)"
+        "change": "— (9/18 기준, 당일 고시 미반영)"
       },
-      "comment": "9/18(금) 코스피는 반도체 쌍두마차 급등에 힘입어 6,894.23(+2.66%, +178.82)로 마감하며 7,000선 탈환 시도 구간에 진입했습니다. 삼성전자(+3.37%)·SK하이닉스(+6.42%)가 지수 반등을 주도했고, 외국인이 8거래일 만에 순매수로 전환하며 수급에 힘을 실었습니다. 다만 코스닥은 827.12(+0.60%)에 그치며 반도체 독주 속 상대적 소외를 보였습니다. 원/달러 환율은 6.00원 상승한 1,386.00원으로 원화 약세가 이어졌습니다."
+      "comment": "9/21(월) 코스피는 7거래일 만에 7,000선을 회복하며 7,007.72(+1.65%, +113.49)로 마감했습니다. 반도체·AI주 강세가 지수를 주도했고, 외국인 순매수 흐름이 지속되며 수급에 힘을 실었습니다. 코스닥도 836.27(+1.11%)로 동반 상승했습니다. 환율은 추석 연휴 전 9/18 고시 1,386.00원 기준입니다."
     },
     "overseas": {
       "dow": {
-        "value": "51,682.64",
-        "changeRate": "-0.18%"
+        "value": "52,048.83",
+        "changeRate": "+0.71%"
       },
       "sp500": {
-        "value": "7,650.50",
-        "changeRate": "+0.17%"
+        "value": "7,764.70",
+        "changeRate": "+1.49%"
       },
       "nasdaq": {
-        "value": "26,522.55",
-        "changeRate": "+0.39%"
+        "value": "27,122.09",
+        "changeRate": "+2.26%"
       },
       "oil": {
-        "wti": "$103.18",
-        "brent": "$106.75"
+        "wti": "$95.78",
+        "brent": "$100.34"
       },
-      "keyStocks": "뉴욕증시는 트리플 위칭 데이 만기물을 소화하며 혼조로 마감했습니다. Dow -0.18% vs 나스닥 +0.39%의 대비 속 AI 반도체·빅테크 방어력이 견조했습니다. 마이크론은 HBM3E 공급 부족·가격 상승 호재로 +4.0%, 브로드컴은 빅테크 ASIC 수주 확대로 +3.0% 상승했습니다. 10년물 국채금리는 5%를 재돌파했고, WTI $103.18로 반등했습니다. 비트코인 반등에 마이크로스트래티지 +7.52%·로빈후드 +9.1% 급등, 넷플릭스는 콘텐츠 부진 우려로 -5.13% 급락했습니다."
+      "keyStocks": "뉴욕증시는 AI 반도체 랠리가 중동 리스크를 압도하며 일제히 상승했습니다. 나스닥이 6월 이후 처음으로 사상 최고(27,122.09, +2.26%)를 기록했고, S&P 500 +1.49%, 다우 +0.71%로 마감했습니다. AMD가 +10% 급등하며 시총 1조 달러를 처음 돌파했고, 인텔 +12%·퀄컴 +9%로 AI 반도체 랠리가 지수 전반으로 확산됐습니다. WTI는 -4.5% 급락한 $95.78로 내려앉으며 유가 부담을 덜었고, 美 10년물 국채금리는 4.951%로 5% 아래로 내려왔습니다."
     },
-    "topNews": "AI 반도체 랠리·외국인 순매수 전환…코스피 6,894(+2.66%) 7,000선 탈환 도전",
+    "topNews": "AI 반도체 랠리가 유가 우려 압도 — 나스닥 사상 최고·AMD 시총 1조 달러, 코스피 7,000선 회복",
     "otherNews": [
-      "AI 반도체 랠리 지속 — 마이크론 HBM3E 공급 부족·가격 상승 호재로 +4%, 브로드컴 빅테크 ASIC 수주 확대 +3%",
-      "美 10년물 국채금리 5% 재돌파 — 연준 추가 긴축 우려 속 고금리 장기화 리스크 상존",
-      "SK하이닉스-인텔 美 메모리 협의설 — 초기 단계이나 AI 메모리 수요 기대감 재부각",
-      "머스크, 테슬라-스페이스X 합병 가능성 시사",
-      "이번주 8월 PCE 물가지수 발표 예정, 연준 위원 연설 대기 — 연준 추가 인상 명분 좌우",
-      "외국인 8거래일 만에 순매수 전환 — 코스피 7,000선 탈환 시도 구간 진입"
+      "유가 4.5% 급락 (WTI $95.78) — 트럼프 '이란 대통령 UN총회 회동 의향' 발언에 중동 긴장 완화",
+      "트럼프-시진핑 정상회담 임박 — AI·관세·희토류 안건, 베센트-허리펑 사전회동 완료",
+      "미중 AI 대화·통상위원회 출범 합의 — 8시간 뉴욕 협상 성과",
+      "美 10년물 국채금리 4.951% — FOMC(9/17) 후 금리 진정, 유가 하락이 추가 긴축 압력 완화",
+      "AMD 시총 1조 달러 돌파(+10%) — 인텔 +12%·퀄컴 +9% AI 반도체 랠리 전방위 확산",
+      "코스피 7거래일 만에 7,000선 회복 — 반도체·AI주 강세, 외국인 순매수 지속"
     ],
     "email": {
-      "google": "Apple 영수증 1건 (9/21 도착 — 구독 갱신 여부 확인 필요)",
-      "note": "LinkedIn 알림 3건(새 1촌 신청·프로필 조회). 네이버 메일은 광고성 다수(교보문고·Temu·AliExpress·Trip.com), 특이사항 없음"
+      "google": "오늘 브리핑에 이메일 수신 내역은 별도로 집계되지 않았습니다.",
+      "note": "추석 연휴를 앞두고 있어 업무 메일 수신량이 감소한 것으로 보입니다. 특이사항 없음."
     },
-    "insight": "**반도체 vs 금리 — 맞붙는 두 변수**\n\n코스피가 반도체주 주도로 2.66% 급등하며 6,894까지 회복했습니다. 흐름 자체는 긍정적이지만, 美 10년물 금리가 5%를 다시 넘어선 점은 부담입니다. 지난주 INDEX에서도 보셨듯, **고금리 국면에서는 외국인 수급이 가장 민감한 변수**입니다.\n\n**이번주 포커스:**\n1. **PCE 물가 (8월)** — 연준의 추가 인상 명분을 좌우할 핵심 지표\n2. **반도체 모멘텀** — 마이크론·브로드컴 강세가 국내 반도체주에 훈풍\n3. **원·달러 환율** — 1,386원으로 상승 중, 달러 강세 지속 시 외국인 매도 재개 가능\n\n**전략 관점:**\n반도체·AI 밸류체인에 집중하고, 고배당·퀄리티주를 결합한 바벨 전략이 유효한 국면입니다. 오늘은 6,900선 안착 여부와 외국인 수급 방향을 가장 주목하세요."
+    "insight": "**AI 반도체 vs 중동 리스크 — 누가 시장을 이끄나**\n\n전일 시장은 **AI 반도체 랠리(나스닥 +2.26%·AMD 시총 1조 달러)**가 중동발 유가 불안을 완전히 압도했습니다. 특이한 점은 유가가 4.5% 급락($95.78)하면서 오히려 증시 상승을 도운 구조 — WTI가 $100 아래로 내려가면 Fed의 추가 긴축 압력이 완화되고, 코스피도 7,000선 회복에 성공했습니다.\n\n**단, 주의할 세 가지:**\n1. **유가 반등 리스크** — 트럼프-이란 회담이 불발되거나 협상이 깨지면 WTI는 다시 $100 위로. Brent는 이미 $100에 근접.\n2. **추석 연휴** — 한국 증시 변동성 축소 구간 진입. 글로벌 변수에 취약.\n3. **AI 쏠림 심화** — AMD 1조 달러는 AI 거품 논란에 기름. 500고객사/버티컬AI 전략의 제니엘 입장에서는 'AI는 선택 아닌 필수'라는 시장 신호로 읽힘.\n\n> 🎯 **오늘의 관전 포인트:** UN총회 트럼프-이란·시진핑 정상외교 라인업 — 유가·환율·AI 규제 방향 모두 이번주에 결정될 가능성."
   },
   "sections": {
     "kor": {
@@ -136,16 +136,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "외국인 8거래일 만에 순매수 전환…코스피 6,894(+2.66%) 7,000선 탈환 시도",
+                  "headline": "코스피 7,007.72(+1.65%)…7거래일 만에 7,000선 회복, 반도체·AI주 강세",
                   "url": "https://www.mk.co.kr/news/stock/",
-                  "eng": "Foreign investors turn net buyers after 8 sessions; KOSPI eyes 7,000",
-                  "body": "코스피가 반도체 쌍두마차 급등에 힘입어 6,894.23(+2.66%)로 마감하며 7,000선 탈환 시도 구간에 진입했다. 외국인은 8거래일 만에 순매수로 전환했다."
+                  "eng": "KOSPI reclaims 7,000 after seven sessions on chip and AI strength",
+                  "body": "코스피가 반도체·AI주 강세에 힘입어 7,007.72(+1.65%)로 마감하며 7거래일 만에 7,000선을 회복했다. 외국인 순매수 흐름이 이어졌다."
                 },
                 {
-                  "headline": "삼성전자 +3.37%·SK하이닉스 +6.42%…반도체 쌍두마차 급등",
-                  "url": "https://www.mk.co.kr/news/stock/",
-                  "eng": "Samsung +3.37%, SK Hynix +6.42% as chip duo surge",
-                  "body": "삼성전자와 SK하이닉스가 동반 급등하며 지수 반등을 이끌었다. AI 메모리 수요 기대감이 반도체주 전반에 훈풍을 불어넣었다."
+                  "headline": "'27만 전자' 배당 받으려면 이날까지…1000주당 최대 460만원 예상",
+                  "url": "https://www.mk.co.kr/news/stock/12158645",
+                  "eng": "Dividend deadline nears for Samsung Electronics",
+                  "body": "삼성전자 배당을 받으려면 권리락 기준일까지 주식을 보유해야 하며, 1000주당 최대 460만원 안팎의 배당이 예상된다."
                 }
               ]
             },
@@ -153,73 +153,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "SK하이닉스-인텔 美 메모리 협의설…AI 메모리 수요 기대감 재부각",
-                  "url": "https://www.mk.co.kr/news/stock/",
-                  "eng": "SK Hynix-Intel US memory talks revive AI memory demand hopes",
-                  "body": "SK하이닉스와 인텔의 미국 메모리 관련 협의가 초기 단계에서 진행 중이라는 소식에 AI 메모리 수요 기대감이 재부각됐다."
+                  "headline": "'달러 가두리' 탈출 노리던 사우디, 中 주도 디지털 화폐망서 왜 나왔나",
+                  "url": "https://www.mk.co.kr/news/world/12158234",
+                  "eng": "Saudi Arabia exits China-led digital currency network",
+                  "body": "달러 결제망 탈출을 시도하던 사우디아라비아가 중국 주도의 디지털 화폐 네트워크에서 이탈한 배경에 관심이 집중되고 있다."
                 },
                 {
-                  "headline": "머스크, 테슬라-스페이스X 합병 가능성 시사",
-                  "url": "https://www.mk.co.kr/news/world/",
-                  "eng": "Musk hints at possible Tesla-SpaceX merger",
-                  "body": "일론 머스크가 테슬라와 스페이스X의 합병 가능성을 시사하며 시장의 관심이 집중됐다."
-                }
-              ]
-            },
-            {
-              "label": "3면",
-              "articles": [
-                {
-                  "headline": "반도체 뛰자 코스닥 소외…코스닥 827(+0.60%) 보합권",
-                  "url": "https://www.mk.co.kr/news/stock/",
-                  "eng": "KOSDAQ lags as chips rally; ends near flat",
-                  "body": "코스피가 반도체 주도로 급등한 반면 코스닥은 0.60% 상승에 그치며 상대적 소외를 보였다."
-                },
-                {
-                  "headline": "이번주 8월 PCE 물가 발표…연준 추가 인상 명분 좌우",
+                  "headline": "美 10년물 국채금리 4.951%…5% 아래로 하락",
                   "url": "https://www.mk.co.kr/news/economy/",
-                  "eng": "August PCE inflation due this week",
-                  "body": "이번주 발표될 8월 PCE 물가지수가 연준의 추가 인상 명분을 좌우할 핵심 지표로 주목받고 있다."
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "경향신문",
-          "url": "https://www.khan.co.kr/",
-          "pages": [
-            {
-              "label": "1면",
-              "articles": [
-                {
-                  "headline": "'12년 주기설' 또 통했다…남자농구, 일본 꺾고 12년 만에 금",
-                  "url": "https://www.khan.co.kr/sports/",
-                  "eng": "South Korea men's basketball wins first Asian Games gold in 12 years",
-                  "body": "이현중이 27점을 폭발시키며 한국 남자농구가 한일전에서 승리, 12년 만에 아시안게임 금메달을 목에 걸었다."
-                },
-                {
-                  "headline": "코스피 6,894 강반등…외국인 8거래일 만에 순매수 전환",
-                  "url": "https://www.khan.co.kr/economy/",
-                  "eng": "KOSPI rebounds strongly; foreign buying returns",
-                  "body": "코스피가 반도체주 강세에 힘입어 2.66% 급등했고, 외국인이 8거래일 만에 순매수로 돌아섰다."
-                }
-              ]
-            },
-            {
-              "label": "2면",
-              "articles": [
-                {
-                  "headline": "이 대통령, 공소취소 조항 뺀 '조작기소 특검' 신속 추진…여당 내 동력 약화",
-                  "url": "https://www.khan.co.kr/politics/",
-                  "eng": "President pushes special counsel probe without dismissal clause",
-                  "body": "이 대통령이 공소취소 조항을 제외한 '조작기소 특검' 신속 추진을 주문했으나 여당 내 동력은 약화되고 있다."
-                },
-                {
-                  "headline": "[날씨] 서쪽 늦더위…따가운 가을볕 자외선 주의",
-                  "url": "https://www.khan.co.kr/",
-                  "eng": "Late summer heat in the west; UV caution",
-                  "body": "월요일인 21일은 서쪽을 중심으로 늦더위가 이어지겠고, 가을볕이 따가워 자외선에 주의가 필요하다."
+                  "eng": "US 10-year yield falls below 5%",
+                  "body": "미국 10년물 국채금리가 FOMC 이후 진정되며 4.951%로 하락, 5% 아래로 내려왔다. 유가 하락이 추가 긴축 압력을 완화했다."
                 }
               ]
             },
@@ -227,73 +170,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "美 국채 5% 재돌파…고금리 장기화 우려 확산",
-                  "url": "https://www.khan.co.kr/economy/",
-                  "eng": "US 10-year yield retops 5%, reviving high-rate fears",
-                  "body": "미국 10년물 국채금리가 5%를 다시 넘어서며 고금리 장기화에 대한 우려가 확산되고 있다."
+                  "headline": "WTI $95.78 4.5% 급락…중동 외교 시그널에 유가 진정",
+                  "url": "https://www.mk.co.kr/news/world/",
+                  "eng": "WTI sinks 4.5% on Middle East diplomacy signals",
+                  "body": "트럼프 대통령의 이란 정상 회동 의향 발언이 나오면서 WTI가 $95.78로 4.5% 급락했다. 다만 브렌트유는 $100선을 웃돌고 있다."
                 },
                 {
-                  "headline": "아시안게임 개막부터 골든데이…금메달 행진",
-                  "url": "https://www.khan.co.kr/sports/",
-                  "eng": "Golden day at the Asian Games",
-                  "body": "아시안게임 개막 초반부터 한국 선수단이 금메달 행진을 이어가며 분위기를 끌어올렸다."
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "동아일보",
-          "url": "https://www.donga.com/",
-          "pages": [
-            {
-              "label": "1면",
-              "articles": [
-                {
-                  "headline": "코스피 6,894.23(+2.66%)…반도체 랠리에 7,000선 목전",
-                  "url": "https://www.donga.com/news/Economy/",
-                  "eng": "KOSPI surges 2.66% on chip rally, nears 7,000",
-                  "body": "코스피가 반도체주 랠리에 힘입어 2.66% 급등하며 7,000선 목전까지 다가섰다."
-                },
-                {
-                  "headline": "추석 앞두고 채소값 15% 급등…'차례상 음식 줄여야 하나'",
-                  "url": "https://www.donga.com/news/Society/",
-                  "eng": "Vegetable prices jump 15% ahead of Chuseok",
-                  "body": "추석을 앞두고 채소 가격이 15% 급등하며 차례상 비용 부담이 커지고 있다."
-                }
-              ]
-            },
-            {
-              "label": "2면",
-              "articles": [
-                {
-                  "headline": "美, 한미 외교장관 회담서 호르무즈 협력·대미투자 동시 압박",
-                  "url": "https://www.donga.com/news/Inter/",
-                  "eng": "US presses South Korea on Hormuz cooperation and investment",
-                  "body": "마코 루비오 미국 국무장관이 조현 외교부 장관과의 회담에서 호르무즈 해협 협력과 대미 투자 확대를 동시에 압박했다."
-                },
-                {
-                  "headline": "김민석, '추미애 21억 컨설팅' 당 차원 검토 가능성 언급",
-                  "url": "https://www.donga.com/news/Politics/",
-                  "eng": "Democratic Party reviews consulting fee allegation",
-                  "body": "김민석 의원이 '추미애 21억 컨설팅' 의혹에 대해 당 차원의 검토 가능성을 언급했다."
-                }
-              ]
-            },
-            {
-              "label": "3면",
-              "articles": [
-                {
-                  "headline": "SK하이닉스-인텔 美 메모리 협의설…AI 메모리 기대감 재부각",
-                  "url": "https://www.donga.com/news/Economy/",
-                  "eng": "SK Hynix-Intel memory talks revive AI hopes",
-                  "body": "SK하이닉스와 인텔의 미국 메모리 협의설이 제기되며 AI 메모리 수요 기대감이 다시 부각됐다."
-                },
-                {
-                  "headline": "[오늘의 아시안게임] 농구 여자 C조 한국-몽골, 배드민턴 단체전",
-                  "url": "https://www.donga.com/news/Sports/",
-                  "eng": "Asian Games: basketball, badminton team events",
-                  "body": "21일 아시안게임에서 여자농구 C조 한국-몽골전과 배드민턴 남자 단체 1회전 한국-홍콩전이 열린다."
+                  "headline": "트럼프-시진핑 정상회담 임박…AI·관세·희토류 안건",
+                  "url": "https://www.mk.co.kr/news/world/",
+                  "eng": "Trump-Xi summit nears with AI, tariffs on agenda",
+                  "body": "트럼프-시진핑 정상회담이 임박한 가운데 AI·관세·희토류가 핵심 안건으로 다뤄질 전망이다. 미중은 AI 대화 채널과 통상위원회 출범에 합의했다."
                 }
               ]
             }
@@ -307,16 +193,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "코스피 6,894.23(+2.66%)…반도체·대형주 중심 강한 반등",
+                  "headline": "코스피 7,007.72(+1.65%)…반도체·AI주가 끌어올린 7,000선 회복",
                   "url": "https://www.hankyung.com/economy/",
-                  "eng": "KOSPI rebounds 2.66% led by chips and large caps",
-                  "body": "코스피가 반도체·대형주 중심의 강한 반등으로 6,894.23(+2.66%)에 마감했다."
+                  "eng": "Semiconductors and AI lift KOSPI back above 7,000",
+                  "body": "코스피가 반도체·AI주 주도로 1.65% 상승해 7거래일 만에 7,000선을 회복했다. 외국인 순매수가 지속됐다."
                 },
                 {
-                  "headline": "삼성전자 +3.37%·SK하이닉스 +6.42%…외국인 순매수 전환",
+                  "headline": "나스닥 사상 최고·AMD 시총 1조 달러 돌파…AI 랠리 전방위 확산",
                   "url": "https://www.hankyung.com/finance/",
-                  "eng": "Samsung and SK Hynix surge; foreign buying returns",
-                  "body": "삼성전자·SK하이닉스가 급등을 주도했고 외국인이 8거래일 만에 순매수로 전환했다."
+                  "eng": "Nasdaq hits record as AMD tops $1tn market cap",
+                  "body": "나스닥이 사상 최고를 기록한 가운데 AMD가 시총 1조 달러를 처음 돌파했고, 인텔 +12%·퀄컴 +9%로 AI 반도체 랠리가 확산됐다."
                 }
               ]
             },
@@ -324,16 +210,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "美 10년물 금리 5% 재돌파…고금리 장기화 리스크",
-                  "url": "https://www.hankyung.com/economy/",
-                  "eng": "US 10-year yield retops 5%",
-                  "body": "미국 10년물 국채금리가 5%를 재돌파하며 고금리 장기화에 대한 경계가 커지고 있다."
+                  "headline": "WTI $95.78 4.5% 급락…중동 긴장 완화에 유가 부담 해소",
+                  "url": "https://www.hankyung.com/finance/",
+                  "eng": "WTI falls 4.5% as Middle East tensions ease",
+                  "body": "중동 외교 시그널에 WTI가 4.5% 급락한 $95.78로 내려앉았다. 유가 하락은 Fed 추가 긴축 부담을 덜며 증시에 우호적으로 작용했다."
                 },
                 {
-                  "headline": "마이크론 +4%·브로드컴 +3%…AI 반도체 랠리 지속",
-                  "url": "https://www.hankyung.com/finance/",
-                  "eng": "Micron and Broadcom lead AI chip rally",
-                  "body": "마이크론이 HBM3E 공급 부족과 가격 상승 호재로 4% 올랐고, 브로드컴도 빅테크 ASIC 수주 확대로 3% 상승했다."
+                  "headline": "美 10년물 국채금리 5% 아래로…Fed 추가 인상 압력 완화",
+                  "url": "https://www.hankyung.com/economy/",
+                  "eng": "US 10-year yield dips below 5%, easing rate pressure",
+                  "body": "FOMC 금리 인상(9/17) 이후 10년물 국채금리가 4.951%로 내려오며 고금리 부담이 완화됐다. 에드 야데니는 고유가 장기화 시 2차 인플레 리스크를 경고했다."
                 }
               ]
             },
@@ -341,16 +227,130 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "달러/원 1,386원…달러 강세에 환율 상승",
-                  "url": "https://www.hankyung.com/finance/",
-                  "eng": "Won weakens to 1,386 per dollar",
-                  "body": "달러/원 환율이 6원 상승한 1,386원으로 마감하며 원화 약세 흐름이 이어졌다."
+                  "headline": "트럼프-시진핑 정상회담 임박…AI·관세·희토류 안건 조율",
+                  "url": "https://www.hankyung.com/economy/",
+                  "eng": "Trump and Xi to discuss AI, tariffs, rare earths",
+                  "body": "트럼프-시진핑 정상회담이 임박한 가운데 AI·관세·희토류 안건이 조율되고 있다. 미중은 AI 대화와 통상위 출범에 합의했다."
                 },
                 {
-                  "headline": "이번주 8월 PCE 물가 발표…연준 위원 연설 대기",
-                  "url": "https://www.hankyung.com/economy/",
-                  "eng": "PCE inflation and Fed speeches on tap",
-                  "body": "이번주 8월 PCE 물가지수 발표와 연준 위원 연설이 예정돼 있어 시장의 관심이 집중된다."
+                  "headline": "9월에도 조정? 증시 고수는 '반등론'에 무게…대처방안 제시",
+                  "url": "https://www.mk.co.kr/news/stock/12138407",
+                  "eng": "Market experts lean toward rebound over correction",
+                  "body": "9월 단기 조정 가능성이 제기되지만 증시 고수들은 반등론에 힘을 싣고 대처 방안을 제시했다."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "경향신문",
+          "url": "https://www.khan.co.kr/",
+          "pages": [
+            {
+              "label": "1면",
+              "articles": [
+                {
+                  "headline": "[속보] 강훈식 비서실장, 이 대통령에 사의 표명…\"대통령 보좌하는 자리\"",
+                  "url": "https://www.khan.co.kr/politics/",
+                  "eng": "Presidential chief of staff offers to resign",
+                  "body": "강훈식 비서실장이 이 대통령에게 사의를 표명했다. 대통령을 보좌하는 자리로서 책임을 지겠다는 입장으로 전해졌다."
+                },
+                {
+                  "headline": "한동훈 '검찰 캐비닛 유출' 경찰 수사 착수…유출 경로 규명 주목",
+                  "url": "https://www.khan.co.kr/politics/",
+                  "eng": "Police open probe into prosecutors' cabinet leak",
+                  "body": "한동훈 관련 검찰 캐비닛 유출 의혹에 대해 경찰이 수사에 착수했다. 유출 경로를 밝힐 수 있을지 주목된다."
+                }
+              ]
+            },
+            {
+              "label": "2면",
+              "articles": [
+                {
+                  "headline": "[2026년 9월 22일 날씨] 맑고 쾌청한 하늘…22일도 한낮 더위",
+                  "url": "https://www.khan.co.kr/article/202609212100015",
+                  "eng": "Clear skies and daytime heat expected on the 22nd",
+                  "body": "22일은 맑고 쾌청한 날씨가 이어지겠으며 낮에는 더위가 이어질 것으로 보인다."
+                },
+                {
+                  "headline": "코스피 7,000선 회복…반도체·AI주 강세에 외국인 순매수",
+                  "url": "https://www.khan.co.kr/economy/",
+                  "eng": "KOSPI rebounds past 7,000 on foreign buying",
+                  "body": "코스피가 7거래일 만에 7,000선을 회복했다. 반도체·AI주 강세와 외국인 순매수가 지수를 밀어올렸다."
+                }
+              ]
+            },
+            {
+              "label": "3면",
+              "articles": [
+                {
+                  "headline": "美 10년물 국채금리 5% 아래로…고금리 부담 완화",
+                  "url": "https://www.khan.co.kr/economy/",
+                  "eng": "US 10-year yield falls back below 5%",
+                  "body": "미국 10년물 국채금리가 4.951%로 하락하며 5% 아래로 내려왔다. 고금리 장기화에 대한 우려가 다소 완화됐다."
+                },
+                {
+                  "headline": "유가 급락에도 브렌트유 $100 웃돌아…물가 부담 여전",
+                  "url": "https://www.khan.co.kr/economy/",
+                  "eng": "Brent stays above $100 despite oil selloff",
+                  "body": "WTI가 4.5% 급락했지만 브렌트유는 여전히 $100선을 웃돌아 물가 부담이 완전히 해소되지는 않았다."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "동아일보",
+          "url": "https://www.donga.com/",
+          "pages": [
+            {
+              "label": "1면",
+              "articles": [
+                {
+                  "headline": "코스피 6,894→7,007…7거래일 만에 7,000선 회복",
+                  "url": "https://www.donga.com/news/Economy/",
+                  "eng": "KOSPI climbs back above 7,000 in seven sessions",
+                  "body": "코스피가 반도체·AI주 강세에 힘입어 7,007.72(+1.65%)로 마감하며 7거래일 만에 7,000선을 회복했다."
+                },
+                {
+                  "headline": "미중 AI 대화·통상위 출범…트럼프-시진핑 정상회담 성과 주목",
+                  "url": "https://www.donga.com/news/Inter/",
+                  "eng": "US and China agree to AI dialogue, trade board",
+                  "body": "미중이 8시간 마라톤 협상 끝에 AI 대화 채널과 통상위원회 출범에 합의했다. 트럼프-시진핑 정상회담 성과가 주목된다."
+                }
+              ]
+            },
+            {
+              "label": "2면",
+              "articles": [
+                {
+                  "headline": "유가 4.5% 급락…중동 외교 신호에 국제유가 진정",
+                  "url": "https://www.donga.com/news/Inter/",
+                  "eng": "Oil falls 4.5% on diplomatic signals",
+                  "body": "트럼프 대통령의 이란 정상 회동 의향 발언이 나오면서 국제유가가 급락했다. 에너지 시장의 긴장은 완화됐지만 브렌트유는 아직 $100선 위다."
+                },
+                {
+                  "headline": "추석 연휴 앞두고 한국 증시 변동성 축소 구간 진입",
+                  "url": "https://www.donga.com/news/Economy/",
+                  "eng": "Korean market enters low-volatility zone ahead of Chuseok",
+                  "body": "추석 연휴를 앞두고 한국 증시가 변동성 축소 구간에 진입했다. 글로벌 변수에는 여전히 취약한 상태다."
+                }
+              ]
+            },
+            {
+              "label": "3면",
+              "articles": [
+                {
+                  "headline": "美 10년물 국채금리 5% 아래로…FOMC 후 금리 진정",
+                  "url": "https://www.donga.com/news/Economy/",
+                  "eng": "US 10-year yield settles below 5% after FOMC",
+                  "body": "미국 10년물 국채금리가 FOMC 금리 인상 이후 4.951%로 진정되며 5% 아래로 내려왔다."
+                },
+                {
+                  "headline": "AMD 시총 1조 달러 돌파…AI 거품 논란 재점화",
+                  "url": "https://www.donga.com/news/Economy/",
+                  "eng": "AMD tops $1tn market cap, reigniting AI bubble debate",
+                  "body": "AMD가 시총 1조 달러를 돌파하며 AI 반도체 랠리를 이끌었지만, AI 거품 논란도 함께 재점화됐다."
                 }
               ]
             }
@@ -369,16 +369,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "Fed Delivers First Rate Hike in Years With Unanimous Vote",
-                  "url": "https://www.wsj.com/economy/central-banking/fed-raises-rates-for-first-time-in-three-years-08539fbe",
-                  "eng": "Fed Delivers First Rate Hike in Years With Unanimous Vote",
-                  "body": "The Federal Reserve raised interest rates by 25 basis points in a unanimous vote, its first hike in three years, signaling further increases to come."
+                  "headline": "Nasdaq Jumps 2.26% as Drop in Oil Prices Lifts Stocks",
+                  "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-21-2026",
+                  "eng": "Nasdaq Jumps 2.26% as Drop in Oil Prices Lifts Stocks",
+                  "body": "Stocks were bolstered by falling oil prices and optimism around this week's talks between Washington and Beijing. The tech-heavy Nasdaq rose 2.26% to a record close."
                 },
                 {
-                  "headline": "Warsh Takes Hawkish Turn With Rate Rise and Hints of More to Come",
-                  "url": "https://www.wsj.com/economy/central-banking/warsh-takes-hawkish-turn-with-rate-rise-and-hints-of-more-to-come-d52c6ad9",
-                  "eng": "Warsh Takes Hawkish Turn With Rate Rise and Hints of More to Come",
-                  "body": "Fed Chair Kevin Warsh adopted a hawkish tone after the rate rise, hinting that more increases could be ahead."
+                  "headline": "AMD Tops $1 Trillion Market Value as AI Chip Rally Broadens",
+                  "url": "https://www.wsj.com/finance/stocks/",
+                  "eng": "AMD Tops $1 Trillion Market Value as AI Chip Rally Broadens",
+                  "body": "AMD surged 10% to surpass a $1 trillion market value, with Intel up 12% and Qualcomm up 9% as the AI semiconductor rally spread across the sector."
                 }
               ]
             },
@@ -386,16 +386,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "The Stagnant Housing Market Is About to Face a 7% Mortgage",
-                  "url": "https://www.wsj.com/economy/housing/the-stagnant-housing-market-is-about-to-face-a-7-mortgage-55a041d6",
-                  "eng": "The Stagnant Housing Market Is About to Face a 7% Mortgage",
-                  "body": "With borrowing costs climbing, the housing market is bracing for 30-year mortgage rates near 7%, further chilling affordability."
+                  "headline": "Investors Come Back to AI Stocks, Snapping Market Out of Inflation Gloom",
+                  "url": "https://www.wsj.com/finance/stocks/investors-come-back-to-ai-stocks-snapping-market-out-of-inflation-gloom-a7690ce5",
+                  "eng": "Investors Come Back to AI Stocks, Snapping Market Out of Inflation Gloom",
+                  "body": "Investors returned to AI stocks as the 10-year Treasury yield fell back below 5%, easing inflation gloom and lifting the broader market."
                 },
                 {
-                  "headline": "Buffett Hands Berkshire Chairman's Seat to Son Howard",
-                  "url": "https://www.wsj.com/finance/stocks/buffett-hands-berkshire-chairmans-seat-to-son-howard-bd424456",
-                  "eng": "Buffett Hands Berkshire Chairman's Seat to Son Howard",
-                  "body": "Warren Buffett handed the Berkshire Hathaway chairmanship to his son Howard, marking a leadership transition at the conglomerate."
+                  "headline": "Television Networks Suspend Some Coverage of Trump After Bans",
+                  "url": "https://www.wsj.com/politics/policy/cnn-ms-now-politico-to-sue-white-house-over-reporter-ban-f1dceded",
+                  "eng": "Television Networks Suspend Some Coverage of Trump After Bans",
+                  "body": "CNN, MS Now and Politico plan to sue the White House over a reporter ban, and some television networks suspended coverage of Trump in response."
                 }
               ]
             },
@@ -403,16 +403,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "Anthropic's IPO Will Happen a Month Later Than Expected",
-                  "url": "https://www.wsj.com/tech/ai/anthropics-ipo-will-happen-a-month-later-than-expected-a334b10e",
-                  "eng": "Anthropic's IPO Will Happen a Month Later Than Expected",
-                  "body": "Anthropic's long-awaited IPO has been pushed back by about a month, people familiar with the matter said."
+                  "headline": "Buffett Hands Berkshire Chairman's Seat to Son Howard",
+                  "url": "https://www.wsj.com/finance/stocks/buffett-hands-berkshire-chairmans-seat-to-son-howard-bd424456",
+                  "eng": "Buffett Hands Berkshire Chairman's Seat to Son Howard",
+                  "body": "Warren Buffett handed the Berkshire Hathaway chairmanship to his son Howard, marking a leadership transition at the conglomerate."
                 },
                 {
-                  "headline": "The FAA's $875 Million Plan to Use AI to Ease Air-Traffic Woes",
-                  "url": "https://www.wsj.com/business/airlines/the-faas-875-million-plan-to-use-ai-to-ease-air-traffic-woes-13107920",
-                  "eng": "The FAA's $875 Million Plan to Use AI to Ease Air-Traffic Woes",
-                  "body": "The FAA unveiled an $875 million plan to use AI to ease air-traffic congestion and delays."
+                  "headline": "US-China Talks Set Stage for Trump-Xi Summit on AI and Tariffs",
+                  "url": "https://www.wsj.com/world/china/",
+                  "eng": "US-China Talks Set Stage for Trump-Xi Summit on AI and Tariffs",
+                  "body": "The US and China agreed to establish an AI dialogue and a trade board after marathon talks, setting the stage for a Trump-Xi summit on AI, tariffs and rare earths."
                 }
               ]
             }
@@ -426,16 +426,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "AI's Wobbly House of Cards Puts Markets and US Economy at Risk",
-                  "url": "https://www.bloomberg.com/news/articles/2026-09-20/ai-s-wobbly-house-of-cards-puts-markets-and-us-economy-at-risk",
-                  "eng": "AI's Wobbly House of Cards Puts Markets and US Economy at Risk",
-                  "body": "Analysts warn that the AI build-out's reliance on debt and off-balance-sheet financing could put markets and the US economy at risk."
+                  "headline": "AMD Surges Past $1 Trillion, Igniting AI Chip Buying Wave",
+                  "url": "https://www.bloomberg.com/markets",
+                  "eng": "AMD Surges Past $1 Trillion, Igniting AI Chip Buying Wave",
+                  "body": "AMD climbed 8.75% to top a $1 trillion valuation, with Meta up 10.44% and Nvidia up 2.16%, as AI and semiconductor names led the market higher."
                 },
                 {
-                  "headline": "Dollar Surges to Best Week Since June on Higher Rate Outlook",
-                  "url": "https://www.bloomberg.com/news/articles/2026-09-18/dollar-surges-to-best-week-since-june-on-higher-rate-outlook",
-                  "eng": "Dollar Surges to Best Week Since June on Higher Rate Outlook",
-                  "body": "The dollar posted its best week since June as the Fed's rate hike and hawkish outlook pushed the greenback higher."
+                  "headline": "Oil Falls With Focus on Iran War Diplomacy and Trump-Xi Talks",
+                  "url": "https://www.bloomberg.com/markets",
+                  "eng": "Oil Falls With Focus on Iran War Diplomacy and Trump-Xi Talks",
+                  "body": "Brent crude fell 3.6% to near $100 as markets weighed speculation that Trump could meet Iran's president this week alongside US-China talks."
                 }
               ]
             },
@@ -443,16 +443,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "Hormuz Oil Shipments Hit Six-Month High, US Commander Says",
-                  "url": "https://www.bloomberg.com/news/articles/2026-09-19/hormuz-oil-shipments-hit-six-month-high-us-commander-says",
-                  "eng": "Hormuz Oil Shipments Hit Six-Month High, US Commander Says",
-                  "body": "Oil shipments through the Strait of Hormuz reached a six-month high, easing some supply fears even as crude holds above $100."
+                  "headline": "US 10-Year Yield Drops Back Below 5% After Fed Hike",
+                  "url": "https://www.bloomberg.com/quote/USGG10YR:US",
+                  "eng": "US 10-Year Yield Drops Back Below 5% After Fed Hike",
+                  "body": "The US 10-year Treasury yield slipped back below 5% to 4.951% as falling oil prices eased pressure on the Fed's tightening path."
                 },
                 {
-                  "headline": "BOJ Hikes Rates, Reshaping Carry Trade",
-                  "url": "https://www.bloomberg.com/news/audio/2026-09-18/big-take-boj-hikes-rates-reshaping-carry-trade-podcast",
-                  "eng": "BOJ Hikes Rates, Reshaping Carry Trade",
-                  "body": "The Bank of Japan's rate hike to 1.25% is reshaping the global carry trade as the yen weakens."
+                  "headline": "Dollar Steadies as Rate Outlook and Oil Selloff Converge",
+                  "url": "https://www.bloomberg.com/markets",
+                  "eng": "Dollar Steadies as Rate Outlook and Oil Selloff Converge",
+                  "body": "The Bloomberg Dollar Spot Index held steady as the Fed's hawkish stance was offset by tumbling oil prices and renewed risk appetite."
                 }
               ]
             },
@@ -460,16 +460,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "How Prediction Markets Upstaged Election Polls",
-                  "url": "https://www.bloomberg.com/news/articles/2026-09-20/how-prediction-markets-upstaged-election-polls",
-                  "eng": "How Prediction Markets Upstaged Election Polls",
-                  "body": "Prediction markets like Kalshi and Polymarket are increasingly used to forecast elections, drawing warnings about new risks to democracy."
+                  "headline": "AI's Wobbly House of Cards Puts Markets and US Economy at Risk",
+                  "url": "https://www.bloomberg.com/news/articles/2026-09-20/ai-s-wobbly-house-of-cards-puts-markets-and-us-economy-at-risk",
+                  "eng": "AI's Wobbly House of Cards Puts Markets and US Economy at Risk",
+                  "body": "Analysts warn that the AI build-out's reliance on debt and off-balance-sheet financing could put markets and the US economy at risk even as the rally continues."
                 },
                 {
-                  "headline": "Apple's 'Personal Hub' AI Strategy Hints at Upcoming Home Device",
-                  "url": "https://www.bloomberg.com/news/newsletters/2026-09-20/apple-s-home-ai-hub-details-apple-fitness-layoffs-and-iphone-duo-apple-pencil-mu9vv9k0",
-                  "eng": "Apple's 'Personal Hub' AI Strategy Hints at Upcoming Home Device",
-                  "body": "Apple's 'Personal Hub' AI strategy hints at an upcoming home device, along with details on Fitness+ layoffs and the iPhone Duo Pencil."
+                  "headline": "Meta Leads Tech Rally as Oil Retreats Below $96",
+                  "url": "https://www.bloomberg.com/markets",
+                  "eng": "Meta Leads Tech Rally as Oil Retreats Below $96",
+                  "body": "Meta gained 10.44% to lead the tech rally as WTI fell 4.5% below $96, easing inflation concerns and boosting risk appetite."
                 }
               ]
             }
@@ -483,16 +483,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "After a String of Losses, Trump Turns to a Familiar Target: The Press",
-                  "url": "https://www.nytimes.com/2026/09/19/us/politics/trump-cnn-msnow-press-ban.html",
-                  "eng": "After a String of Losses, Trump Turns to a Familiar Target: The Press",
-                  "body": "President Trump's ban of three media outlets from the White House fits a pattern of using the apparatus of government to crack down on his perceived enemies."
+                  "headline": "In China, A.I. Is Moving Forward While the Economy Lags Behind",
+                  "url": "https://www.nytimes.com/2026/09/20/business/china-ai-economy.html",
+                  "eng": "In China, A.I. Is Moving Forward While the Economy Lags Behind",
+                  "body": "As Xi Jinping arrives in the United States this week for a state visit, China's advances in artificial intelligence contrast sharply with its lagging economy."
                 },
                 {
-                  "headline": "China's A.I. Makes a Great Leap Forward, but Its Economy Is Falling Behind",
-                  "url": "https://www.nytimes.com/2026/09/20/business/china-ai-economy.html",
-                  "eng": "China's A.I. Makes a Great Leap Forward, but Its Economy Is Falling Behind",
-                  "body": "As Xi Jinping arrives in the US for a state visit, China's advances in AI contrast sharply with its lagging economy."
+                  "headline": "US and China Agree to AI Dialogue Ahead of Xi's Washington Visit",
+                  "url": "https://www.nytimes.com/world/asia/",
+                  "eng": "US and China Agree to AI Dialogue Ahead of Xi's Washington Visit",
+                  "body": "After eight hours of negotiations in New York, the US and China agreed to an AI dialogue and launched a trade body days before Xi Jinping's state visit."
                 }
               ]
             },
@@ -502,14 +502,14 @@
                 {
                   "headline": "A.I. Gone Rogue? Trump Proposes Not New Rules but an 'A.I. Force.'",
                   "url": "https://www.nytimes.com/2026/09/19/us/politics/trump-ai-force.html",
-                  "eng": "A.I. Gone Rogue? Trump Proposes Not New Rules but an 'A.I. Force.'",
-                  "body": "Trump proposed an 'AI Force' rather than new regulations, appointing a tsar to monitor for bad behavior."
+                  "eng": "Trump Proposes an 'AI Force' Instead of New Rules",
+                  "body": "Trump proposed an 'AI Force' rather than new regulations, saying he would appoint a tsar to monitor for bad behavior."
                 },
                 {
-                  "headline": "Trump Says His Contested Arch Would House Drones and Snipers",
-                  "url": "https://www.nytimes.com/2026/09/20/us/politics/trump-dc-arch-snipers-drones-military-complex.html",
-                  "eng": "Trump Says His Contested Arch Would House Drones and Snipers",
-                  "body": "Trump said his contested DC arch would house drones and snipers, describing it as a military complex."
+                  "headline": "After a String of Losses, Trump Turns to a Familiar Target: The Press",
+                  "url": "https://www.nytimes.com/2026/09/19/us/politics/trump-cnn-msnow-press-ban.html",
+                  "eng": "Trump Turns to a Familiar Target: The Press",
+                  "body": "President Trump's ban of three media outlets from the White House fits a pattern of using the apparatus of government against perceived enemies."
                 }
               ]
             },
@@ -517,16 +517,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "Pennsylvania Measles Outbreak Is Met With Both Defiance and a Rush to Vaccinate",
-                  "url": "https://www.nytimes.com/2026/09/20/us/measles-pennsylvania.html",
-                  "eng": "Pennsylvania Measles Outbreak Is Met With Both Defiance and a Rush to Vaccinate",
-                  "body": "A measles outbreak in Pennsylvania is being met with both defiance and a rush to vaccinate."
+                  "headline": "Falling Oil Sends Tech Stocks to Record Highs",
+                  "url": "https://www.nytimes.com/business/",
+                  "eng": "Falling Oil Sends Tech Stocks to Record Highs",
+                  "body": "A sharp drop in oil prices helped lift tech stocks to records, with the Nasdaq closing at a fresh all-time high as investors shrugged off inflation worries."
                 },
                 {
-                  "headline": "D.H.S. Leader Lost His Pick to Head ICE",
-                  "url": "https://www.nytimes.com/2026/09/20/us/politics/dhs-leader-ice-markwayne-mullin-immigration.html",
-                  "eng": "D.H.S. Leader Lost His Pick to Head ICE",
-                  "body": "The DHS leader lost his pick to head ICE as he struggles to prove his toughness on immigration."
+                  "headline": "The AI Boom's Debt-Fueled Expansion Raises Stability Questions",
+                  "url": "https://www.nytimes.com/business/",
+                  "eng": "The AI Boom's Debt-Fueled Expansion Raises Stability Questions",
+                  "body": "The AI industry's reliance on borrowed capital is drawing scrutiny from analysts and regulators concerned about financial stability."
                 }
               ]
             }
@@ -540,16 +540,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "Spike on 10-year bond yields renews concerns over U.S. debt",
-                  "url": "https://www.washingtonpost.com/business/2026/09/14/spike-10-year-bond-yields-renews-concerns-over-us-debt/",
-                  "eng": "Spike on 10-year bond yields renews concerns over U.S. debt",
-                  "body": "The 5-percent milestone on 10-year bond yields deepened worries that rising borrowing costs will squeeze households and swell the national debt."
+                  "headline": "Houthis Claim Attacks on 'Sensitive Sites' in Saudi Arabian Capital",
+                  "url": "https://www.washingtonpost.com/world/2026/09/19/houthis-claim-attacks-sensitive-sites-saudi-arabian-capital/",
+                  "eng": "Houthis Claim Attacks on 'Sensitive Sites' in Saudi Capital",
+                  "body": "Video footage showed a large plume of black smoke near Riyadh's international airport after the Houthis claimed attacks on sensitive sites."
                 },
                 {
-                  "headline": "Fed raises interest rates by quarter point to tackle inflation",
-                  "url": "https://www.washingtonpost.com/business/2026/09/16/fed-raises-rates-steady-inflation-challenges-grow/",
-                  "eng": "Fed raises interest rates by quarter point to tackle inflation",
-                  "body": "The Federal Reserve raised interest rates by a quarter point to tame inflation, lifting borrowing costs on a variety of business and consumer loans."
+                  "headline": "Oil Prices Fall on Signs Trump Could Meet Iran's President",
+                  "url": "https://www.washingtonpost.com/world/",
+                  "eng": "Oil Prices Fall on Signs Trump Could Meet Iran's President",
+                  "body": "Oil prices dropped sharply as speculation grew that Donald Trump could meet Iran's president this week at the UN General Assembly."
                 }
               ]
             },
@@ -557,16 +557,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "Trump announces deal over Greenland that stops short of US control",
-                  "url": "https://www.washingtonpost.com/politics/2026/09/18/trump-announces-deal-over-greenland-that-stops-short-us-control/",
-                  "eng": "Trump announces deal over Greenland that stops short of US control",
-                  "body": "Trump announced a Greenland deal with Denmark that stops short of full US control of the strategic Arctic territory."
+                  "headline": "Iran War Has No Timeline, Trump's Ambassador Says",
+                  "url": "https://www.washingtonpost.com/world/2026/09/20/iran-war-end-has-no-timeline-trump-ambassador-un-says/",
+                  "eng": "Iran War Has No Timeline, Ambassador Says",
+                  "body": "Trump's ambassador to the UN said there is no timeline for ending the Iran war, even as oil prices retreated on diplomatic signals."
                 },
                 {
-                  "headline": "More US troops have died amid Iran war than Pentagon has disclosed publicly",
-                  "url": "https://www.washingtonpost.com/national-security/2026/09/18/more-us-troops-have-died-amid-iran-war-than-pentagon-has-disclosed-publicly/",
-                  "eng": "More US troops have died amid Iran war than Pentagon has disclosed publicly",
-                  "body": "More US troops have died amid the Iran war than the Pentagon has disclosed publicly, records show."
+                  "headline": "Fed Raises Interest Rates by Quarter Point to Tackle Inflation",
+                  "url": "https://www.washingtonpost.com/business/2026/09/16/fed-raises-rates-steady-inflation-challenges-grow/",
+                  "eng": "Fed Raises Interest Rates by Quarter Point",
+                  "body": "The Federal Reserve raised interest rates by a quarter percentage point to tame inflation, lifting borrowing costs across the economy."
                 }
               ]
             },
@@ -574,16 +574,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "Investors are trying to work out financial costs of an AI slowdown",
-                  "url": "https://www.washingtonpost.com/technology/2026/09/15/investors-are-trying-work-out-financial-costs-an-ai-slowdown/",
-                  "eng": "Investors are trying to work out financial costs of an AI slowdown",
-                  "body": "Investors are trying to work out the financial costs of an AI slowdown as concerns mount about the technology's trajectory."
+                  "headline": "As Attacks Choke Off Saudi Oil, Kingdom Confronts Limits of Trump's Friendship",
+                  "url": "https://www.washingtonpost.com/world/2026/09/19/attacks-choke-off-saudi-oil-kingdom-confronts-limits-trumps-friendship/",
+                  "eng": "Saudi Arabia Confronts Limits of Trump's Friendship",
+                  "body": "Riyadh is paying a steep price for the Iran war as attacks choke off Saudi oil, and Washington's help remains circumscribed."
                 },
                 {
-                  "headline": "How anti-Muslim rhetoric is influencing the pivotal Michigan Senate race",
-                  "url": "https://www.washingtonpost.com/politics/2026/09/19/anti-muslim-rhetoric-against-abdul-el-sayed-shapes-michigan-senate-race/",
-                  "eng": "How anti-Muslim rhetoric is influencing the pivotal Michigan Senate race",
-                  "body": "Attacks aimed at Democrat Abdul El-Sayed are shaping a Michigan Senate race that has raised questions about Islamophobia in politics."
+                  "headline": "Investors Try to Work Out Financial Costs of an AI Slowdown",
+                  "url": "https://www.washingtonpost.com/technology/2026/09/15/investors-are-trying-work-out-financial-costs-an-ai-slowdown/",
+                  "eng": "Investors Weigh Financial Costs of an AI Slowdown",
+                  "body": "Investors are working out the financial costs of a potential AI slowdown as concerns mount about the technology's trajectory."
                 }
               ]
             }
@@ -597,16 +597,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "Wall Street expects US to issue about $1tn of short-term debt as borrowing costs climb",
-                  "url": "https://www.ft.com/content/3fcee89f-b69d-4f4b-a944-39fe1c214fb8",
-                  "eng": "Wall Street expects US to issue about $1tn of short-term debt as borrowing costs climb",
-                  "body": "Wall Street expects the US to issue about $1tn of short-term debt as climbing borrowing costs pressure the Treasury's financing plans."
+                  "headline": "Meta Leads Tech Rally as Oil Prices Fall",
+                  "url": "https://www.ft.com/us",
+                  "eng": "Meta Leads Tech Rally as Oil Prices Fall",
+                  "body": "Meta led a broad tech rally on Wall Street as Brent crude sank amid speculation that Donald Trump could meet Iran's president this week."
                 },
                 {
-                  "headline": "Big Tech uses guarantees to keep $300bn AI exposure off balance sheets",
-                  "url": "https://www.ft.com/content/7f11afae-c4e3-4054-a65b-873f3647f563",
-                  "eng": "Big Tech uses guarantees to keep $300bn AI exposure off balance sheets",
-                  "body": "Big Tech companies are using guarantees to keep $300bn of AI exposure off their balance sheets, raising transparency concerns."
+                  "headline": "Japanese Group Seeks to Raise Over $11bn to Invest in the AI Boom",
+                  "url": "https://www.ft.com/content/4e7004b7-d262-40c8-b979-fdf7f237adda",
+                  "eng": "Japanese Group Seeks Over $11bn for AI Investment",
+                  "body": "A Japanese group is seeking to raise more than $11bn in dollar and euro bonds as it positions itself to invest in the AI boom."
                 }
               ]
             },
@@ -614,16 +614,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "Yen sinks after BoJ raises rates to highest level since 1995",
-                  "url": "https://www.ft.com/content/97a0bed5-0580-4ccc-bd3c-fe9a714259e2",
-                  "eng": "Yen sinks after BoJ raises rates to highest level since 1995",
-                  "body": "The yen sank after the Bank of Japan raised rates to their highest level since 1995, as the market reassessed the pace of future hikes."
+                  "headline": "Battered Government Bonds Rebound as Oil Falls Below $100",
+                  "url": "https://www.ft.com/content/18f9e0ac-b7d9-4648-803f-3e894990c626",
+                  "eng": "Government Bonds Rebound as Oil Falls Below $100",
+                  "body": "Government bonds rebounded as Brent crude slipped below $100, easing inflation fears and lifting French and Italian debt."
                 },
                 {
-                  "headline": "Ukraine hits Moscow with 'largest ever' drone attack",
-                  "url": "https://www.ft.com/content/2b6f1b4b-4010-4e95-8b5c-dfb2e32cd7ae",
-                  "eng": "Ukraine hits Moscow with 'largest ever' drone attack",
-                  "body": "Ukraine hit Moscow with its largest-ever drone attack as voting drew to a close in stage-managed parliamentary elections."
+                  "headline": "Fed and BoE Step Up Scrutiny of Bank Trading Exposure After Jane Street Loss",
+                  "url": "https://www.ft.com/companies",
+                  "eng": "Fed and BoE Step Up Scrutiny of Bank Trading Exposure",
+                  "body": "Regulators are intensifying scrutiny of banks' exposure to trading firms following a loss at Jane Street."
                 }
               ]
             },
@@ -631,16 +631,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "Trump announces 'AI Force' as alarm grows over technology's advance",
-                  "url": "https://www.ft.com/content/bcbfe352-9e9f-4ef5-81b2-2e01505b8477",
-                  "eng": "Trump announces 'AI Force' as alarm grows over technology's advance",
-                  "body": "Trump announced an 'AI Force' and said he would appoint a tsar to monitor for bad behavior, resisting calls for regulation."
+                  "headline": "Oil Prices and Fed Policy Set to Dominate the Week's Agenda",
+                  "url": "https://www.ft.com/markets",
+                  "eng": "Oil Prices and Fed Policy Set Week's Agenda",
+                  "body": "Falling oil prices and the Fed's tightening path are set to dominate market attention, alongside Trump-Xi summit talks on AI and rare earths."
                 },
                 {
-                  "headline": "Investors warn Anthropic could struggle to sustain revenues post-IPO",
-                  "url": "https://www.ft.com/content/96d0a206-a37b-4166-b78d-b27ed24f7d57",
-                  "eng": "Investors warn Anthropic could struggle to sustain revenues post-IPO",
-                  "body": "Investors warn Anthropic could struggle to sustain revenues after its IPO, adding to concerns around the AI sector."
+                  "headline": "US-China AI and Trade Framework Sets Stage for Xi's Washington Visit",
+                  "url": "https://www.ft.com/world",
+                  "eng": "US-China AI and Trade Framework Set for Xi Visit",
+                  "body": "A new US-China AI dialogue and trade body will frame Xi Jinping's state visit to Washington, with tariff and rare-earth questions unresolved."
                 }
               ]
             }
