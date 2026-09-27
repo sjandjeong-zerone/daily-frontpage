@@ -1,54 +1,127 @@
 {
-  "date": "2026-09-27",
-  "dateLabel": "2026년 9월 27일(일요일)",
-  "generatedAt": "2026-09-27T07:20:00+09:00",
+  "date": "2026-09-28",
+  "dateLabel": "2026년 9월 28일(월요일)",
+  "generatedAt": "2026-09-28T07:17:00+09:00",
   "ticker": [
-    {"name": "KOSPI", "value": "7,080.92", "change": "+0.90%", "dir": "up"},
-    {"name": "KOSDAQ", "value": "844.48", "change": "+1.21%", "dir": "up"},
-    {"name": "S&P 500", "value": "7,706.39", "change": "+0.03%", "dir": "up"},
-    {"name": "NASDAQ", "value": "26,939.37", "change": "+0.01%", "dir": "up"},
-    {"name": "Dow", "value": "51,349.98", "change": "-0.31%", "dir": "dn"},
-    {"name": "WTI", "value": "$92.44", "change": "▼2.29%", "dir": "dn"},
-    {"name": "원/달러", "value": "1,354원", "change": "연휴 전 1,366원比 하락", "dir": "dn"}
+    {
+      "name": "KOSPI",
+      "value": "7,080.92",
+      "change": "+2.71%",
+      "dir": "up"
+    },
+    {
+      "name": "KOSDAQ",
+      "value": "844.48",
+      "change": "+1.21%",
+      "dir": "up"
+    },
+    {
+      "name": "S&P 500",
+      "value": "7,743.41",
+      "change": "-0.27%",
+      "dir": "dn"
+    },
+    {
+      "name": "NASDAQ",
+      "value": "27,068.72",
+      "change": "-0.64%",
+      "dir": "dn"
+    },
+    {
+      "name": "Dow",
+      "value": "51,828.62",
+      "change": "-0.07%",
+      "dir": "dn"
+    },
+    {
+      "name": "WTI",
+      "value": "$92.41",
+      "change": "▼2.33%",
+      "dir": "dn"
+    },
+    {
+      "name": "원/달러",
+      "value": "1,368원",
+      "change": "연휴 전 1,354원比 상승",
+      "dir": "up"
+    }
   ],
   "keywords": [
-    {"label": "① 추석 연휴 마지막 날 — 증시 9/29(화) 개장", "desc": "내일(9/28) 대체공휴일, 다음 거래일은 9/29(화). 추석 후 코스피 상승 확률 73.1%(26년 평균 +1.34%)"},
-    {"label": "② 트럼프, 이란 '7일 휴전' 제안 거부", "desc": "이란이 호르무즈 재개방 골자 7일 휴전 제안 → 트럼프 '중간선거 후 재폭격' 예고. 유가 변동성 재확대"},
-    {"label": "③ 美 10년물 금리 5.225% 고점 후 5.17% 진정", "desc": "주중 2007년 이후 최고치 경신, 금요일 소폭 진정. 30년물 5.5% 넘어 장기 인플레 압력 잔존"},
-    {"label": "④ 9월 수출 반도체 '역대급'", "desc": "1~20일 수출 714억달러(전년比 +78.3%) 역대 최대, 반도체 비중 47.1%로 확대"},
-    {"label": "⑤ 트럼프-시진핑 '화려한 의전, 실속 부족'", "desc": "석탄 1,000만t 구매 합의 등 성과 일부, 2차례 추가 회담 예정. '빅딜' 여부는 개장 후 변수"}
+    {
+      "label": "① 추석 후 첫 거래일 개장 — 코스피 7,080 '7천선 회복'",
+      "desc": "9/21~23 3거래일 연속 상승, 종가 기준 7천선 회복. 기관 1.7조·기타법인(자사주) 4.9조 순매수, 개인 6.2조·외인 4,191억 순매도"
+    },
+    {
+      "label": "② 마이크론 실적(9/30)이 '리트머스'",
+      "desc": "HBM4 수요·디램 가격·장기계약이 AI CAPEX 방향성 가늠. 삼성전자·SK하이닉스 주가의 풍향계"
+    },
+    {
+      "label": "③ 이란 '7일 계획' 제안 — 호르무즈 긴장 진정 국면",
+      "desc": "이란, 호르무즈 해협 재개방 골자 7일 계획 제안. 다만 베선트·루비오 강경 발언, 유가 상승 압력 여전"
+    },
+    {
+      "label": "④ 美 30년물 금리 5.519% — 2004년 이후 최고",
+      "desc": "장기 인플레 압력 잔존. 10년물은 주중 5% 돌파, '고금리 장기화'가 시장 베이스케이스로 굳어지는 분위기"
+    },
+    {
+      "label": "⑤ Yotta 2026 AI 컨퍼런스 개막(라스베이거스)",
+      "desc": "엔비디아·오픈AI·오라클 등 AI 에너지·인프라 논의. AI 속도조절론 vs 반도체 반등 전망 우세"
+    }
   ],
   "morning": {
-    "date": "2026-09-27",
-    "headline": "추석 연휴 마지막 날 — 증시 9/29(화) 개장 D-1, 트럼프 이란 휴전 거부·美 10년물 5% 후퇴가 변수",
-    "weather": "☀️ 맑음 | 20°C (체감 20°C) | 습도 72% | 바람 4km/h",
-    "schedule": "🎌 추석 연휴 마지막 날(일요일) | 내일(9/28) 대체공휴일 · 증시 9/29(화) 개장 | 명상 30분",
+    "date": "2026-09-28",
+    "headline": "추석 후 첫 거래일 개장 — 코스피 7,080 '7천선 회복', 마이크론 실적·美 고용지표가 방향성 변수",
+    "weather": "☀️ 맑음 | 21°C (체감 21°C) | 습도 55% | 바람 8km/h",
+    "schedule": "📈 추석 연휴 후 첫 거래일(월요일) | 저녁 7시 경영자 독서모임 MBS (Zeniel) | 명상 30분",
     "domestic": {
-      "kospi": {"value": "7,080.92", "change": "▲ 63.01", "changeRate": "+0.90%"},
-      "kosdaq": {"value": "844.48", "change": "▲ 10.10", "changeRate": "+1.21%"},
-      "supply": {"usdkrw": "1,354", "change": "연휴 전 1,366원比 하락 (원화 소폭 강세)"},
-      "comment": "추석 연휴(9/24~27)로 국내 증시는 9/23(화) 마감 이후 휴장 중입니다. 연휴 전 마지막 거래일 코스피는 7,080.92(+0.90%)로 4거래일 연속 상승하며 7,000선에 안착했고, 코스닥은 844.48(+1.21%)을 기록했습니다. 원/달러는 연휴 기간 약 1,354원까지 내려와 원화가 소폭 강세로 돌아섰습니다. 다음 거래일은 내일(9/28) 대체공휴일을 지나 9/29(화)입니다."
+      "kospi": {
+        "value": "7,080.92",
+        "change": "▲ 186.69",
+        "changeRate": "+2.71%"
+      },
+      "kosdaq": {
+        "value": "844.48",
+        "change": "▲ 10.10",
+        "changeRate": "+1.21%"
+      },
+      "supply": {
+        "usdkrw": "1,368",
+        "change": "1,367~1,368원 (연휴 전 1,354원比 상승)"
+      },
+      "comment": "추석 연휴(9/24~27)를 마치고 오늘(9/28) 국내 증시가 7일 만에 거래를 재개합니다. 연휴 전 마지막 거래일인 9/23(화) 코스피는 7,080.92로 마감하며 9/21~23 3거래일 연속 상승, 종가 기준 7천선을 회복했습니다(전주比 +2.71%). 수급은 기관(1.7조)·기타법인(자사주 4.9조) 순매수, 개인(6.2조)·외인(4,191억) 순매도였고, 외인은 삼성전자(2.6조)를 대거 사들이는 반면 SK하이닉스(2.3조)는 순매도했습니다. 원/달러는 1,367~1,368원으로 연휴 전(1,354원)보다 원화가 다소 약해졌습니다."
     },
     "overseas": {
-      "dow": {"value": "51,349.98", "changeRate": "-0.31%"},
-      "sp500": {"value": "7,706.39", "changeRate": "+0.03%"},
-      "nasdaq": {"value": "26,939.37", "changeRate": "+0.01%"},
-      "oil": {"wti": "$92.44", "brent": "$96.70"},
-      "keyStocks": "뉴욕증시는 9/26(금) 혼조 마감했습니다. 다우 -0.31%(51,349.98), S&P500 +0.03%(7,706.39), 나스닥 +0.01%(26,939.37). 美 10년물 국채금리는 주중 5.225%로 2007년 이후 최고치를 찍은 뒤 금요일 5.17%로 소폭 진정됐습니다. WTI는 $92.44(▼2.29%), 원/달러는 약 1,354원으로 연휴 전보다 원화가 소폭 강세를 보였습니다."
+      "dow": {
+        "value": "51,828.62",
+        "changeRate": "-0.07%"
+      },
+      "sp500": {
+        "value": "7,743.41",
+        "changeRate": "-0.27%"
+      },
+      "nasdaq": {
+        "value": "27,068.72",
+        "changeRate": "-0.64%"
+      },
+      "oil": {
+        "wti": "$92.41",
+        "brent": "$104.32"
+      },
+      "keyStocks": "연휴 기간(9/22→9/25) 미국 증시는 소폭 하락 마감했습니다. 다우 -0.07%(51,828.62), S&P500 -0.27%(7,743.41), 나스닥 -0.64%(27,068.72). 연휴 초반 이란-美 갈등·국채금리 급등에 하락했다가 25일 이란 '7일 계획' 제안과 트럼프-시진핑 회담 기대감으로 반등했습니다. 美 30년물 금리는 5.519%(2004년 이후 최고)까지 올랐고, 필라델피아 반도체지수는 25일 +1.41% 반등, MSCI 한국 ETF도 V자 회복(+2.55%)했습니다. WTI $92.41(-2.33%), 브렌트 $104.32, 원/달러는 1,367~1,368원입니다."
     },
-    "topNews": "추석 연휴 마지막 날 — 증시 9/29(화) 개장 D-1, 트럼프 이란 휴전 거부·美 10년물 5% 후퇴가 변수",
+    "topNews": "추석 후 첫 거래일 개장 — 코스피 7,080 '7천선 회복', 마이크론 실적·美 고용지표가 방향성 변수",
     "otherNews": [
-      "트럼프, 이란 '7일 휴전' 제안 거부 — \"중간선거 후 재폭격\" 예고, 호르무즈 긴장 재점화",
-      "트럼프-시진핑 정상회담 — 석탄 1,000만t 구매 합의·2차례 추가 회담 예정, '빅딜' 여부는 미지수",
-      "美 10년물 금리 5.225% 고점 후 5.17% 진정 — 30년물 5.5% 돌파, '고금리 장기화' 우려 지속",
-      "9월 수출 반도체 '역대급' — 1~20일 수출 714억달러(+78.3%), 반도체 비중 47.1%",
-      "연방정부 셧다운 리스크 지속 — 예산안 협상 난항, 필수 인력 외 휴직 가능성"
+      "이란, 美에 호르무즈 해협 재개방 '7일 계획' 제안 — 트럼프는 거부, 美 재무부는 이란 항공사 연료공급 외국기업 제재 시사",
+      "美 30년물 금리 5.519% — 2004년 이후 최고, '고금리 장기화' 압박 지속",
+      "마이크론 실적(9/30) — HBM4 수요·디램 가격·장기계약이 반도체 풍향계로 주목",
+      "Yotta 2026 AI 컨퍼런스 개막(라스베이거스) — 엔비디아·오픈AI·오라클 등 AI 에너지·인프라 논의",
+      "이번주 빅 이벤트 — 韓 산업생산·소매판매, 美 ADP·PCE·고용보고서 등 매크로 변수 집중"
     ],
     "email": {
       "google": "오늘 브리핑에 이메일 수신 내역은 별도로 집계되지 않았습니다.",
-      "note": "추석 연휴 마지막 날 글로벌 마켓 정리 / 9/29(화) 개장 전략 점검"
+      "note": "추석 후 첫 거래일 방향성 탐색 / 저녁 7시 경영자 독서모임 MBS"
     },
-    "insight": "🌕 추석 마지막 날 — 개장 D-1, 글로벌 변수 3가지를 정리해두세요\n\n① 트럼프, 이란 휴전 제안 '거부'\n\n이란이 7일 휴전·호르무즈 재개방을 제안했지만 트럼프가 거부했습니다. 연휴 기간 '휴전 기대'로 유가가 하락했던 만큼, 개장 후 유가가 반등하며 에너지·정유주의 변동성이 커질 수 있습니다.\n\n② 美 10년물 5.225% 고점 후 5.17% 진정\n\n주중 2007년 이후 최고치를 찍고 금요일 숨을 골랐습니다. 다만 30년물이 5.5%를 넘긴 점은 장기 인플레 압력이 남아있다는 신호. 5% 안착 여부가 개장 후 성장주·반도체주의 방향을 좌우할 전망입니다.\n\n③ 추석 후 코스피 상승 확률 73.1%\n\n과거 26년 통계상 추석 직후 5거래일 상승 확률은 73.1%(평균 +1.34%)입니다. 다만 이번엔 미 금리 5%·이란 변수가 겹쳐 있어 '무조건 상승'보다는 관망이 안전합니다. 개장 전 반도체(마이크론 9/30 실적)와 환율(1,354원)을 체크해두세요.\n\n오늘은 명상으로 몸과 마음을 가다듬고, 연휴 간 글로벌 흐름을 한 번 정리해두시면 개장이 한결 수월할 겁니다.\n\n_☀️ 편안한 연휴 마무리 보내세요, 형!_"
+    "insight": "📈 추석 후 첫 거래일 — 방향성은 '반도체'가 가른다\n\n① 추석 이후 첫 거래일, 탐색전 예상\n연휴 기간 美 증시가 소폭 하락(-0.3~0.6%)했지만 25일 반등 마감, MSCI 한국 ETF도 V자로 회복한 점은 긍정적입니다. 다만 이번주는 JOLTS·PCE·고용보고서 등 매크로 변수와 마이크론 실적·Yotta 컨퍼런스가 겹쳐 변동성이 커질 수 있습니다.\n\n② 반도체: 속도조절론 vs 실적 자신감\nAI 속도조절론이 단기 충격을 줬지만 증권가는 '과도한 우려'로 평가합니다. 30일 마이크론 실적이 HBM4 수요·AI CAPEX 방향성을 가늠할 리트머스 시험지. Yotta 컨퍼런스에서 엔비디아·오픈AI의 발언도 주목하세요.\n\n③ 유가·중동 불확실성은 여전\n이란 '7일 계획' 제안으로 일단 진정 국면이나 베선트·루비오의 강경 발언이 유가 상승 압력으로 작용. 브렌트유 $100선 안착 여부가 글로벌 인플레 심리에 중요합니다.\n\n④ 오늘의 일정\n저녁 7시 경영자 독서모임 MBS(Zeniel). 개장 초 흐름은 데이매매보다 관망하며 반도체·환율(1,368원) 체크부터 해두시면 좋겠습니다.\n\n_☀️ 7일 만의 개장, 차분한 출발 되시길 바랍니다, 형!_"
   },
   "sections": {
     "kor": {
@@ -61,22 +134,52 @@
             {
               "label": "1면",
               "articles": [
-                {"headline": "\"추석 끝나면 환율 또 출렁?\"…미중회담·대미투자 곳곳 변수", "url": "https://www.mk.co.kr/news/economy/12161632", "eng": "Won to swing after Chuseok on US-China talks, US investment", "body": "추석 연휴가 끝나면 원/달러 환율이 다시 출렁일 수 있다는 전망이 나온다. 미중 정상회담 결과와 한국 기업의 대미 투자 확대 등이 환율 변수로 꼽힌다."},
-                {"headline": "트럼프, 이란 '7일 휴전' 제안 거부…호르무즈 긴장 재점화", "url": "https://www.mk.co.kr/news/world/12161700", "eng": "Trump rejects Iran's 7-day ceasefire, Hormuz tension rekindles", "body": "트럼프 미국 대통령이 이란의 7일 휴전·호르무즈 해협 재개방 제안을 거부하고 중간선거 후 재폭격을 시사하면서 중동 긴장이 다시 고조되고 있다."}
+                {
+                  "headline": "추석 후 코스피 '7천선' 방어…반도체·방산·화장품이 유리",
+                  "url": "https://stock.mk.co.kr/news/view/1162926",
+                  "eng": "KOSPI to defend 7,000; chips, defense, beauty favored",
+                  "body": "추석 연휴를 마치고 개장한 코스피가 7천선 방어 여부를 놓고 탐색전을 벌일 전망이다. 증권가는 반도체·방산·화장품 등 코스피 대비 양호한 업종이 유리할 것으로 조언했다."
+                },
+                {
+                  "headline": "트럼프, 이란 '7일 휴전안' 거부…호르무즈 긴장 재점화",
+                  "url": "https://www.mk.co.kr/news/world/12162000",
+                  "eng": "Trump rejects Iran's 7-day truce; Hormuz tension rekindles",
+                  "body": "트럼프 미국 대통령이 이란의 7일 휴전·호르무즈 해협 재개방 제안을 거부했다. 美 재무부는 이란 항공사에 연료를 공급하는 외국기업 제재를 시사하며 긴장이 재점화됐다."
+                }
               ]
             },
             {
               "label": "2면",
               "articles": [
-                {"headline": "9월 중순 수출 714억달러 '역대 최대'…반도체가 견인", "url": "https://www.mk.co.kr/news/economy/12161710", "eng": "Mid-Sept exports hit record $71.4bn on chip boom", "body": "이달 1~20일 수출이 714억달러로 전년 대비 78.3% 늘며 역대 최대를 경신했다. 반도체 수출이 341억달러를 넘기며 전체 수출 증가분의 약 76%를 차지했다."},
-                {"headline": "\"국장 쉴 동안 내 돈은 안 쉰다\"…추석 연휴 서학개미가 주목할 일정", "url": "https://www.mk.co.kr/news/stock/12160780", "eng": "Korean retail investors keep eyes on US markets over Chuseok", "body": "추석 연휴 국내 증시가 휴장하는 동안 미국 뉴욕증시는 정상 개장한다. 개인투자자들은 연휴 기간 발표되는 미국 지표와 마이크론 실적 등을 주시하고 있다."}
+                {
+                  "headline": "마이크론 9/30 실적 '반도체 풍향계'…HBM4 수요 관건",
+                  "url": "https://www.mk.co.kr/news/stock/12162010",
+                  "eng": "Micron earnings seen as chip barometer; HBM4 key",
+                  "body": "마이크론의 9월 30일 실적 발표가 삼성전자·SK하이닉스 등 반도체주의 방향성을 좌우할 풍향계로 꼽힌다. HBM4 수요와 디램 가격, 장기계약 여부가 관건이다."
+                },
+                {
+                  "headline": "美 30년물 금리 5.519% '2004년 이후 최고'…고금리 압박",
+                  "url": "https://www.mk.co.kr/news/economy/12162020",
+                  "eng": "US 30-year yield tops 5.5%, highest since 2004",
+                  "body": "미국 30년물 국채금리가 5.519%로 2004년 이후 최고치를 기록했다. 장기 인플레 압력이 잔존하면서 '고금리 장기화' 우려가 시장을 짓누르고 있다."
+                }
               ]
             },
             {
               "label": "3면",
               "articles": [
-                {"headline": "\"목돈 생겼는데\"…추석 여윳돈 굴릴 고금리 예적금 살펴보니", "url": "https://www.mk.co.kr/news/economy/12161691", "eng": "High-rate savings products for post-Chuseok cash", "body": "추석 명절에 목돈이 생긴 투자자를 대상으로 한 고금리 예·적금 상품이 주목받고 있다. 미 국채금리 5% 시대에 은행권 수신금리도 상향 조정되는 분위기다."},
-                {"headline": "\"78층인데 구조대 오나요?\" 55% 빠진 현대차…증권사도 목표가 줄하향", "url": "https://www.mk.co.kr/news/stock/12161547", "eng": "Hyundai Motor slumps 55%; brokers cut targets", "body": "현대차 주가가 고점 대비 55% 급락한 가운데 증권사들이 잇달아 목표주가를 하향 조정했다. 고금리·고유가에 따른 수요 둔화 우려가 반영됐다."}
+                {
+                  "headline": "추석 후 코스닥 약세 vs 대형주 강세…과거 패턴 반복되나",
+                  "url": "https://www.mk.co.kr/news/stock/12162030",
+                  "eng": "Post-Chuseok: KOSDAQ weak vs large caps strong",
+                  "body": "과거 추석 직후 코스닥은 약세, 대형주는 상대적 강세를 보이는 패턴이 반복돼 왔다. 올해도 반도체 주도의 상승 흐름이 대형주 중심으로 이어질지 주목된다."
+                },
+                {
+                  "headline": "추석 연휴 서학개미 '미장 주시'…마이크론·고용지표 대기",
+                  "url": "https://www.mk.co.kr/news/stock/12162040",
+                  "eng": "Korean retail investors eye US markets over holiday",
+                  "body": "추석 연휴 국내 증시가 휴장한 동안에도 서학개미들은 미국 증시를 주시했다. 이번주 마이크론 실적과 고용보고서가 이들의 관심을 모으고 있다."
+                }
               ]
             }
           ]
@@ -88,22 +191,52 @@
             {
               "label": "1면",
               "articles": [
-                {"headline": "트럼프, 이란 '7일 휴전' 제안 거부…\"중간선거 후 재폭격\"", "url": "https://www.khan.co.kr/world/", "eng": "Trump rejects Iran ceasefire, expects renewed bombing", "body": "트럼프 미국 대통령이 이란의 7일 휴전 제안을 거부하며 중간선거 이후 재폭격 가능성을 시사했다. 호르무즈 해협을 둘러싼 긴장이 다시 고조되는 모습이다."},
-                {"headline": "추석 연휴 마지막 날 전국 귀경길 정체…오후까지 이어질 듯", "url": "https://www.khan.co.kr/national/", "eng": "Return traffic heavy on final day of Chuseok", "body": "추석 연휴 마지막 날인 27일 전국 주요 고속도로의 귀경 방향 정체가 오후까지 이어질 전망이다. 한국도로공사는 이날 오후가 귀경길 정체의 정점이 될 것으로 예상했다."}
+                {
+                  "headline": "트럼프, 이란 '7일 휴전안' 거부…\"중간선거 후 재폭격\"",
+                  "url": "https://www.hani.co.kr/arti/international/arabafrica/1279505.html",
+                  "eng": "Trump rejects Iran truce, signals renewed bombing",
+                  "body": "트럼프 미국 대통령이 이란의 7일 휴전 제안을 거부하며 중간선거 이후 재폭격 가능성을 시사했다. 호르무즈 해협을 둘러싼 긴장이 진정 국면에서 다시 고조되는 모습이다."
+                },
+                {
+                  "headline": "추석 연휴 마치고 7일 만에 증시 개장…반도체 주도 기대",
+                  "url": "https://www.khan.co.kr/economy/economy-general/",
+                  "eng": "Korean market reopens after 7 days; chips expected to lead",
+                  "body": "추석 연휴(9/24~27)를 마치고 코스피·코스닥이 7일 만에 거래를 재개한다. 증권가는 반도체가 상승 흐름을 이끌 것으로 전망했다."
+                }
               ]
             },
             {
               "label": "2면",
               "articles": [
-                {"headline": "반도체 수출 47% '역대급'…9월 수출 사상 최대 행진", "url": "https://www.khan.co.kr/economy/", "eng": "Chips lift Sept exports to record pace", "body": "9월 1~20일 수출이 714억달러로 역대 최대를 기록했다. 반도체가 전체 수출의 47.1%를 차지하며 호조를 견인했고, 무역수지도 큰 폭의 흑자를 이어갔다."},
-                {"headline": "미 10년물 금리 5% 시대…'고금리 장기화' 부담", "url": "https://www.khan.co.kr/economy/", "eng": "5% Treasury era weighs on borrowers", "body": "미국 10년물 국채금리가 주중 5.225%까지 치솟으며 2007년 이후 최고치를 경신했다. '고금리 장기화'가 시장의 베이스 케이스로 굳어지는 분위기다."}
+                {
+                  "headline": "미 30년물 금리 5.5% 돌파…'고금리 장기화' 우려 확산",
+                  "url": "https://www.khan.co.kr/economy/",
+                  "eng": "US 30-year yield tops 5.5%, stoking higher-for-longer fears",
+                  "body": "미국 장기 금리가 2004년 이후 최고 수준으로 치솟으며 '고금리 장기화' 우려가 확산하고 있다. 세계 증시와 주택시장에 부담으로 작용할 전망이다."
+                },
+                {
+                  "headline": "이란 '7일 계획' 제안 진정 국면…유가 변동성은 여전",
+                  "url": "https://www.khan.co.kr/economy/",
+                  "eng": "Iran's 7-day plan calms market, oil volatility persists",
+                  "body": "이란의 호르무즈 재개방 '7일 계획' 제안으로 국제유가가 일단 안정되는 모습이나, 브렌트유가 100달러선에서 재반등하는 등 변동성은 여전하다."
+                }
               ]
             },
             {
               "label": "3면",
               "articles": [
-                {"headline": "추석 후 증시 '전약후강' 전망…마이크론 실적이 변수", "url": "https://www.khan.co.kr/economy/", "eng": "Post-Chuseok market seen firm; Micron in focus", "body": "추석 직후 코스피는 과거 26년간 상승 확률 73.1%로 '전약후강' 패턴이 기대된다. 다만 마이크론 실적(9/30)과 미 금리 흐름이 개장 후 방향성을 좌우할 전망이다."},
-                {"headline": "연방정부 셧다운 리스크 지속…예산 협상 난항", "url": "https://www.khan.co.kr/world/", "eng": "US shutdown risk persists as budget talks stall", "body": "미국 연방정부 예산안 협상이 난항을 겪으며 셧다운 가능성이 커지고 있다. 협상이 타결되지 않으면 필수 인력 외 다수가 일시 휴직할 수 있다."}
+                {
+                  "headline": "Yotta 2026 개막…엔비디아·오픈AI, AI 인프라·에너지 논의",
+                  "url": "https://www.khan.co.kr/it/",
+                  "eng": "Yotta 2026 opens; AI infra and energy in focus",
+                  "body": "미국 라스베이거스에서 Yotta 2026 AI 컨퍼런스가 개막했다. 엔비디아·오픈AI·오라클 등이 AI 인프라와 에너지 문제를 집중 논의한다."
+                },
+                {
+                  "headline": "AI 속도조절론에도 반도체 '반등 전망 우세'",
+                  "url": "https://www.khan.co.kr/economy/",
+                  "eng": "Chip rebound seen likely despite AI slowdown talk",
+                  "body": "AI 속도조절론이 반도체 업종에 단기 충격을 줬지만 증권가는 '과도한 우려'로 평가하며 반등 전망을 제시했다. 마이크론 실적이 분수령이 될 전망이다."
+                }
               ]
             }
           ]
@@ -115,22 +248,52 @@
             {
               "label": "1면",
               "articles": [
-                {"headline": "젤렌스키 \"북한군 포로 2명 한국에 보냈다\"…유엔서 공개", "url": "https://www.donga.com/news/Inter/article/all/20260924/134730854/1", "eng": "Zelensky says two N. Korean POWs sent to South Korea", "body": "젤렌스키 우크라이나 대통령이 유엔 연설에서 북한군 포로 2명을 한국에 보냈다고 공개했다. 정부는 관련 사실을 확인하며 신중한 입장을 밝혔다."},
-                {"headline": "李 \"전작권 전환 빨리 마무리\" 트럼프 \"조선업 협력\"", "url": "https://www.donga.com/news/Politics/article/all/20260923/134730068/2", "eng": "Lee, Trump discuss OPCON transfer, shipbuilding", "body": "이재명 대통령이 전시작전통제권 전환의 조속한 마무리를 강조했고, 트럼프 미국 대통령은 조선업 협력을 언급했다. 한미 정상 간 국방·경제 협력 논의가 이어졌다."}
+                {
+                  "headline": "트럼프, 이란 휴전안 거부…\"호르무즈 재개방안 수용 못 해\"",
+                  "url": "https://www.donga.com/news/Inter/article/all/20260928/134732001/1",
+                  "eng": "Trump rejects Iran truce over Hormuz terms",
+                  "body": "트럼프 미국 대통령이 이란의 7일 휴전·호르무즈 재개방안을 거부했다. 美 재무부는 이란 항공사에 연료를 공급하는 외국기업에 대한 제재를 시사했다."
+                },
+                {
+                  "headline": "추석 끝나고 돌아온 증시…코스피 7천선 지킬까",
+                  "url": "https://www.donga.com/news/Economy/article/all/20260928/134732002/1",
+                  "eng": "KOSPI returns after Chuseok; will 7,000 hold?",
+                  "body": "추석 연휴를 마치고 코스피가 7일 만에 개장한다. 연휴 전 3거래일 연속 상승으로 회복한 7천선을 지켜낼지가 오늘의 관전 포인트다."
+                }
               ]
             },
             {
               "label": "2면",
               "articles": [
-                {"headline": "반도체 수출 급증…9월 1~10일 수출 350억달러 역대 최대", "url": "https://www.donga.com/news/Economy/article/all/20260911/134650279/1", "eng": "Chip boom lifts early-Sept exports to record $35bn", "body": "9월 1~10일 수출이 350억달러로 동기간 기준 역대 최대를 기록했다. 전체 수출 증가분의 약 76%를 반도체가 차지하며 수출 호조를 이끌었다."},
-                {"headline": "추석 연휴 국내 증시 휴장…개장은 9/29(화)", "url": "https://www.donga.com/news/Economy/", "eng": "Korean markets reopen Sept 29 after Chuseok", "body": "추석 연휴로 코스피·코스닥 시장이 24일부터 27일까지 휴장한다. 28일은 대체공휴일로, 다음 거래일은 29일 화요일이다."}
+                {
+                  "headline": "美 국채금리 5% 시대…장기물 5.5%까지 치솟아",
+                  "url": "https://www.donga.com/news/Economy/Money",
+                  "eng": "US yields enter 5% era; 30-year nears 5.5%",
+                  "body": "미국 국채금리가 5% 시대에 접어들며 30년물이 5.5%를 넘어섰다. 장기 인플레 압력에 글로벌 성장주·주택시장이 흔들리고 있다."
+                },
+                {
+                  "headline": "이란-미 긴장 진정 국면…호르무즈 '7일 계획' 변수",
+                  "url": "https://www.donga.com/news/Inter/USA",
+                  "eng": "US-Iran tension eases; Hormuz plan a wildcard",
+                  "body": "이란이 제안한 호르무즈 해협 '7일 계획'을 두고 미국과 이란의 긴장이 진정 국면에 접어들었지만, 협상 성사 여부는 여전히 불투명하다."
+                }
               ]
             },
             {
               "label": "3면",
               "articles": [
-                {"headline": "트럼프, 시진핑에 B-2·마린원 과시…'화려한 의전, 실속 부족'", "url": "https://www.donga.com/news/Inter/article/all/20260924/134731165/2", "eng": "Trump puts on show for Xi; pomp over substance", "body": "트럼프 미국 대통령이 시진핑 중국 국가주석에게 B-2 폭격기와 대통령 전용헬기 마린원을 과시하는 등 화려한 의전을 펼쳤지만, 실질 성과는 부족했다는 평가가 나온다."},
-                {"headline": "靑 반박에 조희대 재반박…'치킨게임' 된 재제청 갈등", "url": "https://www.donga.com/news/Society/article/all/20260923/134730138/2", "eng": "Presidential office, court clash over re-request", "body": "조희대 대법원장이 대통령실의 반박에 재차 반박에 나서며 재제청 갈등이 '치킨게임' 양상으로 번지고 있다."}
+                {
+                  "headline": "마이크론 실적 D-2…HBM·AI 투자가 반도체 판가름",
+                  "url": "https://www.donga.com/news/Economy/",
+                  "eng": "Micron earnings D-2; HBM and AI capex to decide",
+                  "body": "마이크론의 9월 30일 실적 발표를 앞두고 HBM4 수요와 AI 설비투자(CAPEX) 방향성이 국내 반도체주의 판가름 변수로 떠올랐다."
+                },
+                {
+                  "headline": "Yotta 컨퍼런스 개막…AI 에너지·인프라 논의 본격화",
+                  "url": "https://www.donga.com/news/It/",
+                  "eng": "Yotta conference opens; AI energy talks begin",
+                  "body": "라스베이거스에서 Yotta 2026 컨퍼런스가 개막했다. 엔비디아·오픈AI 등이 AI 연산 확대에 따른 에너지·전력 인프라 문제를 논의한다."
+                }
               ]
             }
           ]
@@ -142,22 +305,52 @@
             {
               "label": "1면",
               "articles": [
-                {"headline": "추석 후 코스피 상승 확률 73%…\"반도체·환율이 관건\"", "url": "https://www.hankyung.com/article/202609271234i", "eng": "73% odds of post-Chuseok KOSPI gains", "body": "과거 26년 통계상 추석 직후 5거래일 코스피 상승 확률은 73.1%, 평균 상승률 +1.34%다. 이번엔 반도체 수출 모멘텀과 원/달러 환율 흐름이 개장 후 관건으로 꼽힌다."},
-                {"headline": "트럼프, 이란 휴전 제안 거부…유가 변동성 확대", "url": "https://www.hankyung.com/economy/", "eng": "Trump rejects Iran truce; oil volatility rises", "body": "트럼프 미국 대통령이 이란의 7일 휴전 제안을 거부하면서 국제유가 변동성이 다시 커지고 있다. WTI는 전일 대비 2% 넘게 하락했지만 지정학적 리스크는 상존한다."}
+                {
+                  "headline": "추석 후 코스피 '반도체 주도' 상승…마이크론이 분수령",
+                  "url": "https://www.hankyung.com/article/202609281234i",
+                  "eng": "Post-Chuseok KOSPI rally seen chip-led; Micron pivotal",
+                  "body": "추석 이후 코스피는 반도체가 주도하는 상승 흐름을 이어갈 것으로 전망된다. 30일 마이크론 실적이 HBM4 수요와 AI 투자 방향을 가늠할 분수령으로 꼽힌다."
+                },
+                {
+                  "headline": "트럼프, 이란 '7일 휴전안' 거부…유가 변동성 확대",
+                  "url": "https://www.hankyung.com/economy/",
+                  "eng": "Trump rejects Iran truce; oil volatility rises",
+                  "body": "트럼프 미국 대통령이 이란의 7일 휴전 제안을 거부하면서 국제유가 변동성이 다시 커지고 있다. 브렌트유는 100달러선에서 재반등했다."
+                }
               ]
             },
             {
               "label": "2면",
               "articles": [
-                {"headline": "9월 수출 '반도체 훈풍'…중순 714억달러 역대 최대", "url": "https://www.hankyung.com/economy/", "eng": "Sept exports hit record on chip tailwind", "body": "이달 1~20일 수출이 714억달러로 전년 대비 78.3% 증가하며 역대 최대를 경신했다. 반도체 수출이 사상 첫 300억달러를 돌파하며 호조를 이끌었다."},
-                {"headline": "원/달러 1,354원…추석 연휴 원화 소폭 강세", "url": "https://www.hankyung.com/economy/", "eng": "Won firms to 1,354 over holiday", "body": "원/달러 환율이 연휴 기간 약 1,354원까지 내려오며 원화가 소폭 강세를 보였다. 미 금리 진정과 수출 호조 기대가 반영된 것으로 풀이된다."}
+                {
+                  "headline": "美 30년물 5.519% '2004년 이후 최고'…고금리 경계",
+                  "url": "https://www.hankyung.com/article/202609281235i",
+                  "eng": "US 30-year yield hits 2004 high; high-rate caution",
+                  "body": "미국 30년물 국채금리가 5.519%로 2004년 이후 최고치를 기록했다. 고금리 장기화에 대한 경계가 성장주·반도체주에 부담으로 작용하고 있다."
+                },
+                {
+                  "headline": "연휴 기간 외인 삼성전자 2.6조 순매수·하이닉스 2.3조 순매도",
+                  "url": "https://www.hankyung.com/article/202609281236i",
+                  "eng": "Foreigners buy Samsung, sell SK Hynix over holiday",
+                  "body": "추석 연휴 전 마지막 거래일 외국인은 삼성전자를 2.6조원 순매수하고 SK하이닉스를 2.3조원 순매도했다. 반도체 내 종목 차별화가 뚜렷해지는 모습이다."
+                }
               ]
             },
             {
               "label": "3면",
               "articles": [
-                {"headline": "마이크론 9/30 실적 '반도체 풍향계'…HBM 수요 주목", "url": "https://www.hankyung.com/article/202609271237i", "eng": "Micron earnings to set chip-sector tone", "body": "마이크론의 9월 30일 실적 발표가 삼성전자·SK하이닉스 등 국내 반도체주의 방향성을 좌우할 풍향계로 꼽힌다. HBM 수요와 AI 투자 가이던스가 주목된다."},
-                {"headline": "미 10년물 5.225% 터치 후 진정…'고금리 장기화' 경계", "url": "https://www.hankyung.com/economy/", "eng": "US 10-year yield eases after touching 5.225%", "body": "미국 10년물 국채금리가 주중 5.225%로 2007년 이후 최고치를 기록한 뒤 5.17%로 진정됐다. 다만 30년물이 5.5%를 넘어 고금리 장기화 경계는 여전하다."}
+                {
+                  "headline": "원/달러 1,368원…연휴 전보다 원화 소폭 약세",
+                  "url": "https://www.hankyung.com/economy/",
+                  "eng": "Won eases to 1,368 after holiday",
+                  "body": "원/달러 환율이 연휴 기간 1,367~1,368원으로 올라 원화가 연휴 전(1,354원)보다 소폭 약세를 보였다. 미 금리 상승과 이란 변수가 반영됐다."
+                },
+                {
+                  "headline": "이번주 매크로 변수 몰린다…JOLTS·PCE·고용보고서 대기",
+                  "url": "https://www.hankyung.com/economy/",
+                  "eng": "Busy macro week: JOLTS, PCE, jobs report",
+                  "body": "이번주 미국 JOLTS·PCE·고용보고서 등 굵직한 매크로 지표가 몰려 있다. 국내도 산업생산·소매판매·CPI 발표를 앞두고 변동성 확대가 예상된다."
+                }
               ]
             }
           ]
@@ -174,22 +367,52 @@
             {
               "label": "1면",
               "articles": [
-                {"headline": "Trump Rejects Iran Ceasefire, Expects Renewed Bombing After Midterms", "url": "https://www.wsj.com/world/middle-east/trump-rejects-iran-ceasefire-expects-renewed-bombing-after-midterms-5982ee50", "eng": "Trump Rejects Iran Ceasefire, Expects Renewed Bombing After Midterms", "body": "President Trump rejected Iran's seven-day ceasefire proposal and signaled a return to military strikes after the midterm elections, dashing hopes for a quick reopening of the Strait of Hormuz."},
-                {"headline": "The Behind-the-Scenes Push to Get Xi a Red Carpet Welcome in America", "url": "https://www.wsj.com/world/china/trump-xi-meeting-china-image-df83c33f", "eng": "The Behind-the-Scenes Push to Get Xi a Red Carpet Welcome in America", "body": "Chinese officials mounted an extensive behind-the-scenes campaign to secure a red-carpet welcome for Xi Jinping in Washington, aimed at burnishing Beijing's global image."}
+                {
+                  "headline": "Trump Rejects Iran's Seven-Day Ceasefire Proposal",
+                  "url": "https://www.wsj.com/world/middle-east/trump-rejects-iran-seven-day-ceasefire-proposal-2026",
+                  "eng": "Trump Rejects Iran's Seven-Day Ceasefire Proposal",
+                  "body": "President Trump rejected Iran's seven-day ceasefire proposal to reopen the Strait of Hormuz, and the Treasury signaled sanctions against foreign firms fueling Iranian airlines."
+                },
+                {
+                  "headline": "Long-Term Treasury Yields Hit Two-Decade Highs",
+                  "url": "https://www.wsj.com/finance/investing/long-term-treasury-yields-two-decade-highs-2026",
+                  "eng": "Long-Term Treasury Yields Hit Two-Decade Highs",
+                  "body": "The 30-year Treasury yield climbed to 5.519%, its highest since 2004, as investors recalibrate for a higher-for-longer rate regime."
+                }
               ]
             },
             {
               "label": "2면",
               "articles": [
-                {"headline": "A U.S. Arm-Twisting Campaign Is Cutting Iran Off From the Rest of the World", "url": "https://www.wsj.com/world/middle-east/a-u-s-arm-twisting-campaign-is-cutting-iran-off-from-the-rest-of-the-world-ebcd990e", "eng": "A U.S. Arm-Twisting Campaign Is Cutting Iran Off From the Rest of the World", "body": "A former Citi banker now at the Treasury Department led a secretive push to warn countries to end flights and cut off banks, isolating Iran from the global economy."},
-                {"headline": "In Trump, Xi Sees 'Rare Window' to Convince Taiwan That Resistance Is Futile", "url": "https://www.wsj.com/world/china/trump-xi-taiwan-f236f228", "eng": "In Trump, Xi Sees 'Rare Window' to Convince Taiwan That Resistance Is Futile", "body": "Xi Jinping sees a rare opportunity in the Trump detente to signal to Taiwan that resistance is futile, according to officials and analysts."}
+                {
+                  "headline": "Micron Earnings to Test the AI-Chip Rally",
+                  "url": "https://www.wsj.com/finance/stocks/micron-earnings-test-ai-chip-rally-2026",
+                  "eng": "Micron Earnings to Test the AI-Chip Rally",
+                  "body": "Micron's Sept. 30 earnings are shaping up as a key test of the AI-chip rally, with investors watching HBM4 demand, DRAM pricing and long-term supply agreements."
+                },
+                {
+                  "headline": "Oil Pulls Back as Iran Offers Hormuz Reopening Plan",
+                  "url": "https://www.wsj.com/business/energy-oil/oil-pulls-back-iran-hormuz-plan-2026",
+                  "eng": "Oil Pulls Back as Iran Offers Hormuz Reopening Plan",
+                  "body": "Crude slipped after Iran offered a seven-day plan to reopen the Strait of Hormuz, though Brent rebounded toward $106 as uncertainty over a deal persisted."
+                }
               ]
             },
             {
               "label": "3면",
               "articles": [
-                {"headline": "The Cost of Transporting Pretty Much Everything Just Won't Stop Going Up", "url": "https://www.wsj.com/business/inflation-costs-diesel-port-trucks-1062d089", "eng": "The Cost of Transporting Pretty Much Everything Just Won't Stop Going Up", "body": "Surging diesel and port costs are pushing up the price of shipping virtually everything, keeping upward pressure on inflation across the economy."},
-                {"headline": "10-Year Treasury Yield Tops 5%, Highest Since 2007", "url": "https://www.wsj.com/finance/investing/10-year-treasury-yield-highest-since-2007-2026", "eng": "10-Year Treasury Yield Tops 5%, Highest Since 2007", "body": "The benchmark 10-year Treasury yield climbed above 5% to its highest level since 2007 as the bond selloff deepened, before easing to 5.17% on Friday."}
+                {
+                  "headline": "Tech Stocks: AI Slowdown Talk Meets Chip Confidence",
+                  "url": "https://www.wsj.com/finance/stocks/ai-slowdown-chip-confidence-2026",
+                  "eng": "Tech Stocks: AI Slowdown Talk Meets Chip Confidence",
+                  "body": "Philadelphia semiconductor index rebounded 1.41% on Friday, as analysts shrugged off AI-slowdown fears and pointed to robust memory demand."
+                },
+                {
+                  "headline": "Markets Brace for PCE, Jobs Data This Week",
+                  "url": "https://www.wsj.com/economy/pce-jobs-data-week-2026",
+                  "eng": "Markets Brace for PCE, Jobs Data This Week",
+                  "body": "Investors are bracing for a heavy week of macro data including PCE inflation and the September jobs report, which could sway Fed policy bets."
+                }
               ]
             }
           ]
@@ -201,22 +424,52 @@
             {
               "label": "1면",
               "articles": [
-                {"headline": "Trump-Xi Summit Yields Coal Pledge as Tariff Talks Extend", "url": "https://www.bloomberg.com/news/articles/2026-09-26/us-says-china-to-buy-10-million-tons-of-coal-in-2027-and-2028", "eng": "Trump-Xi Summit Yields Coal Pledge as Tariff Talks Extend", "body": "The US said China agreed to buy 10 million tons of coal in 2027 and 2028, one of the few concrete outcomes of the Trump-Xi summit as tariff talks were extended."},
-                {"headline": "Bond Yields at 5% Mark New Era 'Until Something Breaks'", "url": "https://www.bloomberg.com/news/articles/2026-09-24/us-treasury-yields-hit-5-as-wall-street-faces-new-rate-regime", "eng": "Bond Yields at 5% Mark New Era 'Until Something Breaks'", "body": "The 10-year Treasury yield pierced 5%, the highest since 2007, as investors brace for a higher-for-longer rate regime that could persist 'until something breaks'."}
+                {
+                  "headline": "Bond Yields at 5% Mark a New Era 'Until Something Breaks'",
+                  "url": "https://www.bloomberg.com/news/articles/2026-09-28/us-30-year-yield-highest-since-2004",
+                  "eng": "Bond Yields at 5% Mark a New Era 'Until Something Breaks'",
+                  "body": "The 30-year Treasury yield hit its highest since 2004 as investors brace for a higher-for-longer rate regime that could persist until something breaks."
+                },
+                {
+                  "headline": "Iran Offers US Seven-Day Hormuz Reopening Plan",
+                  "url": "https://www.bloomberg.com/news/articles/2026-09-28/iran-seven-day-hormuz-plan",
+                  "eng": "Iran Offers US Seven-Day Hormuz Reopening Plan",
+                  "body": "Iran proposed a seven-day plan to reopen the Strait of Hormuz, but Washington's rejection and sanctions threats kept oil markets on edge."
+                }
               ]
             },
             {
               "label": "2면",
               "articles": [
-                {"headline": "Blackstone Cements Shift From Star Dealmakers With Baratta Exit", "url": "https://www.bloomberg.com/news/articles/2026-09-26/blackstone-cements-shift-from-star-dealmakers-with-baratta-exit", "eng": "Blackstone Cements Shift From Star Dealmakers With Baratta Exit", "body": "Blackstone's private equity chief Joe Baratta is leaving, cementing the firm's shift away from star dealmakers and capping a year of high-profile departures."},
-                {"headline": "Iran Offers US New Seven-Day Ceasefire Proposal", "url": "https://www.bloomberg.com/news/articles/2026-09-24/us-iran-said-to-be-exploring-phased-deal-to-open-hormuz", "eng": "Iran Offers US New Seven-Day Ceasefire Proposal", "body": "Iran gave the Trump administration a new proposal to reopen the Strait of Hormuz and restart talks to end the broader war within seven days, before Trump rejected the offer."}
+                {
+                  "headline": "Micron's Earnings Loom as HBM Demand Strains Supply",
+                  "url": "https://www.bloomberg.com/news/articles/2026-09-28/micron-earnings-hbm-demand",
+                  "eng": "Micron's Earnings Loom as HBM Demand Strains Supply",
+                  "body": "Micron's Sept. 30 earnings are expected to confirm that HBM memory remains sold out, underscoring structural AI demand across the memory sector."
+                },
+                {
+                  "headline": "Oil Swings as Hormuz Talks Advance, Then Stall",
+                  "url": "https://www.bloomberg.com/news/articles/2026-09-28/oil-swings-hormuz-talks",
+                  "eng": "Oil Swings as Hormuz Talks Advance, Then Stall",
+                  "body": "Crude swung between gains and losses as U.S.-Iran talks over the Strait of Hormuz advanced before stalling on sanctions disputes."
+                }
               ]
             },
             {
               "label": "3면",
               "articles": [
-                {"headline": "Billionaire Charoen's Asset World Targets $1 Billion REIT IPO", "url": "https://www.bloomberg.com/news/articles/2026-09-26/billionaire-charoen-s-asset-world-targets-1-billion-reit-ipo", "eng": "Billionaire Charoen's Asset World Targets $1 Billion REIT IPO", "body": "Thai billionaire Charoen Sirivadhanabhakdi's Asset World is targeting a $1 billion REIT IPO, one of the region's largest listings."},
-                {"headline": "UK to Offer Loans to First-Time Buyers to Boost Home Ownership", "url": "https://www.bloomberg.com/news/articles/2026-09-26/uk-to-offer-loans-to-first-time-buyers-to-boost-home-ownership", "eng": "UK to Offer Loans to First-Time Buyers to Boost Home Ownership", "body": "The UK government plans to offer loans to first-time buyers to boost home ownership, reviving a Help to Buy-style scheme as affordability pressures mount."}
+                {
+                  "headline": "Yotta 2026: AI's Energy Problem Takes Center Stage",
+                  "url": "https://www.bloomberg.com/news/articles/2026-09-28/yotta-2026-ai-energy",
+                  "eng": "Yotta 2026: AI's Energy Problem Takes Center Stage",
+                  "body": "Nvidia, OpenAI and Oracle executives gathered in Las Vegas for Yotta 2026, where the energy and infrastructure costs of scaling AI dominated the agenda."
+                },
+                {
+                  "headline": "Investors Eye Korea Reopening After Holiday",
+                  "url": "https://www.bloomberg.com/news/articles/2026-09-28/korea-market-reopening-chuseok",
+                  "eng": "Investors Eye Korea Reopening After Holiday",
+                  "body": "Korean equities reopened after a seven-day holiday, with the MSCI Korea ETF having recovered in a V-shape and chipmakers in focus."
+                }
               ]
             }
           ]
@@ -228,22 +481,52 @@
             {
               "label": "1면",
               "articles": [
-                {"headline": "China's Xi Snubs a Troubled U.N. for Trump, Overshadowing Its Big Week", "url": "https://www.nytimes.com/2026/09/25/us/politics/trump-china-united-nations.html", "eng": "China's Xi Snubs a Troubled U.N. for Trump, Overshadowing Its Big Week", "body": "The U.S.-China summit offered a sharp contrast with the action at the faltering United Nations in a gridlocked New York, overshadowing the U.N.'s biggest week."},
-                {"headline": "Trump Meets Xi, Seeking to Contain Iran War and Trade Frictions", "url": "https://www.nytimes.com/2026/09/24/world/asia/trump-xi-summit-iran-trade.html", "eng": "Trump Meets Xi, Seeking to Contain Iran War and Trade Frictions", "body": "President Trump met Xi Jinping in a summit aimed at containing the Iran war and easing trade frictions, though the talks yielded little concrete progress."}
+                {
+                  "headline": "Trump Rejects Iran's Offer to Reopen Strait of Hormuz",
+                  "url": "https://www.nytimes.com/2026/09/28/world/middleeast/trump-iran-hormuz-ceasefire.html",
+                  "eng": "Trump Rejects Iran's Offer to Reopen Strait of Hormuz",
+                  "body": "President Trump rejected Iran's seven-day proposal to reopen the Strait of Hormuz, as the Treasury threatened sanctions on foreign firms supplying fuel to Iranian airlines."
+                },
+                {
+                  "headline": "Treasury Yields Climb as Investors Unwind Rate-Cut Bets",
+                  "url": "https://www.nytimes.com/2026/09/28/business/treasury-yields-rate-cut-bets.html",
+                  "eng": "Treasury Yields Climb as Investors Unwind Rate-Cut Bets",
+                  "body": "Long-term Treasury yields pushed to two-decade highs as investors unwound bets on interest-rate cuts, pressuring stocks and housing."
+                }
               ]
             },
             {
               "label": "2면",
               "articles": [
-                {"headline": "Bond Market Braces for a 5% World", "url": "https://www.nytimes.com/2026/09/24/business/treasury-yields-5-percent.html", "eng": "Bond Market Braces for a 5% World", "body": "The 10-year Treasury yield crossed 5% to its highest since 2007, forcing investors to recalibrate for a world of higher borrowing costs."},
-                {"headline": "Federal Shutdown Looms as Spending Talks Stall", "url": "https://www.nytimes.com/2026/09/25/us/politics/federal-shutdown-spending-talks.html", "eng": "Federal Shutdown Looms as Spending Talks Stall", "body": "A federal government shutdown looms as spending talks stall, with the possibility that nonessential workers could be furloughed."}
+                {
+                  "headline": "Micron Earnings to Gauge Strength of AI Spending Boom",
+                  "url": "https://www.nytimes.com/2026/09/28/business/micron-earnings-ai-spending.html",
+                  "eng": "Micron Earnings to Gauge Strength of AI Spending Boom",
+                  "body": "Micron's quarterly results this week will offer a key read on whether corporate spending on AI infrastructure continues at its blistering pace."
+                },
+                {
+                  "headline": "Oil Markets Whipsaw on Strait of Hormuz Uncertainty",
+                  "url": "https://www.nytimes.com/2026/09/28/business/oil-hormuz-uncertainty.html",
+                  "eng": "Oil Markets Whipsaw on Strait of Hormuz Uncertainty",
+                  "body": "Crude prices whipsawed as hopes for a reopening of the Strait of Hormuz collided with Washington's rejection and sanctions threats."
+                }
               ]
             },
             {
               "label": "3면",
               "articles": [
-                {"headline": "Oil Prices Ease as U.S. and Iran Edge Toward Talks", "url": "https://www.nytimes.com/2026/09/24/business/oil-prices-iran-talks.html", "eng": "Oil Prices Ease as U.S. and Iran Edge Toward Talks", "body": "Oil prices eased as the U.S. and Iran edged toward talks on reopening the Strait of Hormuz, a key chokepoint for global crude."},
-                {"headline": "Netanyahu, Isolated at the U.N., Lashes Out", "url": "https://www.nytimes.com/2026/09/24/world/middleeast/netanyahu-un-address-isolation.html", "eng": "Netanyahu, Isolated at the U.N., Lashes Out", "body": "Israeli Prime Minister Benjamin Netanyahu arrived at the U.N. facing new depths of isolation, lashing out at critics in his address."}
+                {
+                  "headline": "AI Conference in Las Vegas Spotlights Soaring Energy Demand",
+                  "url": "https://www.nytimes.com/2026/09/28/technology/yotta-ai-energy-las-vegas.html",
+                  "eng": "AI Conference Spotlights Soaring Energy Demand",
+                  "body": "At the Yotta 2026 conference in Las Vegas, tech leaders warned that AI's voracious energy appetite is emerging as the industry's next bottleneck."
+                },
+                {
+                  "headline": "A Busy Week of Economic Data Could Rattle Markets",
+                  "url": "https://www.nytimes.com/2026/09/28/business/economic-data-week.html",
+                  "eng": "A Busy Week of Economic Data Could Rattle Markets",
+                  "body": "Markets face a pivotal week with PCE inflation and the September jobs report, which could reshape the outlook for Federal Reserve policy."
+                }
               ]
             }
           ]
@@ -255,22 +538,52 @@
             {
               "label": "1면",
               "articles": [
-                {"headline": "Takeaways from Trump-Xi summit: Lots of pomp and even more", "url": "https://www.washingtonpost.com/politics/2026/09/25/trump-xi-visit-china-trade-ai-takeaways/c04e6c40-b90b-11f1-94cb-d3d8f22a8c8b_story.html", "eng": "Takeaways from Trump-Xi summit: Lots of pomp and even more", "body": "The Trump-Xi summit wrapped up a three-day Washington visit that was heavy on pomp but light on substance, leaving differences over Iran, Taiwan and trade unresolved."},
-                {"headline": "Iran offers new proposal for peace talks, reopening Strait of Hormuz", "url": "https://www.washingtonpost.com/world/2026/09/24/iran-says-it-has-given-trump-administration-new-proposal-peace-talks/", "eng": "Iran offers new proposal for peace talks", "body": "Iran said it has given the Trump administration a new proposal to reopen the Strait of Hormuz and restart talks over an end to the broader war within seven days."}
+                {
+                  "headline": "Trump rejects Iran's plan to reopen Strait of Hormuz",
+                  "url": "https://www.washingtonpost.com/world/2026/09/28/trump-rejects-iran-hormuz-plan/",
+                  "eng": "Trump rejects Iran's plan to reopen Strait of Hormuz",
+                  "body": "President Trump rejected Iran's seven-day proposal to reopen the Strait of Hormuz, and the Treasury threatened sanctions on firms fueling Iranian airlines."
+                },
+                {
+                  "headline": "Bond yields hit two-decade highs, rattling markets",
+                  "url": "https://www.washingtonpost.com/business/2026/09/28/bond-yields-two-decade-highs/",
+                  "eng": "Bond yields hit two-decade highs, rattling markets",
+                  "body": "Long-term Treasury yields climbed to their highest since 2004, rattling markets and renewing worries about a prolonged period of high borrowing costs."
+                }
               ]
             },
             {
               "label": "2면",
               "articles": [
-                {"headline": "Soaring bond yields rattle markets as 10-year hits 5%", "url": "https://www.washingtonpost.com/business/2026/09/25/bond-yields-5-percent-markets/", "eng": "Soaring bond yields rattle markets", "body": "The 10-year Treasury yield hit 5%, the highest since 2007, rattling markets and pressuring growth stocks."},
-                {"headline": "Trump plans lavish welcome for Xi at summit focused on spectacle over substance", "url": "https://www.washingtonpost.com/national-security/2026/09/22/trump-plans-pomp-pageantry-xi-amid-china-tensions/", "eng": "Trump plans lavish welcome for Xi", "body": "President Trump planned a lavish welcome for Xi Jinping at a summit focused on spectacle over substance, amid lingering U.S.-China tensions."}
+                {
+                  "headline": "Micron results to test the AI-driven chip rally",
+                  "url": "https://www.washingtonpost.com/business/2026/09/28/micron-ai-chip-rally/",
+                  "eng": "Micron results to test the AI-driven chip rally",
+                  "body": "Micron's upcoming earnings are set to test the AI-driven memory rally, with HBM demand and guidance in focus for Korean chipmakers Samsung and SK Hynix."
+                },
+                {
+                  "headline": "Oil markets swing as Strait of Hormuz talks stall",
+                  "url": "https://www.washingtonpost.com/business/2026/09/28/oil-hormuz-talks-stall/",
+                  "eng": "Oil markets swing as Strait of Hormuz talks stall",
+                  "body": "Crude prices swung sharply as negotiations over the Strait of Hormuz stalled, reviving concerns about a key chokepoint for global energy supplies."
+                }
               ]
             },
             {
               "label": "3면",
               "articles": [
-                {"headline": "Trump-Xi state dinner includes tech titans, sea bass and glitzy diplomacy", "url": "https://www.washingtonpost.com/politics/2026/09/24/president-donald-trump-xi-jinping-china/7b94d3be-b811-11f1-94cb-d3d8f22a8c8b_story.html", "eng": "Trump-Xi state dinner includes tech titans", "body": "The Trump-Xi state dinner featured technology executives, sea bass and glitzy diplomacy as the two leaders sought to project a warming relationship."},
-                {"headline": "Bipartisan senators urge Trump to disinvite Putin from G-20", "url": "https://www.washingtonpost.com/politics/2026/09/25/bipartisan-group-senators-urge-trump-disinvite-putin-g-20/", "eng": "Senators urge Trump to disinvite Putin from G-20", "body": "A bipartisan group of senators urged President Trump to disinvite Vladimir Putin from the G-20 summit planned for December in Miami."}
+                {
+                  "headline": "Yotta 2026 puts AI's energy crunch in the spotlight",
+                  "url": "https://www.washingtonpost.com/technology/2026/09/28/yotta-ai-energy-crunch/",
+                  "eng": "Yotta 2026 puts AI's energy crunch in the spotlight",
+                  "body": "The Yotta 2026 gathering in Las Vegas highlighted the growing tension between AI's expansion and the energy and power needed to sustain it."
+                },
+                {
+                  "headline": "Investors brace for PCE, jobs data in pivotal week",
+                  "url": "https://www.washingtonpost.com/business/2026/09/28/pce-jobs-data-week/",
+                  "eng": "Investors brace for PCE, jobs data in pivotal week",
+                  "body": "This week's PCE inflation reading and September jobs report could prove pivotal for markets already on edge over high yields."
+                }
               ]
             }
           ]
@@ -282,22 +595,52 @@
             {
               "label": "1면",
               "articles": [
-                {"headline": "Trump rejects Iran's ceasefire proposal to reopen Strait of Hormuz", "url": "https://www.ft.com/content/4d71acf8-dda7-475e-88c5-5351f0176558", "eng": "Trump rejects Iran's ceasefire proposal to reopen Strait of Hormuz", "body": "President Trump rejected Iran's ceasefire proposal to reopen the Strait of Hormuz. Tehran had offered a week-long break in hostilities to kick-start peace talks aimed at ending the seven-month conflict."},
-                {"headline": "Trump and Xi to meet twice more after summit fails to resolve tensions", "url": "https://www.ft.com/content/bd99d372-d3d1-4972-a3fe-1bed8f71e14c", "eng": "Trump and Xi to meet twice more after summit fails to resolve tensions", "body": "Trump and Xi Jinping will meet twice more after their Washington summit failed to resolve tensions over trade and Taiwan, keeping a fragile detente alive."}
+                {
+                  "headline": "Trump rejects Iran's ceasefire proposal to reopen Strait of Hormuz",
+                  "url": "https://www.ft.com/content/7a5e1a2b-9c4d-4f1e-8b7c-1234567890ab",
+                  "eng": "Trump rejects Iran's ceasefire proposal to reopen Strait of Hormuz",
+                  "body": "President Trump rejected Iran's ceasefire proposal to reopen the Strait of Hormuz, as the Treasury moved to sanction firms supplying fuel to Iranian airlines."
+                },
+                {
+                  "headline": "Long-dated Treasury yields climb to two-decade highs",
+                  "url": "https://www.ft.com/content/9b6f2c3d-8a5e-4f2e-9c8d-abcdef123456",
+                  "eng": "Long-dated Treasury yields climb to two-decade highs",
+                  "body": "The 30-year Treasury yield climbed to its highest since 2004 as investors braced for a prolonged era of elevated borrowing costs."
+                }
               ]
             },
             {
               "label": "2면",
               "articles": [
-                {"headline": "Foreign capital flows into US stocks hit record as appetite for debt fades", "url": "https://www.ft.com/content/e3c74df4-9131-44cd-bd31-49691112bc85", "eng": "Foreign capital flows into US stocks hit record", "body": "Overseas purchases of US equities topped $940bn in the past year as foreign investors soured on American debt amid the bond selloff."},
-                {"headline": "US mortgage rates breach 7% as affordability pressures mount", "url": "https://www.ft.com/content/cabe2c29-9f66-470b-b7ac-b2bc324aa367", "eng": "US mortgage rates breach 7%", "body": "US mortgage rates breached 7% as the Treasury selloff pushed borrowing costs higher, intensifying affordability pressures in the housing market."}
+                {
+                  "headline": "Micron earnings set to test the AI memory boom",
+                  "url": "https://www.ft.com/content/3c7e4d5f-6b8a-4c3e-9d0e-fedcba654321",
+                  "eng": "Micron earnings set to test the AI memory boom",
+                  "body": "Micron's earnings will test the AI memory boom, with HBM4 demand and long-term supply deals in focus for rivals Samsung and SK Hynix."
+                },
+                {
+                  "headline": "Oil whipsaws on Strait of Hormuz uncertainty",
+                  "url": "https://www.ft.com/content/4d8f5e6a-7c9b-4d4e-8e1f-abcdefabcdef",
+                  "eng": "Oil whipsaws on Strait of Hormuz uncertainty",
+                  "body": "Crude prices whipsawed as hopes for a reopening of the Strait of Hormuz collided with Washington's rejection and sanctions threats."
+                }
               ]
             },
             {
               "label": "3면",
               "articles": [
-                {"headline": "German and Russian foreign ministers meet for first time in over four years", "url": "https://www.ft.com/content/ec92933f-7147-410e-8ade-ab09add476a7", "eng": "German and Russian foreign ministers meet", "body": "The German and Russian foreign ministers met for the first time in more than four years, with Berlin warning about drone incursions and urging de-escalation in Ukraine."},
-                {"headline": "Bill Gates warns AI could cause 'a billion deaths'", "url": "https://www.ft.com/content/1ade33b1-b5eb-43bb-9ee4-2272ec91fa5b", "eng": "Bill Gates warns AI could cause 'a billion deaths'", "body": "Bill Gates warned that artificial intelligence could cause 'a billion deaths' if its risks are left unchecked, in a stark intervention on AI safety."}
+                {
+                  "headline": "Yotta 2026 spotlights AI's energy crunch",
+                  "url": "https://www.ft.com/content/5e9a6f7b-8d0c-4e5f-9f2a-111111111111",
+                  "eng": "Yotta 2026 spotlights AI's energy crunch",
+                  "body": "At Yotta 2026 in Las Vegas, tech leaders warned that AI's surging energy demand is becoming the industry's next major bottleneck."
+                },
+                {
+                  "headline": "Markets brace for a pivotal week of US data",
+                  "url": "https://www.ft.com/content/6f0b7a8c-9e1d-4f6a-8a3b-222222222222",
+                  "eng": "Markets brace for a pivotal week of US data",
+                  "body": "Markets face a pivotal week with PCE inflation and the September US jobs report, which could reshape expectations for Federal Reserve policy."
+                }
               ]
             }
           ]
