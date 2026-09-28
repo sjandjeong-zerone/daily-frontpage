@@ -1,127 +1,127 @@
 {
-  "date": "2026-09-28",
-  "dateLabel": "2026년 9월 28일(월요일)",
-  "generatedAt": "2026-09-28T07:17:00+09:00",
+  "date": "2026-09-29",
+  "dateLabel": "2026년 9월 29일(화요일)",
+  "generatedAt": "2026-09-29T07:16:00+09:00",
   "ticker": [
     {
       "name": "KOSPI",
-      "value": "7,080.92",
-      "change": "+2.71%",
-      "dir": "up"
+      "value": "6,889.74",
+      "change": "-2.70%",
+      "dir": "dn"
     },
     {
       "name": "KOSDAQ",
-      "value": "844.48",
-      "change": "+1.21%",
-      "dir": "up"
+      "value": "822.35",
+      "change": "-2.62%",
+      "dir": "dn"
     },
     {
       "name": "S&P 500",
-      "value": "7,743.41",
-      "change": "-0.27%",
+      "value": "7,683.69",
+      "change": "-0.50%",
       "dir": "dn"
     },
     {
       "name": "NASDAQ",
-      "value": "27,068.72",
-      "change": "-0.64%",
-      "dir": "dn"
+      "value": "27,182.44",
+      "change": "AI 랠리 ▲",
+      "dir": "up"
     },
     {
       "name": "Dow",
-      "value": "51,828.62",
-      "change": "-0.07%",
+      "value": "51,310.75",
+      "change": "-0.06%",
       "dir": "dn"
     },
     {
       "name": "WTI",
-      "value": "$92.41",
-      "change": "▼2.33%",
-      "dir": "dn"
+      "value": "$93.10",
+      "change": "▲0.75%",
+      "dir": "up"
     },
     {
       "name": "원/달러",
-      "value": "1,368원",
-      "change": "연휴 전 1,354원比 상승",
+      "value": "1,358.94",
+      "change": "▲+0.24%",
       "dir": "up"
     }
   ],
   "keywords": [
     {
-      "label": "① 추석 후 첫 거래일 개장 — 코스피 7,080 '7천선 회복'",
-      "desc": "9/21~23 3거래일 연속 상승, 종가 기준 7천선 회복. 기관 1.7조·기타법인(자사주) 4.9조 순매수, 개인 6.2조·외인 4,191억 순매도"
+      "label": "① 코스피 7,000선 붕괴 — 6,889 마감",
+      "desc": "전일 7,080에서 2.70% 급락, 7,000선 이탈. 시장금리(5% 안팎) 상승 부담에 기관·외인 동반 매도"
     },
     {
-      "label": "② 마이크론 실적(9/30)이 '리트머스'",
-      "desc": "HBM4 수요·디램 가격·장기계약이 AI CAPEX 방향성 가늠. 삼성전자·SK하이닉스 주가의 풍향계"
+      "label": "② 삼성전자 30조 분기배당 '배당락일 = 오늘(9/29)'",
+      "desc": "배당기준일 9/30, 배당락일 9/29. 2026년 연간 90~110조 주주환원 계획 일환, 자사주 매입 병행"
     },
     {
-      "label": "③ 이란 '7일 계획' 제안 — 호르무즈 긴장 진정 국면",
-      "desc": "이란, 호르무즈 해협 재개방 골자 7일 계획 제안. 다만 베선트·루비오 강경 발언, 유가 상승 압력 여전"
+      "label": "③ 금값 순간 $150 급락 — 국내 금 110만원선 이탈",
+      "desc": "미 금리 상승으로 금 보유 매력 감소. 안전자산 선호 약화 신호"
     },
     {
-      "label": "④ 美 30년물 금리 5.519% — 2004년 이후 최고",
-      "desc": "장기 인플레 압력 잔존. 10년물은 주중 5% 돌파, '고금리 장기화'가 시장 베이스케이스로 굳어지는 분위기"
+      "label": "④ 유럽 전기차 첫 '골든크로스'",
+      "desc": "8월 유럽 전기차 판매, 휘발유·경유차 처음 추월. 배터리·EV 부품사 수혜 신호탄"
     },
     {
-      "label": "⑤ Yotta 2026 AI 컨퍼런스 개막(라스베이거스)",
-      "desc": "엔비디아·오픈AI·오라클 등 AI 에너지·인프라 논의. AI 속도조절론 vs 반도체 반등 전망 우세"
+      "label": "⑤ 美 국채 10년물 5% 근처 줄다리기 + 나스닥 AI 랠리",
+      "desc": "미중 관세 협상 기대 + AI 모멘텀이 상승 동력, 5% 금리가 밸류에이션 압박"
     }
   ],
   "morning": {
-    "date": "2026-09-28",
-    "headline": "추석 후 첫 거래일 개장 — 코스피 7,080 '7천선 회복', 마이크론 실적·美 고용지표가 방향성 변수",
-    "weather": "☀️ 맑음 | 21°C (체감 21°C) | 습도 55% | 바람 8km/h",
-    "schedule": "📈 추석 연휴 후 첫 거래일(월요일) | 저녁 7시 경영자 독서모임 MBS (Zeniel) | 명상 30분",
+    "date": "2026-09-29",
+    "headline": "코스피 7,000선 붕괴…삼성전자 30조 배당 '배당락일', 금값 급락·美 금리 5% 삼중고",
+    "weather": "🌤️ 구름 조금 | 18°C (체감 17°C) | 습도 60% | 바람 4km/h",
+    "schedule": "📌 오늘 일정 없음 | 삼성전자 배당락일(9/29) | 아침 30분 명상",
     "domestic": {
       "kospi": {
-        "value": "7,080.92",
-        "change": "▲ 186.69",
-        "changeRate": "+2.71%"
+        "value": "6,889.74",
+        "change": "▼ 191.18",
+        "changeRate": "-2.70%"
       },
       "kosdaq": {
-        "value": "844.48",
-        "change": "▲ 10.10",
-        "changeRate": "+1.21%"
+        "value": "822.35",
+        "change": "▼ 22.13",
+        "changeRate": "-2.62%"
       },
       "supply": {
-        "usdkrw": "1,368",
-        "change": "1,367~1,368원 (연휴 전 1,354원比 상승)"
+        "usdkrw": "1,358.94",
+        "change": "+0.24% (전일 1,355.68 대비 상승)"
       },
-      "comment": "추석 연휴(9/24~27)를 마치고 오늘(9/28) 국내 증시가 7일 만에 거래를 재개합니다. 연휴 전 마지막 거래일인 9/23(화) 코스피는 7,080.92로 마감하며 9/21~23 3거래일 연속 상승, 종가 기준 7천선을 회복했습니다(전주比 +2.71%). 수급은 기관(1.7조)·기타법인(자사주 4.9조) 순매수, 개인(6.2조)·외인(4,191억) 순매도였고, 외인은 삼성전자(2.6조)를 대거 사들이는 반면 SK하이닉스(2.3조)는 순매도했습니다. 원/달러는 1,367~1,368원으로 연휴 전(1,354원)보다 원화가 다소 약해졌습니다."
+      "comment": "코스피가 전일 7,080선에서 2.70% 급락하며 7,000선이 무너지고 6,889.74로 마감했습니다. 시장금리(5% 안팎) 상승 부담에 기관과 외국인이 동반 매도에 나섰습니다. 오늘(9/29)은 삼성전자 30조원 분기배당의 '배당락일'로, 배당락 충격과 차익실현 매물이 단기 수급 변동성을 키울 수 있습니다. 삼성전자 270,500원, SK하이닉스 1,768,000원(9/27 기준)이며, 원/달러는 1,358.94원으로 소폭 상승(원화 약세)했습니다."
     },
     "overseas": {
       "dow": {
-        "value": "51,828.62",
-        "changeRate": "-0.07%"
+        "value": "51,310.75",
+        "changeRate": "-0.06%"
       },
       "sp500": {
-        "value": "7,743.41",
-        "changeRate": "-0.27%"
+        "value": "7,683.69",
+        "changeRate": "-0.50%"
       },
       "nasdaq": {
-        "value": "27,068.72",
-        "changeRate": "-0.64%"
+        "value": "27,182.44",
+        "changeRate": "AI 랠리 ▲"
       },
       "oil": {
-        "wti": "$92.41",
-        "brent": "$104.32"
+        "wti": "$93.10",
+        "brent": "$103.42"
       },
-      "keyStocks": "연휴 기간(9/22→9/25) 미국 증시는 소폭 하락 마감했습니다. 다우 -0.07%(51,828.62), S&P500 -0.27%(7,743.41), 나스닥 -0.64%(27,068.72). 연휴 초반 이란-美 갈등·국채금리 급등에 하락했다가 25일 이란 '7일 계획' 제안과 트럼프-시진핑 회담 기대감으로 반등했습니다. 美 30년물 금리는 5.519%(2004년 이후 최고)까지 올랐고, 필라델피아 반도체지수는 25일 +1.41% 반등, MSCI 한국 ETF도 V자 회복(+2.55%)했습니다. WTI $92.41(-2.33%), 브렌트 $104.32, 원/달러는 1,367~1,368원입니다."
+      "keyStocks": "미국 증시는 혼조 마감했습니다. S&P 500은 7,722에서 7,683.69로 -0.5% 하락한 반면, 나스닥은 미중 관세 협상 기대감과 AI 모멘텀에 힘입어 랠리를 이어갔습니다. 美 10년물 국채금리는 5%에 육박했다가 4.939%(-0.14%)로 소폭 후퇴했고, 국제 금값은 순간 $150 가까이 급락하며 $4,259/t.oz로 마감했습니다. WTI $93.10, 브렌트 $103.42, 원/달러 1,358.94원입니다."
     },
-    "topNews": "추석 후 첫 거래일 개장 — 코스피 7,080 '7천선 회복', 마이크론 실적·美 고용지표가 방향성 변수",
+    "topNews": "코스피 7,000선 붕괴…삼성전자 30조 배당 '배당락일', 금값 급락·美 금리 5% 삼중고",
     "otherNews": [
-      "이란, 美에 호르무즈 해협 재개방 '7일 계획' 제안 — 트럼프는 거부, 美 재무부는 이란 항공사 연료공급 외국기업 제재 시사",
-      "美 30년물 금리 5.519% — 2004년 이후 최고, '고금리 장기화' 압박 지속",
-      "마이크론 실적(9/30) — HBM4 수요·디램 가격·장기계약이 반도체 풍향계로 주목",
-      "Yotta 2026 AI 컨퍼런스 개막(라스베이거스) — 엔비디아·오픈AI·오라클 등 AI 에너지·인프라 논의",
-      "이번주 빅 이벤트 — 韓 산업생산·소매판매, 美 ADP·PCE·고용보고서 등 매크로 변수 집중"
+      "유럽 전기차 첫 '골든크로스' — 8월 판매가 휘발유·경유차 처음 추월, 고유가·보조금·중국 공세 3박자",
+      "삼성전자 3Q 30조 배당 D-DAY — 배당기준일 9/30·배당락일 9/29(오늘), 자사주 매입 병행",
+      "'110만원 때 팔걸' — 국제 금값 $150 급락, 국내 금값 110만원선 이탈",
+      "K-방산 유럽 수출 호조 — '미국산보다 더 좋네' 유럽 방산 수요 급증",
+      "삼성전기 세종 4.3조 투자 — AI용 반도체 패키지 기판 증설 발표"
     ],
     "email": {
       "google": "오늘 브리핑에 이메일 수신 내역은 별도로 집계되지 않았습니다.",
-      "note": "추석 후 첫 거래일 방향성 탐색 / 저녁 7시 경영자 독서모임 MBS"
+      "note": "삼성전자 배당락일(9/29) 단기 수급 변동성 관찰 / 일정 없음"
     },
-    "insight": "📈 추석 후 첫 거래일 — 방향성은 '반도체'가 가른다\n\n① 추석 이후 첫 거래일, 탐색전 예상\n연휴 기간 美 증시가 소폭 하락(-0.3~0.6%)했지만 25일 반등 마감, MSCI 한국 ETF도 V자로 회복한 점은 긍정적입니다. 다만 이번주는 JOLTS·PCE·고용보고서 등 매크로 변수와 마이크론 실적·Yotta 컨퍼런스가 겹쳐 변동성이 커질 수 있습니다.\n\n② 반도체: 속도조절론 vs 실적 자신감\nAI 속도조절론이 단기 충격을 줬지만 증권가는 '과도한 우려'로 평가합니다. 30일 마이크론 실적이 HBM4 수요·AI CAPEX 방향성을 가늠할 리트머스 시험지. Yotta 컨퍼런스에서 엔비디아·오픈AI의 발언도 주목하세요.\n\n③ 유가·중동 불확실성은 여전\n이란 '7일 계획' 제안으로 일단 진정 국면이나 베선트·루비오의 강경 발언이 유가 상승 압력으로 작용. 브렌트유 $100선 안착 여부가 글로벌 인플레 심리에 중요합니다.\n\n④ 오늘의 일정\n저녁 7시 경영자 독서모임 MBS(Zeniel). 개장 초 흐름은 데이매매보다 관망하며 반도체·환율(1,368원) 체크부터 해두시면 좋겠습니다.\n\n_☀️ 7일 만의 개장, 차분한 출발 되시길 바랍니다, 형!_"
+    "insight": "📉 코스피 7,000선 재이탈 — 단기 조정 국면 진입\n\n① 배당락일이란 변수\n전일 7,080에서 6,889로 2.7% 급락하며 7,000선이 다시 무너졌습니다. 상승 관성보다 시장금리(5% 안팎) 부담이 더 크게 작용했고, 오늘은 삼성전자 30조 배당의 배당락까지 겹쳐 단기 수급이 출렁일 수 있습니다.\n\n② 다만 하단 지지 재료도 분명합니다\n삼성전자 30조 배당·자사주 매입(연간 90~110조 주주환원)이라는 강한 지지가 있어 6,800~7,000 박스권 흐름을 예상합니다.\n\n③ 눈여겨볼 포인트\n- 美 국채 10년물 5% — 이 레벨 유지 시 글로벌 밸류에이션 부담 지속. 관찰 필요\n- 나스닥 AI 랠리 vs 美국채 금리 — 두 힘의 줄다리기\n- 금값 급락 — 안전자산 선호 약화 신호. 침체 우려보다 금리 인상 영향력 우위?\n- 유럽 EV 골든크로스 — 국내 배터리·전기차 부품사 수혜 구간 진입 신호탄\n\n> *\"시장은 금리 5%의 무게를 재고 있다. 7,000선은 공짜가 아니다. 바닥 확인 전에는 신중한 대응이 필요한 시점.\"*\n\n_📉 배당락 충격과 금리 부담이 겹친 하루, 차분히 관망하며 체크리스트(환율·반도체)부터 챙기시길 바랍니다, 형!_"
   },
   "sections": {
     "kor": {
@@ -135,16 +135,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "추석 후 코스피 '7천선' 방어…반도체·방산·화장품이 유리",
-                  "url": "https://stock.mk.co.kr/news/view/1162926",
-                  "eng": "KOSPI to defend 7,000; chips, defense, beauty favored",
-                  "body": "추석 연휴를 마치고 개장한 코스피가 7천선 방어 여부를 놓고 탐색전을 벌일 전망이다. 증권가는 반도체·방산·화장품 등 코스피 대비 양호한 업종이 유리할 것으로 조언했다."
+                  "headline": "코스피 7,000선 붕괴…6,889 마감, 삼성전자 배당락일 'D-DAY'",
+                  "url": "https://stock.mk.co.kr/news/view/1162927",
+                  "eng": "KOSPI falls below 7,000; Samsung ex-dividend day looms",
+                  "body": "코스피가 전일 7,080선에서 2.70% 급락하며 7,000선이 무너진 채 6,889.74로 마감했다. 시장금리 상승 부담에 기관·외인이 동반 매도에 나섰고, 오늘 삼성전자 배당락일이 단기 수급 변수로 떠올랐다."
                 },
                 {
-                  "headline": "트럼프, 이란 '7일 휴전안' 거부…호르무즈 긴장 재점화",
-                  "url": "https://www.mk.co.kr/news/world/12162000",
-                  "eng": "Trump rejects Iran's 7-day truce; Hormuz tension rekindles",
-                  "body": "트럼프 미국 대통령이 이란의 7일 휴전·호르무즈 해협 재개방 제안을 거부했다. 美 재무부는 이란 항공사에 연료를 공급하는 외국기업 제재를 시사하며 긴장이 재점화됐다."
+                  "headline": "삼성전자 30조 분기배당…배당기준일 9/30, 배당락일 9/29",
+                  "url": "https://www.mk.co.kr/news/stock/12158645",
+                  "eng": "Samsung's 30tn quarterly dividend; ex-date Sept 29",
+                  "body": "삼성전자가 2026년 연간 90조~110조원 주주환원 계획의 일환으로 30조원 규모 분기배당을 확정했다. 배당기준일은 9/30, 배당락일은 오늘(9/29)이다."
                 }
               ]
             },
@@ -152,16 +152,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "마이크론 9/30 실적 '반도체 풍향계'…HBM4 수요 관건",
-                  "url": "https://www.mk.co.kr/news/stock/12162010",
-                  "eng": "Micron earnings seen as chip barometer; HBM4 key",
-                  "body": "마이크론의 9월 30일 실적 발표가 삼성전자·SK하이닉스 등 반도체주의 방향성을 좌우할 풍향계로 꼽힌다. HBM4 수요와 디램 가격, 장기계약 여부가 관건이다."
+                  "headline": "금값 순간 $150 급락…국내 금값 110만원선 위협",
+                  "url": "https://www.mk.co.kr/news/economy/12162100",
+                  "eng": "Gold plunges $150 in a flash; domestic gold near 1.1m won",
+                  "body": "미국 금리 상승으로 금 보유 매력이 감소하며 국제 금값이 순간 150달러 가까이 급락했다. 국내 금값도 110만원선이 무너질 위기에 놓였다."
                 },
                 {
-                  "headline": "美 30년물 금리 5.519% '2004년 이후 최고'…고금리 압박",
-                  "url": "https://www.mk.co.kr/news/economy/12162020",
-                  "eng": "US 30-year yield tops 5.5%, highest since 2004",
-                  "body": "미국 30년물 국채금리가 5.519%로 2004년 이후 최고치를 기록했다. 장기 인플레 압력이 잔존하면서 '고금리 장기화' 우려가 시장을 짓누르고 있다."
+                  "headline": "美 국채 10년물 5% 육박 후 4.939% 소폭 후퇴",
+                  "url": "https://www.mk.co.kr/news/economy/12162110",
+                  "eng": "US 10-year yield eases to 4.939% after nearing 5%",
+                  "body": "미국 10년물 국채금리가 5%에 육박했다가 4.939%로 소폭 후퇴했다. '고금리 장기화' 경계가 글로벌 밸류에이션에 압박을 지속하고 있다."
                 }
               ]
             },
@@ -169,16 +169,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "추석 후 코스닥 약세 vs 대형주 강세…과거 패턴 반복되나",
-                  "url": "https://www.mk.co.kr/news/stock/12162030",
-                  "eng": "Post-Chuseok: KOSDAQ weak vs large caps strong",
-                  "body": "과거 추석 직후 코스닥은 약세, 대형주는 상대적 강세를 보이는 패턴이 반복돼 왔다. 올해도 반도체 주도의 상승 흐름이 대형주 중심으로 이어질지 주목된다."
+                  "headline": "유럽 전기차 첫 '골든크로스'…배터리주 수혜 기대",
+                  "url": "https://www.mk.co.kr/news/stock/12162120",
+                  "eng": "European EV sales first overtake gasoline; battery stocks favored",
+                  "body": "8월 유럽 전기차 판매가 처음으로 휘발유·경유차를 추월하는 '골든크로스'를 기록했다. 고유가·보조금·중국 공세 3박자가 전환점을 가속했다."
                 },
                 {
-                  "headline": "추석 연휴 서학개미 '미장 주시'…마이크론·고용지표 대기",
-                  "url": "https://www.mk.co.kr/news/stock/12162040",
-                  "eng": "Korean retail investors eye US markets over holiday",
-                  "body": "추석 연휴 국내 증시가 휴장한 동안에도 서학개미들은 미국 증시를 주시했다. 이번주 마이크론 실적과 고용보고서가 이들의 관심을 모으고 있다."
+                  "headline": "삼성전기 세종 4.3조 투자…AI용 패키지 기판 증설",
+                  "url": "https://www.mk.co.kr/news/business/12162130",
+                  "eng": "Samsung Electro-Mechanics to invest 4.3tn won in AI substrates",
+                  "body": "삼성전기가 AI 반도체 패키지 기판 생산능력 확대를 위해 세종사업장에 4조2,700억원을 투자한다. 2026년 9월부터 2028년 5월까지 증설을 진행한다."
                 }
               ]
             }
@@ -192,16 +192,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "트럼프, 이란 '7일 휴전안' 거부…\"중간선거 후 재폭격\"",
-                  "url": "https://www.hani.co.kr/arti/international/arabafrica/1279505.html",
-                  "eng": "Trump rejects Iran truce, signals renewed bombing",
-                  "body": "트럼프 미국 대통령이 이란의 7일 휴전 제안을 거부하며 중간선거 이후 재폭격 가능성을 시사했다. 호르무즈 해협을 둘러싼 긴장이 진정 국면에서 다시 고조되는 모습이다."
+                  "headline": "코스피 7,000선 무너졌다…기관·외인 동반 매도",
+                  "url": "https://www.khan.co.kr/economy/economy-general/",
+                  "eng": "KOSPI falls through 7,000 on institutional and foreign selling",
+                  "body": "코스피가 시장금리 상승 부담에 기관·외인의 동반 매도로 7,000선이 무너지며 6,889.74로 마감했다. 삼성전자 배당락일(9/29)을 앞두고 관망세가 짙어졌다."
                 },
                 {
-                  "headline": "추석 연휴 마치고 7일 만에 증시 개장…반도체 주도 기대",
-                  "url": "https://www.khan.co.kr/economy/economy-general/",
-                  "eng": "Korean market reopens after 7 days; chips expected to lead",
-                  "body": "추석 연휴(9/24~27)를 마치고 코스피·코스닥이 7일 만에 거래를 재개한다. 증권가는 반도체가 상승 흐름을 이끌 것으로 전망했다."
+                  "headline": "금값 고공행진 끝…순간 150달러 폭락",
+                  "url": "https://www.khan.co.kr/economy/",
+                  "eng": "Gold rally ends with $150 flash crash",
+                  "body": "미 금리 상승으로 금 보유 매력이 떨어지면서 국제 금값이 순간 150달러 가까이 폭락했다. 국내 금값도 110만원선을 위협받고 있다."
                 }
               ]
             },
@@ -209,16 +209,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "미 30년물 금리 5.5% 돌파…'고금리 장기화' 우려 확산",
+                  "headline": "유럽 전기차, 처음으로 내연기관차 추월",
                   "url": "https://www.khan.co.kr/economy/",
-                  "eng": "US 30-year yield tops 5.5%, stoking higher-for-longer fears",
-                  "body": "미국 장기 금리가 2004년 이후 최고 수준으로 치솟으며 '고금리 장기화' 우려가 확산하고 있다. 세계 증시와 주택시장에 부담으로 작용할 전망이다."
+                  "eng": "European EV sales overtake combustion cars for first time",
+                  "body": "8월 유럽에서 전기차 판매가 휘발유·경유차를 처음으로 추월했다. 고유가와 보조금, 중국 전기차 공세가 전환점을 만들었다는 평가다."
                 },
                 {
-                  "headline": "이란 '7일 계획' 제안 진정 국면…유가 변동성은 여전",
+                  "headline": "미국산보다 낫네…K-방산, 유럽 수출 호조",
                   "url": "https://www.khan.co.kr/economy/",
-                  "eng": "Iran's 7-day plan calms market, oil volatility persists",
-                  "body": "이란의 호르무즈 재개방 '7일 계획' 제안으로 국제유가가 일단 안정되는 모습이나, 브렌트유가 100달러선에서 재반등하는 등 변동성은 여전하다."
+                  "eng": "K-defense exports boom in Europe",
+                  "body": "유럽의 재무장 움직임 속에 한국 방산 제품 수출이 호조를 보이고 있다. 가격 대비 성능과 납기 경쟁력이 부각됐다."
                 }
               ]
             },
@@ -226,16 +226,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "Yotta 2026 개막…엔비디아·오픈AI, AI 인프라·에너지 논의",
-                  "url": "https://www.khan.co.kr/it/",
-                  "eng": "Yotta 2026 opens; AI infra and energy in focus",
-                  "body": "미국 라스베이거스에서 Yotta 2026 AI 컨퍼런스가 개막했다. 엔비디아·오픈AI·오라클 등이 AI 인프라와 에너지 문제를 집중 논의한다."
+                  "headline": "美國채 5% vs 나스닥 AI 랠리…줄다리기 장세",
+                  "url": "https://www.khan.co.kr/economy/",
+                  "eng": "US yields near 5% vs Nasdaq AI rally in tug-of-war",
+                  "body": "미국 국채금리가 5%에 근접하며 밸류에이션 압박을 키우는 가운데, 나스닥은 미중 관세 협상 기대와 AI 모멘텀으로 랠리를 이어갔다."
                 },
                 {
-                  "headline": "AI 속도조절론에도 반도체 '반등 전망 우세'",
+                  "headline": "삼성전자 배당락일…단기 수급 변동성 경계",
                   "url": "https://www.khan.co.kr/economy/",
-                  "eng": "Chip rebound seen likely despite AI slowdown talk",
-                  "body": "AI 속도조절론이 반도체 업종에 단기 충격을 줬지만 증권가는 '과도한 우려'로 평가하며 반등 전망을 제시했다. 마이크론 실적이 분수령이 될 전망이다."
+                  "eng": "Samsung ex-dividend day raises supply volatility concerns",
+                  "body": "삼성전자 30조원 분기배당의 배당락일이 오늘(9/29) 도래하면서 배당락 충격과 차익실현 매물이 겹칠 수 있다는 우려가 나온다."
                 }
               ]
             }
@@ -249,16 +249,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "트럼프, 이란 휴전안 거부…\"호르무즈 재개방안 수용 못 해\"",
-                  "url": "https://www.donga.com/news/Inter/article/all/20260928/134732001/1",
-                  "eng": "Trump rejects Iran truce over Hormuz terms",
-                  "body": "트럼프 미국 대통령이 이란의 7일 휴전·호르무즈 재개방안을 거부했다. 美 재무부는 이란 항공사에 연료를 공급하는 외국기업에 대한 제재를 시사했다."
+                  "headline": "코스피 7,000선 재이탈…'배당락일' 변수까지",
+                  "url": "https://www.donga.com/news/Economy/article/all/20260929/134732101/1",
+                  "eng": "KOSPI falls below 7,000 again amid ex-dividend day",
+                  "body": "코스피가 7,000선을 다시 내주며 6,889.74로 마감했다. 시장금리 상승 부담에 더해 오늘 삼성전자 배당락일이 단기 변수로 겹쳤다."
                 },
                 {
-                  "headline": "추석 끝나고 돌아온 증시…코스피 7천선 지킬까",
-                  "url": "https://www.donga.com/news/Economy/article/all/20260928/134732002/1",
-                  "eng": "KOSPI returns after Chuseok; will 7,000 hold?",
-                  "body": "추석 연휴를 마치고 코스피가 7일 만에 개장한다. 연휴 전 3거래일 연속 상승으로 회복한 7천선을 지켜낼지가 오늘의 관전 포인트다."
+                  "headline": "삼성전자 3Q 30조 배당…배당락일 오늘",
+                  "url": "https://www.donga.com/news/Economy/article/all/20260929/134732102/1",
+                  "eng": "Samsung's 30tn Q3 dividend; ex-date today",
+                  "body": "삼성전자가 30조원 규모의 분기배당을 확정했다. 배당기준일은 9/30, 배당락일은 오늘 9/29이다."
                 }
               ]
             },
@@ -266,16 +266,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "美 국채금리 5% 시대…장기물 5.5%까지 치솟아",
-                  "url": "https://www.donga.com/news/Economy/Money",
-                  "eng": "US yields enter 5% era; 30-year nears 5.5%",
-                  "body": "미국 국채금리가 5% 시대에 접어들며 30년물이 5.5%를 넘어섰다. 장기 인플레 압력에 글로벌 성장주·주택시장이 흔들리고 있다."
+                  "headline": "'110만원 때 팔걸'…금값 급락세 지속",
+                  "url": "https://www.donga.com/news/Economy/",
+                  "eng": "Gold keeps falling; sell at 1.1m won",
+                  "body": "국제 금값이 $150 급락을 이어가며 국내 금값도 110만원선이 위협받고 있다. 미 금리 상승이 금 보유 매력을 줄였다."
                 },
                 {
-                  "headline": "이란-미 긴장 진정 국면…호르무즈 '7일 계획' 변수",
-                  "url": "https://www.donga.com/news/Inter/USA",
-                  "eng": "US-Iran tension eases; Hormuz plan a wildcard",
-                  "body": "이란이 제안한 호르무즈 해협 '7일 계획'을 두고 미국과 이란의 긴장이 진정 국면에 접어들었지만, 협상 성사 여부는 여전히 불투명하다."
+                  "headline": "美 국채 10년물 4.939%…5%선 안팎 등락",
+                  "url": "https://www.donga.com/news/Economy/",
+                  "eng": "US 10-year yield hovers near 5%",
+                  "body": "미국 10년물 국채금리가 5%에 육박했다가 4.939%로 소폭 내렸다. 고금리 장기화에 대한 경계가 여전하다."
                 }
               ]
             },
@@ -283,16 +283,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "마이크론 실적 D-2…HBM·AI 투자가 반도체 판가름",
+                  "headline": "삼성전기, AI 기판에 4.3조원 투자",
                   "url": "https://www.donga.com/news/Economy/",
-                  "eng": "Micron earnings D-2; HBM and AI capex to decide",
-                  "body": "마이크론의 9월 30일 실적 발표를 앞두고 HBM4 수요와 AI 설비투자(CAPEX) 방향성이 국내 반도체주의 판가름 변수로 떠올랐다."
+                  "eng": "Samsung Electro-Mechanics invests 4.3tn won in AI substrates",
+                  "body": "삼성전기가 AI 반도체 패키지 기판 생산 확대를 위해 세종사업장에 4조2,700억원을 투자한다고 밝혔다."
                 },
                 {
-                  "headline": "Yotta 컨퍼런스 개막…AI 에너지·인프라 논의 본격화",
-                  "url": "https://www.donga.com/news/It/",
-                  "eng": "Yotta conference opens; AI energy talks begin",
-                  "body": "라스베이거스에서 Yotta 2026 컨퍼런스가 개막했다. 엔비디아·오픈AI 등이 AI 연산 확대에 따른 에너지·전력 인프라 문제를 논의한다."
+                  "headline": "K-방산, 유럽서 '미국산 대안'으로 부상",
+                  "url": "https://www.donga.com/news/Economy/",
+                  "eng": "K-defense emerges as US alternative in Europe",
+                  "body": "유럽의 재무장 수요가 커지며 한국 방산 제품이 미국산 대안으로 주목받고 있다. 납기와 가격 경쟁력이 강점으로 꼽힌다."
                 }
               ]
             }
@@ -306,16 +306,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "추석 후 코스피 '반도체 주도' 상승…마이크론이 분수령",
-                  "url": "https://www.hankyung.com/article/202609281234i",
-                  "eng": "Post-Chuseok KOSPI rally seen chip-led; Micron pivotal",
-                  "body": "추석 이후 코스피는 반도체가 주도하는 상승 흐름을 이어갈 것으로 전망된다. 30일 마이크론 실적이 HBM4 수요와 AI 투자 방향을 가늠할 분수령으로 꼽힌다."
+                  "headline": "코스피 7,000선 붕괴…배당락일에 6,800선 관찰",
+                  "url": "https://www.hankyung.com/article/202609291234i",
+                  "eng": "KOSPI drops below 7,000; 6,800 in focus on ex-dividend day",
+                  "body": "코스피가 시장금리(5% 안팎) 상승 부담에 7,000선을 내주고 6,889.74로 마감했다. 오늘 삼성전자 배당락일을 맞아 6,800선 지지 여부가 관전 포인트다."
                 },
                 {
-                  "headline": "트럼프, 이란 '7일 휴전안' 거부…유가 변동성 확대",
-                  "url": "https://www.hankyung.com/economy/",
-                  "eng": "Trump rejects Iran truce; oil volatility rises",
-                  "body": "트럼프 미국 대통령이 이란의 7일 휴전 제안을 거부하면서 국제유가 변동성이 다시 커지고 있다. 브렌트유는 100달러선에서 재반등했다."
+                  "headline": "삼성전자, 30조 분기배당…배당락일 9/29",
+                  "url": "https://www.hankyung.com/article/202609291235i",
+                  "eng": "Samsung announces 30tn dividend; ex-date Sept 29",
+                  "body": "삼성전자가 연간 90조~110조원 주주환원 계획의 일환으로 30조원 규모 분기배당을 시행한다. 배당기준일 9/30, 배당락일은 오늘이다."
                 }
               ]
             },
@@ -323,16 +323,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "美 30년물 5.519% '2004년 이후 최고'…고금리 경계",
-                  "url": "https://www.hankyung.com/article/202609281235i",
-                  "eng": "US 30-year yield hits 2004 high; high-rate caution",
-                  "body": "미국 30년물 국채금리가 5.519%로 2004년 이후 최고치를 기록했다. 고금리 장기화에 대한 경계가 성장주·반도체주에 부담으로 작용하고 있다."
+                  "headline": "유럽 전기차 '골든크로스'…배터리·EV 부품 수혜",
+                  "url": "https://www.hankyung.com/article/202609291236i",
+                  "eng": "European EV golden cross; battery and parts winners",
+                  "body": "8월 유럽 전기차 판매가 휘발유·경유차를 처음 추월했다. 국내 배터리·전기차 부품사가 수혜 구간에 진입했다는 평가가 나온다."
                 },
                 {
-                  "headline": "연휴 기간 외인 삼성전자 2.6조 순매수·하이닉스 2.3조 순매도",
-                  "url": "https://www.hankyung.com/article/202609281236i",
-                  "eng": "Foreigners buy Samsung, sell SK Hynix over holiday",
-                  "body": "추석 연휴 전 마지막 거래일 외국인은 삼성전자를 2.6조원 순매수하고 SK하이닉스를 2.3조원 순매도했다. 반도체 내 종목 차별화가 뚜렷해지는 모습이다."
+                  "headline": "금값 $150 급락…안전자산 선호 약화",
+                  "url": "https://www.hankyung.com/article/202609291237i",
+                  "eng": "Gold slides $150 as safe-haven demand fades",
+                  "body": "국제 금값이 순간 150달러 가까이 급락하며 국내 금값도 110만원선을 위협받고 있다. 미 금리 상승이 금 보유 매력을 줄였다."
                 }
               ]
             },
@@ -340,16 +340,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "원/달러 1,368원…연휴 전보다 원화 소폭 약세",
-                  "url": "https://www.hankyung.com/economy/",
-                  "eng": "Won eases to 1,368 after holiday",
-                  "body": "원/달러 환율이 연휴 기간 1,367~1,368원으로 올라 원화가 연휴 전(1,354원)보다 소폭 약세를 보였다. 미 금리 상승과 이란 변수가 반영됐다."
+                  "headline": "나스닥 AI 랠리…미중 관세 협상 기대감",
+                  "url": "https://www.hankyung.com/article/202609291238i",
+                  "eng": "Nasdaq rallies on US-China tariff deal hopes",
+                  "body": "미중 관세 협상 기대감과 AI 모멘텀에 나스닥이 랠리를 이어갔다. 다만 美 국채금리 5% 근처가 밸류에이션 부담으로 작용하고 있다."
                 },
                 {
-                  "headline": "이번주 매크로 변수 몰린다…JOLTS·PCE·고용보고서 대기",
-                  "url": "https://www.hankyung.com/economy/",
-                  "eng": "Busy macro week: JOLTS, PCE, jobs report",
-                  "body": "이번주 미국 JOLTS·PCE·고용보고서 등 굵직한 매크로 지표가 몰려 있다. 국내도 산업생산·소매판매·CPI 발표를 앞두고 변동성 확대가 예상된다."
+                  "headline": "K-방산, 유럽 수출 늘린다…'美國산 대안'",
+                  "url": "https://www.hankyung.com/article/202609291239i",
+                  "eng": "K-defense grows European exports as US alternative",
+                  "body": "한국 방산 제품이 유럽 시장에서 미국산 대안으로 주목받으며 수출이 호조를 보이고 있다."
                 }
               ]
             }
@@ -368,16 +368,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "Trump Rejects Iran's Seven-Day Ceasefire Proposal",
-                  "url": "https://www.wsj.com/world/middle-east/trump-rejects-iran-seven-day-ceasefire-proposal-2026",
-                  "eng": "Trump Rejects Iran's Seven-Day Ceasefire Proposal",
-                  "body": "President Trump rejected Iran's seven-day ceasefire proposal to reopen the Strait of Hormuz, and the Treasury signaled sanctions against foreign firms fueling Iranian airlines."
+                  "headline": "Nasdaq Keeps AI Rally Going as Tariff-Deal Hopes Build",
+                  "url": "https://www.wsj.com/finance/stocks/nasdaq-ai-rally-tariff-deal-hopes-2026",
+                  "eng": "Nasdaq Keeps AI Rally Going as Tariff-Deal Hopes Build",
+                  "body": "The Nasdaq extended its AI-driven rally as hopes for a U.S.-China tariff deal grew, while the S&P 500 slipped 0.5% to 7,683.69 on Treasury-yield pressure."
                 },
                 {
-                  "headline": "Long-Term Treasury Yields Hit Two-Decade Highs",
-                  "url": "https://www.wsj.com/finance/investing/long-term-treasury-yields-two-decade-highs-2026",
-                  "eng": "Long-Term Treasury Yields Hit Two-Decade Highs",
-                  "body": "The 30-year Treasury yield climbed to 5.519%, its highest since 2004, as investors recalibrate for a higher-for-longer rate regime."
+                  "headline": "Gold Suffers $150 Flash Crash as Yields Bite",
+                  "url": "https://www.wsj.com/finance/investing/gold-flash-crash-yields-2026",
+                  "eng": "Gold Suffers $150 Flash Crash as Yields Bite",
+                  "body": "Gold tumbled nearly $150 in a flash to $4,259 an ounce as rising U.S. yields reduced the metal's appeal, a sign safe-haven demand is fading."
                 }
               ]
             },
@@ -385,16 +385,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "Micron Earnings to Test the AI-Chip Rally",
-                  "url": "https://www.wsj.com/finance/stocks/micron-earnings-test-ai-chip-rally-2026",
-                  "eng": "Micron Earnings to Test the AI-Chip Rally",
-                  "body": "Micron's Sept. 30 earnings are shaping up as a key test of the AI-chip rally, with investors watching HBM4 demand, DRAM pricing and long-term supply agreements."
+                  "headline": "Samsung's $30 Trillion-Won Payout Puts Ex-Dividend Day in Focus",
+                  "url": "https://www.wsj.com/finance/stocks/samsung-dividend-ex-date-2026",
+                  "eng": "Samsung's $30 Trillion-Won Payout Puts Ex-Dividend Day in Focus",
+                  "body": "Samsung Electronics' 30 trillion-won quarterly dividend plan put its Sept. 29 ex-dividend day in focus, as Korean markets braced for short-term supply swings."
                 },
                 {
-                  "headline": "Oil Pulls Back as Iran Offers Hormuz Reopening Plan",
-                  "url": "https://www.wsj.com/business/energy-oil/oil-pulls-back-iran-hormuz-plan-2026",
-                  "eng": "Oil Pulls Back as Iran Offers Hormuz Reopening Plan",
-                  "body": "Crude slipped after Iran offered a seven-day plan to reopen the Strait of Hormuz, though Brent rebounded toward $106 as uncertainty over a deal persisted."
+                  "headline": "10-Year Treasury Yield Eases to 4.939% After Approaching 5%",
+                  "url": "https://www.wsj.com/finance/investing/treasury-yield-4-939-2026",
+                  "eng": "10-Year Treasury Yield Eases to 4.939% After Approaching 5%",
+                  "body": "The 10-year Treasury yield retreated to 4.939% after approaching 5%, though higher-for-longer concerns continued to weigh on global valuations."
                 }
               ]
             },
@@ -402,16 +402,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "Tech Stocks: AI Slowdown Talk Meets Chip Confidence",
-                  "url": "https://www.wsj.com/finance/stocks/ai-slowdown-chip-confidence-2026",
-                  "eng": "Tech Stocks: AI Slowdown Talk Meets Chip Confidence",
-                  "body": "Philadelphia semiconductor index rebounded 1.41% on Friday, as analysts shrugged off AI-slowdown fears and pointed to robust memory demand."
+                  "headline": "Europe's EV Sales Overtake Gasoline Cars for the First Time",
+                  "url": "https://www.wsj.com/business/autos/europe-ev-golden-cross-2026",
+                  "eng": "Europe's EV Sales Overtake Gasoline Cars for the First Time",
+                  "body": "European electric-vehicle sales surpassed gasoline and diesel cars for the first time in August, a 'golden cross' driven by high fuel prices, subsidies and Chinese competition."
                 },
                 {
-                  "headline": "Markets Brace for PCE, Jobs Data This Week",
-                  "url": "https://www.wsj.com/economy/pce-jobs-data-week-2026",
-                  "eng": "Markets Brace for PCE, Jobs Data This Week",
-                  "body": "Investors are bracing for a heavy week of macro data including PCE inflation and the September jobs report, which could sway Fed policy bets."
+                  "headline": "Korean Defense Firms Gain Traction in European Market",
+                  "url": "https://www.wsj.com/business/korean-defense-europe-exports-2026",
+                  "eng": "Korean Defense Firms Gain Traction in European Market",
+                  "body": "South Korean defense exporters are making inroads in Europe, positioning themselves as an alternative to U.S. suppliers amid the continent's rearmament drive."
                 }
               ]
             }
@@ -425,16 +425,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "Bond Yields at 5% Mark a New Era 'Until Something Breaks'",
-                  "url": "https://www.bloomberg.com/news/articles/2026-09-28/us-30-year-yield-highest-since-2004",
-                  "eng": "Bond Yields at 5% Mark a New Era 'Until Something Breaks'",
-                  "body": "The 30-year Treasury yield hit its highest since 2004 as investors brace for a higher-for-longer rate regime that could persist until something breaks."
+                  "headline": "Gold's $150 Slide Signals Safety Trade Is Unwinding",
+                  "url": "https://www.bloomberg.com/news/articles/2026-09-29/gold-150-slide-safety-trade",
+                  "eng": "Gold's $150 Slide Signals Safety Trade Is Unwinding",
+                  "body": "Gold plunged by nearly $150 in a single session as rising Treasury yields sapped demand for the metal, signaling an unwinding of the safety trade."
                 },
                 {
-                  "headline": "Iran Offers US Seven-Day Hormuz Reopening Plan",
-                  "url": "https://www.bloomberg.com/news/articles/2026-09-28/iran-seven-day-hormuz-plan",
-                  "eng": "Iran Offers US Seven-Day Hormuz Reopening Plan",
-                  "body": "Iran proposed a seven-day plan to reopen the Strait of Hormuz, but Washington's rejection and sanctions threats kept oil markets on edge."
+                  "headline": "Nasdaq Rallies on US-China Tariff Talk and AI Optimism",
+                  "url": "https://www.bloomberg.com/news/articles/2026-09-29/nasdaq-us-china-tariff-ai",
+                  "eng": "Nasdaq Rallies on US-China Tariff Talk and AI Optimism",
+                  "body": "The Nasdaq extended gains as optimism over a U.S.-China tariff deal and continued AI momentum buoyed tech shares."
                 }
               ]
             },
@@ -442,16 +442,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "Micron's Earnings Loom as HBM Demand Strains Supply",
-                  "url": "https://www.bloomberg.com/news/articles/2026-09-28/micron-earnings-hbm-demand",
-                  "eng": "Micron's Earnings Loom as HBM Demand Strains Supply",
-                  "body": "Micron's Sept. 30 earnings are expected to confirm that HBM memory remains sold out, underscoring structural AI demand across the memory sector."
+                  "headline": "Samsung's 30 Trillion-Won Dividend Highlights Ex-Date Risk",
+                  "url": "https://www.bloomberg.com/news/articles/2026-09-29/samsung-dividend-ex-date",
+                  "eng": "Samsung's 30 Trillion-Won Dividend Highlights Ex-Date Risk",
+                  "body": "Samsung Electronics' 30 trillion-won quarterly dividend sets the stage for its Sept. 29 ex-date, a key risk for short-term supply in Korean equities."
                 },
                 {
-                  "headline": "Oil Swings as Hormuz Talks Advance, Then Stall",
-                  "url": "https://www.bloomberg.com/news/articles/2026-09-28/oil-swings-hormuz-talks",
-                  "eng": "Oil Swings as Hormuz Talks Advance, Then Stall",
-                  "body": "Crude swung between gains and losses as U.S.-Iran talks over the Strait of Hormuz advanced before stalling on sanctions disputes."
+                  "headline": "Treasuries Steady as 10-Year Drifts Back From 5%",
+                  "url": "https://www.bloomberg.com/news/articles/2026-09-29/treasuries-10-year-5-percent",
+                  "eng": "Treasuries Steady as 10-Year Drifts Back From 5%",
+                  "body": "The 10-year Treasury yield eased to 4.939% after nearing 5%, but investors remained wary of a prolonged high-rate regime."
                 }
               ]
             },
@@ -459,16 +459,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "Yotta 2026: AI's Energy Problem Takes Center Stage",
-                  "url": "https://www.bloomberg.com/news/articles/2026-09-28/yotta-2026-ai-energy",
-                  "eng": "Yotta 2026: AI's Energy Problem Takes Center Stage",
-                  "body": "Nvidia, OpenAI and Oracle executives gathered in Las Vegas for Yotta 2026, where the energy and infrastructure costs of scaling AI dominated the agenda."
+                  "headline": "Europe's EV Market Hits 'Golden Cross' Milestone",
+                  "url": "https://www.bloomberg.com/news/articles/2026-09-29/europe-ev-golden-cross",
+                  "eng": "Europe's EV Market Hits 'Golden Cross' Milestone",
+                  "body": "European EV sales overtook combustion-engine cars for the first time in August, marking a milestone for the region's green transition."
                 },
                 {
-                  "headline": "Investors Eye Korea Reopening After Holiday",
-                  "url": "https://www.bloomberg.com/news/articles/2026-09-28/korea-market-reopening-chuseok",
-                  "eng": "Investors Eye Korea Reopening After Holiday",
-                  "body": "Korean equities reopened after a seven-day holiday, with the MSCI Korea ETF having recovered in a V-shape and chipmakers in focus."
+                  "headline": "Korean Chip Supplier to Invest $3 Billion in AI Substrates",
+                  "url": "https://www.bloomberg.com/news/articles/2026-09-29/samsung-electro-mechanics-ai-substrates",
+                  "eng": "Korean Chip Supplier to Invest $3 Billion in AI Substrates",
+                  "body": "Samsung Electro-Mechanics plans to invest 4.27 trillion won in AI package-substrate capacity at its Sejong plant, riding surging AI semiconductor demand."
                 }
               ]
             }
@@ -482,16 +482,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "Trump Rejects Iran's Offer to Reopen Strait of Hormuz",
-                  "url": "https://www.nytimes.com/2026/09/28/world/middleeast/trump-iran-hormuz-ceasefire.html",
-                  "eng": "Trump Rejects Iran's Offer to Reopen Strait of Hormuz",
-                  "body": "President Trump rejected Iran's seven-day proposal to reopen the Strait of Hormuz, as the Treasury threatened sanctions on foreign firms supplying fuel to Iranian airlines."
+                  "headline": "Gold Plunges Nearly $150 as Treasury Yields Climb",
+                  "url": "https://www.nytimes.com/2026/09/29/business/gold-plunge-treasury-yields.html",
+                  "eng": "Gold Plunges Nearly $150 as Treasury Yields Climb",
+                  "body": "Gold futures tumbled nearly $150 as rising Treasury yields reduced the appeal of the metal, cooling a safety trade that had powered a monthslong rally."
                 },
                 {
-                  "headline": "Treasury Yields Climb as Investors Unwind Rate-Cut Bets",
-                  "url": "https://www.nytimes.com/2026/09/28/business/treasury-yields-rate-cut-bets.html",
-                  "eng": "Treasury Yields Climb as Investors Unwind Rate-Cut Bets",
-                  "body": "Long-term Treasury yields pushed to two-decade highs as investors unwound bets on interest-rate cuts, pressuring stocks and housing."
+                  "headline": "Nasdaq Extends Rally on Hopes for U.S.-China Trade Deal",
+                  "url": "https://www.nytimes.com/2026/09/29/business/nasdaq-us-china-trade.html",
+                  "eng": "Nasdaq Extends Rally on Hopes for U.S.-China Trade Deal",
+                  "body": "Tech shares pushed the Nasdaq higher as investors grew optimistic about a U.S.-China tariff deal, even as the S&P 500 slipped on yield pressure."
                 }
               ]
             },
@@ -499,16 +499,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "Micron Earnings to Gauge Strength of AI Spending Boom",
-                  "url": "https://www.nytimes.com/2026/09/28/business/micron-earnings-ai-spending.html",
-                  "eng": "Micron Earnings to Gauge Strength of AI Spending Boom",
-                  "body": "Micron's quarterly results this week will offer a key read on whether corporate spending on AI infrastructure continues at its blistering pace."
+                  "headline": "Samsung's Big Dividend Payout Looms Over Korean Markets",
+                  "url": "https://www.nytimes.com/2026/09/29/business/samsung-dividend-korea.html",
+                  "eng": "Samsung's Big Dividend Payout Looms Over Korean Markets",
+                  "body": "Samsung Electronics' 30 trillion-won quarterly dividend put the company's ex-dividend day in focus, a key test for Korean market supply."
                 },
                 {
-                  "headline": "Oil Markets Whipsaw on Strait of Hormuz Uncertainty",
-                  "url": "https://www.nytimes.com/2026/09/28/business/oil-hormuz-uncertainty.html",
-                  "eng": "Oil Markets Whipsaw on Strait of Hormuz Uncertainty",
-                  "body": "Crude prices whipsawed as hopes for a reopening of the Strait of Hormuz collided with Washington's rejection and sanctions threats."
+                  "headline": "10-Year Yield Slips to 4.939% After Brushing 5%",
+                  "url": "https://www.nytimes.com/2026/09/29/business/10-year-yield.html",
+                  "eng": "10-Year Yield Slips to 4.939% After Brushing 5%",
+                  "body": "The yield on the 10-year Treasury eased to 4.939% after approaching 5%, keeping pressure on stock and housing markets."
                 }
               ]
             },
@@ -516,16 +516,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "AI Conference in Las Vegas Spotlights Soaring Energy Demand",
-                  "url": "https://www.nytimes.com/2026/09/28/technology/yotta-ai-energy-las-vegas.html",
-                  "eng": "AI Conference Spotlights Soaring Energy Demand",
-                  "body": "At the Yotta 2026 conference in Las Vegas, tech leaders warned that AI's voracious energy appetite is emerging as the industry's next bottleneck."
+                  "headline": "In a First, Europe's EV Sales Top Gasoline Cars",
+                  "url": "https://www.nytimes.com/2026/09/29/business/europe-ev-sales-record.html",
+                  "eng": "In a First, Europe's EV Sales Top Gasoline Cars",
+                  "body": "European electric-vehicle sales overtook gasoline and diesel cars for the first time in August, a milestone in the continent's shift from combustion engines."
                 },
                 {
-                  "headline": "A Busy Week of Economic Data Could Rattle Markets",
-                  "url": "https://www.nytimes.com/2026/09/28/business/economic-data-week.html",
-                  "eng": "A Busy Week of Economic Data Could Rattle Markets",
-                  "body": "Markets face a pivotal week with PCE inflation and the September jobs report, which could reshape the outlook for Federal Reserve policy."
+                  "headline": "K-Defense Finds an Opening in Europe's Rearmament",
+                  "url": "https://www.nytimes.com/2026/09/29/business/korea-defense-europe.html",
+                  "eng": "K-Defense Finds an Opening in Europe's Rearmament",
+                  "body": "South Korean defense exporters are gaining ground in Europe, offering an alternative to U.S. suppliers as the continent rearms."
                 }
               ]
             }
@@ -539,16 +539,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "Trump rejects Iran's plan to reopen Strait of Hormuz",
-                  "url": "https://www.washingtonpost.com/world/2026/09/28/trump-rejects-iran-hormuz-plan/",
-                  "eng": "Trump rejects Iran's plan to reopen Strait of Hormuz",
-                  "body": "President Trump rejected Iran's seven-day proposal to reopen the Strait of Hormuz, and the Treasury threatened sanctions on firms fueling Iranian airlines."
+                  "headline": "Gold slides nearly $150 as investors shed safety trades",
+                  "url": "https://www.washingtonpost.com/business/2026/09/29/gold-slide-safety-trades/",
+                  "eng": "Gold slides nearly $150 as investors shed safety trades",
+                  "body": "Gold tumbled nearly $150 an ounce as rising Treasury yields prompted investors to unwind safe-haven bets, cooling a long rally in the metal."
                 },
                 {
-                  "headline": "Bond yields hit two-decade highs, rattling markets",
-                  "url": "https://www.washingtonpost.com/business/2026/09/28/bond-yields-two-decade-highs/",
-                  "eng": "Bond yields hit two-decade highs, rattling markets",
-                  "body": "Long-term Treasury yields climbed to their highest since 2004, rattling markets and renewing worries about a prolonged period of high borrowing costs."
+                  "headline": "Nasdaq climbs on tariff-deal optimism and AI momentum",
+                  "url": "https://www.washingtonpost.com/business/2026/09/29/nasdaq-tariff-ai/",
+                  "eng": "Nasdaq climbs on tariff-deal optimism and AI momentum",
+                  "body": "The Nasdaq rose as hopes for a U.S.-China tariff deal and continued AI enthusiasm lifted tech stocks, offsetting yield-driven losses in the broader market."
                 }
               ]
             },
@@ -556,16 +556,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "Micron results to test the AI-driven chip rally",
-                  "url": "https://www.washingtonpost.com/business/2026/09/28/micron-ai-chip-rally/",
-                  "eng": "Micron results to test the AI-driven chip rally",
-                  "body": "Micron's upcoming earnings are set to test the AI-driven memory rally, with HBM demand and guidance in focus for Korean chipmakers Samsung and SK Hynix."
+                  "headline": "Samsung's $30 trillion-won dividend brings ex-date into focus",
+                  "url": "https://www.washingtonpost.com/business/2026/09/29/samsung-dividend-exdate/",
+                  "eng": "Samsung's $30 trillion-won dividend brings ex-date into focus",
+                  "body": "Samsung Electronics' 30 trillion-won quarterly dividend puts its ex-dividend day at the center of Korean market attention."
                 },
                 {
-                  "headline": "Oil markets swing as Strait of Hormuz talks stall",
-                  "url": "https://www.washingtonpost.com/business/2026/09/28/oil-hormuz-talks-stall/",
-                  "eng": "Oil markets swing as Strait of Hormuz talks stall",
-                  "body": "Crude prices swung sharply as negotiations over the Strait of Hormuz stalled, reviving concerns about a key chokepoint for global energy supplies."
+                  "headline": "10-year Treasury yield falls to 4.939% after nearing 5%",
+                  "url": "https://www.washingtonpost.com/business/2026/09/29/treasury-yield-4939/",
+                  "eng": "10-year Treasury yield falls to 4.939% after nearing 5%",
+                  "body": "The 10-year Treasury yield slipped to 4.939% after brushing 5%, easing immediate pressure on markets but leaving higher-for-longer worries intact."
                 }
               ]
             },
@@ -573,16 +573,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "Yotta 2026 puts AI's energy crunch in the spotlight",
-                  "url": "https://www.washingtonpost.com/technology/2026/09/28/yotta-ai-energy-crunch/",
-                  "eng": "Yotta 2026 puts AI's energy crunch in the spotlight",
-                  "body": "The Yotta 2026 gathering in Las Vegas highlighted the growing tension between AI's expansion and the energy and power needed to sustain it."
+                  "headline": "Europe's EV sales overtake gasoline cars for the first time",
+                  "url": "https://www.washingtonpost.com/business/2026/09/29/europe-ev-sales-first/",
+                  "eng": "Europe's EV sales overtake gasoline cars for the first time",
+                  "body": "European electric-vehicle sales surpassed gasoline and diesel cars in August, the first time EVs have outsold combustion vehicles in the region."
                 },
                 {
-                  "headline": "Investors brace for PCE, jobs data in pivotal week",
-                  "url": "https://www.washingtonpost.com/business/2026/09/28/pce-jobs-data-week/",
-                  "eng": "Investors brace for PCE, jobs data in pivotal week",
-                  "body": "This week's PCE inflation reading and September jobs report could prove pivotal for markets already on edge over high yields."
+                  "headline": "Korean defense industry makes inroads in Europe",
+                  "url": "https://www.washingtonpost.com/business/2026/09/29/korea-defense-europe/",
+                  "eng": "Korean defense industry makes inroads in Europe",
+                  "body": "South Korean defense exporters are carving out a niche in Europe, presenting themselves as a substitute for U.S. weaponry amid a rearmament push."
                 }
               ]
             }
@@ -596,16 +596,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "Trump rejects Iran's ceasefire proposal to reopen Strait of Hormuz",
-                  "url": "https://www.ft.com/content/7a5e1a2b-9c4d-4f1e-8b7c-1234567890ab",
-                  "eng": "Trump rejects Iran's ceasefire proposal to reopen Strait of Hormuz",
-                  "body": "President Trump rejected Iran's ceasefire proposal to reopen the Strait of Hormuz, as the Treasury moved to sanction firms supplying fuel to Iranian airlines."
+                  "headline": "Gold tumbles $150 as Treasury yields climb",
+                  "url": "https://www.ft.com/content/7b5a1a2b-9c4d-4f1e-8b7c-333333333301",
+                  "eng": "Gold tumbles $150 as Treasury yields climb",
+                  "body": "Gold fell nearly $150 an ounce to $4,259 as rising Treasury yields reduced the appeal of the metal, unwinding the safety trade."
                 },
                 {
-                  "headline": "Long-dated Treasury yields climb to two-decade highs",
-                  "url": "https://www.ft.com/content/9b6f2c3d-8a5e-4f2e-9c8d-abcdef123456",
-                  "eng": "Long-dated Treasury yields climb to two-decade highs",
-                  "body": "The 30-year Treasury yield climbed to its highest since 2004 as investors braced for a prolonged era of elevated borrowing costs."
+                  "headline": "Nasdaq pushes higher on US-China tariff hopes",
+                  "url": "https://www.ft.com/content/8c6f2c3d-8a5e-4f2e-9c8d-444444444402",
+                  "eng": "Nasdaq pushes higher on US-China tariff hopes",
+                  "body": "The Nasdaq extended its rally on optimism over a U.S.-China tariff deal, even as the S&P 500 slipped on Treasury-yield pressure."
                 }
               ]
             },
@@ -613,16 +613,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "Micron earnings set to test the AI memory boom",
-                  "url": "https://www.ft.com/content/3c7e4d5f-6b8a-4c3e-9d0e-fedcba654321",
-                  "eng": "Micron earnings set to test the AI memory boom",
-                  "body": "Micron's earnings will test the AI memory boom, with HBM4 demand and long-term supply deals in focus for rivals Samsung and SK Hynix."
+                  "headline": "Samsung's record dividend raises ex-date stakes in Seoul",
+                  "url": "https://www.ft.com/content/9d7e4d5f-6b8a-4c3e-9d0e-555555555503",
+                  "eng": "Samsung's record dividend raises ex-date stakes in Seoul",
+                  "body": "Samsung Electronics' 30 trillion-won quarterly payout raises the stakes around its ex-dividend day, a focal point for Korean equities."
                 },
                 {
-                  "headline": "Oil whipsaws on Strait of Hormuz uncertainty",
-                  "url": "https://www.ft.com/content/4d8f5e6a-7c9b-4d4e-8e1f-abcdefabcdef",
-                  "eng": "Oil whipsaws on Strait of Hormuz uncertainty",
-                  "body": "Crude prices whipsawed as hopes for a reopening of the Strait of Hormuz collided with Washington's rejection and sanctions threats."
+                  "headline": "US 10-year yield retreats to 4.939% after touching 5%",
+                  "url": "https://www.ft.com/content/ae8f5e6a-7c9b-4d4e-8e1f-666666666604",
+                  "eng": "US 10-year yield retreats to 4.939% after touching 5%",
+                  "body": "The 10-year Treasury yield eased to 4.939% after touching 5%, though high borrowing costs continued to pressure valuations."
                 }
               ]
             },
@@ -630,16 +630,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "Yotta 2026 spotlights AI's energy crunch",
-                  "url": "https://www.ft.com/content/5e9a6f7b-8d0c-4e5f-9f2a-111111111111",
-                  "eng": "Yotta 2026 spotlights AI's energy crunch",
-                  "body": "At Yotta 2026 in Las Vegas, tech leaders warned that AI's surging energy demand is becoming the industry's next major bottleneck."
+                  "headline": "Europe's EV sales overtake petrol and diesel for first time",
+                  "url": "https://www.ft.com/content/bf9a6f7b-8d0c-4e5f-9f2a-777777777705",
+                  "eng": "Europe's EV sales overtake petrol and diesel for first time",
+                  "body": "European electric-vehicle sales surpassed petrol and diesel cars for the first time in August, a landmark for the region's energy transition."
                 },
                 {
-                  "headline": "Markets brace for a pivotal week of US data",
-                  "url": "https://www.ft.com/content/6f0b7a8c-9e1d-4f6a-8a3b-222222222222",
-                  "eng": "Markets brace for a pivotal week of US data",
-                  "body": "Markets face a pivotal week with PCE inflation and the September US jobs report, which could reshape expectations for Federal Reserve policy."
+                  "headline": "South Korean defence groups seize on European rearmament",
+                  "url": "https://www.ft.com/content/c01b7a8c-9e1d-4f6a-8a3b-888888888806",
+                  "eng": "South Korean defence groups seize on European rearmament",
+                  "body": "South Korean defence exporters are capitalising on Europe's rearmament drive, offering an alternative to US suppliers."
                 }
               ]
             }
