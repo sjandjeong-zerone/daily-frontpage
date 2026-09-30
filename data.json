@@ -1,136 +1,147 @@
 {
-  "date": "2026-09-30",
-  "dateLabel": "2026년 9월 30일(수요일)",
-  "generatedAt": "2026-09-30T07:18:00+09:00",
+  "date": "2026-10-01",
+  "dateLabel": "2026년 10월 1일(목요일)",
+  "generatedAt": "2026-10-01T07:19:56+09:00",
   "ticker": [
     {
       "name": "KOSPI",
-      "value": "6,870.81",
-      "change": "-0.27%",
+      "value": "6,838.04",
+      "change": "▼0.48%",
       "dir": "dn"
     },
     {
-      "name": "KOSDAQ",
-      "value": "849.80",
-      "change": "+0.50%",
-      "dir": "up"
-    },
-    {
       "name": "S&P 500",
-      "value": "7,743.41",
-      "change": "+0.51%",
+      "value": "7,686",
+      "change": "▲0.20%",
       "dir": "up"
     },
     {
       "name": "NASDAQ",
-      "value": "27,068.72",
-      "change": "+0.48%",
+      "value": "26,861",
+      "change": "▲0.24%",
       "dir": "up"
     },
     {
-      "name": "Dow",
-      "value": "51,828.62",
-      "change": "+0.93%",
+      "name": "다우",
+      "value": "51,065",
+      "change": "▼0.55%",
+      "dir": "dn"
+    },
+    {
+      "name": "나스닥100",
+      "value": "30,538",
+      "change": "▲0.65%",
+      "dir": "up"
+    },
+    {
+      "name": "VIX",
+      "value": "16.21",
+      "change": "보합",
+      "dir": "neu"
+    },
+    {
+      "name": "美 10년물",
+      "value": "5.30%",
+      "change": "19년 최고",
+      "dir": "up"
+    },
+    {
+      "name": "美 30년물",
+      "value": "5.64%",
+      "change": "▲0.79%",
       "dir": "up"
     },
     {
       "name": "WTI",
-      "value": "$89.74",
-      "change": "-3.08%",
-      "dir": "dn"
-    },
-    {
-      "name": "원/달러",
-      "value": "1,352.93",
-      "change": "-0.27%",
-      "dir": "dn"
+      "value": "$90.55",
+      "change": "▲1.31%",
+      "dir": "up"
     }
   ],
   "keywords": [
     {
-      "label": "① 삼성 6개사, 美 AI 인프라 '헬릭스' 10억달러 투자",
-      "desc": "반도체 넘어 전력·냉각까지…AI 생태계 주체로 도약. KKR 설립·전 AWS CEO 셀립스키 리드, 엔비디아·KIA 공동 창립"
+      "label": "① 8월 PCE 예상 하회",
+      "desc": "코어 PCE +0.2%(예상 0.3%), 10월 Fed 인상 가능성 40% 아래로 하락"
     },
     {
-      "label": "② 외국인 2.9조 '셀 코리아' — 코스피 6,800선 위태",
-      "desc": "FOMC 이후 이틀 연속 매도, 美 금리 5%가 원인. 개인·기관 매수에도 방어 역부족"
+      "label": "② 美 장기 국채금리 19년 최고",
+      "desc": "10년물 5.30%대·30년물 5.64% 고착화, 글로벌 밸류에이션 압박 지속"
     },
     {
-      "label": "③ 美 국채 10년물 5%대 고착화",
-      "desc": "5.008%로 5% 상단 부담 지속, 연준 추가 금리인상 무게 커져"
+      "label": "③ 코스피 6,800대 박스권",
+      "desc": "외국인 4거래일 연속 순매도, 삼성전자 배당락 여파 지속"
     },
     {
-      "label": "④ WTI $89.74 급락(-3.08%)",
-      "desc": "호르무즈 봉쇄 완화로 유가 하락, 인플레 압력 완화는 긍정적 신호"
+      "label": "④ 한국 원전 '웨스팅하우스' 지분 인수",
+      "desc": "10% 할인 인수로 원천기술 로열티·지재권 제어장치 마련"
     },
     {
-      "label": "⑤ AI Festa 26(10/6~8 코엑스) + 목소리 20초 당뇨 AI",
-      "desc": "글로벌 AI 리더 참여, AI 일상화·헬스케어 접목 가속"
+      "label": "⑤ 韓 AI 전략 투트랙",
+      "desc": "배경훈 '독파모·프런티어 AI 함께 간다' — 韓 AI 전략 2축 유지"
     }
   ],
   "morning": {
-    "date": "2026-09-30",
-    "headline": "삼성 6개사 10억달러 美 AI 인프라 투자…외국인 2.9조 '셀 코리아'에 코스피 6,800선 위태",
-    "weather": "☀️ 맑음 | 19°C (체감 19°C) | 습도 58%",
-    "schedule": "📌 19:00 저녁 조중만 김현석님 (Study) | 아침 30분 명상",
+    "date": "2026-10-01",
+    "headline": "8월 PCE 예상보다 낮아 10월 Fed 인상 압력 완화…코스피 6,800대 박스권 4분기 출발",
+    "weather": "🌤️ 흐림, 16°C (체감 11°C) | 습도 20% | 바람 12km/h",
+    "schedule": "📌 제니엘 10월 인사이동 진행사항 확인 | 수요MBA(내일) 준비",
     "domestic": {
       "kospi": {
-        "value": "6,870.81",
-        "change": "▼ 18.93",
-        "changeRate": "-0.27%",
-        "rate": "-0.27%"
+        "value": "6,838.04",
+        "change": "▼ 32.77",
+        "changeRate": "-0.48%",
+        "rate": "-0.48%"
       },
       "kosdaq": {
-        "value": "849.80",
-        "change": "▲ 4.20",
-        "changeRate": "+0.50%",
-        "rate": "+0.50%"
+        "value": "—",
+        "change": "—",
+        "changeRate": "—",
+        "rate": "—"
       },
       "supply": {
-        "foreign": "외국인 2조 9,030억 순매도 (이틀 연속)",
-        "individual": "개인 +1.14조 매수",
-        "institution": "기관 +0.12조 매수",
-        "usdkrw": "1,352.93",
-        "change": "-0.27%"
+        "foreign": "외국인 4거래일 연속 순매도",
+        "individual": "—",
+        "institution": "—",
+        "usdkrw": "—",
+        "change": "—"
       },
-      "comment": "코스피가 외국인 2조 9,030억 순매도(이틀 연속)에 밀려 6,870.81(-0.27%)로 마감했습니다. 개인(+1.14조)과 기관(+0.12조)이 매수로 맞섰지만 방어에 역부족이었고, 삼성전자·SK하이닉스가 동반 약세를 보였습니다. 반면 코스닥은 반도체 장비주 강세(HPSP +9.29%, 원익IPS +5.52%)에 힘입어 849.80(+0.50%)으로 상승 마감했습니다. 9/30 장중 코스피는 6,818.40(-1.04%)으로 개장 하락하며 6,800선이 위태로운 상황입니다. 원/달러는 1,352.93원입니다."
+      "comment": "코스피가 6,838.04(-0.48%)로 마감하며 6,800선에서 하방 지지 테스트를 이어갔습니다. 장중 6,818~6,965 사이를 오가며 9/29(6,870.81, -2.70%)에 이어 추가 하락해 7천선과 거리가 벌어졌습니다. 삼성전자 배당락(9/29) 여파가 지속되는 가운데 삼성전자 270,000원(-0.92%), 삼성전자우 196,600원(-3.63%)이 약세를 보였고, SK하이닉스(1,799,000원, +1.93%)는 반도체주 강세로 상대적 선방했습니다. 매일경제 보도에 따르면 외국인은 4거래일 연속 순매도(팔자)를 이어갔습니다."
     },
     "overseas": {
       "dow": {
-        "value": "51,828.62",
-        "change": "▲ 478.64",
-        "changeRate": "+0.93%"
+        "value": "51,065",
+        "change": "▼ 0.55%",
+        "changeRate": "-0.55%"
       },
       "sp500": {
-        "value": "7,743.41",
-        "change": "▲ 39.28",
-        "changeRate": "+0.51%"
+        "value": "7,686",
+        "change": "▲ 0.20%",
+        "changeRate": "+0.20%"
       },
       "nasdaq": {
-        "value": "27,068.72",
-        "change": "▲ 129.34",
-        "changeRate": "+0.48%"
+        "value": "26,861",
+        "change": "▲ 0.24%",
+        "changeRate": "+0.24%"
       },
       "oil": {
-        "wti": "$89.74",
-        "brent": "$97.83",
-        "note": "WTI ▼ -3.08%"
+        "wti": "$90.55",
+        "brent": "—",
+        "note": "WTI 장중 ▲1.31%, 이란-미국 갈등 전개 주시"
       },
-      "keyStocks": "미국 증시는 전일(9/28) 급락 후 반발 매수 유입으로 일제히 반등했습니다. 다우 51,828.62(+0.93%), S&P 500 7,743.41(+0.51%), 나스닥 27,068.72(+0.48%)로 기술주·AI가 반등을 주도했습니다. 다만 美 10년물 국채금리가 5.008%로 5% 상단 부담이 여전하고, WTI는 $89.74(-3.08%)로 호르무즈 긴장 완화에 급락했습니다. 브렌트유 $97.83, 원/달러 1,352.93원입니다."
+      "keyStocks": "미국 증시는 PCE 둔화 소식에 혼조 마감했습니다. S&P 500 7,686(+0.20%), 나스닥 26,861(+0.24%), 나스닥100 30,538(+0.65%)이 상승한 반면 다우는 51,065(-0.55%)로 하락했습니다. 핵심 종목은 애플 +1.75%, 알파벳 +2.65%, MS +1.43%, 엔비디아 +1.48%, 인텔 +3% 등 기술주·반도체가 강세였고 테슬라는 -0.27% 하락했습니다. 美 국채금리는 30년물 5.64%(+0.79%), 10년물 5.30%대로 장기 금리 고착화가 이어졌습니다."
     },
-    "topNews": "삼성 6개사 10억달러 美 AI 인프라 투자…외국인 2.9조 '셀 코리아'에 코스피 6,800선 위태",
+    "topNews": "8월 PCE 예상보다 낮아 10월 Fed 인상 압력 완화…코스피 6,800대 박스권 4분기 출발",
     "otherNews": [
-      "삼성 6개사, 美 AI 인프라 기업 '헬릭스'에 10억 달러 투자 — 삼성전자 5억+관계사 5억, KKR 설립·전 AWS CEO 셀립스키 리드",
-      "美 국채 10년물 5%대 고착화 — 연준 추가 금리인상 무게, 글로벌 밸류에이션 압박",
-      "WTI $89.74 급락(-3.08%) — 호르무즈 봉쇄 완화, 유가 하락은 인플레 압력 완화",
-      "AI Festa 26 — 10/6~8 코엑스 C홀 개최, 오픈AI·AWS·IBM 등 글로벌 AI 리더 참여",
-      "목소리 20초로 당뇨병 위험도 판별 — 영국 AI 연구팀, 혈액검사 선별 AI 개발"
+      "美 국채 30년물 5.64%·10년물 5.30%대 — 장기 금리 고착화, 19년 만 최고",
+      "배경훈 '독파모·프런티어 AI 함께 간다' — 韓 AI 전략 2축 (ZDNet Korea)",
+      "동아사이언스: 100여년 만에 신종 펭귄 발견 — 젠투펭귄 알고보니 4종",
+      "한국 원전, 웨스팅하우스 지분 10% 할인 인수 — 로열티·지재권 제어장치 마련"
     ],
     "email": {
       "google": "오늘 브리핑에 이메일 수신 내역은 별도로 집계되지 않았습니다.",
-      "note": "저녁 19:00 조중만 김현석님 약속(Study) / 코스피 6,800선 지지 여부 관찰"
+      "note": "제니엘 10월 인사이동 진행사항 확인 | 수요MBA(내일) 준비"
     },
-    "insight": "💡 「외국인 2.9조 매도 vs 삼성 1.36조 AI 투자」\n\n외국인이 2.9조를 팔아치우는 와중에 삼성은 1.36조를 AI 인프라에 베팅했다. 단기 수급은 나쁘지만, 삼성의 이번 투자는 반도체 부품 공급자를 넘어 AI 인프라 생태계의 주체로 도약하겠다는 선언이다. 엔비디아·KKR과 어깨를 나란히 한 점, 전 AWS CEO가 이끄는 팀에 합류한 점에서 장기적 AI 밸류체인 재편 신호로 읽힌다.\n\n코스피 6,800선은 단기 지지선 테스트 구간. 외국인 매도가 진정되고 美금리가 안정화된다면 7,000선 회복 시도는 가능하나, FOMC 여파와 10월 PCE·CPI 발표까지 변동성 장세가 이어질 전망이다.\n\n_오늘 저녁 조중만 김현석님 약속 — 좋은 시간 보내시길 바랍니다, 형!_"
+    "insight": "💡 「KOSPI 6,800대, 4분기 방향성은?」\n\n9월 FOMC(25bp 인상, 연내 추가 1회 전망) 이후 PCE가 예상보다 낮게 나오면서 10월 인상 압력이 완화됐습니다. 하지만 美 10년물 5.30%+ 고착화는 부담. KOSPI는 6,800~7,000 박스권에서 4분기를 출발할 가능성이 높아 보입니다.\n\n관전 포인트:\n- 삼성전자 배당락 영향 추이 (270,000선 지지 여부)\n- SK하이닉스 반도체 대장주 수성 여부\n- 美 PCE 3.4% — Fed 추가 인상 필요성 약화, 연내 동결 가능성 대두\n- 유가 — 이란-미국 갈등 상황\n\n📌 제니엘 관련 메모: 오늘은 10월 1일 목요일. 제니엘 10월 인사이동 관련 진행사항과 수요MBA(내일) 준비 확인하세요."
   },
   "sections": {
     "kor": {
@@ -144,16 +155,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "반도체 넘어 전력·냉각까지…삼성의 'AI 생태계' 빌드업",
-                  "url": "https://www.mk.co.kr/news/business/12163001",
-                  "eng": "Beyond chips to power and cooling — Samsung builds its AI ecosystem",
-                  "body": "삼성 6개사가 미국 AI 인프라 기업 '헬릭스 디지털 인프라스트럭처'에 총 10억 달러(약 1조 3,600억원)를 투자하기로 결정했다. 반도체 부품 공급을 넘어 데이터센터·전력·냉각까지 아우르는 AI 인프라 생태계의 주체로 도약하려는 구상이다."
+                  "headline": "코스피, '전강후약' 6800선 마감…외국인 4거래일 연속 '팔자'",
+                  "url": "https://www.mk.co.kr/news/stock/12164974",
+                  "eng": "KOSPI ends around 6,800 after strong start; foreigners sell for 4th straight day",
+                  "body": "코스피가 장 초반 상승 후 약세로 돌아서며 6,800선 부근에서 마감했다. 외국인은 4거래일 연속 순매도(팔자)를 이어가며 지수 하방 압력을 키웠다."
                 },
                 {
-                  "headline": "삼성전자 5억달러+관계사 5억달러, 헬릭스 공동 창립 투자",
-                  "url": "https://www.mk.co.kr/news/stock/12163002",
-                  "eng": "Samsung and affiliates co-found Helix with $1bn investment",
-                  "body": "삼성전자·삼성물산·삼성SDS·삼성SDI·삼성생명·삼성화재 6개사가 KKR·쿠웨이트투자청(KIA)·엔비디아·비스트라와 함께 헬릭스의 창립 투자자로 참여했다. 헬릭스는 전 AWS CEO 아담 셀립스키가 이끈다."
+                  "headline": "北지뢰 추정 사고에 靑 \"진상규명 후 응분의 조치\"",
+                  "url": "https://www.mk.co.kr/",
+                  "eng": "Presidential office vows due measures after suspected North Korean landmine accident",
+                  "body": "북한 지뢰로 추정되는 사고와 관련해 대통령실이 진상규명 후 응분의 조치를 취하겠다고 밝혔다. 매일경제가 선정한 주요 뉴스로 다뤄졌다."
                 }
               ]
             },
@@ -161,16 +172,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "외국인 2.9조 '셀 코리아'…코스피 6,800선 위태",
-                  "url": "https://stock.mk.co.kr/news/view/12163003",
-                  "eng": "Foreigners dump 2.9tn won; KOSPI's 6,800 line at risk",
-                  "body": "외국인이 유가증권시장에서 2조 9,030억원을 순매도하며 이틀 연속 매도 폭탄을 던졌다. 개인(+1.14조)과 기관(+0.12조)이 매수로 방어했지만 역부족이었고, 9/30 장중 코스피는 6,818.40까지 밀렸다."
+                  "headline": "[단독] 韓, 웨스팅하우스 지분 10% 할인해 인수",
+                  "url": "https://www.mk.co.kr/news/economy/12159631",
+                  "eng": "Korea to buy Westinghouse stake at 10% discount",
+                  "body": "한국 원전 업계가 웨스팅하우스 지분을 공모가 대비 10% 할인된 가격에 5~10%대 인수하게 됐다. 이사 지명권은 얻지 못했지만 의결권을 확보해 원천기술 로열티 문제와 경영 간접 참여를 위한 제어장치를 마련했다."
                 },
                 {
-                  "headline": "美 국채 10년물 5%대 고착화…연준 추가 금리인상 무게",
-                  "url": "https://www.mk.co.kr/news/economy/12163004",
-                  "eng": "US 10-year yield entrenched above 5%; Fed hike odds rise",
-                  "body": "미국 10년물 국채금리가 5.008%로 5% 상단에 고착화하며 글로벌 밸류에이션에 부담을 지속하고 있다. 시장에서는 연준의 추가 금리인상 가능성에 무게가 실리고 있다."
+                  "headline": "美 국채금리 5% 훌쩍…韓 반도체 호황 꺾이나",
+                  "url": "https://www.mk.co.kr/news/stock/12144361",
+                  "eng": "US yields top 5%; will Korea's chip boom cool?",
+                  "body": "미국 10년물 국채금리가 5.2%를 돌파하며 2007년 이후 최고치를 기록했다. 반도체 의존도가 높은 한국 경제에 외국인 자금 이탈과 AI 투자 위축 우려가 번지고 있다."
                 }
               ]
             },
@@ -178,16 +189,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "AI Festa 26, 10월 6~8일 코엑스 C홀 개최",
-                  "url": "https://www.mk.co.kr/news/it/12163005",
-                  "eng": "AI Festa 26 to be held Oct 6-8 at COEX",
-                  "body": "인공지능 페스타 2026(AI FESTA 26)이 10월 6~8일 서울 코엑스 C홀에서 열린다. 오픈AI·AWS·IBM 등 글로벌 AI 리더들이 참여하며, 접수는 10월 2일 마감된다."
+                  "headline": "추석 연휴 사흘 만에 20bp 뛰었다…미국 장기 국채금리 더 오른다는데",
+                  "url": "https://stock.mk.co.kr/news/view/1165460",
+                  "eng": "US long-term yields jump 20bp over holiday; more upside seen",
+                  "body": "추석 연휴 기간 미국 장기 국채금리가 사흘 만에 20bp 가까이 상승했다. 시장에서는 10년물과 30년물 금리가 추가 상승할 수 있다는 전망이 나오고 있다."
                 },
                 {
-                  "headline": "목소리 20초 듣고 당뇨병 위험도 판별하는 AI 등장",
-                  "url": "https://www.mk.co.kr/news/it/12163006",
-                  "eng": "AI judges diabetes risk from 20 seconds of voice",
-                  "body": "20초 분량의 목소리만 듣고 제2형 당뇨병 위험도를 판별해 추가 혈액검사 대상자를 선별하는 AI 모델이 개발됐다. 영국 AI 연구팀의 성과다."
+                  "headline": "\"7000 간다더니 6600도 간당\"…코스피 전망, 일주일 새 무슨 일?",
+                  "url": "https://www.mk.co.kr/news/stock/12144361",
+                  "eng": "KOSPI forecasts slashed in a week amid volatility",
+                  "body": "한때 7,000선 회복 전망이 나왔던 코스피가 일주일 새 전망치가 크게 낮아졌다. 증권가에서는 9월 코스피가 약보합권에 머물며 6,600~7,400 범위를 오갈 것이라는 분석이 제기됐다."
                 }
               ]
             }
@@ -201,16 +212,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "삼성, 미 AI 인프라 기업 헬릭스에 10억 달러 투자",
-                  "url": "https://www.khan.co.kr/article/202609291128001",
-                  "eng": "Samsung invests $1bn in US AI infrastructure firm Helix",
-                  "body": "삼성전자 등 삼성 6개사가 미국 AI 인프라 기업 '헬릭스 디지털 인프라스트럭처'에 총 10억 달러(약 1조 3,600억원)를 투자하기로 결정했다. AI 데이터센터 생태계에서 차세대 리더십을 확보하려는 의지로 평가된다."
+                  "headline": "이 대통령 \"김지용, 추미애 때 검사장 승진···억지주장은 국정방해\"",
+                  "url": "https://weekly.khan.co.kr/article/202610010020001",
+                  "eng": "President Lee dismisses Kim Ji-yong claims as 'groundless' and 'obstruction'",
+                  "body": "이재명 대통령이 김지용 관련 친윤 비난에 대해 '납득하기 어렵다'며 억지 주장이라면 국정 방해에 해당한다고 반박했다. 어려울수록 국민과 직접 소통하겠다는 입장도 재확인했다."
                 },
                 {
-                  "headline": "이재명 대통령, 주거·일자리·서민금융 3대 사회정책 추진",
-                  "url": "https://www.khan.co.kr/politics/",
-                  "eng": "President Lee pushes three key social policies",
-                  "body": "이재명 대통령은 주거안정 플랜 119만호 공급, 국민 일자리 사업, 포용금융 확대 등 3대 핵심 사회정책을 추진하겠다고 밝혔다."
+                  "headline": "[2026년 10월 1일 날씨] 뚝 떨어진 기온…한낮에도 20도 안팎",
+                  "url": "https://www.khan.co.kr/article/202609302117025",
+                  "eng": "Temperatures plunge; highs around 20°C on Oct 1",
+                  "body": "10월 1일 아침 기온이 크게 떨어지며 쌀쌀한 날씨가 예고됐다. 한낮에도 20도 안팎에 머물며 갑작스러운 기온 하강에 따른 건강 관리가 필요하다."
                 }
               ]
             },
@@ -218,16 +229,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "AI 전력 수요 폭증…TSMC, 대만 전력 9% 사용",
-                  "url": "https://www.khan.co.kr/economy/",
-                  "eng": "AI power demand surges; TSMC uses 9% of Taiwan's electricity",
-                  "body": "AI 데이터센터 확산으로 전력 수요가 급증하는 가운데 TSMC가 지난해 대만 전체 전력 소비량의 9%에 육박하는 전력을 사용한 것으로 나타났다. 전력 확보가 AI 경쟁력의 핵심으로 떠올랐다."
+                  "headline": "미국 국채 30년 금리 5.35% 기록···2007년 이후 최고치",
+                  "url": "https://www.khan.co.kr/article/202609102234001",
+                  "eng": "US 30-year yield hits 5.35%, highest since 2007",
+                  "body": "미국 30년물 국채금리가 5.35%까지 올라 2007년 이후 최고치를 기록했다. 생산자물가지수(PPI) 발표 직후 급등하며 글로벌 채권시장에 부담을 더했다."
                 },
                 {
-                  "headline": "외국인 이틀 연속 매도…'셀 코리아' 압박 지속",
-                  "url": "https://www.khan.co.kr/economy/",
-                  "eng": "Foreign selling continues for second day",
-                  "body": "FOMC 이후 외국인 매도가 지속되며 코스피가 6,800선을 위협받고 있다. 미국 금리 5% 고공행진이 외국인 자금 이탈의 주된 원인으로 지목된다."
+                  "headline": "이 대통령 \"어려울수록 더욱 국민과 직접 소통해야\"",
+                  "url": "https://www.khan.co.kr/newest/articles",
+                  "eng": "President: 'Engage the public more directly in hard times'",
+                  "body": "이재명 대통령은 최근 정치적 논란 속에서도 국민과의 직접 소통을 강조했다. 경향신문 최신기사 코너를 통해 관련 발언이 전해졌다."
                 }
               ]
             },
@@ -235,16 +246,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "WTI $89.74 급락…호르무즈 봉쇄 완화 영향",
-                  "url": "https://www.khan.co.kr/economy/",
-                  "eng": "WTI slides to $89.74 as Hormuz tensions ease",
-                  "body": "국제 유가가 호르무즈 해협 봉쇄 우려 완화로 급락했다. WTI는 3% 넘게 하락한 $89.74/배럴로 마감하며 인플레 압력 완화 기대를 키웠다."
+                  "headline": "[경제뭔데] 코스피 발목 잡는 '보이지 않는 손', 미국 장기국채 금리의 정체",
+                  "url": "https://www.khan.co.kr/article/202608220600081",
+                  "eng": "The invisible hand weighing on KOSPI: US long-term yields",
+                  "body": "코스피의 발목을 잡는 '보이지 않는 손'은 미국 장기 국채금리라는 분석이 나왔다. 미 연방정부 부채가 8월 기준 40조 달러를 돌파하며 장기 금리 상승을 부추기고 있다."
                 },
                 {
-                  "headline": "목소리 20초로 당뇨병 위험 판별하는 AI 개발",
-                  "url": "https://www.khan.co.kr/life/health/",
-                  "eng": "Voice-based AI screens for diabetes risk",
-                  "body": "20초 분량의 음성 샘플만으로 제2형 당뇨병 위험도를 판별하는 AI 모델이 개발됐다. 혈액검사 대상자 선별에 기여할 전망이다."
+                  "headline": "미국 국채금리 급등에 글로벌 채권시장 동반 압박",
+                  "url": "https://www.khan.co.kr/article/202609102234001",
+                  "eng": "US yield surge pressures global bond markets",
+                  "body": "미국 국채금리 급등이 유럽·일본 등 주요국 채권시장으로 확산되고 있다. 중앙은행들의 금리 인상 기조가 맞물리며 글로벌 차입비용이 전반적으로 상승했다."
                 }
               ]
             }
@@ -258,16 +269,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "美 국채금리 5%대 고착화…연준 추가 금리인상 무게",
-                  "url": "https://www.donga.com/news/Economy/article/all/20260930/134733101/1",
-                  "eng": "US yields entrenched above 5%; Fed hike odds rise",
-                  "body": "미국 국채금리가 5%대에 고착화되면서 연준의 추가 금리인상 가능성에 무게가 실리고 있다. 글로벌 증시와 국내 수급에 부담으로 작용하고 있다."
+                  "headline": "\"AI 시대에도 다윗이 골리앗 이길 수 있어\"",
+                  "url": "https://www.donga.com/news/People/article/all/20260930/134764035/2",
+                  "eng": "'In the AI era, David can still beat Goliath'",
+                  "body": "최예진 스탠퍼드대 인간중심 AI연구소 교수가 '컴퓨팅 자원은 폭발적으로 늘지만 AI의 연료인 데이터 성장은 못 따라간다'며 거대 AI 모델의 한계를 지적했다. 작은 주체도 경쟁력을 가질 수 있다는 메시지를 전했다."
                 },
                 {
-                  "headline": "정부, 새 송전망 완공…AI 전력 수요 대응",
-                  "url": "https://www.donga.com/news/Economy/article/all/20260930/134733102/1",
-                  "eng": "Government completes new power grid for AI demand",
-                  "body": "정부가 AI 데이터센터의 전력 수요에 대응하기 위한 신규 송전망을 완공했다. 전력 인프라 확충이 AI 산업 성장의 핵심 과제로 떠올랐다."
+                  "headline": "韓 검토중인데, '알래스카 LNG 투자' 대못 박으려는 트럼프",
+                  "url": "https://www.donga.com/news/Economy/article/all/20261001/134764044/2",
+                  "eng": "Trump presses Alaska LNG investment while Korea weighs options",
+                  "body": "트럼프 미국 대통령이 한국의 알래스카 LNG 투자를 압박하며 대미 투자를 공식 발표했다. 한국 정부는 원전 8기와 알래스카 LNG 등 대미 투자안을 검토 중이다."
                 }
               ]
             },
@@ -275,16 +286,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "삼성 6개사, 美 헬릭스에 10억 달러 투자…AI 생태계 도약",
-                  "url": "https://www.donga.com/news/Economy/article/all/20260930/134733103/1",
-                  "eng": "Samsung group invests $1bn in Helix",
-                  "body": "삼성 6개사가 미국 AI 인프라 기업 헬릭스에 10억 달러를 투자한다. 반도체를 넘어 전력·냉각까지 아우르는 AI 생태계의 주체로 나서겠다는 구상이다."
+                  "headline": "美국채금리 30년물 年5.5%까지 올라…韓경제 악재될지 촉각",
+                  "url": "https://www.donga.com/news/Economy/article/all/20260927/134738721/2",
+                  "eng": "US 30-year yield hits 5.5%; watch for Korea spillover",
+                  "body": "미국 30년물 국채금리가 연 5.5%까지 올랐다. 한국 경제에 악재가 될지 촉각이 모아지는 가운데 10년물도 5%를 터치하며 자금시장 경계감이 커지고 있다."
                 },
                 {
-                  "headline": "내일부터 '일시적 2주택자' 2년 내 기존 집 팔아야 1주택 과세",
-                  "url": "https://www.donga.com/news/Economy/",
-                  "eng": "Temporary two-home owners get new tax rules",
-                  "body": "내일부터 일시적 2주택자가 2년 내 기존 주택을 매도하면 1주택자로 과세받는 규정이 시행된다. 실수요자의 세 부담을 덜어주는 조치다."
+                  "headline": "한국 U-23 축구, 중국에 역전승…아시안게임 결승행",
+                  "url": "https://www.donga.com/news/Sports/List",
+                  "eng": "Korea U-23 beats China to reach Asian Games final",
+                  "body": "한국 23세 이하 남자 축구대표팀이 중국을 상대로 역전승을 거두며 2026 아이치-나고야 아시안게임 결승에 진출했다. 1경기를 남겨두고 금메달에 도전한다."
                 }
               ]
             },
@@ -292,16 +303,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "목소리 20초 듣고 당뇨병 위험 판별하는 AI",
-                  "url": "https://www.donga.com/news/It/article/all/20260930/134733104/1",
-                  "eng": "AI detects diabetes risk from voice",
-                  "body": "20초 분량의 목소리만으로 제2형 당뇨병 위험도를 판별하는 AI 모델이 개발됐다. 혈액검사 전 선별 도구로 활용될 전망이다."
+                  "headline": "美 10년만기 국채금리 5% 터치…2023년 10월 이후 처음",
+                  "url": "https://www.donga.com/news/Inter/article/all/20260914/134668615/2",
+                  "eng": "US 10-year yield touches 5% for first time since Oct 2023",
+                  "body": "미국 10년 만기 국채금리가 장중 5%대를 터치하며 2023년 10월 이후 처음으로 5% 문턱에 올라섰다. 중동 긴장 고조에 따른 유가 상승과 인플레이션 우려가 복합적으로 작용했다."
                 },
                 {
-                  "headline": "AI Festa 26, 코엑스서 10월 6~8일 개최",
-                  "url": "https://www.donga.com/news/It/",
-                  "eng": "AI Festa 26 opens Oct 6 at COEX",
-                  "body": "국내외 AI 리더들이 참여하는 인공지능 페스타 2026이 10월 6~8일 코엑스에서 열린다. 오픈AI·AWS·IBM 등이 참여한다."
+                  "headline": "신유빈, 네팔 구호에 5000만원 기부",
+                  "url": "https://www.donga.com/news/Pdf",
+                  "eng": "Shin Yu-bin donates 50m won to Nepal relief",
+                  "body": "탁구 스타 신유빈이 네팔 구호를 위해 5,000만원을 기부했다. 동아일보 지면에서 '오늘의 아시안게임' 코너와 함께 소개됐다."
                 }
               ]
             }
@@ -315,16 +326,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "삼성 6개사, 美 AI 인프라 '헬릭스'에 10억달러 통큰 베팅",
-                  "url": "https://www.hankyung.com/article/202609301234i",
-                  "eng": "Samsung group makes $1bn bet on Helix",
-                  "body": "삼성 6개사가 미국 AI 인프라 기업 헬릭스에 총 10억 달러를 투자한다. 전 AWS CEO 셀립스키가 이끄는 헬릭스는 데이터센터·전력·냉각을 통합 제공한다."
+                  "headline": "미국채 10년물 19년 만에 최고치…유럽·일본도 인상 기조",
+                  "url": "https://www.hankyung.com/all-news",
+                  "eng": "US 10-year yield hits 19-year high; Europe, Japan also hawkish",
+                  "body": "미국채 10년물 금리가 19년 만에 최고치를 기록했다. 유럽과 일본도 금리 인상 기조를 이어가며 글로벌 채권시장 매도세가 확산되고 있다."
                 },
                 {
-                  "headline": "코스피 6,800선 위태…외국인 2.9조 '셀 코리아'",
-                  "url": "https://www.hankyung.com/article/202609301235i",
-                  "eng": "KOSPI's 6,800 line at risk amid foreign selling",
-                  "body": "외국인이 2조 9,030억원을 순매도하며 이틀 연속 매도에 나섰다. 9/30 장중 코스피는 6,818.40까지 하락하며 6,800선이 위태로운 상황이다."
+                  "headline": "정부, 국내 원전기업에 웨스팅하우스 지분 인수 제안",
+                  "url": "https://www.hankyung.com/article/2026091566551",
+                  "eng": "Seoul proposes Westinghouse stake purchase to nuclear firms",
+                  "body": "정부가 국내 원전기업들에 웨스팅하우스 지분 인수를 제안했다. 원전 수출 때마다 불거진 지식재산권 분쟁에서 협상력을 높이기 위한 카드로 평가된다."
                 }
               ]
             },
@@ -332,16 +343,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "美 국채 10년물 5%대 고착화…연준 인상 무게",
-                  "url": "https://www.hankyung.com/article/202609301236i",
-                  "eng": "US 10-year yield stuck above 5%",
-                  "body": "미국 10년물 국채금리가 5.008%로 5% 상단에 머물며 글로벌 밸류에이션 압박을 지속하고 있다. 연준의 추가 금리인상 가능성에 시장의 무게가 실렸다."
+                  "headline": "반도체 의존도 높은 韓…美국채 10년물 年5% 뚫리면 직격탄",
+                  "url": "https://www.hankyung.com/article/2026081150181",
+                  "eng": "Chip-heavy Korea vulnerable if 10-year yield breaks 5%",
+                  "body": "미국 10년물 국채금리가 연 5%를 뚫으면 반도체 의존도가 높은 한국 경제가 직격탄을 맞을 수 있다는 분석이 나왔다. 외국인 자금 이탈과 빅테크 자금조달 비용 압박으로 AI 투자 위축이 우려된다."
                 },
                 {
-                  "headline": "WTI $89.74 급락…호르무즈 긴장 완화",
-                  "url": "https://www.hankyung.com/article/202609301237i",
-                  "eng": "Oil slumps as Hormuz tensions ease",
-                  "body": "국제 유가가 호르무즈 해협 봉쇄 우려 완화로 3% 넘게 급락했다. WTI는 $89.74/배럴로 마감하며 인플레 압력 완화 기대를 키웠다."
+                  "headline": "산업부, 대미투자 1호 텍사스가스발전…2·3호 원전·알래스카 LNG",
+                  "url": "https://www.hankyung.com/all-news",
+                  "eng": "Korea's first US investment: Texas gas power, then nuclear and Alaska LNG",
+                  "body": "산업통상자원부가 대미 투자 1호로 텍사스 가스발전을, 2·3호로 원전과 알래스카 LNG를 추진한다고 밝혔다. 미국과 웨스팅하우스 지분 5~10% 투자도 협상 중이다."
                 }
               ]
             },
@@ -349,16 +360,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "AI Festa 26, 오픈AI·AWS·IBM 총출동",
-                  "url": "https://www.hankyung.com/article/202609301238i",
-                  "eng": "Global AI leaders gather at AI Festa 26",
-                  "body": "인공지능 페스타 2026이 10월 6~8일 코엑스에서 열린다. 오픈AI·AWS·IBM 등 글로벌 AI 리더가 참여하며 접수는 10월 2일 마감된다."
+                  "headline": "SK하이닉스, 인텔과 손잡고 미국서…",
+                  "url": "https://www.hankyung.com/all-news",
+                  "eng": "SK Hynix teams with Intel in the US",
+                  "body": "SK하이닉스가 인텔과 손잡고 미국에서 반도체 협력을 확대한다. 한경 초판본에 따르면 국내 반도체 기업들의 미국 내 사업이 본격화되고 있다."
                 },
                 {
-                  "headline": "목소리 20초로 당뇨병 위험 판별하는 AI 개발",
-                  "url": "https://www.hankyung.com/article/202609301239i",
-                  "eng": "AI screens diabetes risk from 20-second voice clip",
-                  "body": "20초 분량의 목소리만 듣고 제2형 당뇨병 위험도를 판별하는 AI 모델이 개발됐다. 혈액검사 대상자 선별에 기여할 전망이다."
+                  "headline": "美 국채금리 5% 훌쩍…韓 반도체 호황 꺾이나",
+                  "url": "https://www.hankyung.com/article/2026081150181",
+                  "eng": "US yields above 5%; will Korean chip boom falter?",
+                  "body": "미국 국채금리가 5%를 크게 웃돌며 한국 반도체 호황에 대한 우려가 커졌다. 30년물이 19년 만에 최고를 기록하는 등 장기 금리 상승이 산업계 자금조달에 부담으로 작용하고 있다."
                 }
               ]
             }
@@ -377,16 +388,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "Bond Yields Keep Rising Despite Drop in Oil Price, Dovish Fed Speech",
-                  "url": "https://www.wsj.com/finance/investing/bond-yields-keep-rising-despite-drop-in-oil-price-dovish-fed-speech-49aeab91",
+                  "headline": "10-Year Treasury Yield Rises to New 24-Year High",
+                  "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-30-2026",
                   "eng": "",
-                  "body": "Treasury yields extended their climb even as oil prices fell and a Federal Reserve official struck a dovish tone, underscoring the persistence of inflationary pressure and a higher-for-longer rate outlook."
+                  "body": "The 10-year Treasury yield rose to a new 24-year high as second-quarter GDP growth was revised upward and the Fed's preferred inflation measure held steady in August."
                 },
                 {
-                  "headline": "OpenAI Scraps Release of New AI Model Over Safety Concerns",
-                  "url": "https://www.wsj.com/tech/ai/openai-chatgpt-model-release-cancel-safety-5a2f9f42",
+                  "headline": "Growth, Inflation Figures Show Signs of an Economic Pickup",
+                  "url": "https://www.wsj.com/economy/growth-inflation-figures-show-signs-of-an-economic-pickup-041f4e1d",
                   "eng": "",
-                  "body": "OpenAI halted the rollout of a new AI model after safety reviews raised concerns, a setback that highlights growing scrutiny over frontier AI systems."
+                  "body": "The U.S. economy grew more than previously thought in the second quarter of 2026 and inflation remained firm in August, according to new government reports."
                 }
               ]
             },
@@ -394,16 +405,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "Long-Term Treasury Yields Push Higher Despite Decline in Oil Prices",
-                  "url": "https://www.wsj.com/finance/investing/long-term-treasury-yields-push-higher-despite-decline-in-oil-prices-7f69c1b7",
+                  "headline": "Major Wall Street Banks Lift Oil-Price Forecast, Survey Shows",
+                  "url": "https://www.wsj.com/business/energy-oil/major-wall-street-banks-lift-oil-price-forecast-survey-shows-34ae1ab8",
                   "eng": "",
-                  "body": "Long-dated Treasury yields continued to grind higher, with the 10-year touching 5% territory, as investors weighed persistent inflation against easing energy prices."
+                  "body": "Major Wall Street banks raised their oil-price forecasts for this year and early next, as stalled efforts to end the Iran war leave the market vulnerable to fresh supply shocks."
                 },
                 {
-                  "headline": "Goldman Board Discusses Plan to Name John Waldron Next CEO",
-                  "url": "https://www.wsj.com/finance/banking/goldman-board-john-waldron-ceo-2026",
+                  "headline": "The U.S. Military Exits Iraq, Leaving Behind a Nation in Peril",
+                  "url": "https://www.wsj.com/world/middle-east/iran-american-military-iraq-militants-e5e20c75",
                   "eng": "",
-                  "body": "Goldman Sachs' board is discussing a plan to name John Waldron as its next chief executive, according to people familiar with the matter, as Wall Street braces for a leadership transition."
+                  "body": "The U.S. military has completed its exit from Iraq, leaving behind a nation in peril as Iranian-backed militants and political instability complicate the security landscape."
                 }
               ]
             },
@@ -411,16 +422,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "Middle East Oil Exports Rebound as Iran's Chokehold on Hormuz Breaks Down",
-                  "url": "https://www.wsj.com/world/middle-east/middle-east-oil-exports-rebound-as-irans-chokehold-on-hormuz-breaks-down-4ffde655",
+                  "headline": "Treasury Will Auto-Enroll 60 Million Children in Trump Accounts",
+                  "url": "https://www.wsj.com/politics/policy/treasury-will-auto-enroll-60-million-in-trump-accounts-a5f82421",
                   "eng": "",
-                  "body": "Crude shipments through the Strait of Hormuz rebounded as tensions eased, helping push oil prices sharply lower and relieving a key inflationary pressure point."
+                  "body": "The Treasury Department will automatically enroll about 60 million children in so-called Trump accounts, a sweeping expansion of the savings program."
                 },
                 {
-                  "headline": "Nvidia Adds $150 Billion to Buyback Plan",
-                  "url": "https://www.wsj.com/finance/stocks/nvidia-150-billion-buyback-2026",
+                  "headline": "Chilly Markets and AI Safety Debates Derail Wall Street's Blockbuster IPO Season",
+                  "url": "https://www.wsj.com/world/chilly-markets-and-ai-safety-debates-derail-wall-streets-blockbuster-ipo-season-f2bf312b",
                   "eng": "",
-                  "body": "Nvidia announced a record $150 billion addition to its share-repurchase program, signaling confidence in its cash generation even as AI spending comes under scrutiny."
+                  "body": "Cooling markets and intensifying AI safety debates have derailed Wall Street's anticipated IPO season, delaying several high-profile listings."
                 }
               ]
             }
@@ -434,16 +445,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "OpenAI Targets $30 Billion in New Funding at $1.4 Trillion Value",
-                  "url": "https://www.bloomberg.com/news/articles/2026-09-29/openai-targets-30-billion-in-new-funding-at-1-4-trillion-value",
+                  "headline": "S&P 500 Wipes Out Gain in Last Stretch of Trading",
+                  "url": "https://www.bloomberg.com/news/articles/2026-09-29/stock-market-today-dow-s-p-live-updates",
                   "eng": "",
-                  "body": "OpenAI is targeting roughly $30 billion in fresh funding at a $1.4 trillion valuation, cementing its status as one of the world's most valuable startups amid an AI capital boom."
+                  "body": "The S&P 500 gave up its gains in the final stretch of trading as Treasury yields climbed, capping a turbulent month for U.S. equities."
                 },
                 {
-                  "headline": "AMD to Buy Fei-Fei Li's World Labs AI Startup for $8.2 Billion",
-                  "url": "https://www.bloomberg.com/news/articles/2026-09-28/amd-to-buy-world-labs-ai-startup-for-8-2-billion",
+                  "headline": "Ford's 45% Rally Wiped Out as Hopes for an AI Windfall Fizzle",
+                  "url": "https://www.bloomberg.com/news/articles/2026-09-30/ford-s-45-rally-wiped-out-as-hopes-for-an-ai-windfall-fizzle",
                   "eng": "",
-                  "body": "AMD agreed to acquire World Labs, the AI startup co-founded by Fei-Fei Li, for $8.2 billion, deepening its push into spatial intelligence and AI infrastructure."
+                  "body": "Ford's 45% rally was wiped out as hopes for an AI windfall fizzled, with the automaker set to take $19.5 billion in charges tied to its EV overhaul."
                 }
               ]
             },
@@ -451,16 +462,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "OpenAI Unveils Always-On AI Agent Dots, New $500 Paid Tier",
-                  "url": "https://www.bloomberg.com/news/articles/2026-09-29/openai-unveils-always-on-ai-agent-dots-new-500-paid-tier",
+                  "headline": "Deutsche Bank Plans Risk Trade Tied to $2 Billion in Fund Loans",
+                  "url": "https://www.bloomberg.com/news/articles/2026-09-30/deutsche-bank-plans-risk-trade-tied-to-2-billion-in-fund-loans",
                   "eng": "",
-                  "body": "OpenAI introduced Dots, an always-on AI agent, alongside a new $500-a-month paid tier as the company races to monetize its models and fend off rivals."
+                  "body": "Deutsche Bank is planning a risk-transfer trade tied to about $2 billion in fund loans, as banks look to free up capital."
                 },
                 {
-                  "headline": "Nvidia Launches Record $150 Billion Share Buyback",
-                  "url": "https://www.bloomberg.com/news/articles/2026-09-29/nvidia-record-150-billion-buyback",
+                  "headline": "Hertz Taps PJT Partners to Extend Debt as Maturities Loom",
+                  "url": "https://www.bloomberg.com/news/articles/2026-09-30/hertz-taps-pjt-partners-to-extend-debt-as-maturities-loom",
                   "eng": "",
-                  "body": "Nvidia unveiled a record $150 billion share-buyback program, returning capital to investors as its AI chip dominance drives massive cash flow."
+                  "body": "Hertz has hired PJT Partners to extend its debt as maturities approach, seeking to ease near-term refinancing pressure."
                 }
               ]
             },
@@ -468,16 +479,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "Trump Hosts Silicon Valley Chiefs for Summit on AI Safety Risks",
-                  "url": "https://www.bloomberg.com/news/articles/2026-09-29/trump-set-to-host-nvidia-anthropic-ceos-to-discuss-ai-risks",
+                  "headline": "UnitedHealth Must Face Shareholder Suit by CalPERS, Judge Rules",
+                  "url": "https://www.bloomberg.com/news/articles/2026-09-30/unitedhealth-must-face-shareholder-suit-by-calpers-judge-rules",
                   "eng": "",
-                  "body": "President Trump hosted executives from Nvidia, Anthropic and other tech leaders for a summit on AI safety risks, as Washington weighs new guardrails for the industry."
+                  "body": "A judge ruled that UnitedHealth must face a shareholder lawsuit brought by CalPERS, allowing the case to proceed."
                 },
                 {
-                  "headline": "Apple's New CEO Seeks to Make Company Run Faster and Leaner",
-                  "url": "https://www.bloomberg.com/news/articles/2026-09-29/apple-s-new-ceo-moves-to-overhaul-company-to-run-faster-and-leaner",
+                  "headline": "Trump ETF Brand, Dan Ives Mark Yorkville's Push on Wall Street",
+                  "url": "https://www.bloomberg.com/news/articles/2026-09-30/trump-etf-brand-dan-ives-mark-yorkville-s-push-on-wall-street",
                   "eng": "",
-                  "body": "Apple's new chief executive is moving to overhaul the company to run faster and leaner, streamlining operations as growth slows across the hardware giant."
+                  "body": "Dan Ives is launching a Trump-branded ETF as his Yorkville merchant bank makes a push on Wall Street, blending politics with finance."
                 }
               ]
             }
@@ -491,16 +502,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "Treasury Yields Climb to Highest Level in Nearly Two Decades",
-                  "url": "https://www.nytimes.com/2026/09/29/business/treasury-yields-highest-two-decades.html",
+                  "headline": "Inflation Cools as August PCE Rises Less Than Expected",
+                  "url": "https://www.nytimes.com/section/business",
                   "eng": "",
-                  "body": "The yield on the 10-year Treasury note rose to its highest level in nearly two decades, pressuring stocks and housing as investors brace for a prolonged high-rate era."
+                  "body": "The Personal Consumption Expenditures price index rose less than expected in August, with core PCE up 0.2% for the month, giving the Federal Reserve room to hold rates."
                 },
                 {
-                  "headline": "OpenAI Halts New Model Over Safety Concerns",
-                  "url": "https://www.nytimes.com/2026/09/29/technology/openai-halts-model-safety.html",
+                  "headline": "Second-Quarter Growth Revised Up; Treasury Yields Hit Two-Decade High",
+                  "url": "https://www.nytimes.com/section/business",
                   "eng": "",
-                  "body": "OpenAI scrapped the release of a new artificial-intelligence model after safety reviews, a rare setback for the company at the center of the AI boom."
+                  "body": "Second-quarter GDP growth was revised upward to 2.2% as Treasury yields climbed to their highest level in nearly two decades, pressuring stocks."
                 }
               ]
             },
@@ -508,16 +519,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "Nvidia Announces Record $150 Billion Buyback",
-                  "url": "https://www.nytimes.com/2026/09/29/business/nvidia-buyback-150-billion.html",
+                  "headline": "Consumer Spending Jumps as Economy Shows Resilience",
+                  "url": "https://www.nytimes.com/section/business",
                   "eng": "",
-                  "body": "Nvidia said it would buy back a record $150 billion of its own stock, a sign of confidence even as questions mount over the sustainability of AI spending."
+                  "body": "U.S. consumer spending rose in August at the fastest pace in over a year, signaling the economy continues to advance despite elevated inflation."
                 },
                 {
-                  "headline": "AMD to Acquire AI Startup World Labs for $8.2 Billion",
-                  "url": "https://www.nytimes.com/2026/09/29/business/amd-world-labs.html",
+                  "headline": "10-Year Treasury Yield Tops 5% for First Time Since 2007",
+                  "url": "https://www.nytimes.com/section/business",
                   "eng": "",
-                  "body": "Chipmaker AMD agreed to acquire the AI startup World Labs, founded by Fei-Fei Li, for $8.2 billion as it challenges Nvidia in artificial intelligence."
+                  "body": "The 10-year Treasury yield rose above 5% for the first time since 2007, raising borrowing costs across the economy and weighing on markets."
                 }
               ]
             },
@@ -525,16 +536,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "Oil Prices Fall as Iran Chokehold on Hormuz Eases",
-                  "url": "https://www.nytimes.com/2026/09/29/business/oil-prices-hormuz.html",
+                  "headline": "Oil Prices Rebound as Iran War Fears Persist",
+                  "url": "https://www.nytimes.com/section/business",
                   "eng": "",
-                  "body": "Crude prices tumbled as fears of a disruption to the Strait of Hormuz receded, offering relief to consumers and central banks battling inflation."
+                  "body": "Crude oil prices rebounded as fears over the Iran war persisted, keeping energy markets on edge despite a recent easing in Middle East tensions."
                 },
                 {
-                  "headline": "States Weigh Gas-Tax Holidays as Diesel Prices Hit Records",
-                  "url": "https://www.nytimes.com/2026/09/29/business/diesel-prices-gas-tax-holiday.html",
+                  "headline": "Fed Weighs Whether October Rate Hike Can Wait",
+                  "url": "https://www.nytimes.com/section/business",
                   "eng": "",
-                  "body": "With diesel prices at record highs, state lawmakers are weighing gas-tax holidays ahead of the midterms, a sign of the political sting of energy inflation."
+                  "body": "Federal Reserve officials are weighing whether an October rate hike can wait after cooler-than-expected inflation data dialed back tightening expectations."
                 }
               ]
             }
@@ -548,16 +559,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "Americans Feel Worse About the Economy Than During the Pandemic",
-                  "url": "https://www.washingtonpost.com/business/2026/09/29/americans-feel-worse-about-economy-than-during-pandemic/",
+                  "headline": "Americans' View of Economy Sinks to Lowest Level in Decade",
+                  "url": "https://www.washingtonpost.com/economy/",
                   "eng": "",
-                  "body": "A new survey finds Americans feel worse about the economy than at the depths of the pandemic, with inflation and high borrowing costs eroding confidence."
+                  "body": "Americans' confidence in the economy sank to its lowest level in more than a decade this month as prices remain elevated and borrowing costs stay high."
                 },
                 {
-                  "headline": "10-Year Treasury Yield Rises to Highest Level in Nearly Two Decades",
-                  "url": "https://www.washingtonpost.com/business/2026/09/23/10-year-treasury-yield-rose-wednesday-its-highest-level-nearly-two-decades/",
+                  "headline": "U.S. Economy Grew 2.2% in Second Quarter",
+                  "url": "https://www.washingtonpost.com/economy/",
                   "eng": "",
-                  "body": "The 10-year Treasury yield climbed to its highest level in nearly two decades, ratcheting up borrowing costs across the economy and weighing on markets."
+                  "body": "The U.S. economy grew at a solid 2.2% pace from April through June as consumer spending and business investment came in strong."
                 }
               ]
             },
@@ -565,16 +576,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "Record High Diesel Prices Have States Weighing Gas-Tax Holidays Before Midterms",
-                  "url": "https://www.washingtonpost.com/business/2026/09/26/record-high-diesel-prices-have-states-weighing-gas-tax-holidays-before-midterms/",
+                  "headline": "Retail Sales Rebound Strongly in August Even as People Feel Wary",
+                  "url": "https://www.washingtonpost.com/business/2026/09/16/retail-sales-rebound-strongly-august-even-people-feel-wary-over-economy/",
                   "eng": "",
-                  "body": "As diesel hits record highs, state legislatures are considering gas-tax holidays before the midterm elections, reflecting the political pressure of energy costs."
+                  "body": "Retail sales rebounded strongly in August even as consumers remain wary about the economy, underscoring resilient household spending."
                 },
                 {
-                  "headline": "How China Is Conquering High-Tech Markets Once Controlled by the West",
-                  "url": "https://www.washingtonpost.com/business/2026/09/25/how-china-is-conquering-high-tech-markets-once-controlled-by-west/",
+                  "headline": "Diesel Price Hits $6 Record High Amid War with Iran",
+                  "url": "https://www.washingtonpost.com/business/2026/09/11/diesel-price-hits-6-record-high-amid-war-with-iran/",
                   "eng": "",
-                  "body": "China is rapidly capturing high-technology markets once dominated by Western firms, from AI to advanced manufacturing, reshaping global competition."
+                  "body": "Diesel prices hit a record $6 high amid the war with Iran, pressuring trucking, farming and consumers across the economy."
                 }
               ]
             },
@@ -582,16 +593,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "Student Loan Borrowers Get More Time to Enroll in Autopay",
-                  "url": "https://www.washingtonpost.com/education/2026/09/29/student-loan-borrowers-get-more-time-enroll-autopay-debt-discount/",
+                  "headline": "States Weigh Gas-Tax Holidays Before Midterms as Fuel Costs Bite",
+                  "url": "https://www.washingtonpost.com/business/2026/09/26/record-high-diesel-prices-have-states-weighing-gas-tax-holidays-before-midterms/",
                   "eng": "",
-                  "body": "The government extended the deadline for student-loan borrowers to enroll in autopay and claim a debt discount, easing a transition for millions of Americans."
+                  "body": "With diesel prices at record highs, state lawmakers are weighing gas-tax holidays before the midterms, reflecting the political sting of energy inflation."
                 },
                 {
-                  "headline": "Nvidia's Record Buyback Signals AI Cash Machine Rolls On",
-                  "url": "https://www.washingtonpost.com/business/2026/09/29/nvidia-buyback-ai-cash/",
+                  "headline": "Republican Candidates Tread Carefully as Tariffs Reshape Races",
+                  "url": "https://www.washingtonpost.com/business/2026/09/12/republican-candidates-some-nations-most-competitive-races-are-treading-carefully-local-industries-brace-president-trumps-tariffs/",
                   "eng": "",
-                  "body": "Nvidia's record $150 billion share buyback underscores the torrent of cash its AI chips generate, even as analysts question the durability of the boom."
+                  "body": "Republican candidates in some of the nation's most competitive races are treading carefully as local industries brace for President Trump's tariffs."
                 }
               ]
             }
@@ -605,16 +616,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "OpenAI Launches New AI Personal Assistant",
-                  "url": "https://www.ft.com/content/211d10ae-cf9e-481d-99ed-0321d2eb0676",
+                  "headline": "Bond Markets Stabilise After Global Sell-Off",
+                  "url": "https://www.ft.com/content/2c9ce5b0-32ae-4460-aa89-9c80eb05ee41",
                   "eng": "",
-                  "body": "OpenAI unveiled a new AI personal assistant, marking a deeper push into consumer software as the company races to turn its models into everyday products."
+                  "body": "Bond markets stabilised after a global sell-off, with the 30-year US Treasury yield slipping slightly after hitting its highest level since 2007."
                 },
                 {
-                  "headline": "Nvidia Launches Record $150bn Share Buyback",
-                  "url": "https://www.ft.com/content/88e87863-4cf6-4c4e-8858-f0099db350d4",
+                  "headline": "US 30-Year Treasury Yield Hits Highest Since 2002",
+                  "url": "https://www.ft.com/us-treasury-bonds",
                   "eng": "",
-                  "body": "Nvidia announced a record $150 billion share buyback, returning windfall profits to investors as demand for its AI chips shows no sign of slowing."
+                  "body": "The US 30-year Treasury yield hit its highest level since 2002, extending a sell-off that has seen borrowing costs climb around the globe."
                 }
               ]
             },
@@ -622,16 +633,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "AMD to Buy Fei-Fei Li's AI Start-up for $8bn",
-                  "url": "https://www.ft.com/content/33344fa5-6a25-4d72-8934-528526dd89bd",
+                  "headline": "US Bond Sell-Off Pushes Long-Term Yields to Highest Since 2004",
+                  "url": "https://www.ft.com/content/c5af4151-2c14-481b-8145-f5ec1f43a3f4",
                   "eng": "",
-                  "body": "AMD agreed to buy World Labs, the AI start-up co-founded by Fei-Fei Li, for $8 billion, intensifying the semiconductor industry's battle for AI supremacy."
+                  "body": "Thirty-year Treasury yields climbed as much as 0.07 percentage points to 5.53% in New York, pushing long-term yields to their highest since 2004."
                 },
                 {
-                  "headline": "Meta Launches Enterprise AI Business Seeking to Cash In on Vast Spending",
-                  "url": "https://www.ft.com/content/fbe0a48f-4d33-42eb-8d2c-79f662c88678",
+                  "headline": "Treasury Yield Surpasses 5.2% as Hopes for Rate Cuts Fade",
+                  "url": "https://www.ft.com/us-treasury-bonds",
                   "eng": "",
-                  "body": "Meta launched an enterprise AI business, as Mark Zuckerberg opens a new front in his effort to turn massive technology investment into profits."
+                  "body": "The Treasury yield surpassed 5.2% as hopes for near-term rate cuts faded, rattling equity and credit markets."
                 }
               ]
             },
@@ -639,16 +650,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "Corporate America Embraces Cheaper 'Open' AI Models",
-                  "url": "https://www.ft.com/content/d9de4776-1fc9-4f2b-aaaf-9961c35d8acd",
+                  "headline": "Global Bond Sell-Off Deepens Amid Fears Over Inflation and AI Issuance",
+                  "url": "https://www.ft.com/markets",
                   "eng": "",
-                  "body": "US companies are increasingly turning to cheaper open-source AI models to cut costs, challenging the pricing power of frontier-model developers."
+                  "body": "The global bond sell-off deepened amid fears over inflation and a wave of AI-related debt issuance, sending long-term yields to multi-year highs."
                 },
                 {
-                  "headline": "Treasury Yields Push Higher Despite Falling Oil",
-                  "url": "https://www.ft.com/content/treasury-yields-oil-2026-09-29",
+                  "headline": "Central Banks Signal Higher-for-Longer Rates",
+                  "url": "https://www.ft.com/markets",
                   "eng": "",
-                  "body": "US Treasury yields kept climbing even as oil prices fell, underscoring how entrenched inflation expectations have become in bond markets."
+                  "body": "Major central banks signaled that interest rates will stay higher for longer, reinforcing the upward pressure on government bond yields worldwide."
                 }
               ]
             }
