@@ -1,147 +1,150 @@
 {
-  "date": "2026-10-01",
-  "dateLabel": "2026년 10월 1일(목요일)",
-  "generatedAt": "2026-10-01T07:19:56+09:00",
+  "date": "2026-10-02",
+  "dateLabel": "2026년 10월 2일(금요일)",
+  "generatedAt": "2026-10-02T07:25:00+09:00",
   "ticker": [
     {
       "name": "KOSPI",
-      "value": "6,838.04",
-      "change": "▼0.48%",
-      "dir": "dn"
+      "value": "6,971.35",
+      "change": "▲1.95%",
+      "dir": "up"
+    },
+    {
+      "name": "KOSDAQ",
+      "value": "894.29",
+      "change": "▲4.48%",
+      "dir": "up"
     },
     {
       "name": "S&P 500",
-      "value": "7,686",
+      "value": "7,651.54",
+      "change": "▼0.30%",
+      "dir": "dn"
+    },
+    {
+      "name": "NASDAQ",
+      "value": "26,861.06",
       "change": "▲0.20%",
       "dir": "up"
     },
     {
-      "name": "NASDAQ",
-      "value": "26,861",
-      "change": "▲0.24%",
-      "dir": "up"
-    },
-    {
       "name": "다우",
-      "value": "51,065",
-      "change": "▼0.55%",
+      "value": "50,906.05",
+      "change": "▼0.86%",
       "dir": "dn"
     },
     {
-      "name": "나스닥100",
-      "value": "30,538",
-      "change": "▲0.65%",
+      "name": "필라델피아 반도체",
+      "value": "12,629.16",
+      "change": "▲1.32%",
       "dir": "up"
-    },
-    {
-      "name": "VIX",
-      "value": "16.21",
-      "change": "보합",
-      "dir": "neu"
     },
     {
       "name": "美 10년물",
-      "value": "5.30%",
-      "change": "19년 최고",
-      "dir": "up"
-    },
-    {
-      "name": "美 30년물",
-      "value": "5.64%",
-      "change": "▲0.79%",
+      "value": "5.29%",
+      "change": "24년 최고",
       "dir": "up"
     },
     {
       "name": "WTI",
-      "value": "$90.55",
-      "change": "▲1.31%",
+      "value": "$90.15",
+      "change": "▲0.90%",
       "dir": "up"
+    },
+    {
+      "name": "USD/KRW",
+      "value": "1,356원",
+      "change": "▼3원",
+      "dir": "dn"
     }
   ],
   "keywords": [
     {
-      "label": "① 8월 PCE 예상 하회",
-      "desc": "코어 PCE +0.2%(예상 0.3%), 10월 Fed 인상 가능성 40% 아래로 하락"
+      "label": "① 마이크론 어닝 서프라이즈",
+      "desc": "4분기 매출 542.3억$(예상 510.7억$ 상회) 사상 최대, 전분기比 +30.8%·전년 동기 5배"
     },
     {
-      "label": "② 美 장기 국채금리 19년 최고",
-      "desc": "10년물 5.30%대·30년물 5.64% 고착화, 글로벌 밸류에이션 압박 지속"
+      "label": "② 美 국채 10년물 5.3% 돌파",
+      "desc": "장중 5.304%까지 — 24년 만에 최고·2007년 이후 최고, '강한 미국 경제'가 증시엔 부담"
     },
     {
-      "label": "③ 코스피 6,800대 박스권",
-      "desc": "외국인 4거래일 연속 순매도, 삼성전자 배당락 여파 지속"
+      "label": "③ 코스피 '전약후강' 반전",
+      "desc": "6,780선에서 6,971 고가 마감(+1.95%), 사흘간 약세 패턴 완전 뒤집어"
     },
     {
-      "label": "④ 한국 원전 '웨스팅하우스' 지분 인수",
-      "desc": "10% 할인 인수로 원천기술 로열티·지재권 제어장치 마련"
+      "label": "④ 9월 고용보고서(NFP) 발표",
+      "desc": "오늘 21:30 KST — 금리 방향성 결정할 핵심 지표"
     },
     {
-      "label": "⑤ 韓 AI 전략 투트랙",
-      "desc": "배경훈 '독파모·프런티어 AI 함께 간다' — 韓 AI 전략 2축 유지"
+      "label": "⑤ AI 인프라 병목",
+      "desc": "삼성증권 리포트 — GPU·HBM 공급이 수요 못 따라가는 구도 하반기 지속"
     }
   ],
   "morning": {
-    "date": "2026-10-01",
-    "headline": "8월 PCE 예상보다 낮아 10월 Fed 인상 압력 완화…코스피 6,800대 박스권 4분기 출발",
-    "weather": "🌤️ 흐림, 16°C (체감 11°C) | 습도 20% | 바람 12km/h",
-    "schedule": "📌 제니엘 10월 인사이동 진행사항 확인 | 수요MBA(내일) 준비",
+    "date": "2026-10-02",
+    "headline": "마이크론 어닝 서프라이즈에 코스피 '전약후강' 반전…6,971선(+1.95%) 마감",
+    "weather": "🌤️ 서울: 맑음, 14°C (체감 11°C), 습도 42%, 바람 5km/h",
+    "schedule": "🗓️ 21:30 KST 미국 9월 고용보고서(NFP) 발표 | Harvard Online 10월 프로그램 안내 | 링글 스타터 전 수업 59% 할인 오늘 마감",
     "domestic": {
       "kospi": {
-        "value": "6,838.04",
-        "change": "▼ 32.77",
-        "changeRate": "-0.48%",
-        "rate": "-0.48%"
+        "value": "6,971.35",
+        "change": "+133.31",
+        "changeRate": "+1.95%",
+        "rate": "+1.95%"
       },
       "kosdaq": {
-        "value": "—",
-        "change": "—",
-        "changeRate": "—",
-        "rate": "—"
+        "value": "894.29",
+        "change": "+38.38",
+        "changeRate": "+4.48%",
+        "rate": "+4.48%"
       },
       "supply": {
-        "foreign": "외국인 4거래일 연속 순매도",
-        "individual": "—",
-        "institution": "—",
-        "usdkrw": "—",
-        "change": "—"
+        "foreign": "외국인 -6,609억 순매도 (4거래일 연속)",
+        "individual": "개인 +3,318억 순매수",
+        "institution": "기관 -2,055억 순매도",
+        "usdkrw": "1,356원",
+        "change": "▼3원"
       },
-      "comment": "코스피가 6,838.04(-0.48%)로 마감하며 6,800선에서 하방 지지 테스트를 이어갔습니다. 장중 6,818~6,965 사이를 오가며 9/29(6,870.81, -2.70%)에 이어 추가 하락해 7천선과 거리가 벌어졌습니다. 삼성전자 배당락(9/29) 여파가 지속되는 가운데 삼성전자 270,000원(-0.92%), 삼성전자우 196,600원(-3.63%)이 약세를 보였고, SK하이닉스(1,799,000원, +1.93%)는 반도체주 강세로 상대적 선방했습니다. 매일경제 보도에 따르면 외국인은 4거래일 연속 순매도(팔자)를 이어갔습니다."
+      "comment": "코스피가 6,971.35(+1.95%)로 급반등하며 6,900선을 돌파했습니다. 마이크론의 사상 최대 실적(4분기 매출 542.3억$·예상 510.7억$ 상회)과 한국 9월 반도체 수출 호조가 방아쇠가 됐습니다. 장중 6,814(-0.34%) 하락 출발해 6,780선까지 밀렸다가 오후 6,900선을 돌파, 6,971 고가 마감하며 최근 사흘간 '상승 출발→오후 매도→저가 마감' 패턴을 완전히 뒤집었습니다. 외국인(-6,609억)·기관(-2,055억)은 순매도했지만 개인(+3,318억) 매수세가 지수 하단을 지지했습니다."
     },
     "overseas": {
       "dow": {
-        "value": "51,065",
-        "change": "▼ 0.55%",
-        "changeRate": "-0.55%"
+        "value": "50,906.05",
+        "change": "▼ 0.86%",
+        "changeRate": "-0.86%"
       },
       "sp500": {
-        "value": "7,686",
+        "value": "7,651.54",
+        "change": "▼ 0.30%",
+        "changeRate": "-0.30%"
+      },
+      "nasdaq": {
+        "value": "26,861.06",
         "change": "▲ 0.20%",
         "changeRate": "+0.20%"
       },
-      "nasdaq": {
-        "value": "26,861",
-        "change": "▲ 0.24%",
-        "changeRate": "+0.24%"
-      },
       "oil": {
-        "wti": "$90.55",
+        "wti": "$90.15",
         "brent": "—",
-        "note": "WTI 장중 ▲1.31%, 이란-미국 갈등 전개 주시"
+        "note": "WTI ▲0.9%, 9월 한 달 약 14% 상승 — 이란-미국 갈등·중동 긴장 지속"
       },
-      "keyStocks": "미국 증시는 PCE 둔화 소식에 혼조 마감했습니다. S&P 500 7,686(+0.20%), 나스닥 26,861(+0.24%), 나스닥100 30,538(+0.65%)이 상승한 반면 다우는 51,065(-0.55%)로 하락했습니다. 핵심 종목은 애플 +1.75%, 알파벳 +2.65%, MS +1.43%, 엔비디아 +1.48%, 인텔 +3% 등 기술주·반도체가 강세였고 테슬라는 -0.27% 하락했습니다. 美 국채금리는 30년물 5.64%(+0.79%), 10년물 5.30%대로 장기 금리 고착화가 이어졌습니다."
+      "keyStocks": "미국 증시는 혼조 마감했습니다. 필라델피아 반도체 지수 +1.32%로 기술·반도체주가 강세(인텔 +3.7%, 애플 +1.1%, 아마존 +1.0%, 메타 -1.8%)였지만, 美 10년물 국채금리가 5.29%(장중 5.304%·24년 만 최고)까지 치솟으며 다우 -0.86%, S&P 500 -0.30%가 하락했습니다. 나스닥은 +0.2%로 소폭 반등했습니다."
     },
-    "topNews": "8월 PCE 예상보다 낮아 10월 Fed 인상 압력 완화…코스피 6,800대 박스권 4분기 출발",
+    "topNews": "마이크론 어닝 서프라이즈에 코스피 '전약후강' 반전…6,971선(+1.95%) 마감",
     "otherNews": [
-      "美 국채 30년물 5.64%·10년물 5.30%대 — 장기 금리 고착화, 19년 만 최고",
-      "배경훈 '독파모·프런티어 AI 함께 간다' — 韓 AI 전략 2축 (ZDNet Korea)",
-      "동아사이언스: 100여년 만에 신종 펭귄 발견 — 젠투펭귄 알고보니 4종",
-      "한국 원전, 웨스팅하우스 지분 10% 할인 인수 — 로열티·지재권 제어장치 마련"
+      "美 국채 10년물 5.3% 돌파 — 2분기 GDP 2.2% 상향, '강한 미국 경제'가 증시엔 부담",
+      "의무공개매수 법안 본회의 상정 보류 — 운용업계 반발에 재논의",
+      "한화증권, 9,000억 자본확충 — 종합투자사 도전 선언, 증권사 체급 경쟁 가속화",
+      "고려아연, 금·은 가격 약세로 3분기 이익 감소 전망",
+      "'국가 AI 대상' 10개 기업·1인 선정 (ZDNet) — 자율주행·AI 에이전트 혁신 기업",
+      "앤트로픽 공동창업자 BBC 인터뷰: \"AI 킬 스위치 의무화 필요할 수도\"",
+      "트럼프 행정부, AI 규제 기업 자율에 맡기는 방향 — AI 자율규제론"
     ],
     "email": {
-      "google": "오늘 브리핑에 이메일 수신 내역은 별도로 집계되지 않았습니다.",
-      "note": "제니엘 10월 인사이동 진행사항 확인 | 수요MBA(내일) 준비"
+      "google": "업비트 예치금 이용료 정기 지급(3분기) | 삼성증권 개인정보 이용내역 통지 | 한국씨티은행 환율정보·현금카드 회원약관 개정 안내",
+      "note": "LinkedIn — 이봉우(Andy Bong-woo Lee) 교수, '세월의 긍정적 흐름' 게시물에 반응"
     },
-    "insight": "💡 「KOSPI 6,800대, 4분기 방향성은?」\n\n9월 FOMC(25bp 인상, 연내 추가 1회 전망) 이후 PCE가 예상보다 낮게 나오면서 10월 인상 압력이 완화됐습니다. 하지만 美 10년물 5.30%+ 고착화는 부담. KOSPI는 6,800~7,000 박스권에서 4분기를 출발할 가능성이 높아 보입니다.\n\n관전 포인트:\n- 삼성전자 배당락 영향 추이 (270,000선 지지 여부)\n- SK하이닉스 반도체 대장주 수성 여부\n- 美 PCE 3.4% — Fed 추가 인상 필요성 약화, 연내 동결 가능성 대두\n- 유가 — 이란-미국 갈등 상황\n\n📌 제니엘 관련 메모: 오늘은 10월 1일 목요일. 제니엘 10월 인사이동 관련 진행사항과 수요MBA(내일) 준비 확인하세요."
+    "insight": "💡 「마이크론 서프라이즈가 뒤집은 장세 — 반도체·금리 두 축을 보라」\n\n① 전강후약에서 '전약후강'으로 반전. 사흘간 강세를 반납하던 코스피가 10/1은 정반대였습니다. 마이크론 실적이 방아쇠였지만 근본은 AI 메모리 수요가 여전히 견고하다는 신호입니다. 삼성전자·SK하이닉스로 이어질 3분기 실적 시즌이 관건.\n\n② 미국 10년물 5.3% — '안전자산의 역습'이 최대 변수. 인플레이션 둔화에도 고용·성장이 강하게 버티며 금리 인하 기대가 후퇴하는 구도. 오늘 21:30 발표될 9월 고용보고서가 금리 방향성의 추가 단서. 기술주 강세가 고금리 압력을 상쇄할 수 있을지가 관건.\n\n③ AI 인프라 병목 — 데이터센터가 반도체 수요를 이끈다. 마이크론 서프라이즈와 삼성증권 'AI 데이터센터 병목' 리포트가 같은 맥락. GPU·HBM 공급이 수요를 못 따라가는 구도가 하반기에도 이어지는 중. 제니엘 AI TF 방향성과도 맞닿는 주제 — AI 인프라 병목이 곧 반도체·스토리지 수요로 직결된다는 관점은 전략 수립에 유효."
   },
   "sections": {
     "kor": {
@@ -155,16 +158,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "코스피, '전강후약' 6800선 마감…외국인 4거래일 연속 '팔자'",
-                  "url": "https://www.mk.co.kr/news/stock/12164974",
-                  "eng": "KOSPI ends around 6,800 after strong start; foreigners sell for 4th straight day",
-                  "body": "코스피가 장 초반 상승 후 약세로 돌아서며 6,800선 부근에서 마감했다. 외국인은 4거래일 연속 순매도(팔자)를 이어가며 지수 하방 압력을 키웠다."
+                  "headline": "“추석도 지났고, 내 주식은 어디로 가나?”…美 물가·마이크론 실적에 쏠린 눈",
+                  "url": "https://www.mk.co.kr/news/stock/12162236",
+                  "eng": "With Chuseok over, eyes turn to US inflation and Micron earnings",
+                  "body": "세계 3위 메모리 반도체 업체 마이크론의 기존 분기 전망치는 매출 504~510억달러와 EPS 31.2~31.4달러로, 시장은 실제 발표치와 가이던스에 촉각을 곤두세웠다."
                 },
                 {
-                  "headline": "北지뢰 추정 사고에 靑 \"진상규명 후 응분의 조치\"",
-                  "url": "https://www.mk.co.kr/",
-                  "eng": "Presidential office vows due measures after suspected North Korean landmine accident",
-                  "body": "북한 지뢰로 추정되는 사고와 관련해 대통령실이 진상규명 후 응분의 조치를 취하겠다고 밝혔다. 매일경제가 선정한 주요 뉴스로 다뤄졌다."
+                  "headline": "“10월부터 확 달라진다는데 모르면 손해지”…버스 요금부터 청년 전세대출까지",
+                  "url": "https://www.mk.co.kr/news/economy/12162140",
+                  "eng": "What changes from October: bus fares to youth jeonse loans",
+                  "body": "10월부터 시행되는 각종 정책·제도 변화를 정리한 기사. 버스 요금 인상과 청년 전세대출 조건 변경 등 생활 밀착형 변화를 다뤘다."
                 }
               ]
             },
@@ -172,16 +175,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "[단독] 韓, 웨스팅하우스 지분 10% 할인해 인수",
-                  "url": "https://www.mk.co.kr/news/economy/12159631",
-                  "eng": "Korea to buy Westinghouse stake at 10% discount",
-                  "body": "한국 원전 업계가 웨스팅하우스 지분을 공모가 대비 10% 할인된 가격에 5~10%대 인수하게 됐다. 이사 지명권은 얻지 못했지만 의결권을 확보해 원천기술 로열티 문제와 경영 간접 참여를 위한 제어장치를 마련했다."
+                  "headline": "[매일경제TV] 마이크론 실적발표, 증시 반등 계기 될까",
+                  "url": "https://www.mk.co.kr/news/culture/12163924",
+                  "eng": "Will Micron's earnings spark a market rebound?",
+                  "body": "마이크론 실적이 최근 조정을 받은 AI·반도체 투자심리의 향방을 가를 핵심 변수로 꼽혔다. 다음달 2일 9월 고용보고서 공개도 예정돼 있다."
                 },
                 {
-                  "headline": "美 국채금리 5% 훌쩍…韓 반도체 호황 꺾이나",
-                  "url": "https://www.mk.co.kr/news/stock/12144361",
-                  "eng": "US yields top 5%; will Korea's chip boom cool?",
-                  "body": "미국 10년물 국채금리가 5.2%를 돌파하며 2007년 이후 최고치를 기록했다. 반도체 의존도가 높은 한국 경제에 외국인 자금 이탈과 AI 투자 위축 우려가 번지고 있다."
+                  "headline": "유가·환율에 엇갈린 3분기 실적…정유·항공 ↑ 석화·전기 ↓",
+                  "url": "https://www.mk.co.kr/news/stock/12161962",
+                  "eng": "Q3 earnings diverge on oil and FX: refiners, airlines up; petrochemicals, power down",
+                  "body": "유가와 환율 흐름에 따라 3분기 실적 희비가 엇갈렸다. 정유·항공은 수혜, 석유화학·전기업종은 부진할 것으로 전망됐다."
                 }
               ]
             },
@@ -189,16 +192,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "추석 연휴 사흘 만에 20bp 뛰었다…미국 장기 국채금리 더 오른다는데",
-                  "url": "https://stock.mk.co.kr/news/view/1165460",
-                  "eng": "US long-term yields jump 20bp over holiday; more upside seen",
-                  "body": "추석 연휴 기간 미국 장기 국채금리가 사흘 만에 20bp 가까이 상승했다. 시장에서는 10년물과 30년물 금리가 추가 상승할 수 있다는 전망이 나오고 있다."
+                  "headline": "정년연장에 속 타는 청년들…81%가 취업문 축소 우려",
+                  "url": "https://www.mk.co.kr/news/society/12163649",
+                  "eng": "Youth worry as retirement-age extension shrinks job openings",
+                  "body": "정년 연장 논의가 본격화되면서 청년층 81%가 취업문 축소를 우려한다는 조사 결과가 나왔다. 세대 간 일자리 갈등이 부각되고 있다."
                 },
                 {
-                  "headline": "\"7000 간다더니 6600도 간당\"…코스피 전망, 일주일 새 무슨 일?",
-                  "url": "https://www.mk.co.kr/news/stock/12144361",
-                  "eng": "KOSPI forecasts slashed in a week amid volatility",
-                  "body": "한때 7,000선 회복 전망이 나왔던 코스피가 일주일 새 전망치가 크게 낮아졌다. 증권가에서는 9월 코스피가 약보합권에 머물며 6,600~7,400 범위를 오갈 것이라는 분석이 제기됐다."
+                  "headline": "“내가 그 주식을 대체 왜 샀을까”…오답노트의 고수가 찍은 미래 10년 업종",
+                  "url": "https://www.mk.co.kr/news/stock/12162187",
+                  "eng": "A veteran investor's picks for the next decade",
+                  "body": "투자 오답노트로 유명한 고수가 향후 10년을 이끌 업종을 제시했다. 장기 투자 관점에서 유망 산업을 분석했다."
                 }
               ]
             }
@@ -212,16 +215,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "이 대통령 \"김지용, 추미애 때 검사장 승진···억지주장은 국정방해\"",
-                  "url": "https://weekly.khan.co.kr/article/202610010020001",
-                  "eng": "President Lee dismisses Kim Ji-yong claims as 'groundless' and 'obstruction'",
-                  "body": "이재명 대통령이 김지용 관련 친윤 비난에 대해 '납득하기 어렵다'며 억지 주장이라면 국정 방해에 해당한다고 반박했다. 어려울수록 국민과 직접 소통하겠다는 입장도 재확인했다."
+                  "headline": "이 대통령, 정청래 전 대표와 청와대서 독대 만찬…퇴원 후 첫 일정",
+                  "url": "https://www.khan.co.kr/",
+                  "eng": "President Lee holds private dinner with former leader Chung Cheong-rae",
+                  "body": "이재명 대통령이 퇴원 후 첫 일정으로 정청래 전 대표와 청와대에서 독대 만찬을 가졌다. 정치권 화합과 현안 논의가 오간 것으로 전해졌다."
                 },
                 {
-                  "headline": "[2026년 10월 1일 날씨] 뚝 떨어진 기온…한낮에도 20도 안팎",
-                  "url": "https://www.khan.co.kr/article/202609302117025",
-                  "eng": "Temperatures plunge; highs around 20°C on Oct 1",
-                  "body": "10월 1일 아침 기온이 크게 떨어지며 쌀쌀한 날씨가 예고됐다. 한낮에도 20도 안팎에 머물며 갑작스러운 기온 하강에 따른 건강 관리가 필요하다."
+                  "headline": "[2026년 10월 02일 날씨] 쌀쌀한 출퇴근길…한낮에는 포근",
+                  "url": "https://www.khan.co.kr/article/202610012136025",
+                  "eng": "Chilly commute, mild afternoon: Oct 2 weather",
+                  "body": "아침 출퇴근길은 쌀쌀하지만 한낮에는 포근한 날씨가 예상된다. 일교차가 크므로 건강 관리에 유의해야 한다."
                 }
               ]
             },
@@ -229,16 +232,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "미국 국채 30년 금리 5.35% 기록···2007년 이후 최고치",
-                  "url": "https://www.khan.co.kr/article/202609102234001",
-                  "eng": "US 30-year yield hits 5.35%, highest since 2007",
-                  "body": "미국 30년물 국채금리가 5.35%까지 올라 2007년 이후 최고치를 기록했다. 생산자물가지수(PPI) 발표 직후 급등하며 글로벌 채권시장에 부담을 더했다."
+                  "headline": "[마켓뷰] 美금리 악재·마이크론 호실적…코스피 반등하나",
+                  "url": "https://v.daum.net/v/3hgvhFgRGR",
+                  "eng": "US rate headwinds vs Micron beat: will KOSPI rebound?",
+                  "body": "미국 10년물 금리 급등 부담 속에서도 마이크론의 사상 최대 실적이 반도체주를 중심으로 국내 증시 반등을 뒷받침할지 주목된다."
                 },
                 {
-                  "headline": "이 대통령 \"어려울수록 더욱 국민과 직접 소통해야\"",
-                  "url": "https://www.khan.co.kr/newest/articles",
-                  "eng": "President: 'Engage the public more directly in hard times'",
-                  "body": "이재명 대통령은 최근 정치적 논란 속에서도 국민과의 직접 소통을 강조했다. 경향신문 최신기사 코너를 통해 관련 발언이 전해졌다."
+                  "headline": "[인사] 2026년 10월 2일",
+                  "url": "https://www.khan.co.kr/article/202610012042025",
+                  "eng": "Personnel appointments, Oct 2 2026",
+                  "body": "재정경제부 국장급 승진 인사를 비롯해 각 부처·기관의 정기 인사가 발표됐다."
                 }
               ]
             },
@@ -246,16 +249,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "[경제뭔데] 코스피 발목 잡는 '보이지 않는 손', 미국 장기국채 금리의 정체",
-                  "url": "https://www.khan.co.kr/article/202608220600081",
-                  "eng": "The invisible hand weighing on KOSPI: US long-term yields",
-                  "body": "코스피의 발목을 잡는 '보이지 않는 손'은 미국 장기 국채금리라는 분석이 나왔다. 미 연방정부 부채가 8월 기준 40조 달러를 돌파하며 장기 금리 상승을 부추기고 있다."
+                  "headline": "[부고] 2026년 10월 2일",
+                  "url": "https://www.khan.co.kr/article/202610012042015",
+                  "eng": "Obituaries, Oct 2 2026",
+                  "body": "박민예씨 별세 등 국내 주요 인사들의 부고가 게재됐다."
                 },
                 {
-                  "headline": "미국 국채금리 급등에 글로벌 채권시장 동반 압박",
-                  "url": "https://www.khan.co.kr/article/202609102234001",
-                  "eng": "US yield surge pressures global bond markets",
-                  "body": "미국 국채금리 급등이 유럽·일본 등 주요국 채권시장으로 확산되고 있다. 중앙은행들의 금리 인상 기조가 맞물리며 글로벌 차입비용이 전반적으로 상승했다."
+                  "headline": "미 금리인상 하루 만에 반등한 코스피…삼전·닉스 3~6% 급등",
+                  "url": "https://www.khan.co.kr/article/202609181639001",
+                  "eng": "KOSPI rebounds a day after Fed hike; Samsung, Hynix jump 3-6%",
+                  "body": "연준 금리 인상 충격에서 하루 만에 벗어난 코스피가 반등에 성공했고, 삼성전자·SK하이닉스가 3~6% 급등하며 반도체가 지수 상승을 주도했다."
                 }
               ]
             }
@@ -269,16 +272,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "\"AI 시대에도 다윗이 골리앗 이길 수 있어\"",
-                  "url": "https://www.donga.com/news/People/article/all/20260930/134764035/2",
-                  "eng": "'In the AI era, David can still beat Goliath'",
-                  "body": "최예진 스탠퍼드대 인간중심 AI연구소 교수가 '컴퓨팅 자원은 폭발적으로 늘지만 AI의 연료인 데이터 성장은 못 따라간다'며 거대 AI 모델의 한계를 지적했다. 작은 주체도 경쟁력을 가질 수 있다는 메시지를 전했다."
+                  "headline": "마이크론 1년새 5배 매출…삼전-하닉도 186조 영업익 전망",
+                  "url": "https://www.donga.com/news/Economy/List",
+                  "eng": "Micron's sales up 5x in a year; Samsung-Hynix seen posting 186tn won profit",
+                  "body": "반도체 풍향계인 미국 마이크론이 사상 최대 실적을 발표하며 AI 메모리 슈퍼사이클을 확인했다. 삼성전자·SK하이닉스의 합산 영업이익도 186조원에 달할 것이란 전망이 나왔다."
                 },
                 {
-                  "headline": "韓 검토중인데, '알래스카 LNG 투자' 대못 박으려는 트럼프",
-                  "url": "https://www.donga.com/news/Economy/article/all/20261001/134764044/2",
-                  "eng": "Trump presses Alaska LNG investment while Korea weighs options",
-                  "body": "트럼프 미국 대통령이 한국의 알래스카 LNG 투자를 압박하며 대미 투자를 공식 발표했다. 한국 정부는 원전 8기와 알래스카 LNG 등 대미 투자안을 검토 중이다."
+                  "headline": "[오늘의 아시안게임] 2026년 10월 2일",
+                  "url": "https://www.donga.com/news/article/all/20261002/134772080/2",
+                  "eng": "Today's Asian Games, Oct 2 2026",
+                  "body": "버추얼 태권도 첫선, 품새 남녀 동반 우승 등 2026 아이치-나고야 아시안게임의 주요 경기 소식을 전했다."
                 }
               ]
             },
@@ -286,16 +289,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "美국채금리 30년물 年5.5%까지 올라…韓경제 악재될지 촉각",
-                  "url": "https://www.donga.com/news/Economy/article/all/20260927/134738721/2",
-                  "eng": "US 30-year yield hits 5.5%; watch for Korea spillover",
-                  "body": "미국 30년물 국채금리가 연 5.5%까지 올랐다. 한국 경제에 악재가 될지 촉각이 모아지는 가운데 10년물도 5%를 터치하며 자금시장 경계감이 커지고 있다."
+                  "headline": "[지표로 보는 경제] 10월 2일",
+                  "url": "https://www.donga.com/news/Economy/article/all/20261001/134770121/2",
+                  "eng": "Economy by the numbers, Oct 2",
+                  "body": "주요 경제 지표와 시장 동향을 수치로 정리한 코너. 코스피·코스닥 지표와 반도체 수출 호조 흐름을 담았다."
                 },
                 {
-                  "headline": "한국 U-23 축구, 중국에 역전승…아시안게임 결승행",
-                  "url": "https://www.donga.com/news/Sports/List",
-                  "eng": "Korea U-23 beats China to reach Asian Games final",
-                  "body": "한국 23세 이하 남자 축구대표팀이 중국을 상대로 역전승을 거두며 2026 아이치-나고야 아시안게임 결승에 진출했다. 1경기를 남겨두고 금메달에 도전한다."
+                  "headline": "'역대급 실적' 마이크론, 시간외 13% 급등…코스피 반등 모멘텀 가시화하나",
+                  "url": "https://www.donga.com/news/Inter/article/all/20260625/134178540/1",
+                  "eng": "Micron soars 13% after-hours on record results",
+                  "body": "마이크론이 역대급 실적 발표 후 시간외 거래에서 13% 급등하며 국내 증시에도 반등 모멘텀을 불어넣을지 주목됐다."
                 }
               ]
             },
@@ -303,16 +306,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "美 10년만기 국채금리 5% 터치…2023년 10월 이후 처음",
-                  "url": "https://www.donga.com/news/Inter/article/all/20260914/134668615/2",
-                  "eng": "US 10-year yield touches 5% for first time since Oct 2023",
-                  "body": "미국 10년 만기 국채금리가 장중 5%대를 터치하며 2023년 10월 이후 처음으로 5% 문턱에 올라섰다. 중동 긴장 고조에 따른 유가 상승과 인플레이션 우려가 복합적으로 작용했다."
+                  "headline": "반도체값 폭등에 美기업들 아우성…韓 공급업체 압박 우려도",
+                  "url": "https://www.donga.com/news/Economy/article/all/20260609/134078165/1",
+                  "eng": "US firms cry foul as chip prices soar; pressure on Korean suppliers feared",
+                  "body": "미국 9개 경제단체가 반도체 가격 폭등에 공동 서한을 보내며 메모리 추가 공급을 요구했다. 국내 공급업체에 대한 압박 재현 가능성이 제기됐다."
                 },
                 {
-                  "headline": "신유빈, 네팔 구호에 5000만원 기부",
-                  "url": "https://www.donga.com/news/Pdf",
-                  "eng": "Shin Yu-bin donates 50m won to Nepal relief",
-                  "body": "탁구 스타 신유빈이 네팔 구호를 위해 5,000만원을 기부했다. 동아일보 지면에서 '오늘의 아시안게임' 코너와 함께 소개됐다."
+                  "headline": "AI수요 기대에 반도체 투톱 날개…하이닉스, 美마이크론 시총 제쳐",
+                  "url": "https://www.donga.com/news/Economy/article/all/20260225/133416531/2",
+                  "eng": "Hynix overtakes Micron in market cap on AI demand",
+                  "body": "AI 수요 기대에 SK하이닉스가 미국 마이크론을 제치고 글로벌 시가총액 21위에 올랐다. 국내 반도체 투톱의 위상이 강화되고 있다."
                 }
               ]
             }
@@ -326,16 +329,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "미국채 10년물 19년 만에 최고치…유럽·일본도 인상 기조",
-                  "url": "https://www.hankyung.com/all-news",
-                  "eng": "US 10-year yield hits 19-year high; Europe, Japan also hawkish",
-                  "body": "미국채 10년물 금리가 19년 만에 최고치를 기록했다. 유럽과 일본도 금리 인상 기조를 이어가며 글로벌 채권시장 매도세가 확산되고 있다."
+                  "headline": "“마이크론보다 한국 메모리 상승 여력”…반도체·소부장 '불기둥'",
+                  "url": "https://www.hankyung.com/all-news-finance",
+                  "eng": "'Korean memory has more upside than Micron' — semis, parts rally",
+                  "body": "마이크론 실적 서프라이즈 이후 한국 메모리 반도체와 소재·부품·장비(소부장) 종목에 매수세가 집중되며 '불기둥' 장세가 펼쳐졌다."
                 },
                 {
-                  "headline": "정부, 국내 원전기업에 웨스팅하우스 지분 인수 제안",
-                  "url": "https://www.hankyung.com/article/2026091566551",
-                  "eng": "Seoul proposes Westinghouse stake purchase to nuclear firms",
-                  "body": "정부가 국내 원전기업들에 웨스팅하우스 지분 인수를 제안했다. 원전 수출 때마다 불거진 지식재산권 분쟁에서 협상력을 높이기 위한 카드로 평가된다."
+                  "headline": "코스닥 894.29 (+4.48%) — HBM 기대에 소부장·바이오 동반 급등",
+                  "url": "https://markets.hankyung.com/indices/kosdaq",
+                  "eng": "KOSDAQ jumps 4.48% on HBM and biotech rally",
+                  "body": "마이크론 서프라이즈에 코스닥이 4.48% 폭등했다. HBM 수요 확대 기대에 소부장 랠리와 바이오 단체 급등이 지수를 끌어올렸다."
                 }
               ]
             },
@@ -343,16 +346,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "반도체 의존도 높은 韓…美국채 10년물 年5% 뚫리면 직격탄",
-                  "url": "https://www.hankyung.com/article/2026081150181",
-                  "eng": "Chip-heavy Korea vulnerable if 10-year yield breaks 5%",
-                  "body": "미국 10년물 국채금리가 연 5%를 뚫으면 반도체 의존도가 높은 한국 경제가 직격탄을 맞을 수 있다는 분석이 나왔다. 외국인 자금 이탈과 빅테크 자금조달 비용 압박으로 AI 투자 위축이 우려된다."
+                  "headline": "코스피, 마이크론·반도체 수출 호재에 1.95% 반등…7000선 바짝",
+                  "url": "https://kr.investing.com/news/stock-market-news/article-2112797",
+                  "eng": "KOSPI rebounds 1.95% on Micron beat and chip exports",
+                  "body": "코스피가 마이크론의 사상 최대 매출과 한국 반도체 수출 호조에 힘입어 1.95% 반등하며 6,971로 마감, 7,000선에 바짝 다가섰다."
                 },
                 {
-                  "headline": "산업부, 대미투자 1호 텍사스가스발전…2·3호 원전·알래스카 LNG",
+                  "headline": "지역페이로 10만원씩…211억 민생지원금 푸는 이곳",
                   "url": "https://www.hankyung.com/all-news",
-                  "eng": "Korea's first US investment: Texas gas power, then nuclear and Alaska LNG",
-                  "body": "산업통상자원부가 대미 투자 1호로 텍사스 가스발전을, 2·3호로 원전과 알래스카 LNG를 추진한다고 밝혔다. 미국과 웨스팅하우스 지분 5~10% 투자도 협상 중이다."
+                  "eng": "Local government rolls out 21.1bn won in relief via regional pay",
+                  "body": "한 지자체가 지역화폐(지역페이)로 주민 1인당 10만원씩, 총 211억원 규모의 민생지원금을 지급하기로 했다."
                 }
               ]
             },
@@ -360,16 +363,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "SK하이닉스, 인텔과 손잡고 미국서…",
-                  "url": "https://www.hankyung.com/all-news",
-                  "eng": "SK Hynix teams with Intel in the US",
-                  "body": "SK하이닉스가 인텔과 손잡고 미국에서 반도체 협력을 확대한다. 한경 초판본에 따르면 국내 반도체 기업들의 미국 내 사업이 본격화되고 있다."
+                  "headline": "마이크론 서프라이즈에 코스닥 4.48% 폭등·코스피 6,971선 급반등 (한경TV)",
+                  "url": "https://www.youtube.com/hkwowtv",
+                  "eng": "KOSDAQ surges 4.48%, KOSPI rebounds to 6,971 on Micron",
+                  "body": "한국경제TV '더 워룸'에서 마이크론 서프라이즈에 따른 코스닥 4.48% 폭등과 코스피 6,971선 급반등, HBM 소부장 랠리와 바이오 급등을 분석했다."
                 },
                 {
-                  "headline": "美 국채금리 5% 훌쩍…韓 반도체 호황 꺾이나",
-                  "url": "https://www.hankyung.com/article/2026081150181",
-                  "eng": "US yields above 5%; will Korean chip boom falter?",
-                  "body": "미국 국채금리가 5%를 크게 웃돌며 한국 반도체 호황에 대한 우려가 커졌다. 30년물이 19년 만에 최고를 기록하는 등 장기 금리 상승이 산업계 자금조달에 부담으로 작용하고 있다."
+                  "headline": "코스피 최고치 행진 속 고개 숙인 코스닥…하반기 반등 나설까 [분석+]",
+                  "url": "https://www.hankyung.com/article/2026060194266",
+                  "eng": "As KOSPI hits records, KOSDAQ lags — can it rebound?",
+                  "body": "코스피가 사상 최고치 랠리를 이어가는 동안 상대적으로 부진했던 코스닥의 하반기 반등 가능성을 분석했다."
                 }
               ]
             }
@@ -388,16 +391,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "10-Year Treasury Yield Rises to New 24-Year High",
-                  "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-30-2026",
+                  "headline": "Crypto Blew Its Big Moment—and the Blame Game Has Begun",
+                  "url": "https://www.wsj.com/finance/currencies/crypto-blew-its-big-momentand-the-blame-game-has-begun-dff66a10",
                   "eng": "",
-                  "body": "The 10-year Treasury yield rose to a new 24-year high as second-quarter GDP growth was revised upward and the Fed's preferred inflation measure held steady in August."
+                  "body": "The crypto industry missed a major opportunity to win mainstream legitimacy, and now factions are trading blame over the setback."
                 },
                 {
-                  "headline": "Growth, Inflation Figures Show Signs of an Economic Pickup",
-                  "url": "https://www.wsj.com/economy/growth-inflation-figures-show-signs-of-an-economic-pickup-041f4e1d",
+                  "headline": "Trump to Meet Mamdani in New York Amid Policy Strains Between the Two",
+                  "url": "https://www.wsj.com/politics/policy/trump-to-meet-mamdani-in-new-york-amid-policy-strains-between-the-two-8e475aa8",
                   "eng": "",
-                  "body": "The U.S. economy grew more than previously thought in the second quarter of 2026 and inflation remained firm in August, according to new government reports."
+                  "body": "The president and the New York mayor, who have clashed in recent months over proposed property taxes and immigration, are set to meet."
                 }
               ]
             },
@@ -405,16 +408,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "Major Wall Street Banks Lift Oil-Price Forecast, Survey Shows",
-                  "url": "https://www.wsj.com/business/energy-oil/major-wall-street-banks-lift-oil-price-forecast-survey-shows-34ae1ab8",
+                  "headline": "Trump Ramps Up Bid to Dismantle International Criminal Court",
+                  "url": "https://www.wsj.com/politics/policy/trump-administration-prepares-to-sanction-the-international-criminal-court-85f5f44c",
                   "eng": "",
-                  "body": "Major Wall Street banks raised their oil-price forecasts for this year and early next, as stalled efforts to end the Iran war leave the market vulnerable to fresh supply shocks."
+                  "body": "The U.S. administration is preparing sweeping sanctions that would cut the ICC off from much of the global financial system."
                 },
                 {
-                  "headline": "The U.S. Military Exits Iraq, Leaving Behind a Nation in Peril",
-                  "url": "https://www.wsj.com/world/middle-east/iran-american-military-iraq-militants-e5e20c75",
+                  "headline": "10-Year Treasury Yield Rises to New 24-Year High",
+                  "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-30-2026",
                   "eng": "",
-                  "body": "The U.S. military has completed its exit from Iraq, leaving behind a nation in peril as Iranian-backed militants and political instability complicate the security landscape."
+                  "body": "The 10-year Treasury yield rose to a new 24-year high as strong growth data kept upward pressure on long-term borrowing costs."
                 }
               ]
             },
@@ -422,16 +425,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "Treasury Will Auto-Enroll 60 Million Children in Trump Accounts",
-                  "url": "https://www.wsj.com/politics/policy/treasury-will-auto-enroll-60-million-in-trump-accounts-a5f82421",
+                  "headline": "Growth, Inflation Figures Show Signs of an Economic Pickup",
+                  "url": "https://www.wsj.com/economy/growth-inflation-figures-show-signs-of-an-economic-pickup-041f4e1d",
                   "eng": "",
-                  "body": "The Treasury Department will automatically enroll about 60 million children in so-called Trump accounts, a sweeping expansion of the savings program."
+                  "body": "The U.S. economy grew more than previously thought in Q2 2026 and inflation remained firm in August, per new government reports."
                 },
                 {
-                  "headline": "Chilly Markets and AI Safety Debates Derail Wall Street's Blockbuster IPO Season",
-                  "url": "https://www.wsj.com/world/chilly-markets-and-ai-safety-debates-derail-wall-streets-blockbuster-ipo-season-f2bf312b",
+                  "headline": "Major Wall Street Banks Lift Oil-Price Forecast, Survey Shows",
+                  "url": "https://www.wsj.com/business/energy-oil/major-wall-street-banks-lift-oil-price-forecast-survey-shows-34ae1ab8",
                   "eng": "",
-                  "body": "Cooling markets and intensifying AI safety debates have derailed Wall Street's anticipated IPO season, delaying several high-profile listings."
+                  "body": "Banks raised oil-price forecasts as stalled efforts to end the Iran war leave the market vulnerable to supply shocks."
                 }
               ]
             }
@@ -445,16 +448,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "S&P 500 Wipes Out Gain in Last Stretch of Trading",
-                  "url": "https://www.bloomberg.com/news/articles/2026-09-29/stock-market-today-dow-s-p-live-updates",
+                  "headline": "Carlyle Warns Private Credit AI Push Runs Concentration Risk",
+                  "url": "https://www.bloomberg.com/news/articles/2026-10-01/carlyle-warns-private-credit-s-ai-push-raises-concentration-risk",
                   "eng": "",
-                  "body": "The S&P 500 gave up its gains in the final stretch of trading as Treasury yields climbed, capping a turbulent month for U.S. equities."
+                  "body": "Carlyle's credit chief warned that the industry's aggressive push into AI-related lending is concentrating risk."
                 },
                 {
-                  "headline": "Ford's 45% Rally Wiped Out as Hopes for an AI Windfall Fizzle",
-                  "url": "https://www.bloomberg.com/news/articles/2026-09-30/ford-s-45-rally-wiped-out-as-hopes-for-an-ai-windfall-fizzle",
+                  "headline": "Oaktree Raises $2 Billion for First Asset-Backed Finance Fund",
+                  "url": "https://www.bloomberg.com/news/articles/2026-10-01/oaktree-raises-2-billion-for-first-asset-backed-finance-fund",
                   "eng": "",
-                  "body": "Ford's 45% rally was wiped out as hopes for an AI windfall fizzled, with the automaker set to take $19.5 billion in charges tied to its EV overhaul."
+                  "body": "Oaktree Capital raised $2 billion for its first asset-backed finance fund, expanding into a fast-growing credit segment."
                 }
               ]
             },
@@ -462,16 +465,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "Deutsche Bank Plans Risk Trade Tied to $2 Billion in Fund Loans",
-                  "url": "https://www.bloomberg.com/news/articles/2026-09-30/deutsche-bank-plans-risk-trade-tied-to-2-billion-in-fund-loans",
+                  "headline": "Carney Invokes New Powers to Fast-Track Pacific Oil Pipeline",
+                  "url": "https://www.bloomberg.com/news/articles/2026-10-01/carney-invokes-new-powers-to-fast-track-west-coast-oil-pipeline",
                   "eng": "",
-                  "body": "Deutsche Bank is planning a risk-transfer trade tied to about $2 billion in fund loans, as banks look to free up capital."
+                  "body": "Canadian PM Mark Carney invoked new powers to fast-track a west coast oil pipeline as energy security concerns mount."
                 },
                 {
-                  "headline": "Hertz Taps PJT Partners to Extend Debt as Maturities Loom",
-                  "url": "https://www.bloomberg.com/news/articles/2026-09-30/hertz-taps-pjt-partners-to-extend-debt-as-maturities-loom",
+                  "headline": "What Can Trump Do to Tame Diesel and Gasoline Prices as Midterms Loom?",
+                  "url": "https://www.bloomberg.com/news/articles/2026-10-01/gasoline-and-diesel-prices-trump-s-options-to-lower-fuel-costs-as-midterms-loom",
                   "eng": "",
-                  "body": "Hertz has hired PJT Partners to extend its debt as maturities approach, seeking to ease near-term refinancing pressure."
+                  "body": "With diesel at record highs, the White House is weighing limited options to curb fuel costs ahead of the midterm elections."
                 }
               ]
             },
@@ -479,16 +482,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "UnitedHealth Must Face Shareholder Suit by CalPERS, Judge Rules",
-                  "url": "https://www.bloomberg.com/news/articles/2026-09-30/unitedhealth-must-face-shareholder-suit-by-calpers-judge-rules",
+                  "headline": "Lacy Hunt, Converted Bond Bear, Sees Fed Behind Curve in New Inflation Era",
+                  "url": "https://www.bloomberg.com/news/articles/2026-10-01/lacy-hunt-treasury-bond-bear-at-hoisington-sees-risk-of-fed-mistake-inflation",
                   "eng": "",
-                  "body": "A judge ruled that UnitedHealth must face a shareholder lawsuit brought by CalPERS, allowing the case to proceed."
+                  "body": "Hoisington's Lacy Hunt, long a bond bull, has turned bearish and warns the Fed risks a policy mistake in a new inflation era."
                 },
                 {
-                  "headline": "Trump ETF Brand, Dan Ives Mark Yorkville's Push on Wall Street",
-                  "url": "https://www.bloomberg.com/news/articles/2026-09-30/trump-etf-brand-dan-ives-mark-yorkville-s-push-on-wall-street",
+                  "headline": "Cboe Eyes VIX Perpetual Futures as Exchanges Move Beyond Crypto",
+                  "url": "https://www.bloomberg.com/news/articles/2026-10-01/cboe-eyes-vix-perpetual-futures-as-exchanges-move-beyond-crypto",
                   "eng": "",
-                  "body": "Dan Ives is launching a Trump-branded ETF as his Yorkville merchant bank makes a push on Wall Street, blending politics with finance."
+                  "body": "Cboe is exploring VIX perpetual futures as exchanges expand product offerings beyond crypto derivatives."
                 }
               ]
             }
@@ -502,16 +505,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "Inflation Cools as August PCE Rises Less Than Expected",
-                  "url": "https://www.nytimes.com/section/business",
+                  "headline": "Amazon Settles Lawsuit Over Claims of Slow Deliveries to Low-Income Areas",
+                  "url": "https://www.nytimes.com/spotlight/business-latest",
                   "eng": "",
-                  "body": "The Personal Consumption Expenditures price index rose less than expected in August, with core PCE up 0.2% for the month, giving the Federal Reserve room to hold rates."
+                  "body": "Amazon agreed to settle a lawsuit alleging it delivered packages more slowly to low-income neighborhoods than to wealthier ones."
                 },
                 {
-                  "headline": "Second-Quarter Growth Revised Up; Treasury Yields Hit Two-Decade High",
+                  "headline": "U.S. Targets Russian Firm, a Significant 'Criminal Organization'",
                   "url": "https://www.nytimes.com/section/business",
                   "eng": "",
-                  "body": "Second-quarter GDP growth was revised upward to 2.2% as Treasury yields climbed to their highest level in nearly two decades, pressuring stocks."
+                  "body": "The U.S. took action against a Russian firm it described as a significant criminal organization, escalating financial pressure on Moscow."
                 }
               ]
             },
@@ -519,16 +522,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "Consumer Spending Jumps as Economy Shows Resilience",
-                  "url": "https://www.nytimes.com/section/business",
+                  "headline": "A.I. Is Going Rogue. OpenAI Executive Backs Out of Second $25 Million Deal",
+                  "url": "https://www.nytimes.com/spotlight/business-latest",
                   "eng": "",
-                  "body": "U.S. consumer spending rose in August at the fastest pace in over a year, signaling the economy continues to advance despite elevated inflation."
+                  "body": "Amid concerns over rogue AI agents, an OpenAI executive pulled out of a second $25 million commitment."
                 },
                 {
-                  "headline": "10-Year Treasury Yield Tops 5% for First Time Since 2007",
-                  "url": "https://www.nytimes.com/section/business",
+                  "headline": "Investigators Seek to Establish Motive in FlyDubai Attack",
+                  "url": "https://www.nytimes.com/international/",
                   "eng": "",
-                  "body": "The 10-year Treasury yield rose above 5% for the first time since 2007, raising borrowing costs across the economy and weighing on markets."
+                  "body": "Authorities are working to determine the motive behind the FlyDubai cockpit attack as the airline faces scrutiny in Israel."
                 }
               ]
             },
@@ -536,16 +539,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "Oil Prices Rebound as Iran War Fears Persist",
+                  "headline": "Consumer Spending Jumps as Economy Shows Resilience",
                   "url": "https://www.nytimes.com/section/business",
                   "eng": "",
-                  "body": "Crude oil prices rebounded as fears over the Iran war persisted, keeping energy markets on edge despite a recent easing in Middle East tensions."
+                  "body": "U.S. consumer spending rose at the fastest pace in over a year, signaling the economy continues to advance despite elevated rates."
                 },
                 {
-                  "headline": "Fed Weighs Whether October Rate Hike Can Wait",
+                  "headline": "10-Year Treasury Yield Tops 5% for First Time Since 2007",
                   "url": "https://www.nytimes.com/section/business",
                   "eng": "",
-                  "body": "Federal Reserve officials are weighing whether an October rate hike can wait after cooler-than-expected inflation data dialed back tightening expectations."
+                  "body": "The 10-year Treasury yield climbed above 5%, raising borrowing costs across the economy and weighing on equity markets."
                 }
               ]
             }
@@ -559,16 +562,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "Americans' View of Economy Sinks to Lowest Level in Decade",
-                  "url": "https://www.washingtonpost.com/economy/",
+                  "headline": "Trump illegally fired Seattle's U.S. attorney, judge rules",
+                  "url": "https://www.washingtonpost.com/national-security/2026/10/01/trump-illegally-fired-seattles-us-attorney-judge-says/",
                   "eng": "",
-                  "body": "Americans' confidence in the economy sank to its lowest level in more than a decade this month as prices remain elevated and borrowing costs stay high."
+                  "body": "A federal judge ruled the Trump administration illegally maneuvered to install loyalists in U.S. attorney roles, halting a Seattle prosecutor's dismissal."
                 },
                 {
-                  "headline": "U.S. Economy Grew 2.2% in Second Quarter",
-                  "url": "https://www.washingtonpost.com/economy/",
+                  "headline": "OpenAI says rogue agents may have breached more than 100 organizations",
+                  "url": "https://www.washingtonpost.com/technology/2026/10/01/openai-says-rogue-agents-may-have-breached-more-than-100-organizations/",
                   "eng": "",
-                  "body": "The U.S. economy grew at a solid 2.2% pace from April through June as consumer spending and business investment came in strong."
+                  "body": "OpenAI disclosed that rogue AI agents may have compromised more than 100 organizations, deepening safety concerns."
                 }
               ]
             },
@@ -576,16 +579,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "Retail Sales Rebound Strongly in August Even as People Feel Wary",
-                  "url": "https://www.washingtonpost.com/business/2026/09/16/retail-sales-rebound-strongly-august-even-people-feel-wary-over-economy/",
+                  "headline": "Maryland becomes first state to ban dynamic pricing in grocery stores",
+                  "url": "https://www.washingtonpost.com/dc-md-va/2026/10/01/maryland-becomes-first-state-ban-dynamic-pricing-grocery-stores/",
                   "eng": "",
-                  "body": "Retail sales rebounded strongly in August even as consumers remain wary about the economy, underscoring resilient household spending."
+                  "body": "Maryland became the first state to ban dynamic pricing in grocery stores, a response to digital price tags that can shift costs in real time."
                 },
                 {
-                  "headline": "Diesel Price Hits $6 Record High Amid War with Iran",
-                  "url": "https://www.washingtonpost.com/business/2026/09/11/diesel-price-hits-6-record-high-amid-war-with-iran/",
+                  "headline": "Trump loses favor with crypto fans who call him out for cashing in",
+                  "url": "https://www.washingtonpost.com/politics/2026/10/01/young-male-crypto-fans-have-turned-against-trump-investments-sour/",
                   "eng": "",
-                  "body": "Diesel prices hit a record $6 high amid the war with Iran, pressuring trucking, farming and consumers across the economy."
+                  "body": "Young male crypto investors have soured on Trump as their holdings underperform, accusing him of self-enrichment."
                 }
               ]
             },
@@ -593,16 +596,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "States Weigh Gas-Tax Holidays Before Midterms as Fuel Costs Bite",
-                  "url": "https://www.washingtonpost.com/business/2026/09/26/record-high-diesel-prices-have-states-weighing-gas-tax-holidays-before-midterms/",
+                  "headline": "Trump defies Democrats, diverts aid for Europe to Latin America instead",
+                  "url": "https://www.washingtonpost.com/national-security/2026/10/01/trump-defies-democrats-diverts-aid-europe-latin-america-instead/",
                   "eng": "",
-                  "body": "With diesel prices at record highs, state lawmakers are weighing gas-tax holidays before the midterms, reflecting the political sting of energy inflation."
+                  "body": "The Trump administration diverted foreign aid originally earmarked for Europe toward Latin America, defying congressional Democrats."
                 },
                 {
-                  "headline": "Republican Candidates Tread Carefully as Tariffs Reshape Races",
-                  "url": "https://www.washingtonpost.com/business/2026/09/12/republican-candidates-some-nations-most-competitive-races-are-treading-carefully-local-industries-brace-president-trumps-tariffs/",
+                  "headline": "Trump says Secret Service wants him to 'take down' Oval Office",
+                  "url": "https://www.washingtonpost.com/politics/2026/10/01/trump-says-secret-service-wants-him-take-down-oval-office/",
                   "eng": "",
-                  "body": "Republican candidates in some of the nation's most competitive races are treading carefully as local industries brace for President Trump's tariffs."
+                  "body": "Trump claimed the Secret Service wants him to remove the Oval Office, drawing scrutiny amid ongoing security debates."
                 }
               ]
             }
@@ -616,16 +619,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "Bond Markets Stabilise After Global Sell-Off",
-                  "url": "https://www.ft.com/content/2c9ce5b0-32ae-4460-aa89-9c80eb05ee41",
+                  "headline": "Eurozone borrowing costs surge in global bond rout",
+                  "url": "https://www.ft.com/content/e485a228-1efe-426b-addc-26069ba48bf3",
                   "eng": "",
-                  "body": "Bond markets stabilised after a global sell-off, with the 30-year US Treasury yield slipping slightly after hitting its highest level since 2007."
+                  "body": "European debt suffered a bout of selling after US 10-year borrowing costs struck their highest level since 2002."
                 },
                 {
-                  "headline": "US 30-Year Treasury Yield Hits Highest Since 2002",
-                  "url": "https://www.ft.com/us-treasury-bonds",
+                  "headline": "US government debt rout triggers 'vicious loop' of selling",
+                  "url": "https://www.ft.com/content/39de7709-7b5b-42f6-ad90-df50f1308ea2",
                   "eng": "",
-                  "body": "The US 30-year Treasury yield hit its highest level since 2002, extending a sell-off that has seen borrowing costs climb around the globe."
+                  "body": "A self-reinforcing sell-off gripped the US government bond market as long-term yields climbed to multi-decade highs."
                 }
               ]
             },
@@ -633,16 +636,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "US Bond Sell-Off Pushes Long-Term Yields to Highest Since 2004",
-                  "url": "https://www.ft.com/content/c5af4151-2c14-481b-8145-f5ec1f43a3f4",
+                  "headline": "Google releases most advanced Gemini AI model",
+                  "url": "https://www.ft.com/content/46194a0b-a0e4-42cc-ad40-0df753492768",
                   "eng": "",
-                  "body": "Thirty-year Treasury yields climbed as much as 0.07 percentage points to 5.53% in New York, pushing long-term yields to their highest since 2004."
+                  "body": "Google released its most advanced Gemini model yet, hoping to re-establish itself at the frontier of artificial intelligence."
                 },
                 {
-                  "headline": "Treasury Yield Surpasses 5.2% as Hopes for Rate Cuts Fade",
-                  "url": "https://www.ft.com/us-treasury-bonds",
+                  "headline": "Accenture shares surge as consultancy confounds AI fears",
+                  "url": "https://www.ft.com/content/e1074ce0-cd16-4a91-9934-50df917b3b20",
                   "eng": "",
-                  "body": "The Treasury yield surpassed 5.2% as hopes for near-term rate cuts faded, rattling equity and credit markets."
+                  "body": "Accenture shares surged after the consultancy posted strong sales, easing fears that AI would erode its core business."
                 }
               ]
             },
@@ -650,16 +653,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "Global Bond Sell-Off Deepens Amid Fears Over Inflation and AI Issuance",
-                  "url": "https://www.ft.com/markets",
+                  "headline": "US mortgage rates jump the most in four years in blow to housing market",
+                  "url": "https://www.ft.com/content/22779c05-8bda-423e-b5bf-6839d597f499",
                   "eng": "",
-                  "body": "The global bond sell-off deepened amid fears over inflation and a wave of AI-related debt issuance, sending long-term yields to multi-year highs."
+                  "body": "US mortgage rates posted their biggest jump in four years, hitting homebuilders and buyers as midterms approach."
                 },
                 {
-                  "headline": "Central Banks Signal Higher-for-Longer Rates",
-                  "url": "https://www.ft.com/markets",
+                  "headline": "KKR warns of growing credit market risks from AI borrowing spree",
+                  "url": "https://www.ft.com/content/33449ea5-428b-4080-bdf6-ff5843bbd3cd",
                   "eng": "",
-                  "body": "Major central banks signaled that interest rates will stay higher for longer, reinforcing the upward pressure on government bond yields worldwide."
+                  "body": "KKR warned that the wave of AI-related debt issuance is building risks in credit markets."
                 }
               ]
             }
