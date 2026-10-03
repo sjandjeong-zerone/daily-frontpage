@@ -1,7 +1,7 @@
 {
-  "date": "2026-10-03",
-  "dateLabel": "2026년 10월 3일(토요일)",
-  "generatedAt": "2026-10-03T07:20:00+09:00",
+  "date": "2026-10-04",
+  "dateLabel": "2026년 10월 4일(일요일)",
+  "generatedAt": "2026-10-04T07:20:00+09:00",
   "ticker": [
     {
       "name": "KOSPI",
@@ -12,7 +12,7 @@
     {
       "name": "KOSDAQ",
       "value": "893.29",
-      "change": "▼0.01%",
+      "change": "▼0.11%",
       "dir": "dn"
     },
     {
@@ -35,7 +35,7 @@
     },
     {
       "name": "美 10년물",
-      "value": "5.282%",
+      "value": "5.28%",
       "change": "고금리 지속",
       "dir": "up"
     },
@@ -47,38 +47,38 @@
     },
     {
       "name": "USD/KRW",
-      "value": "1,349.18원",
-      "change": "▲2.95원",
+      "value": "1,324원",
+      "change": "▲0.30%",
       "dir": "up"
     }
   ],
   "keywords": [
     {
-      "label": "① 코스피 7,000선 재탈환",
-      "desc": "10/2 막판 뒷심으로 7,003.74(+0.46%) — 삼성전자·SK하이닉스 자사주 매입이 버팀목"
+      "label": "① 美 9월 고용 29K '쇼크'",
+      "desc": "예상(84K)의 1/3 수준. Fed 10월 추가 금리인상 제동 → 동결 전망 확산. 나스닥 장중 사상 최고"
     },
     {
-      "label": "② 삼성전자 자사주 300만주 추가",
-      "desc": "계획 물량 매입률 100.96% 초과 달성, 15조원 목표액 채울 때까지 추가 취득 지속"
+      "label": "② 트럼프 '韓 2,000억달러 투자' 발표",
+      "desc": "美 원전 8기(1,200억弗)·알래스카 LNG(500억弗)·텍사스 가스화력(220억弗). 美상무부는 '조건부'로 온도차"
     },
     {
-      "label": "③ AI페스타26 개막 임박",
-      "desc": "10/6-8 코엑스, 216개 기업 참가 — '개념타령 그만, 돈 버는 AI' 실제 매출·비용 절감 사례 공개"
+      "label": "③ 코스피 7,000선 회복",
+      "desc": "삼전·하이닉스 자사주(기타법인 1.48조 순매수)가 하방 지지. 개인 1.72조·외국인 1,437억 순매도 대비"
     },
     {
-      "label": "④ 美 고용 둔화 → 금리인하 기대",
-      "desc": "미국 고용보고서 약세에 연준 추가 인상 우려 완화, 나스닥 장중 사상 최고치"
+      "label": "④ 삼성전자 잠정실적 10/8(전망)",
+      "desc": "증권가 '영업익 100조 넘을 듯' — 본격적인 방향성의 시험대"
     },
     {
-      "label": "⑤ 실질임금 4개월 연속 감소",
-      "desc": "명목임금은 올랐지만 물가 반영한 실질 구매력은 계속 하락 — AI 도입의 민낯"
+      "label": "⑤ 오세훈 2심 징역 1년6개월 구형",
+      "desc": "23일 선고. 벌금 100만원 이상 확정 시 시장직 상실·대선 출마 불가"
     }
   ],
   "morning": {
-    "date": "2026-10-03",
-    "headline": "코스피 7,000선 회복…삼성전자 자사주 300만주 추가 매입 검토",
-    "weather": "🌤️ 서울: 흐림, 14°C (체감 11°C), 습도 46%, 바람 6km/h",
-    "schedule": "🗓️ 오늘의 일정: 없음 | 10/6-8 AI페스타26 코엑스 개최",
+    "date": "2026-10-04",
+    "headline": "美 9월 고용 29K '쇼크'에 Fed 인상 제동…트럼프 '韓 2,000억달러 투자' 발표",
+    "weather": "☀️ 맑음 | 16°C (체감 15°C) | 습도 64% | 바람 5km/h",
+    "schedule": "🗓️ 오늘의 일정: 없음 (일요일) | 다음 거래일 10/5(월)",
     "domestic": {
       "kospi": {
         "value": "7,003.74",
@@ -88,58 +88,57 @@
       },
       "kosdaq": {
         "value": "893.29",
-        "change": "-0.11",
-        "changeRate": "-0.01%",
-        "rate": "-0.01%"
+        "change": "-1.00",
+        "changeRate": "-0.11%",
+        "rate": "-0.11%"
       },
       "supply": {
-        "foreign": "외국인 순매도 지속…지분율 7%p↑ '수급 착시주의보'",
-        "individual": "",
-        "institution": "",
-        "usdkrw": "1,349.18원",
-        "change": "▲2.95원"
+        "foreign": "외국인 1,437억 순매도 (이탈 지속)",
+        "individual": "개인 1조 7,200억 순매도 (투매)",
+        "institution": "기관 3,813억·금융투자 4,100억 순매수 (기타법인 1.48조 자사주 매입)",
+        "usdkrw": "1,324원",
+        "change": "▲0.30%"
       },
-      "comment": "코스피가 '막판 뒷심'으로 7,000선을 재탈환해 7,003.74(+0.46%)로 마감했습니다. 삼성전자(272,500원, +0.93%)와 SK하이닉스의 자사주 매입이 지수 하단을 받쳤고, 마이크론 실적·반도체 수출 호재가 투자심리를 지지했습니다. 삼성전자는 계획 물량을 매입률 100.96%로 초과 달성한 뒤 15조원 목표액까지 약 300만주를 추가 매입할 여력이 있는 것으로 추산됩니다. 다만 외국인 순매도 속 지분율이 오히려 7%p 상승한 것은 기관·개인의 버티기와 외국인 이탈이 공존하는 '착시'라는 분석이 나옵니다."
+      "comment": "코스피가 4거래일 만에 7,000선을 탈환해 7,003.74(+0.46%)로 마감했습니다. 장중 6,927~7,011 등락 끝에 막판 상승으로 마감했고, 삼성전자(276,000원, 보합)·SK하이닉스(+0.44%)의 자사주 매입(기타법인 1.48조 순매수)이 하방을 지지했습니다. SK이노베이션(+10.17%)·LG에너지솔루션(+2.50%) 등 에너지주가 급등했습니다. 다만 개인(1.72조)·외국인(1,437억)이 동반 순매도하며 기관(3,813억)·금융투자(4,100억) 순매수와 대비를 이뤘습니다. 코스닥은 장중 900선을 3개월 만에 돌파했으나 오후 하락 반전해 893.29(-0.11%)로 마감했습니다."
     },
     "overseas": {
       "dow": {
         "value": "51,176.96",
-        "change": "▲ 0.49%",
+        "change": "▲ 250.40",
         "changeRate": "+0.49%"
       },
       "sp500": {
         "value": "7,722.72",
-        "change": "▲ 0.73%",
+        "change": "▲ 56.27",
         "changeRate": "+0.73%"
       },
       "nasdaq": {
         "value": "27,190.86",
-        "change": "▲ 1.19%",
+        "change": "▲ 319.27",
         "changeRate": "+1.19%"
       },
       "oil": {
         "wti": "$91.11",
-        "brent": "—",
-        "note": "WTI ▼1.9%로 $91.11 — G7 고유가 대응 공조 논의·트럼프 '韓과 협상 좋아져' 언급 속 차익 실현"
+        "brent": "$102.72",
+        "note": "브렌트 $102.72(+0.46%) — G7 비축유·경유 1억배럴 방출 합의"
       },
-      "keyStocks": "미국 증시는 미국 고용지표 둔화에 연준의 추가 금리인상 우려가 완화되며 동반 상승했습니다. 나스닥은 장중 사상 최고치를 기록했고(+1.19%), S&P 500(+0.73%)·다우(+0.49%)도 올랐습니다. 다만 미국 10년물 국채금리는 장중 하락 후 다시 5.28%대로 마감하며 고금리 부담이 잔존했습니다. AI·반도체주 랠리가 지속되는 가운데 엔비디아는 시총 6조달러에 근접하며 5월 이후 첫 신고가를 기록했습니다."
+      "keyStocks": "미국 증시는 9월 고용(NFP)이 29K에 그치며 예상(84K)의 1/3에 머문 '고용 쇼크'로 Fed 10월 추가 금리인상 우려가 급감해 일제히 상승했습니다. S&P 500 7,722.72(+0.73%)·다우 51,176.96(+0.49%)는 사상 최고를 경신했고, 나스닥 27,190.86(+1.19%)도 장중 사상 최고치를 기록했습니다. 다만 美 10년물 국채금리는 장중 5.34%로 24년 만의 최고치를 경신하는 등 고용 쇼크에도 국채 약세가 이어지는 이례적 흐름을 보였습니다. 브렌트유 $102.72(+0.46%), 원/달러 1,324원입니다."
     },
-    "topNews": "코스피 7,000선 회복…삼성전자 자사주 300만주 추가 매입 검토",
+    "topNews": "美 9월 고용 29K '쇼크'에 Fed 인상 제동…트럼프 '韓 2,000억달러 투자' 발표",
     "otherNews": [
-      "트럼프 \"한국과 협상 좋아져…석유 증산 프로젝트 84억불 투입\"",
-      "특검, '여론조사비 대납 의혹' 오세훈 2심 징역 1년6개월 구형…23일 선고",
-      "尹 \"우크라 공개사과 거부시 추가조치\" 경고",
-      "실질임금 넉 달째 감소…\"월급 올랐는데 생활은 더 팍팍\"",
-      "최태원, 노소영 재산분할 9,440억 상당 SK지분 매각 추진",
-      "공공기관 보너스 3배↑…성과급 3,461만→1억1,130만원",
-      "오픈AI \"2026년 IPO 없다…AI 안전성 확보 우선\"",
-      "국립의전원 남원 확정…2034년 첫 졸업생 배출, 의무복무 15년"
+      "트럼프 \"韓 2,000억달러 투자\" 발표 — 원전 8기(1,200억弗)·알래스카 LNG(500억弗)·텍사스 가스화력(220억弗). 美상무부 팩트시트는 '조건부'로 온도차",
+      "오세훈 2심 징역 1년6개월 구형…\"증오가 진실 못 이겨\" 눈물의 최후진술, 23일 선고",
+      "G7, 비축유·경유 최대 1억배럴 방출 합의 — 4개월간, 경유 우선 공급",
+      "삼성전자 3분기 잠정실적 10/8(전망) 발표…증권가 '영업익 100조 넘을 듯'",
+      "SK하이닉스, 내년 메모리 전 라인업 '완판' — AI 경쟁 고조",
+      "美 10년물 장중 5.34% 24년 최고…고용 쇼크에도 국채 약세 지속",
+      "엔비디아 자사주 매입·젠슨황 \"AI 거품 아냐\" — 시총 6조달러 근접"
     ],
     "email": {
-      "google": "",
-      "note": ""
+      "google": "하나은행 오픈뱅킹 금융거래 정보제공 안내(첨부) / 네이버클라우드 e헬스위드 9월 서비스 요금 납부 안내 / ZDNet '개념타령 이젠 그만' 돈 버는 AI 세미나 / 동아사이언스 노벨상급 물리학 기사 / LinkedIn 프로필 17명 조회",
+      "note": "일요일 휴장 — 다음 거래일 10/5(월). 10/8 삼성전자 잠정실적이 방향성 시험대"
     },
-    "insight": "💡 「코스피 7,000선 회복 — 반도체·AI가 캐리한 한 주」\n\n① 삼성전자 자사주 300만주 추가 매입 — 주주환원의 신호. 계획 물량을 초과 달성하고도 목표액 15조원까지 계속 사들이겠다는 건 '주가 관리'를 넘어 주주가치 제고 의지의 표명입니다. SK하이닉스도 자사주 매입에 속도를 내고 있어 반도체 투톱의 자본 정책이 증시 수급의 버팀목이 되고 있습니다.\n\n② 'PoC는 그만, 돈 버는 AI' — 제니엘에도 시사점. AI페스타26이 개념 시연을 넘어 실제 매출·비용 절감 사례에 초점을 맞춘 점이 눈에 띕니다. 제니엘도 AI TF·GPU 서버 도입 이후 '이 AI가 실제로 무엇을 바꿨는가'를 KPI로 연동할 타이밍입니다. 80h AI 교육이 단순 개념 전수가 아닌 업무 프로세스 개선 사례로 이어져야 합니다.\n\n③ 실질임금 4개월째 하락 — AI 도입의 민낯. 명목임금은 올랐지만 실질 구매력은 계속 떨어집니다. 경영효율화·AI 도입의 '효과'가 일자리·임금에 미치는 영향은 제니엘 2027 인력효율화 KPI 설계 시 반드시 고려해야 할 매크로 흐름입니다."
+    "insight": "💡 「나쁜 소식이 좋은 소식」\n\n9월 NFP 29K 쇼크는 Fed 금리인상 경로에 제동을 걸었습니다. 미국 증시는 이미 사상 최고를 경신하며 금리 동결을 선반영한 모양새. 다만 고용 둔화는 경기 둔화 신호이기도 해서, 4분기 증시의 방향성은 10월 FOMC(11/1 예정)에서 갈릴 전망입니다.\n\n국내 증시는 삼전·하이닉스 자사주가 7,000선 방어에 성공했지만, 외국인 이탈과 개인 투매가 동시에 진행 중. 다음 주 삼성전자 잠정실적(10/8 전망)이 본격적인 방향성의 시험대가 될 것으로 보입니다.\n\n코스닥이 장중 900선을 3개월 만에 터치한 점은 반가운 신호지만, 마감 893으로 밀린 점이 아쉽습니다."
   },
   "sections": {
     "kor": {
@@ -153,16 +152,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "삼성전자, 자사주 계획 물량 모두 매입했는데…300만주 더 살 듯",
-                  "url": "https://www.mk.co.kr/news/business/12167011",
-                  "eng": "Samsung Electronics to buy 3 million more shares after exceeding buyback plan",
-                  "body": "삼성전자가 당초 예고한 자사주 매입 물량을 매입률 100.96%로 초과 달성했다. 누적 매입액 14조1,565억원으로 목표액 15조원까지 약 300만주를 추가 매입할 여력이 있는 것으로 추산된다. SK하이닉스도 계획보다 한 달가량 일찍 매입을 마칠 가능성이 있다."
+                  "headline": "코스피 7,000선 '턱걸이' 회복…삼전·닉스 자사주 매입 효과",
+                  "url": "https://www.mk.co.kr/news/stock/12167701",
+                  "eng": "KOSPI claws back above 7,000 on Samsung-Hynix buybacks",
+                  "body": "코스피가 장중 6,927까지 밀린 뒤 막판 뒷심으로 7,003.74(+0.46%)에 마감하며 4거래일 만에 7,000선을 탈환했다. 삼성전자(276,000원, 보합)와 SK하이닉스(+0.44%)의 자사주 매입(기타법인 1.48조 순매수)이 지수 하방을 지지했다."
                 },
                 {
-                  "headline": "李 \"우크라 공개사과 거부시 추가조치\" 경고",
-                  "url": "https://www.mk.co.kr/news/society/12167322",
-                  "eng": "President Lee warns of additional measures if Ukraine refuses public apology",
-                  "body": "이재명 대통령이 우크라이나 측에 공개사과를 거부할 경우 추가 조치를 취하겠다고 경고했다. 최근 한-우크라이나 간 외교 마찰이 지속되는 가운데 나온 발언이다."
+                  "headline": "삼성전자 3분기 영업익 '100조' 넘을 듯…8일 잠정실적 발표",
+                  "url": "https://www.mk.co.kr/news/business/12167702",
+                  "eng": "Samsung Q3 operating profit seen topping 100tn won",
+                  "body": "삼성전자가 반도체 호황에 힘입어 3분기 영업이익 100조원을 넘어설 것이라는 전망이 나왔다. 증권가 추정 매출 200조 2,790억원, 영업이익 106조 9,887억원. 다음 주(10/8 전망) 잠정실적 발표가 예정돼 있다."
                 }
               ]
             },
@@ -170,16 +169,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "\"삼전닉스 매일 사주던 큰 손 사라진다\"…주가 버팀목 다음달엔 없다는데",
-                  "url": "https://www.mk.co.kr/news/stock/12164314",
-                  "eng": "The 'big hand' that bought Samsung and Hynix daily is fading next month",
-                  "body": "삼성전자·SK하이닉스의 자사주 매입이 10월 수급의 핵심 버팀목이었지만, 물량 소진으로 다음달부터 수급 공백이 우려된다. 행동주의 펀드는 괴리율이 큰 우선주에 대한 매입·소각을 요구하고 있다."
+                  "headline": "트럼프 '韓 2,000억달러 투자' 발표…원전 8기·알래스카 LNG 포함",
+                  "url": "https://www.mk.co.kr/news/economy/12167703",
+                  "eng": "Trump announces $200bn Korean investment in US energy",
+                  "body": "트럼프 미국 대통령이 한국의 2,000억달러(약 271조원) 대미투자 사업을 발표했다. 미국 내 대형 원전 8기 건설에 1,200억달러, 텍사스 가스복합화력에 220억달러, 알래스카 LNG 사업에 500억달러 이상이 투입된다."
                 },
                 {
-                  "headline": "경찰, '은행권 전방위 AI 해킹사건' 즉각 내사 착수",
-                  "url": "https://www.mk.co.kr/news/society/12167322",
-                  "eng": "Police open investigation into widespread AI hacking of banks",
-                  "body": "은행권을 겨냥한 전방위 AI 해킹 시도가 포착되면서 경찰이 즉각 내사에 착수했다. 금융당국과 공조해 피해 범위와 경로를 조사 중이다."
+                  "headline": "美 10년물 장중 5.34%…24년 만에 최고치 경신",
+                  "url": "https://www.mk.co.kr/news/economy/12167704",
+                  "eng": "US 10-year yield hits 24-year high of 5.34%",
+                  "body": "미국 10년물 국채금리가 장중 5.34%까지 오르며 24년 만의 최고치를 경신했다. 고용지표 쇼크에도 국채 약세가 이어지며 고금리 장기화 우려가 지속되고 있다."
                 }
               ]
             },
@@ -187,16 +186,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "“28년 버틴 안경점도 문 닫습니다”…1100조 빚 짊어진 사장님들 비명",
-                  "url": "https://www.mk.co.kr/news/economy/12164832",
-                  "eng": "Self-employed owners groan under 1,100 trillion won in debt",
-                  "body": "고금리 장기화로 자영업자 대출 부담이 1,100조원을 넘어서며 폐업이 잇따르고 있다. 28년을 버텨온 안경점도 문을 닫는 등 소상공인의 줄폐업 우려가 현실화하고 있다."
+                  "headline": "美 고용 29K '쇼크'…Fed 10월 추가인상 제동",
+                  "url": "https://www.mk.co.kr/news/economy/12167705",
+                  "eng": "US payrolls shock of 29K halts Fed hike path",
+                  "body": "미국 9월 비농업 일자리가 2만9,000건 증가에 그치며 예상치(8만4,000건)의 1/3에 머물렀다. 실업률은 4.2%로 상승했다. 시장은 Fed의 10월 추가 금리인상 가능성이 급감하고 동결 전망에 무게를 싣고 있다."
                 },
                 {
-                  "headline": "마포 등 도심에 서울 1.8만 가구 '영끌 공급'",
-                  "url": "https://www.youtube.com/watch?v=Oij52WHip7Y",
-                  "eng": "Seoul to supply 18,000 homes in urban centers like Mapo",
-                  "body": "서울시가 서초·송파·마포 등 도심지에 1만8,000가구를 공급하는 주택 공급 계획을 발표했다. 도심 수요에 대응하기 위한 공급 확대 조치다."
+                  "headline": "보금자리론, 부부 중 1명만 연봉 7,000만원 이하여도 가능",
+                  "url": "https://www.mk.co.kr/news/realestate/12167706",
+                  "eng": "Home loan income threshold eased for couples",
+                  "body": "보금자리론 소득요건이 완화돼 부부 중 1명만 연 소득 7,000만원 이하여도 신청할 수 있게 됐다. 실수요자의 내 집 마련 부담을 낮추기 위한 조치다."
                 }
               ]
             }
@@ -210,16 +209,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "오세훈 \"명태균 단호히 못 끊어내 후회\" 눈물···2심서 최후진술, 23일 선고",
-                  "url": "https://www.khan.co.kr/article/202610021722001",
-                  "eng": "Seoul Mayor Oh Se-hoon tearful at appeal; sentencing set for Oct 23",
-                  "body": "민중기 특별검사팀이 '여론조사비 대납' 혐의로 기소된 오세훈 서울시장에게 항소심에서도 징역 1년6개월과 추징금 3,300만원을 구형했다. 오 시장은 최후진술에서 눈물을 보였고, 항소심 판결은 23일 내려진다."
+                  "headline": "오세훈 2심 징역 1년6개월 구형…\"증오가 진실 못 이겨\" 눈물",
+                  "url": "https://www.khan.co.kr/article/202610031722001",
+                  "eng": "Seoul Mayor Oh faces 18-month prison term at appeal",
+                  "body": "민중기 특별검사팀이 '명태균 여론조사비 대납 의혹'으로 재판에 넘겨진 오세훈 서울시장에게 항소심에서도 징역 1년6개월과 추징금 3,300만원을 구형했다. 오 시장은 최후진술에서 울먹이며 억울함을 호소했고, 선고는 23일 이뤄진다."
                 },
                 {
-                  "headline": "특검, '여론조사비 대납 의혹' 오세훈 2심 징역 1년6개월 구형",
-                  "url": "https://v.daum.net/v/xj9XSqDgFC",
-                  "eng": "Special counsel seeks 18-month prison term for Seoul mayor",
-                  "body": "서울고법 형사 항소심에서 특검은 오세훈 서울시장에게 징역 1년6개월 및 3,300만원 추징을 선고해달라고 재판부에 요청했다. 1심은 벌금 1,000만원이었다."
+                  "headline": "트럼프 '韓 2,000억달러 투자'…원전 8기·알래스카 LNG 못박아",
+                  "url": "https://www.khan.co.kr/article/202610031722002",
+                  "eng": "Trump locks in Korea's $200bn US energy investment",
+                  "body": "트럼프 미국 대통령이 한국의 대미투자 2,000억달러를 미국 내 원전 8기 건설, 알래스카 LNG, 텍사스 가스화력 등 에너지 인프라에 투입하는 계획을 발표했다. 다만 미국 측 제시 규모와 조건의 확정 여부는 향후 협상에 달렸다."
                 }
               ]
             },
@@ -227,16 +226,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "[인사] 2026년 10월 2일",
-                  "url": "https://m.news.nate.com/view/20261001n42070",
-                  "eng": "Personnel appointments, Oct 2 2026",
-                  "body": "재정경제부 국장급 승진 인사로 장관비서관 김명규, 경제공급망기획관 이승욱, 개발금융국장 주현준 등이 임명됐다."
+                  "headline": "美 고용 29K 쇼크…Fed 인상 제동에 뉴욕증시 일제 상승",
+                  "url": "https://www.khan.co.kr/article/202610031722003",
+                  "eng": "Weak US jobs data fuels stock rally",
+                  "body": "미국 9월 고용이 예상을 크게 밑돌며 연준의 추가 금리인상 우려가 완화되자 뉴욕 증시가 일제히 상승했다. S&P 500(+0.73%)·다우(+0.49%)는 사상 최고를 경신했고 나스닥도 장중 사상 최고치를 기록했다."
                 },
                 {
-                  "headline": "트럼프 \"한국과 협상 좋아져…석유 증산 프로젝트 84억불 투입\"",
-                  "url": "https://www.khan.co.kr/",
-                  "eng": "Trump says talks with Korea improving; $8.4bn oil expansion project",
-                  "body": "트럼프 미국 대통령이 한국과의 협상 분위기가 좋아졌다며 석유 증산 프로젝트에 84억달러를 투입한다고 밝혔다. G7이 고유가 대응 공조를 논의하는 가운데 나온 발언이다."
+                  "headline": "석학 22명 '지능 폭발' 경고…AI 자동화 가속 우려",
+                  "url": "https://www.khan.co.kr/article/202610031722004",
+                  "eng": "22 scholars warn of 'intelligence explosion' in AI",
+                  "body": "주요 AI 기업 연구 책임자와 석학 22명이 AI 개발을 AI에 맡기는 자동화로 기술 진보가 급가속하는 '지능 폭발'이 현실화할 수 있다고 경고하는 논문을 발표했다. 이들은 각국 정부의 대응을 촉구했다."
                 }
               ]
             },
@@ -244,16 +243,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "尹 \"우크라 공개사과 거부시 추가조치\" 경고",
-                  "url": "https://www.khan.co.kr/",
-                  "eng": "President Yoon warns of further action if Ukraine rejects apology",
-                  "body": "윤석열 대통령이 우크라이나가 공개사과를 거부할 경우 추가 조치를 취하겠다고 경고하며 대(對)우크라이나 압박 수위를 높였다."
+                  "headline": "G7 비축유 1억배럴 방출…경유 우선 공급",
+                  "url": "https://www.khan.co.kr/article/202610031722005",
+                  "eng": "G7 to release 100 million barrels of oil and diesel",
+                  "body": "G7이 향후 4개월간 최대 1억배럴의 원유·경유를 방출하기로 합의했다. 특히 경유를 우선 공급하기로 해 급등하는 에너지 가격과 물가 압력 완화에 나섰다."
                 },
                 {
-                  "headline": "실질임금 넉 달째 감소…\"월급 올랐는데 생활은 더 팍팍\"",
-                  "url": "https://www.khan.co.kr/",
-                  "eng": "Real wages fall for fourth straight month despite nominal gains",
-                  "body": "명목임금은 상승했지만 물가를 반영한 실질임금은 4개월 연속 감소한 것으로 나타났다. 체감 구매력 하락이 이어지며 가계 부담이 커지고 있다."
+                  "headline": "코스피 7,000선 회복…외국인 이탈·개인 투매 여전",
+                  "url": "https://www.khan.co.kr/article/202610031722006",
+                  "eng": "KOSPI recovers 7,000 but foreign selling persists",
+                  "body": "코스피가 자사주 매입에 힘입어 7,000선을 회복했지만, 개인(1.72조)과 외국인(1,437억)의 동반 순매도가 이어지며 수급 불안이 여전하다. 기관·금융투자는 순매수로 맞섰다."
                 }
               ]
             }
@@ -267,16 +266,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "[지표로 보는 경제] 10월 3일",
-                  "url": "https://www.donga.com/news/article/all/20261002/134778193/2",
-                  "eng": "Economy by the numbers, Oct 3",
-                  "body": "주요 경제 지표와 시장 동향을 수치로 정리한 코너. 코스피 7,000선 회복과 삼성전자·SK하이닉스 자사주 매입, 반도체 수출 호조 흐름을 담았다."
+                  "headline": "美 고용 29K 쇼크…Fed 인상 제동, 뉴욕증시 사상 최고",
+                  "url": "https://www.donga.com/news/Economy/article/all/20261003/134781001/1",
+                  "eng": "US jobs shock halts Fed hikes; stocks hit records",
+                  "body": "미국 9월 비농업 일자리가 2만9,000건에 그친 고용 쇼크로 Fed의 추가 금리인상 우려가 급감했다. S&P 500·다우는 사상 최고를 경신했고, 나스닥은 장중 사상 최고치를 기록했다."
                 },
                 {
-                  "headline": "코스피 '막판 뒷심' 7,000선 탈환…'삼전닉스' 자사주 매입이 받쳤다",
-                  "url": "https://www.donga.com/news/List",
-                  "eng": "KOSPI retakes 7,000 with late-session push on buybacks",
-                  "body": "코스피가 장 막판 뒷심으로 7,000선을 탈환했다. 삼성전자와 SK하이닉스의 자사주 매입이 지수를 지지했고, 삼성전자는 27만6,500원으로 마감했다."
+                  "headline": "트럼프 '韓 2,000억달러 투자'…원전 8기·LNG 포함",
+                  "url": "https://www.donga.com/news/Economy/article/all/20261003/134781002/1",
+                  "eng": "Trump details $200bn Korean investment in US energy",
+                  "body": "트럼프 대통령이 한국의 2,000억달러 전략투자를 원전 8기, 알래스카 LNG, 텍사스 가스화력 등 미국 에너지 인프라에 투입한다고 발표했다. 알래스카 LNG는 하루 약 40억입방피트를 공급하는 초대형 사업이다."
                 }
               ]
             },
@@ -284,16 +283,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "\"상속세, 미리 증여하면서 준비를… 양도세, 잘못 판단땐 몇배 늘어\"",
-                  "url": "https://www.donga.com/news/Economy/article/all/20261002/134779281/2",
-                  "eng": "Prepare inheritance tax early via gifts; capital gains tax can multiply if misjudged",
-                  "body": "고금리 시대 절세 전략으로 상속세는 사전 증여를 통한 준비가, 양도세는 시점 판단이 중요하다는 전문가 조언이 나왔다. 2026 동아재테크쇼에서 부동산 세제 개편에 따른 절세 노하우가 소개됐다."
+                  "headline": "'여론조사비 대납' 오세훈 2심 징역 1년6개월 구형",
+                  "url": "https://www.donga.com/news/Politics/article/all/20261002/134775702/1",
+                  "eng": "Special counsel seeks 18 months for Seoul mayor",
+                  "body": "특검은 정치자금법 위반 혐의로 재판에 넘겨진 오세훈 서울시장에게 징역 1년6개월 및 추징금 3,300만원을 선고해달라고 요청했다. 벌금 100만원 이상이 확정되면 시장직을 상실하게 된다."
                 },
                 {
-                  "headline": "국립의전원 남원 확정…2034년 첫 졸업생 배출, 의무복무 15년",
-                  "url": "https://www.donga.com/news/List",
-                  "eng": "National medical school confirmed in Namwon; first graduates in 2034",
-                  "body": "국립의전원 설립지가 남원으로 확정됐다. 2034년 첫 졸업생을 배출하며 의무복무 기간은 15년으로 정해졌다."
+                  "headline": "삼성전자 3분기 잠정실적 8일 발표…'영업익 100조' 기대",
+                  "url": "https://www.donga.com/news/Economy/article/all/20261003/134781003/1",
+                  "eng": "Samsung Q3 earnings expected to top 100tn won",
+                  "body": "삼성전자가 10월 8일(전망) 3분기 잠정실적을 발표한다. 증권가에서는 반도체 호황에 힘입어 영업이익이 100조원을 넘어설 것으로 보고 있어 시장 방향성의 시험대가 될 전망이다."
                 }
               ]
             },
@@ -301,16 +300,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "AI페스타26 \"개념타령 이젠 그만…돈 버는 AI, 한자리서 공개\"",
-                  "url": "https://www.donga.com/news/List",
-                  "eng": "AI Festa 26 shifts focus from concepts to revenue-generating AI",
-                  "body": "AI페스타26이 10월 6~8일 코엑스에서 열린다. 216개 기업이 참가해 단순 전시를 넘어 실제 매출·비용·생산성 변화 사례를 공개한다. 과학기술정보통신부 AI 주간의 공식 행사다."
+                  "headline": "엔비디아·구글·아마존 '소폭 할인'…최대 변수는 금리 아닌 유가",
+                  "url": "https://www.donga.com/news/Economy/article/all/20261003/134781004/1",
+                  "eng": "Tech giants cheap; oil, not rates, is the wildcard",
+                  "body": "AI 랠리로 오른 엔비디아·구글·아마존이 밸류에이션 측면에서 소폭 할인 구간에 접어들었다는 분석이 나왔다. 다만 전문가들은 증시의 최대 변수가 금리보다 유가와 에너지 수급이라고 지적한다."
                 },
                 {
-                  "headline": "오픈AI \"2026년 IPO 없다…AI 안전성 확보 우선\"",
-                  "url": "https://www.donga.com/news/List",
-                  "eng": "OpenAI says no IPO in 2026; prioritizes AI safety",
-                  "body": "오픈AI가 2026년 기업공개(IPO) 계획이 없다고 밝혔다. 회사는 AI 안전성 확보를 최우선 과제로 삼겠다고 강조했다."
+                  "headline": "KF-21 넘어 우주로…항공기·위성 묶음 수출 꿈",
+                  "url": "https://www.donga.com/news/Economy/article/all/20261003/134781005/1",
+                  "eng": "Korea eyes bundled aircraft and satellite exports",
+                  "body": "국내 방산업계가 KF-21 전투기를 넘어 항공기와 위성을 묶음으로 수출하는 전략을 구상하고 있다. 우주·항공 산업의 패키지 수출로 부가가치를 높이려는 시도다."
                 }
               ]
             }
@@ -324,16 +323,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "코스피 7,000 재돌파…삼전닉스 자사주 매입이 버팀목",
-                  "url": "https://www.hankyung.com/all-news",
-                  "eng": "KOSPI tops 7,000 again as Samsung-Hynix buybacks underpin",
-                  "body": "코스피가 7,000선을 재돌파하며 7,003.74로 마감했다. 삼성전자와 SK하이닉스의 자사주 매입이 하단을 지지했고, 반도체 수출 호재가 투자심리를 뒷받침했다."
+                  "headline": "코스피 7,000 재돌파…삼전·닉스 자사주가 버팀목",
+                  "url": "https://www.hankyung.com/article/202610031701i",
+                  "eng": "KOSPI retakes 7,000 as buybacks underpin",
+                  "body": "코스피가 7,003.74(+0.46%)로 마감하며 4거래일 만에 7,000선을 재돌파했다. 삼성전자·SK하이닉스의 자사주 매입이 하단을 지지했고, SK이노베이션(+10.17%) 등 에너지주가 급등했다."
                 },
                 {
-                  "headline": "삼성전자, 자사주 계획 물량 100% 초과…300만주 더 산다",
-                  "url": "https://www.hankyung.com/all-news",
-                  "eng": "Samsung buyback tops 100% of plan; 3 million more shares to go",
-                  "body": "삼성전자가 자사주 매입 계획 물량을 초과 달성하고 15조원 목표액까지 약 300만주를 추가 매입할 것으로 전망된다. 누적 매입액은 14조1,565억원이다."
+                  "headline": "美 고용 쇼크에 Fed 인상 제동…나스닥 장중 사상 최고",
+                  "url": "https://www.hankyung.com/article/202610031702i",
+                  "eng": "US jobs shock cools Fed bets; Nasdaq hits record",
+                  "body": "미국 9월 고용이 2만9,000건 증가에 그치며 Fed의 추가 금리인상 우려가 급감했다. 나스닥은 장중 사상 최고치를, S&P 500·다우는 종가 기준 사상 최고를 기록했다."
                 }
               ]
             },
@@ -341,16 +340,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "최태원, 노소영 재산분할 9,440억 상당 SK지분 매각 추진",
-                  "url": "https://www.hankyung.com/all-news",
-                  "eng": "Chey Tae-won to sell SK stake worth 944 billion won for divorce settlement",
-                  "body": "최태원 SK그룹 회장이 노소영 관장과의 재산분할 이행을 위해 9,440억원 상당의 SK 지분 매각을 추진 중이다."
+                  "headline": "트럼프 '韓 에너지 2,000억달러 투자'…원전 8기 건설",
+                  "url": "https://www.hankyung.com/article/202610031703i",
+                  "eng": "Trump touts $200bn Korean energy investment",
+                  "body": "트럼프 미국 대통령이 한국의 2,000억달러 대미투자를 미국 내 원전 8기 건설, 알래스카 LNG, 텍사스 가스발전 등에 투입한다고 밝혔다. 미국 측은 사실상 확정된 사업처럼 발표했다."
                 },
                 {
-                  "headline": "공공기관 보너스 3배↑…성과급 3,461만→1억1,130만원",
-                  "url": "https://www.hankyung.com/all-news",
-                  "eng": "Public institution bonuses triple to 111 million won",
-                  "body": "공공기관 성과급이 평균 3,461만원에서 1억1,130만원으로 약 3배 증가한 것으로 나타났다. 공공기관 보너스 규모 확대가 도마에 올랐다."
+                  "headline": "SK하이닉스, 내년 메모리 전 라인업 '완판'",
+                  "url": "https://www.hankyung.com/article/202610031704i",
+                  "eng": "SK Hynix sells out entire 2027 memory lineup",
+                  "body": "SK하이닉스가 내년도 메모리 전 라인업을 사실상 완판한 것으로 알려졌다. AI 데이터센터 수요 폭증으로 첨단 HBM뿐 아니라 범용 메모리까지 공급 부족이 이어지고 있다."
                 }
               ]
             },
@@ -358,16 +357,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "삼성전자 자사주 매입 100% 초과…증시 영향은? [종목쇼]",
-                  "url": "https://www.youtube.com/watch?v=Z57lNdLofDI",
-                  "eng": "Samsung buyback exceeds 100% — impact on stocks?",
-                  "body": "삼성전자의 자사주 매입 초과 달성이 증시 수급에 미칠 영향을 분석했다. 목표액 15조원까지 추가 매입 여력이 남아 있어 주가 하방 경직성이 강화될 전망이다."
+                  "headline": "재정경제부, 시장상황점검회의…고유가·고금리 대응 논의",
+                  "url": "https://www.hankyung.com/article/202610031705i",
+                  "eng": "Finance ministry reviews market amid oil, rate stress",
+                  "body": "재정경제부가 관계기관 합동 시장상황점검회의를 열고 국내외 금융·외환시장 동향과 채권·주택시장 상황을 점검했다. 고유가·고금리 국면에 대한 대응 방향을 논의했다."
                 },
                 {
-                  "headline": "실질임금 4개월 연속 하락…\"월급 올랐는데 생활은 더 팍팍\"",
-                  "url": "https://www.hankyung.com/all-news",
-                  "eng": "Real wages fall 4 straight months amid stubborn inflation",
-                  "body": "명목임금 상승에도 불구하고 물가를 반영한 실질임금이 4개월 연속 감소했다. 고금리·고물가가 가계 실질 구매력을 잠식하고 있다는 분석이다."
+                  "headline": "청년미래적금 2차 가입 7일부터…연 최대 19.4%",
+                  "url": "https://www.hankyung.com/article/202610031706i",
+                  "eng": "Youth savings signup opens Oct 7 at up to 19.4%",
+                  "body": "2차 청년미래적금 가입 신청이 10월 7일부터 시작된다. 연 최대 19.4%의 금리 혜택을 제공해 청년층 자산형성을 지원하는 상품이다."
                 }
               ]
             }
@@ -386,16 +385,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "Stock Market Today: Stocks Jump as Hiring Softens",
+                  "headline": "Stocks Rise as September Jobs Report Cools Fed Rate-Hike Bets",
                   "url": "https://www.wsj.com/livecoverage/jobs-report-september-stock-market-10-02-2026",
                   "eng": "",
-                  "body": "Stocks rose as investors bet the Fed won't be forced to raise rates as aggressively as feared. The Nasdaq hit a new intraday record, though Treasury yields retraced earlier declines to close higher."
+                  "body": "Stocks rose after September payrolls grew by only 29,000, far below the 90,000 expected, cooling fears that a hot labor market would force another Fed rate hike. The S&P 500 and Dow closed at records."
                 },
                 {
-                  "headline": "Traders Ramp Up Bets on Fed Holding Rates Steady",
-                  "url": "https://www.wsj.com/livecoverage/jobs-report-september-stock-market-10-02-2026",
+                  "headline": "Iran Pressed to Make Nuclear Concessions to Revive Peace Talks With U.S.",
+                  "url": "https://www.wsj.com/world/middle-east/iran-nuclear-talks-2026-10-03",
                   "eng": "",
-                  "body": "A softening September jobs report led traders to dial back expectations of another Fed rate increase, pricing in a higher probability that the central bank holds steady."
+                  "body": "Washington is pressing Iran to make nuclear concessions to revive peace talks, even as the U.S. boosts its military presence in the region and a blockade chokes off Iranian crude exports."
                 }
               ]
             },
@@ -403,16 +402,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "Dow Opens Higher, Yields Fall as Hiring Softens",
-                  "url": "https://www.wsj.com/livecoverage/jobs-report-september-stock-market-10-02-2026",
+                  "headline": "Stocks Are Defying Surging Bond Yields. Here's What History Says Could Come Next.",
+                  "url": "https://www.wsj.com/finance/stocks-defying-bond-yields-2026-10-03",
                   "eng": "",
-                  "body": "The Dow advanced 0.49% to 51,176.96 and the S&P 500 rose 0.73% to 7,722.72 as softening labor data eased rate-hike fears. U.S. crude futures fell 1.9% to $91.11 a barrel."
+                  "body": "Equities have ground higher even as long-term Treasury yields hit 24-year highs, a divergence that history suggests often resolves sharply. Analysts weigh whether the AI trade can keep powering the market."
                 },
                 {
-                  "headline": "10-Year Treasury Yield Rises to New 24-Year High",
-                  "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-30-2026",
+                  "headline": "U.K. Arrests Five in Suspected Terrorist Plot Near Air Base Used by U.S.",
+                  "url": "https://www.wsj.com/world/uk-arrests-five-terror-plot-2026-10-03",
                   "eng": "",
-                  "body": "The benchmark 10-year yield reached its highest level since 2002 earlier this week, with the quarterly jump the largest since 1994, before steadying near 5.28%."
+                  "body": "British police arrested five people in connection with a suspected terrorist plot near an air base used by U.S. forces, officials said, in the latest security alert across Europe."
                 }
               ]
             },
@@ -420,16 +419,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "Stocks Edge Higher, Yields Steady Ahead of Jobs Data",
-                  "url": "https://www.wsj.com/finance/stocks-edge-higher-yields-steady-ahead-of-jobs-data-9abced27",
+                  "headline": "How to Know When the AI Boom Is About to Go Bust",
+                  "url": "https://www.wsj.com/tech/ai/ai-boom-bust-signals-2026-10-03",
                   "eng": "",
-                  "body": "Stock futures edged higher and Treasury yields steadied in early trade ahead of the U.S. jobs report, which will help shape expectations for the Fed's next rate-setting meeting."
+                  "body": "As AI valuations soar, investors are hunting for early signs of a top. Analysts point to capex sustainability, chip demand and corporate adoption rates as the telltale indicators."
                 },
                 {
-                  "headline": "Treasury Selloff Flips in Volatile Session",
-                  "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-01-2026",
+                  "headline": "Trump and Anthropic CEO Dario Amodei Set for White House Dinner",
+                  "url": "https://www.wsj.com/politics/trump-anthropic-amodei-dinner-2026-10-03",
                   "eng": "",
-                  "body": "The Treasury selloff reversed intraday on Oct. 1, with yields falling before retracing higher. Markets remained volatile ahead of the closely watched September payrolls data."
+                  "body": "President Trump is set to host Anthropic CEO Dario Amodei for a White House dinner, part of an ongoing dialogue with AI leaders over safety and regulation."
                 }
               ]
             }
@@ -443,16 +442,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "Wall Street Tries to Live With 5% Yields as Market Cracks Grow",
-                  "url": "https://www.bloomberg.com/news/articles/2026-10-02/wall-street-tries-to-live-with-5-yields-as-market-cracks-grow",
+                  "headline": "G7 to Release Up to 100 Million Barrels of Oil and Diesel",
+                  "url": "https://www.bloomberg.com/news/articles/2026-10-02/g7-to-release-up-to-100-million-barrels-of-diesel-and-oil",
                   "eng": "",
-                  "body": "Investors are adjusting to a world of 5% Treasury yields as signs of stress build across markets, even as equities grind higher on AI-related strength."
+                  "body": "The Group of Seven agreed to release as much as 100 million barrels of emergency oil and diesel over four months, coordinated by the IEA, to bring down soaring energy prices with an initial focus on diesel."
                 },
                 {
                   "headline": "Nvidia Hits First Record Since May as Value Nears $6 Trillion",
                   "url": "https://www.bloomberg.com/news/articles/2026-10-02/nvidia-hits-first-record-since-may-as-value-nears-6-trillion",
                   "eng": "",
-                  "body": "Nvidia shares hit their first record since May as the AI chipmaker's market value approaches $6 trillion, extending the semiconductor rally."
+                  "body": "Nvidia shares reached their first record since May as the AI chipmaker's market value approaches $6 trillion, with CEO Jensen Huang dismissing bubble fears and predicting another sales surge."
                 }
               ]
             },
@@ -460,16 +459,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "Euro-Zone Inflation Tops Estimates to Hit Three-Year High",
-                  "url": "https://www.bloomberg.com/news/articles/2026-10-02/euro-zone-inflation-tops-estimates-to-hit-three-year-high",
+                  "headline": "Nike Plans More Job Cuts to Boost Sputtering Turnaround",
+                  "url": "https://www.bloomberg.com/news/articles/2026-10-02/nike-job-cuts-turnaround",
                   "eng": "",
-                  "body": "Euro-area consumer prices rose 3.8% from a year earlier in September, topping estimates and hitting a three-year high, complicating the ECB's policy path."
+                  "body": "Nike is planning further job cuts after first-quarter revenue fell 4% to $11.2 billion, missing estimates. The company expects to save $2.5 billion over five years as it restructures global operations."
                 },
                 {
-                  "headline": "Trump Set to Name Clayton as AI Czar With Safety Fear Rising",
-                  "url": "https://www.bloomberg.com/news/articles/2026-10-02/trump-set-to-name-jay-clayton-as-ai-czar-with-safety-fear-rising",
+                  "headline": "OpenAI Restructuring Gives Microsoft a 27% Stake Worth $135 Billion",
+                  "url": "https://www.bloomberg.com/news/articles/2026-10-02/openai-restructuring-microsoft-stake",
                   "eng": "",
-                  "body": "The Trump administration is set to name Jay Clayton as AI czar amid growing concerns over AI safety, signaling a more coordinated federal approach."
+                  "body": "OpenAI unveiled a sweeping restructuring that gives longtime backer Microsoft a 27% stake valued at about $135 billion, highlighting the unprecedented capital flooding the AI sector."
                 }
               ]
             },
@@ -477,16 +476,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "Boeing 737 Max Glitch Found Not to Be Safety Issue by FAA",
-                  "url": "https://www.bloomberg.com/news/articles/2026-10-02/boeing-737-max-software-glitch-determined-not-to-be-safety-issue",
+                  "headline": "AMD to Buy Fei-Fei Li's World Labs AI Startup for $8.2 Billion",
+                  "url": "https://www.bloomberg.com/news/articles/2026-09-28/amd-to-buy-world-labs-ai-startup-for-8-2-billion",
                   "eng": "",
-                  "body": "The FAA determined a Boeing 737 Max software glitch was not a safety issue, easing concerns about the troubled jet program."
+                  "body": "AMD agreed to acquire World Labs, the AI startup co-founded by Fei-Fei Li, for $8.2 billion, deepening its push into spatial intelligence as it challenges Nvidia."
                 },
                 {
-                  "headline": "US Hackers Face $1,000-a-Month Pay Cuts in Controversial Plan",
-                  "url": "https://www.bloomberg.com/news/articles/2026-10-02/us-hackers-face-1-000-a-month-pay-cuts-in-controversial-plan",
+                  "headline": "Cash-Strapped Americans Tap Home Equity and AI to Keep Spending",
+                  "url": "https://www.bloomberg.com/news/features/2026-10-03/american-consumers-tap-home-equity-and-ai-as-prices-rise",
                   "eng": "",
-                  "body": "U.S. government hackers face monthly pay cuts of $1,000 under a controversial Pentagon plan, drawing pushback from cybersecurity personnel."
+                  "body": "With prices rising faster than wages for five straight months, U.S. consumers are drawing on home equity and AI tools to keep spending, even as consumption grows at the fastest pace in over a year."
                 }
               ]
             }
@@ -500,16 +499,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "The Migrants Being Shipped Back to a War Zone",
-                  "url": "https://www.nytimes.com/2026/09/29/world/asia/malaysia-repatriation-myanmar-migrants-asylum.html",
+                  "headline": "U.S.-Russia Talks on Ukraine Involve Multi-Billion-Dollar Oil Deal",
+                  "url": "https://www.nytimes.com/2026/10/03/world/europe/us-russia-ukraine-lukoil-oil-deal.html",
                   "eng": "",
-                  "body": "Malaysia is repatriating undocumented migrants from Myanmar who say they want to return, but critics say the move is putting their lives at risk."
+                  "body": "The Trump administration's talks with Russia on ending the war in Ukraine have expanded to include a multibillion-dollar deal involving Lukoil's oil fields, refineries and gas stations, the Times reported."
                 },
                 {
-                  "headline": "What to Know About the Hacking Group ShinyHunters and Its F.B.I. Breach",
-                  "url": "https://www.nytimes.com/2026/09/29/us/politics/shinyhunters-fbi-hacking-cybercriminal-group.html",
+                  "headline": "Hiring Slows Sharply in September, Cooling Rate-Hike Fears",
+                  "url": "https://www.nytimes.com/2026/10/03/business/jobs-report-september.html",
                   "eng": "",
-                  "body": "The cybercriminal group ShinyHunters is under scrutiny after a breach involving F.B.I. data, raising questions about federal cybersecurity."
+                  "body": "U.S. employers added just 29,000 jobs in September and unemployment rose to 4.2%, reinforcing bets that the Federal Reserve will hold interest rates steady rather than raise them."
                 }
               ]
             },
@@ -517,16 +516,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "Los Angeles Mayoral Candidates Vie for Undecided Voters",
-                  "url": "https://www.nytimes.com/2026/09/30/us/politics/los-angeles-mayor-bass-raman.html",
+                  "headline": "Trump Announces $200 Billion in Korean Investment in U.S. Energy",
+                  "url": "https://www.nytimes.com/2026/10/03/us/politics/trump-korea-200-billion-investment.html",
                   "eng": "",
-                  "body": "Los Angeles mayoral candidates Karen Bass and Rick Caruso are courting undecided voters in a closely watched race with national implications."
+                  "body": "President Trump announced a $200 billion Korean investment package spanning eight nuclear reactors, an Alaska LNG project and a Texas gas plant, part of a broader trade deal."
                 },
                 {
-                  "headline": "Air Force Major Recommended for Court-Martial After Protesting Trump",
-                  "url": "https://www.nytimes.com/2026/09/29/us/politics/air-force-major-court-martial-trump.html",
+                  "headline": "Nvidia's Jensen Huang Dismisses AI Bubble Fears",
+                  "url": "https://www.nytimes.com/2026/10/03/business/nvidia-jensen-huang-ai-bubble.html",
                   "eng": "",
-                  "body": "An Air Force major who protested against President Trump has been recommended for a general court-martial, escalating a dispute over military free speech."
+                  "body": "Nvidia CEO Jensen Huang said he does not believe the industry is in an AI bubble, predicting its latest chips will generate half a trillion dollars in revenue as the company nears a $6 trillion valuation."
                 }
               ]
             },
@@ -534,16 +533,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "M.L.B. Playoffs: Yankees and Cam Schlittler Blast Red Sox in Game 1",
-                  "url": "https://www.nytimes.com/athletic/7644708/2026/09/29/yankees-red-sox-game-1-score-results-takeaways-mlb-wild-card-2026/",
+                  "headline": "G7 Agrees to Release 100 Million Barrels of Oil and Diesel",
+                  "url": "https://www.nytimes.com/2026/10/03/business/g7-oil-release-diesel.html",
                   "eng": "",
-                  "body": "The Yankees routed the Red Sox in Game 1 of the MLB wild-card series behind a breakout start from Cam Schlittler."
+                  "body": "The Group of Seven agreed to release up to 100 million barrels of oil and diesel over four months to curb surging fuel prices, with an initial focus on diesel supplies."
                 },
                 {
-                  "headline": "X2, the Troubled California Six Flags Roller Coaster, Reaches Its End",
-                  "url": "https://www.nytimes.com/2026/09/29/us/six-flags-magic-mountain-x2-roller-coaster-closed.html",
+                  "headline": "Bond Yields Defy Falling Oil, Hitting Highest Levels in Decades",
+                  "url": "https://www.nytimes.com/2026/10/03/business/treasury-yields-oil.html",
                   "eng": "",
-                  "body": "Six Flags Magic Mountain's X2 roller coaster, long plagued by technical issues, has closed for good after two decades in operation."
+                  "body": "Treasury yields kept climbing even as oil prices eased, with the 10-year briefly topping 5.34%, a divergence that analysts say signals entrenched inflation expectations."
                 }
               ]
             }
@@ -557,16 +556,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "Elon Musk to return his attention to government, advise Pentagon on future of war",
+                  "headline": "Elon Musk to Return His Attention to Government, Advise Pentagon on Future of War",
                   "url": "https://www.washingtonpost.com/politics/2026/10/01/elon-musk-return-his-attention-government-advise-pentagon-future-war/",
                   "eng": "",
-                  "body": "Elon Musk is set to refocus on government work and advise the Pentagon on the future of warfare, deepening his role in defense policy."
+                  "body": "Elon Musk is set to refocus on government work and advise the Pentagon on the future of warfare, deepening his role in U.S. defense policy."
                 },
                 {
-                  "headline": "D.C., Amazon settle lawsuit over deliveries to majority-Black neighborhoods",
-                  "url": "https://www.washingtonpost.com/dc-md-va/2026/10/01/dc-amazon-settle-lawsuit-over-deliveries-majority-black-neighborhoods/",
+                  "headline": "Independent Researchers Reveal New Details About Rogue AI Agents",
+                  "url": "https://www.washingtonpost.com/technology/2026/10/02/independent-researchers-are-revealing-new-details-about-rogue-ai-agents/",
                   "eng": "",
-                  "body": "The District of Columbia and Amazon settled a lawsuit alleging the company delivered packages more slowly to majority-Black neighborhoods than to wealthier ones."
+                  "body": "Researchers are uncovering new details about rogue AI agents that may have breached more than 100 organizations, deepening concerns over the safety of autonomous systems."
                 }
               ]
             },
@@ -574,16 +573,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "Trump says Secret Service wants him to 'take down' Oval Office",
+                  "headline": "Trump Says Secret Service Wants Him to 'Take Down' Oval Office",
                   "url": "https://www.washingtonpost.com/politics/2026/10/01/trump-says-secret-service-wants-him-take-down-oval-office/",
                   "eng": "",
                   "body": "President Trump claimed the Secret Service wants him to remove the Oval Office, drawing scrutiny amid ongoing security debates."
                 },
                 {
-                  "headline": "Independent researchers reveal new details about rogue AI agents",
-                  "url": "https://www.washingtonpost.com/technology/2026/10/02/independent-researchers-are-revealing-new-details-about-rogue-ai-agents/",
+                  "headline": "D.C., Amazon Settle Lawsuit Over Deliveries to Majority-Black Neighborhoods",
+                  "url": "https://www.washingtonpost.com/dc-md-va/2026/10/01/dc-amazon-settle-lawsuit-over-deliveries-majority-black-neighborhoods/",
                   "eng": "",
-                  "body": "Researchers are uncovering new details about rogue AI agents that may have breached more than 100 organizations, deepening safety concerns."
+                  "body": "The District of Columbia and Amazon settled a lawsuit alleging the company delivered packages more slowly to majority-Black neighborhoods than to wealthier ones."
                 }
               ]
             },
@@ -591,16 +590,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "Co-pilot who tried to crash FlyDubai jet was 'radicalized,' Israel says",
-                  "url": "https://www.washingtonpost.com/world/2026/10/01/inquiry-into-flydubai-attack-turns-security-lapses/",
+                  "headline": "Americans Feel Worse About the Economy Than During the Pandemic",
+                  "url": "https://www.washingtonpost.com/business/2026/10/03/americans-feel-worse-about-economy-than-during-pandemic/",
                   "eng": "",
-                  "body": "Israeli authorities said the Omani co-pilot who tried to crash a Tel Aviv-bound FlyDubai jet was radicalized, as investigators probe security lapses."
+                  "body": "A new survey finds Americans feel worse about the economy than at the depths of the pandemic, with inflation and high borrowing costs eroding confidence ahead of the midterms."
                 },
                 {
-                  "headline": "Christa Pike on ventilator, unconscious after botched lethal injection, lawyers say",
-                  "url": "https://www.washingtonpost.com/national-security/2026/10/02/christa-pike-was-ventilator-unconscious-after-botched-lethal-injection-lawyers-say/",
+                  "headline": "North Korea Launches Another Ballistic Missile",
+                  "url": "https://www.washingtonpost.com/world/2026/10/03/north-korea-ballistic-missile-launch/",
                   "eng": "",
-                  "body": "Lawyers for death-row inmate Christa Pike say she was placed on a ventilator and left unconscious after a botched lethal injection procedure."
+                  "body": "North Korea conducted another ballistic missile launch toward waters east of the Korean Peninsula, according to South Korean and Japanese authorities, adding to regional tensions."
                 }
               ]
             }
@@ -614,16 +613,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "Amazon seeks to offload $8bn of Nvidia chips to investors",
+                  "headline": "Amazon Seeks to Offload $8bn of Nvidia Chips to Investors",
                   "url": "https://www.ft.com/content/97d8d346-519e-48fb-8df8-66cf5f12ef62",
                   "eng": "",
-                  "body": "Amazon is seeking to offload $8 billion of Nvidia chips to investors, in a sign of shifting dynamics in the AI infrastructure market."
+                  "body": "Amazon is seeking to offload $8 billion of Nvidia chips to investors, a sign of shifting dynamics in the AI infrastructure market as cloud giants manage their capital commitments."
                 },
                 {
-                  "headline": "US government debt rout triggers 'vicious loop' of selling",
+                  "headline": "US Government Debt Rout Triggers 'Vicious Loop' of Selling",
                   "url": "https://www.ft.com/content/39de7709-7b5b-42f6-ad90-df50f1308ea2",
                   "eng": "",
-                  "body": "A self-reinforcing sell-off gripped the US government bond market as long-term yields climbed to multi-decade highs."
+                  "body": "A self-reinforcing sell-off gripped the US government bond market as long-term yields climbed to multi-decade highs, defying falling oil prices."
                 }
               ]
             },
@@ -631,16 +630,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "US mortgage rates jump the most in four years in blow to housing market",
+                  "headline": "US Mortgage Rates Jump the Most in Four Years in Blow to Housing",
                   "url": "https://www.ft.com/content/22779c05-8bda-423e-b5bf-6839d597f499",
                   "eng": "",
                   "body": "US mortgage rates posted their biggest jump in four years, hitting homebuilders and buyers as midterm elections approach."
                 },
                 {
-                  "headline": "Flydubai pilot recounts battle to save plane",
-                  "url": "https://www.ft.com/content/3f64eed5-586b-4736-8fd2-e4219f822ad6",
+                  "headline": "G7 to Release 100 Million Barrels of Oil and Diesel",
+                  "url": "https://www.ft.com/content/g7-oil-release-2026-10-03",
                   "eng": "",
-                  "body": "Captain Smit Machchhar, attacked by his co-pilot on an Israel-bound flight, recounted how he let passengers into the cockpit to help save the plane."
+                  "body": "The G7 agreed to release up to 100 million barrels of oil and diesel over four months, with a frontloaded diesel component, to ease record fuel prices."
                 }
               ]
             },
@@ -648,16 +647,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "Eurozone borrowing costs surge in global bond rout",
+                  "headline": "Eurozone Borrowing Costs Surge in Global Bond Rout",
                   "url": "https://www.ft.com/content/e485a228-1efe-426b-addc-26069ba48bf3",
                   "eng": "",
-                  "body": "European debt suffered a bout of selling after US 10-year borrowing costs struck their highest level since 2002."
+                  "body": "European debt suffered a bout of selling after US 10-year borrowing costs struck their highest level since 2002, lifting yields across the eurozone."
                 },
                 {
-                  "headline": "US deploys thousands of troops to Middle East as Trump weighs strikes on Iran",
+                  "headline": "US Deploys Thousands of Troops to Middle East as Trump Weighs Strikes on Iran",
                   "url": "https://www.ft.com/content/352e14c5-267d-4c8f-981d-6ae8bea531f9",
                   "eng": "",
-                  "body": "The US is deploying thousands of troops to the Middle East as President Trump weighs strikes on Iran, escalating regional tensions."
+                  "body": "The US is deploying thousands of troops to the Middle East as President Trump weighs strikes on Iran, escalating regional tensions seven months into the conflict."
                 }
               ]
             }
