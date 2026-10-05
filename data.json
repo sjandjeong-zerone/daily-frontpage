@@ -1,65 +1,64 @@
 {
-  "date": "2026-10-05",
-  "dateLabel": "2026년 10월 5일(월요일)",
-  "generatedAt": "2026-10-05T07:20:00+09:00",
+  "date": "2026-10-06",
+  "dateLabel": "2026년 10월 6일(화요일)",
+  "generatedAt": "2026-10-06T07:17:40+09:00",
   "ticker": [
     {"name": "KOSPI", "value": "7,003.74", "change": "▲0.46%", "dir": "up"},
     {"name": "KOSDAQ", "value": "893.29", "change": "▼0.11%", "dir": "dn"},
-    {"name": "S&P 500", "value": "7,722.72", "change": "▲0.73%", "dir": "up"},
-    {"name": "NASDAQ", "value": "27,190.86", "change": "▲1.19%", "dir": "up"},
-    {"name": "다우", "value": "51,176.96", "change": "▲0.49%", "dir": "up"},
+    {"name": "S&P 500", "value": "7,722.72", "change": "▼0.30%", "dir": "dn"},
+    {"name": "NASDAQ", "value": "27,190.86", "change": "▲0.50%", "dir": "up"},
+    {"name": "다우", "value": "51,176.96", "change": "▼1.30%", "dir": "dn"},
     {"name": "USD/KRW", "value": "1,350원", "change": "연고 수준", "dir": "up"},
-    {"name": "비트코인", "value": "$85,000", "change": "▲ 돌파", "dir": "up"},
-    {"name": "WTI", "value": "$91.11", "change": "주간 ▼1.53%", "dir": "dn"}
+    {"name": "비트코인", "value": "$85,795", "change": "보합", "dir": "up"},
+    {"name": "WTI", "value": "$89.80", "change": "▼1.44%", "dir": "dn"}
   ],
   "keywords": [
-    {"label": "① 美 9월 고용 29K '쇼크'", "desc": "예상(140K) 대폭 하회. Fed 11월 금리인상 확률 48%→20% 급락. 나스닥 +1.2% 급등·엔비디아 사상최고"},
-    {"label": "② 개천절 대체휴일", "desc": "오늘 韓 증시 휴장, 화요일(10/6) 개장. 9월 CPI(10/14)·3분기 실적시즌(JP모건 10/13) 개막 대기"},
-    {"label": "③ 비트코인 $85K 돌파", "desc": "금리인상 기대 완화+유동성 장세 기대. 심리적 중요 저항선, 전통 금융과 상관관계 회복"},
-    {"label": "④ 최태원 SK 지분 9,440억 매각", "desc": "재산분할액 규모. 대외 악재 속 원/달러 1,350원 연고 수준"},
-    {"label": "⑤ G7+EU 비축유 1억 배럴 방출", "desc": "단기 공급 충격 완화. 다만 사우디·러시아 감산 기조로 구조적 안정은 미지수"}
+    {"label": "① 노벨 생리의학상 '광유전학'", "desc": "빛으로 신경회로 제어하는 광유전학 개척 3인 수상. 뇌과학이 AI 다음 혁신 축으로 부상, 제니엘 AX 헬스케어·바이오 접목 시야 확대"},
+    {"label": "② 금융권 AI 해킹 후폭풍", "desc": "'6년 연속 정보보호 100점' 은행들 실제로는 1239억 투자에도 뚫려. KISA 취약점센터 증원·예산 무산, 망분리 찬반 논쟁 확산"},
+    {"label": "③ 반도체 수출 사상 첫 600억불", "desc": "전년比 263%↑ 단일 품목 사상 첫 600억불 돌파. 삼성전자 내년 50만원 전망(조선일보)"},
+    {"label": "④ 美 국채 24년 최고 금리", "desc": "30년물 6% 전망까지. 다만 AI 랠리가 고금리 상쇄, 나스닥 사상 최고치 경신. 10/14 CPI가 분수령"},
+    {"label": "⑤ 中 피지컬AI '굴기'", "desc": "中 완성차 빅5, 본업 외 투자 60%를 로봇·AI에 베팅(43조). 韓 로봇 생태계는 '구멍가게' 수준으로 격차 확대 경계"}
   ],
   "morning": {
-    "date": "2026-10-05",
-    "headline": "개천절 대체휴일 韓 증시 휴장…美 9월 고용 29K '쇼크'에 Fed 인상 기대 급감·비트코인 $85K 돌파",
-    "weather": "🌧️ 가끔 비 | 16°C (체감 13°C) | 습도 66% | 바람 12km/h",
-    "schedule": "🗓️ 오늘의 일정: 개천절 대체휴일(공휴일) — 한국 증시 휴장 | 다음 거래일 10/6(화)",
+    "date": "2026-10-06",
+    "headline": "2026 노벨 생리의학상 '광유전학' 3인 수상…금융권 AI해킹 후폭풍 속 美 나스닥 사상최고·반도체 수출 600억불 돌파",
+    "weather": "☁️ 맑음 | 14°C (체감 12°C) | 습도 55% | 바람 4km/h",
+    "schedule": "🗓️ 오늘의 일정: 09:00 블루핸즈 예약(Wife share)",
     "domestic": {
       "kospi": {"value": "7,003.74", "change": "+32.39", "changeRate": "+0.46%", "rate": "+0.46%"},
       "kosdaq": {"value": "893.29", "change": "-1.00", "changeRate": "-0.11%", "rate": "-0.11%"},
       "supply": {
-        "foreign": "외국인 순매도 (이탈 지속)",
-        "individual": "개인 순매도",
-        "institution": "기관 홀로 순매수 (하방 지지)",
+        "foreign": "외국인 순매도 (-1,080억)",
+        "individual": "개인 순매도 (-17,897억)",
+        "institution": "기관 순매수 (+4,155억)",
         "usdkrw": "1,350원",
         "change": "연고 수준"
       },
-      "comment": "개천절 대체휴일로 오늘 국내 증시는 휴장합니다. 직전 거래일(10/2) 코스피는 7,003.74(+0.46%)로 7,000선을 지켰고, 코스닥은 893.29(-0.11%)로 마감했습니다. 외국인·개인이 동반 매도하는 가운데 기관 홀로 순매수하며 지수 하방을 지지했습니다. 원/달러 환율은 최태원 SK 지분 매각(9,440억원) 이슈 등으로 1,350원대 연고 수준을 유지했습니다."
+      "comment": "코스피 7,003.74(+0.46%)로 7,000선에 안착했다. 시가 6,938→고가 7,011→저가 6,927 흐름 속 외국인(-1,080억)·개인(-17,897억)이 팔고 기관(+4,155억) 홀로 사며 지수 하방을 지지했다. 통신장비(+3.90%)·우주항공·국방(+3.86%)·석유·가스(+3.64%)가 강세였다. 삼성전자 내년 50만원 전망과 반도체 수출 전년比 263%↑(사상 첫 600억불 돌파)가 호재로 작용하는 가운데, 美 서비스업 PMI 54.9 둔화·비용 압력 4년여 만에 최고는 경계 신호다. 박스권 상단(7,000~7,100) 테스트 중."
     },
     "overseas": {
-      "dow": {"value": "51,176.96", "change": "▲ 250.40", "changeRate": "+0.49%"},
-      "sp500": {"value": "7,722.72", "change": "▲ 56.27", "changeRate": "+0.73%"},
-      "nasdaq": {"value": "27,190.86", "change": "▲ 319.27", "changeRate": "+1.19%"},
-      "oil": {"wti": "$91.11", "brent": "$102.72", "note": "주간 -1.53% — G7+EU 비축유 1억 배럴 방출 합의 (단기 공급 충격 완화)"},
-      "keyStocks": "미국 증시는 9월 고용(NFP)이 29K에 그친 '고용 쇼크'로 Fed 추가 금리인상 우려가 급감하며 상승했습니다. S&P 500 7,722.72(+0.73%)·나스닥 27,190.86(+1.19%)이 강세를 보였고, 엔비디아는 +2% 상승하며 사상 최고가를 경신했습니다. 테슬라는 Q3 인도량이 예상을 상회하며 +3.7% 올랐습니다. 다만 다우(51,176.96, +0.49%)는 주간 -1.3%로 부진했고, 홍콩 항셍은 -2.6% 급락했습니다. 비트코인은 금리인상 기대 완화에 $85K를 돌파했습니다."
+      "dow": {"value": "51,176.96", "change": "▼ 약세", "changeRate": "-1.3%"},
+      "sp500": {"value": "7,722.72", "change": "▼ 0.3%", "changeRate": "-0.3%"},
+      "nasdaq": {"value": "27,190.86", "change": "▲ 0.5%", "changeRate": "+0.5%"},
+      "oil": {"wti": "$89.80", "brent": "$100.7", "note": "WTI ▼1.44% — 중동 정세 불안 지속, 호르무즈 통제 이라크 유조선 확보 움직임"},
+      "keyStocks": "미국 증시는 혼조였다. 나스닥이 +0.5%로 사상 최고치를 경신하며 기술주 AI 랠리를 이어갔지만, S&P 500(-0.3%)은 사상 최고 대비 1% 아래로 내려섰고 다우(-1.3%)는 약세였다. 미국 국채 금리는 24년 만에 최고를 기록했고(30년물 6% 전망까지), AI 랠리가 고금리 부담을 상쇄하는 구도다. 다음 분수령은 10/14 CPI, 10/15 PPI·소매판매다."
     },
-    "topNews": "개천절 대체휴일 韓 증시 휴장…美 9월 고용 29K '쇼크'에 Fed 인상 기대 급감·비트코인 $85K 돌파",
+    "topNews": "2026 노벨 생리의학상 '광유전학' 3인 수상…금융권 AI해킹 후폭풍 속 美 나스닥 사상최고·반도체 수출 600억불 돌파",
     "otherNews": [
-      "최태원, SK 지분 9,440억 매각 — 재산분할액 규모, 대외 악재 속 환율 1,350원 연고",
-      "한국 '역대급' 무역흑자 — 달러 공급 안정 요인",
-      "9월 고용 쇼크(29K) — 연준 11월 금리인상 확률 20%로 급락 (전주 48%)",
-      "테슬라 Q3 인도량 예상 상회 — 주가 +3.7% 탄력",
-      "엔비디아 사상 최고가 행진 — AI 반도체 수요 지속",
-      "파라마운트-워너브라더스 합병 — Skydance 출범",
-      "G7+EU 전략비축유 1억 배럴 방출 — 유가 안정 목적",
-      "트럼프 수퍼인텔리전스 서밋 — AI 안전 협정 논의",
-      "비트코인 $85K 돌파 — 금리인상 기대 완화 + 위험자산 선호"
+      "노벨 생리의학상 — 광유전학(Optogenetics) 개척자 칼 다이서로스·페터 헤게만·게오르크 나겔 수상 (빛으로 신경회로 제어)",
+      "금융권 AI해킹 후폭풍 — '정보보호 100점' 은행 1239억 투자에도 뚫려…KISA 대응센터 증원·예산 무산",
+      "반도체 수출 전년比 263%↑ — 단일 품목 사상 첫 600억불 돌파",
+      "삼성전자 주가 내년 50만원 전망 (조선일보)",
+      "美 9월 서비스업 PMI 54.9로 둔화 — 비용 압력 4년여 만에 최고",
+      "美 국채 금리 24년 만에 최고 — AI 랠리가 고금리 상쇄",
+      "트럼프, 알래스카 LNG 투자·관세 압박 — 韓 투자 협상 변수",
+      "삼전 레버리지 '20좌 미만' 단주 출구 마련 논의"
     ],
     "email": {
       "google": "",
-      "note": "개천절 대체휴일 — 증시 휴장. 다음 거래일 10/6(화). 9월 CPI(10/14)·3분기 실적시즌(JP모건 10/13) 개막 대기"
+      "note": "오늘 경제일정: 美 CB 소비자신뢰지수(81.9, 예상 89.2 하회)·JOLTS 구인건수 발표. 다음 마감 10/14 美 CPI, 10/15 PPI·소매판매"
     },
-    "insight": "💡 「고용 쇼크의 양면성과 휴장 이후 포지셔닝」\n\n① 고용 쇼크의 양면성: 9월 고용 +29K는 연준의 금리인상 카드를 약화(11월 인상확률 48%→20%)시켜 주식시장엔 호재였고 나스닥이 1.2% 급등했습니다. 다만 '경제 둔화 신호'라는 해석도 가능해 S&P 500은 주간 -0.3%로 신중했습니다. 다음 CPI(10/14)가 고용 데이터 다음 퍼즐조각입니다.\n\n② 코스피 7,000선 하방 경직성: 6,971→7,003으로 7천선을 지켰고, 코스닥 +5.78%는 위험자산 선호 회복을 시사합니다. 다만 환율 1,350원 부담과 외국인 순매도 기조는 여전히 경계 변수입니다.\n\n③ 유가 안정—일시적 vs 구조적: 비축유 방출은 단기 공급 충격 완화일 뿐, 사우디·러시아 감산 기조가 여전해 구조적 안정은 아닙니다.\n\n④ 비트코인 $85K: 금리인상 기대 완화+유동성 장세 기대가 밀어올렸습니다. $85K는 심리적 중요 저항선으로, 전통 금융과의 상관관계가 다시 회복되는 중입니다."
+    "insight": "💡 「노벨상 시즌과 AI 다음 축, 그리고 7천선 경계」\n\n① 광유전학의 의미: 올해 노벨 생리의학상은 '빛으로 신경회로를 제어'하는 광유전학에 돌아갔습니다. 뇌과학이 AI 다음 기술혁신 축으로 부상하는 신호로 읽힙니다. 제니엘 AX 범위에 헬스케어·바이오 접목 가능성을 시야에 둘 타이밍입니다.\n\n② 금융권 AI해킹의 교훈: '정보보호 100점' 평가를 받던 은행들이 실제 공격엔 뚫렸습니다. 등급·인증은 사후적 신호일 뿐, 실전 방어력과는 다른 문제입니다. 제니엘 사내 AI 포털의 감사로그·PII필터 같은 '실전 방어' 설계가 왜 중요한지 재확인되는 사례입니다.\n\n③ 7천선 KOSPI의 양면: 반도체 수출 600억불 돌파·삼전 50만원 전망은 강한 상승 재료지만, 美 국채 금리 24년 최고·서비스업 PMI 둔화는 상단을 누르는 요인입니다. 박스권 상단(7,000~7,100) 테스트가 이어질 공산이 큽니다.\n\n④ 오늘의 실천: 밀린 4건(전사업무회의 준비·사무실 공고·스트레칭·가족 안부)을 오전에 15분씩 정리하고 본궤도로. 09:00 블루핸즈 예약 — 30분 전 도착, 주행거리·소모품 체크리스트 챙기세요."
   },
   "sections": {
     "kor": {
@@ -72,22 +71,22 @@
             {
               "label": "1면",
               "articles": [
-                {"headline": "'AI 해커' 1인에 초토화된 韓 금융", "url": "https://www.mk.co.kr/news/it/12168173", "eng": "One AI hacker devastates Korean finance sector", "body": "금융당국이 연쇄 해킹 사태에서 '중국산 AI 흔적'을 발견했고, AI를 활용한 동일 세력의 소행으로 추정하고 있다. 은행 앱이 아닌 서브시스템을 공격했으며, 정부기관이 다음 타깃이 될 수 있다는 우려가 나온다."},
-                {"headline": "[단독] 국가핵심기술 속수무책 뚫렸다…3년새 4배 증가", "url": "https://www.mk.co.kr/news/economy/12168172", "eng": "Core national tech breaches quadruple in 3 years", "body": "반도체·조선 등 최상위 국가핵심기술 침해 신고가 올해 12건으로 사상 최대를 기록하며 3년 새 4배로 급증했다."}
+                {"headline": "지뢰 폭발사고 14일만에…北에 사과 요구한 軍", "url": "https://www.mk.co.kr/news/politics/12168621", "eng": "Military demands North Korea apologize over landmine blast", "body": "군이 지뢰 폭발사고 현장조사 최종 결과를 발표하며 북한에 사과를 요구했다. \"북이 자발적으로 제거하지 않으면 MDL 이남 자체 작전을 계속하겠다\"는 입장이다."},
+                {"headline": "'피지컬AI 굴기' 뒤엔…中완성차 43조 베팅", "url": "https://www.mk.co.kr/news/business/12168620", "eng": "Chinese automakers bet 43tn won on physical AI", "body": "중국 완성차 빅5가 본업 외 투자 비중의 60%를 로봇·AI에 집중했다. BYD는 산업용 로봇에 40억달러를 투입하며 전기차로 번 돈을 첨단 제조사 전환에 쏟아붓고 있다."}
               ]
             },
             {
               "label": "2면",
               "articles": [
-                {"headline": "구기종목 金맥 터졌지만…믿었던 양궁·태권도 '쩔쩔'", "url": "https://www.mk.co.kr/news/sports/12168140", "eng": "Korea wins 39 golds, fewest in 44 years", "body": "한국이 금메달 39개로 44년 만에 최소를 기록했다. 축구가 4회 연속 금메달을 따냈고 농구·야구·핸드볼이 우승했지만, 세계 최강 여자양궁이 첫 '노골드'에 그치고 태권도도 겨루기 금메달 1개에 머물렀다."},
-                {"headline": "'군면제만 보고 뛰었다' 또다시 병역특례 논란", "url": "https://www.mk.co.kr/news/sports/12168139", "eng": "Military exemption controversy reignites at Asian Games", "body": "아시안게임 금메달로 축구 선수 20명이 병역 면제를 받으면서 4년마다 반복되는 공정성 논란이 다시 불거졌다. 일각에서는 '면제 대신 포인트제' 도입을 제안한다."}
+                {"headline": "트럼프, MAGA 결집 안간힘…'5D'가 승부 가른다", "url": "https://www.mk.co.kr/news/world/12168612", "eng": "Five 'D' factors to decide US midterms", "body": "미국 중간선거를 앞두고 트럼프가 연일 공화당 텃밭을 찾아 유세 중이다. 데이터센터발 전기료 부담·고유가가 서민 생계를 압박하고 라틴계·흑인 지지층 이탈이 가속되는 가운데, 배당으로 반전을 노린다."},
+                {"headline": "美민주 상하원 싹쓸이 땐…K반도체·배터리 '양날의 검'", "url": "https://www.mk.co.kr/news/business/12168611", "eng": "US Democratic sweep is double-edged for K-chip and battery", "body": "민주당이 상하원을 모두 장악하면 반도체 팹 건설 압박은 줄지만 데이터센터 수요 둔화가 우려된다. 배터리는 대중국 규제가 변수가 될 전망이다."}
               ]
             },
             {
               "label": "3면",
               "articles": [
-                {"headline": "첫 공격 막은 우리銀…AI 해킹, 24시간 감시 AI 방패로 차단", "url": "https://www.mk.co.kr/news/economy/12168178", "eng": "Woori Bank blocks first AI hack with AI shield", "body": "우리은행이 24시간 AI 감시 체계로 첫 공격을 차단했다. 금융권 동시해킹의 3대 쟁점으로 업무망 보안 취약, 중국 서비스 이용 흔적(국적 단정은 아직), 당국의 보안 탐지체계 재점검이 꼽힌다."},
-                {"headline": "AI해킹 전면전…다음 타깃은 국가인프라", "url": "https://www.mk.co.kr/news/world/12168179", "eng": "AI hacking war could target national infrastructure", "body": "박찬암 국가AI전략위원회 자문위원은 AI 해킹의 다음 타깃이 국가 인프라가 될 수 있다고 경고하며 대비 필요성을 강조했다."}
+                {"headline": "中전기차 공장은 '로봇 실험장'…공급망·생산 전략 그대로 이식", "url": "https://www.mk.co.kr/news/business/12168593", "eng": "China's EV plants become robot testbeds", "body": "중국 자동차 업계가 로봇에 올인하며 전기차·로봇에 동일 AI 체계를 적용하고, 자체 공장을 피지컬AI 실험장으로 활용하고 있다. 외부 고객이 없어도 데이터를 축적하는 구조라 현대차보다 실전 투입이 한발 앞섰다는 평가다."},
+                {"headline": "삼성·현대차 로봇투자 나섰지만…韓로봇 생태계는 '구멍가게' 수준", "url": "https://www.mk.co.kr/news/business/12168592", "eng": "Korea's robot ecosystem lags despite chaebol bets", "body": "삼성·현대차가 로봇 투자에 나섰지만 국내 로봇 관련 기업의 98%가 중소기업이고 R&D 실적이 없는 기업도 82%에 달한다. 중국은 부품사까지 로봇에 올인하며 지능형 로봇 기술을 턱밑까지 추격 중이다."}
               ]
             }
           ]
@@ -99,22 +98,22 @@
             {
               "label": "1면",
               "articles": [
-                {"headline": "\"해커 1명이 1년 걸리는 침투·탈취, AI 에이전트는 하루 만에 해\"", "url": "https://www.khan.co.kr/article/202610042212015", "eng": "AI agent does a hacker's year of work in a day", "body": "금융권 연쇄 해킹에 AI 에이전트가 활용됐을 가능성이 제기되며, AI가 공격에 드는 사람과 시간을 줄여 한 공격자가 여러 표적을 동시에 노릴 수 있게 됐다는 우려가 커지고 있다. 침입 평균 속도가 24시간 이하로 줄어 방어(30~60일)와의 간극이 벌어졌다."},
-                {"headline": "이란 \"미국, 7가지 조건 수용 안 하면 호르무즈 해협 재개방 없어\"", "url": "https://www.khan.co.kr/article/202610042240001", "eng": "Iran ties Strait of Hormuz reopening to 7 conditions", "body": "이란은 미국이 7가지 조건(해상봉쇄 해제·동결자금 반환·원유 수출 제재 면제 등)을 충족할 때까지 호르무즈 해협을 개방하지 않겠다고 재차 밝혔다."}
+                {"headline": "이 대통령 \"초과세수로 공공임대 대량 공급…LH에 미분양분 '매수 확약' 지시\"", "url": "https://www.khan.co.kr/article/202610051908001", "eng": "President Lee: use surplus tax for public housing", "body": "이재명 대통령이 \"초과 세수를 활용해 청년과 중산층용 공공 장기 임대 주택을 조기에 대량 공급하겠다\"며 LH에 미분양분 매수 확약을 지시했다. 인허가·착공이 늘고 신규 택지 개발이 속도를 내고 있어 공급이 곧 늘어날 것이라고 밝혔다."},
+                {"headline": "이재명 정부 2년 차 국정감사 6일 시작…첫날 최대 쟁점은 '조희대'", "url": "https://www.khan.co.kr/article/202610051516001", "eng": "Second-year state audit opens, spotlight on Jo Hee-dae", "body": "이재명 정부 2년 차 국정감사가 6일 시작된다. 여당은 민생·정책 국감을 표방하며 정부 정책 점검에 집중하고, 야당은 안보·민생 이슈를 중심으로 정부 실정 부각 공세를 펼칠 것으로 보인다."}
               ]
             },
             {
               "label": "2면",
               "articles": [
-                {"headline": "'지역 계약학과' 늘린다는데 대기업 참여 7곳뿐···중견기업은 '0'", "url": "https://www.khan.co.kr/article/202610050600091", "eng": "Regional contract majors rely on just 7 big firms", "body": "정부가 거점국립대 중심으로 채용조건형 계약학과를 확대할 계획이지만, 대기업 연계 학과 18개에 참여한 기업은 삼성전자·SK하이닉스 등 7곳에 그쳤고 중견기업·공공기관이 참여한 학과는 없었다."},
-                {"headline": "아이 낳으러 시·도 경계 넘는 산모들···경북 10명 중 4명 '원정분만'", "url": "https://www.khan.co.kr/article/202610050600061", "eng": "Mothers cross regions to give birth amid hospital gaps", "body": "경북에서 산모 10명 중 4명 이상이 다른 시·도로 이동해 출산했고, 전남에서도 3명 중 1명 이상이 지역 밖에서 아이를 낳은 것으로 나타나 분만 인프라 공백이 심각한 것으로 드러났다."}
+                {"headline": "LG전자, 미국 AI데이터센터 플랫폼기업 '에어'에 냉각솔루션 장기계약", "url": "https://www.khan.co.kr/article/202610052205001", "eng": "LG Electronics inks AI datacenter cooling deal", "body": "LG전자가 북미에서 총 5GW 규모 AI 데이터센터에 냉각 솔루션을 공급하는 장기 계약을 따냈다. 미국법인이 에어 컨트롤 콘셉트(AIR Control Concept)와 고효율 칠러 등 냉각 솔루션 공급계약(LTA)을 체결했다."},
+                {"headline": "아프간 탈레반군·북한군 대표단, 러시아 주최 연합훈련서 교류", "url": "https://www.khan.co.kr/article/202610052158001", "eng": "Taliban, North Korean delegates meet at Russia drills", "body": "아프가니스탄 탈레반군과 북한군이 러시아의 '센터-2026' 전략지휘참모훈련에서 만나 교류한 것으로 파악됐다. 북한은 참관단을 파견한 33개국 중 하나였다."}
               ]
             },
             {
               "label": "3면",
               "articles": [
-                {"headline": "[단독]성폭력 가해자가 미화한 책이 공공도서관에…2차 가해 도서 사각지대", "url": "https://www.khan.co.kr/article/202610050600081", "eng": "Books glamorizing sex crimes sit in public libraries", "body": "성범죄 가해자가 자신의 범행을 미화한 책이 국립중앙도서관·국회도서관 등 30여곳에 비치돼 피해자가 2차 가해에 노출된 것으로 파악됐다. 일부 도서관은 문제 제기 후 폐기·이용 제한 조치를 했다."},
-                {"headline": "[올앳부동산] 서울 골목은 왜 차로 채워졌을까···도쿄와 비교해보니", "url": "https://www.khan.co.kr/article/202610050600001", "eng": "Why Seoul's alleys fill with cars, unlike Tokyo", "body": "건물 1층이 주차장으로 쓰이는 서울 골목과 달리 도쿄의 주거지역 골목은 나무와 화단이 많다. 유현준 교수는 두 도시의 차이를 만든 배경으로 주차장 확보를 강제하는 한국 법을 지목했다."}
+                {"headline": "[단독]은행들 다 털리는데…AI 위협 대응할 정부 '센터' 증원·추가예산 모두 무산", "url": "https://www.khan.co.kr/article/202610051435001", "eng": "Gov't AI-security center expansion, budget both scuttled", "body": "한국인터넷진흥원(KISA) 취약점관리센터의 내년 인력·예산 확충 계획이 모두 무산된 것으로 확인됐다. 상근 전담인력은 13명에 그쳤고, 20명 증원 요구는 재정경제부 검토에서 한 명도 반영되지 않았다."},
+                {"headline": "수백억 쏟아붓고 '최고 등급' 자랑했는데…은행들 보안체계 '허장성세'였나", "url": "https://www.khan.co.kr/article/202610052119015", "eng": "Banks' 'top-grade' security proves hollow", "body": "해킹 공격을 막지 못한 주요 은행들이 반기보고서에서 각종 보안 인증과 최고 등급을 내세운 것으로 나타났다. KB국민·신한·하나은행은 연간 수백억원씩 투자했지만 고객정보 탈취를 방어하는 데 실패했다."}
               ]
             }
           ]
@@ -126,22 +125,22 @@
             {
               "label": "1면",
               "articles": [
-                {"headline": "김정은, 韓과 대화 거부 다음날 탄도미사일 도발", "url": "https://www.donga.com/news/article/all/20261005/134784565/2", "eng": "Kim Jong-un fires missile after rejecting talks with Seoul", "body": "북한이 한국과의 대화를 거부한 다음날 탄도미사일을 발사하며 도발 수위를 높였다. 한미 당국이 비행거리와 탄착점을 분석 중이다."},
-                {"headline": "전 금융권서 동시다발 AI 해킹…동일 공격자 정황 포착", "url": "https://www.donga.com/news/article/all/20261005/134784563/2", "eng": "Simultaneous AI hacks hit all financial sectors", "body": "은행·증권·보험 등 전 금융권에서 동시다발적으로 AI 해킹이 발생했으며, 동일 공격자의 소행으로 보이는 정황이 포착됐다. 악성코드 없이 8개국 IP를 이용한 무차별 공격으로 중국어 AI 흔적이 조사되고 있다."}
+                {"headline": "美부통령 \"韓 알래스카 투자 이뤄질것…세부협상은 남아\"", "url": "https://www.donga.com/news/Inter/article/all/20261006/134790240/1", "eng": "US VP: Korea's Alaska investment will happen", "body": "트럼프 대통령이 확정되지 않은 한국의 알래스카 LNG 사업 투자를 일방 발표한 가운데, JD 밴스 부통령도 \"결국 이뤄질 것\"이라며 세부 협상이 남아 있다고 밝혔다."},
+                {"headline": "이 대통령 \"'부동산 투기 공화국' 탈출 약속 반드시 지킬 것\"", "url": "https://www.donga.com/news/article/all/20261006/134789288/2", "eng": "President vows to escape 'speculation republic'", "body": "이재명 대통령이 부동산 투기 공화국 탈출 약속을 반드시 지키겠다고 밝히며, 초과 세수를 활용한 공공 장기 임대 주택의 조기 대량 공급 의지를 재확인했다."}
               ]
             },
             {
               "label": "2면",
               "articles": [
-                {"headline": "고독사 年4000명 육박…5060 남성이 절반 넘어", "url": "https://www.donga.com/news/article/all/20261005/134784549/2", "eng": "Lonely deaths near 4,000 a year; 5060 men over half", "body": "고독사가 연간 4,000명에 육박했고, 50·60대 남성이 절반 이상을 차지하는 것으로 집계됐다."},
-                {"headline": "낡은 집에 홀몸 노인들…\"앞집도 옆집도 다 비어 소리쳐도 들을 이웃 없다\"", "url": "https://www.donga.com/news/article/all/20261005/134784551/2", "eng": "Aging residents isolated in emptying old neighborhoods", "body": "구도심 낡은 주택에 홀로 사는 노인들이 늘면서 이웃이 모두 빠져나가 도움을 요청해도 들을 사람이 없는 현실이 드러났다."}
+                {"headline": "국정감사 6일 개막…첫날 쟁점은 대법원장 후보 '조희대'", "url": "https://www.donga.com/news", "eng": "State audit opens; Jo Hee-dae in spotlight", "body": "이재명 정부 2년 차 국정감사가 6일 시작됐다. 첫날 최대 쟁점은 조희대 관련 이슈로, 여야는 민생·정책 점검과 정부 실정 부각 공세를 두고 맞선다."},
+                {"headline": "북한, 대화 거부 다음날 탄도미사일 도발…한미 분석 중", "url": "https://www.donga.com/news/article/all/20261005/134784565/2", "eng": "North Korea fires missile after rejecting talks", "body": "북한이 한국과의 대화를 거부한 다음날 탄도미사일을 발사하며 도발 수위를 높였다. 한미 당국이 비행거리와 탄착점을 분석 중이다."}
               ]
             },
             {
               "label": "3면",
               "articles": [
-                {"headline": "北, 지뢰 뭉개고 美 관심끌기…트럼프 \"핵미사일 112개, 잘 지내야\"", "url": "https://www.donga.com/news/article/all/20261005/134784452/2", "eng": "North Korea crushes mines to grab US attention", "body": "북한이 지뢰를 파괴하는 등 미국의 관심을 끌기 위한 행보를 이어가자, 트럼프는 북한의 핵미사일을 거론하며 경고성 메시지를 냈다."},
-                {"headline": "北 \"파도식 비행-AI 도입-경로 변경\" 주장…괌 사정권 MRBM, 한미 요격 무력화 위협", "url": "https://www.donga.com/news/article/all/20261005/134784449/2", "eng": "North Korea claims MRBM can evade US-S.K. interceptors", "body": "북한이 파도식 비행·AI 도입·경로 변경 기술을 적용한 중거리 탄도미사일(MRBM)이 괌을 사정권에 두고 한미 요격망을 무력화할 수 있다고 주장했다."}
+                {"headline": "미군 B-1 폭격기, 영국 기지서 전원 귀환", "url": "https://www.donga.com/news", "eng": "All US B-1 bombers return from UK base", "body": "영국 공군기지에 배치됐던 미군 B-1 폭격기가 전원 미국으로 귀환하는 것으로 알려졌다. 중동·유럽 정세 변화에 따른 재배치로 해석된다."},
+                {"headline": "김민석, 수첩에 '한동훈' 이름…여권 내 파장", "url": "https://www.donga.com/news/article/all/20261006/134789288/2", "eng": "Kim Min-seok's notebook stirs ruling camp", "body": "김민석 의원이 수첩에 '한동훈' 이름을 반복 기재한 정황이 알려지며 여권 내부에서 파장이 일고 있다."}
               ]
             }
           ]
@@ -153,22 +152,22 @@
             {
               "label": "1면",
               "articles": [
-                {"headline": "알래스카 투자 압박하는 트럼프, 관세 인상하나", "url": "https://www.hankyung.com/article/2026100427111", "eng": "Trump pressures Alaska investment, threatens tariffs", "body": "트럼프 미국 대통령이 한국의 알래스카 투자를 압박하면서 합의가 이뤄지지 않으면 관세를 인상할 가능성이 거론되고 있다. 중간선거를 앞두고 대미투자·관세를 동시에 활용하는 압박이 거세지고 있다."},
-                {"headline": "해킹에 악용된 AI 에이전트는 '아르텍스'", "url": "https://www.hankyung.com/article/2026100427051", "eng": "ARTEX named as AI agent used in hacks", "body": "금융권 연쇄 해킹에 악용된 AI 에이전트가 중국산 AI 보안 점검 도구 '아르텍스(ARTEX)'로 지목되며 보안업계 분석이 나오고 있다."}
+                {"headline": "머스크 '테라팹'에 TSMC도 참여?…인텔주가 하락", "url": "https://www.hankyung.com/article/202610053989i", "eng": "TSMC may join Musk's TeraFab; Intel slides", "body": "일론 머스크가 추진하는 반도체 자체 생산 공장 '테라팹(TeraFab)'에 TSMC가 참여할 가능성이 제기되면서 인텔 주가가 하락했다. 삼성·TSMC 중심의 파운드리 구도가 흔들릴 수 있다는 분석이다."},
+                {"headline": "국내 증시 사상 최고치…삼성전자 시총 2000조 돌파", "url": "https://www.hankyung.com/all-news", "eng": "Samsung mcap tops 2,000tn won as KOSPI hits record", "body": "코스피가 사상 최고치를 경신한 가운데 삼성전자가 국내 증시 역사상 처음으로 단일 종목 시가총액 2000조원을 돌파했다. SK하이닉스도 AI 메모리 수요에 힘입어 동반 강세를 보였다."}
               ]
             },
             {
               "label": "2면",
               "articles": [
-                {"headline": "16년 만에 '최악 부진' 현대차…7천만원대 GV80 내놓는다", "url": "https://www.hankyung.com/article/2026100426291", "eng": "Hyundai launches 70mn-won GV80 amid slump", "body": "현대차가 16년 만에 최악의 부진을 겪는 가운데 제네시스 첫 하이브리드 GV80을 7,000만원대에 출시해 반등을 노린다."},
-                {"headline": "제동 걸린 코스닥 '기업 솎아내기'…퇴출 피했지만 탈출도 막혔다", "url": "https://www.hankyung.com/article/2026100427121", "eng": "KOSDAQ delisting push stalls", "body": "코스닥의 부실 기업 퇴출(솎아내기) 작업이 제동에 걸리면서 퇴출은 피했지만 상장 유지 기업의 탈출도 함께 막히는 부작용이 나타났다."}
+                {"headline": "반도체 수출 전년比 263%↑…단일 품목 사상 첫 600억불 돌파", "url": "https://www.hankyung.com/all-news", "eng": "Chip exports up 263%, first $60bn single item", "body": "한국 반도체 수출이 전년 대비 263% 급증하며 단일 품목 기준 사상 처음으로 600억달러를 돌파했다. AI 데이터센터 투자 확대에 따른 메모리 수요 급증이 주된 배경이다."},
+                {"headline": "삼전 레버리지 '20좌 미만' 단주 출구 마련 논의", "url": "https://www.hankyung.com/all-news", "eng": "Discussions on Samsung leverage 'under 20' exit", "body": "삼성전자 레버리지 상품에서 '20좌 미만' 단주 투자자들의 출구를 마련하는 방안이 논의되고 있다. 변동성 확대에 대비한 투자자 보호 장치 필요성이 제기된 데 따른 것이다."}
               ]
             },
             {
               "label": "3면",
               "articles": [
-                {"headline": "5대 은행, 보안에 순익의 1%만 투자", "url": "https://www.hankyung.com/article/2026100427041", "eng": "Big 5 banks spend just 1% of profit on security", "body": "국내 5대 은행이 보안에 투자하는 금액이 순이익의 1% 수준에 그치는 것으로 나타나 금융권 해킹 사태 이후 보안 투자 확대 필요성이 제기됐다."},
-                {"headline": "'K기판 르네상스'…역대 최대 수출액 노린다", "url": "https://www.hankyung.com/article/2026100426341", "eng": "Korea's PCB industry eyes record exports", "body": "AI 반도체 수요 확대로 국내 기판(PCB) 산업이 역대 최대 수출액을 노리는 'K기판 르네상스' 국면에 접어들었다."}
+                {"headline": "트럼프, 한국 알래스카 투자 압박…관세 인상하나", "url": "https://www.hankyung.com/article/2026100427111", "eng": "Trump pressures Korea's Alaska investment", "body": "트럼프 대통령이 한국의 알래스카 LNG 투자를 압박하며 합의가 이뤄지지 않으면 관세를 인상할 가능성이 거론된다. 중간선거를 앞두고 대미투자·관세를 동시에 활용하는 압박이 거세지고 있다."},
+                {"headline": "5대 은행, 보안에 순익의 1%만 투자", "url": "https://www.hankyung.com/article/2026100427041", "eng": "Big 5 banks spend 1% of profit on security", "body": "국내 5대 은행의 보안 투자가 순이익의 1% 수준에 그치는 것으로 나타나, 금융권 AI 해킹 사태 이후 보안 투자 확대 필요성이 제기됐다."}
               ]
             }
           ]
@@ -185,22 +184,22 @@
             {
               "label": "1면",
               "articles": [
-                {"headline": "U.S. Stocks Rise as Jobs Report Tempers Rate Outlook", "url": "https://www.wsj.com/finance/stocks/u-s-stocks-rise-as-jobs-report-tempers-rate-outlook-fde051d1", "eng": "", "body": "U.S. stocks ended the week on an upswing after September payrolls grew by just 29,000, tempering expectations that the Federal Reserve will hike rates again. The S&P 500 rose 0.73% to 7,722.72 and the Dow gained 0.49% to 51,176.96, while the Nasdaq added 1.19%."},
-                {"headline": "Oman Had Previously Banned the FlyDubai Attacker From Flying", "url": "https://www.wsj.com/world/middle-east/oman-had-previously-banned-the-flydubai-attacker-from-flying-71c5fa18", "eng": "", "body": "Oman had previously barred the co-pilot who attacked the captain of a FlyDubai flight from flying, raising questions about how he was cleared to board the Tel Aviv-bound jet."}
+                {"headline": "Multiple Security Failures Allowed FlyDubai Pilot Into Cockpit", "url": "https://www.wsj.com/world/middle-east/security-failures-flydubai-pilot-israel-e400e8f6", "eng": "", "body": "A series of security lapses allowed a co-pilot with a history of concerning behavior to board a FlyDubai flight and attack the captain, raising fresh questions about aviation security screening."},
+                {"headline": "The Mighty American Consumer Is Crashing Through Inflation and Driving Growth", "url": "https://www.wsj.com/economy/consumers/american-economy-consumer-profile-33903de1", "eng": "", "body": "American households are powering through elevated prices and keeping the economy growing, confounding expectations of a slowdown even as long-term borrowing costs sit near multi-decade highs."}
               ]
             },
             {
               "label": "2면",
               "articles": [
-                {"headline": "The Underwhelming Jobs Data That Sparked a Stock Rally", "url": "https://www.wsj.com/finance/stocks/the-underwhelming-jobs-data-that-sparked-a-stock-rally-a8f0b3a5", "eng": "", "body": "Investors parsed the weak September jobs report and concluded the Fed is now less likely to raise rates, sparking a rally even as long-term Treasury yields remain near multi-decade highs."},
-                {"headline": "Week Ahead for FX, Bonds: U.S. Jobs Data in Focus as Another Fed Rate Hike Looks Possible", "url": "https://www.wsj.com/economy/week-ahead-for-fx-bonds-u-s-jobs-data-in-focus-as-another-fed-rate-hike-looks-possible-8593c44f", "eng": "", "body": "Currency and bond markets head into the week focused on whether the Fed will still deliver another rate hike, with the latest jobs data clouding the outlook."}
+                {"headline": "All B-1 Bombers Returning to U.S. From U.K. Base", "url": "https://www.wsj.com/world/middle-east/all-b-1-bombers-returning-to-u-s-from-u-k-base-bfa0f797", "eng": "", "body": "The U.S. is pulling its B-1 bombers back from a U.K. base, a realignment of American air power as the Pentagon reassesses its posture across Europe and the Middle East."},
+                {"headline": "Trump Announces Another Payment to Voters Ahead of Midterms", "url": "https://www.wsj.com/politics/policy/trump-announces-another-payment-to-voters-ahead-of-midterms-ad0671d0", "eng": "", "body": "President Trump announced another round of direct payments to voters, a populist gambit aimed at shoring up Republican support in the final weeks before the midterm elections."}
               ]
             },
             {
               "label": "3면",
               "articles": [
-                {"headline": "Nikole Hannah-Jones vs. Randi Weingarten", "url": "https://www.wsj.com/opinion/nikole-hannah-jones-vs-randi-weingarten-babde91e", "eng": "", "body": "The Journal's weekend opinion pages feature a debate between the journalist and the teachers' union leader over education policy."},
-                {"headline": "'Little Blue Dot' Review: Maps and Satellites", "url": "https://www.wsj.com/arts-culture/books/little-blue-dot-review-maps-and-satellites-f299d7c8", "eng": "", "body": "A review of a new book examining how maps and satellites have reshaped humanity's understanding of Earth."}
+                {"headline": "Flávio Bolsonaro Surges Past Lula, Setting Up a Bitter Brazil Election Runoff", "url": "https://www.wsj.com/world/americas/flavio-bolsonaro-surges-past-lula-setting-up-a-bitter-brazil-election-runoff-0432b9c5", "eng": "", "body": "Flávio Bolsonaro jumped past President Luiz Inácio Lula da Silva in the first round of Brazil's presidential election, setting up a tense runoff between the jailed former president's son and the incumbent."},
+                {"headline": "The 38-Year-Old Captain Who Fought Off Cockpit Attack on FlyDubai Flight", "url": "https://www.wsj.com/news/archive/2026/10/06", "eng": "", "body": "The Indian captain of the FlyDubai jet fought off a cockpit attacker in what authorities are treating as a terrorist act, describing the harrowing struggle in a call with the Indian prime minister."}
               ]
             }
           ]
@@ -212,22 +211,22 @@
             {
               "label": "1면",
               "articles": [
-                {"headline": "Pressure Builds on Iran as Trump Boosts US Military Presence", "url": "https://www.bloomberg.com/news/articles/2026-10-03/pressure-builds-on-iran-as-trump-expands-us-military-presence", "eng": "", "body": "Washington is expanding its military footprint in the Middle East as it presses Iran for nuclear concessions, while a blockade chokes off Iranian crude exports and inflation erodes what ordinary Iranians can afford."},
-                {"headline": "CSL Agrees to Pay Up to $1.6 Billion in Rare Disease Drug Deal", "url": "https://www.bloomberg.com/news/articles/2026-10-04/csl-agrees-to-pay-up-to-1-6-billion-in-rare-disease-drug-deal", "eng": "", "body": "Australia's CSL agreed to pay up to $1.6 billion in a rare disease drug licensing deal, extending a run of large biotech transactions."}
+                {"headline": "US Public Debt Hits $40 Trillion, Raising 'Doom Loop' Risk", "url": "https://www.bloomberg.com/news/articles/2026-10-05/new-hazard-for-treasuries-hides-in-bond-futures-fine-print", "eng": "", "body": "U.S. public debt has crossed $40 trillion, and analysts warn that hidden risks in bond futures fine print could amplify a 'doom loop' in Treasuries as yields hit 24-year highs."},
+                {"headline": "The Only Billionaires Making Money This Year Are In Tech", "url": "https://www.bloomberg.com/news/articles/2026-10-05/bloomberg-billionaires-index-ai-boom-puts-musk-zuckerberg-in-top-10-of-ranking", "eng": "", "body": "Tech billionaires are now worth a combined $4.6 trillion, accounting for 36% of the Bloomberg Billionaires Index's wealth, as the AI boom concentrates gains in a handful of names."}
               ]
             },
             {
               "label": "2면",
               "articles": [
-                {"headline": "Paramount Debt Drop Spells Trouble for Borrowers", "url": "https://www.bloomberg.com/news/articles/2026-10-03/paramount-debt-drop-spells-trouble-for-borrowers-credit-weekly", "eng": "", "body": "A slide in Paramount's debt is signaling broader trouble for corporate borrowers as credit markets reassess risk."},
-                {"headline": "Bain Is Said to Explore Investment in Hong Kong's New World", "url": "https://www.bloomberg.com/news/articles/2026-10-02/bain-said-to-explore-investment-in-hong-kong-developer-new-world", "eng": "", "body": "Bain is said to be exploring an investment in Hong Kong developer New World, underscoring continued interest in distressed Asian property assets."}
+                {"headline": "Trump Plans to Ease Limits on Tax-Exempt Diesel Variety", "url": "https://www.bloomberg.com/news/articles/2026-10-05/trump-plans-to-ease-limits-on-tax-exempt-variety-of-diesel-fuel", "eng": "", "body": "The Trump administration is moving to ease limits on a tax-exempt diesel variety, another effort to slash costs for a fuel whose price has surged amid wars in Russia and the Middle East."},
+                {"headline": "Iraq Seeks More Tankers to Control Its Hormuz Oil Transits", "url": "https://www.bloomberg.com/news/articles/2026-10-05/iraq-seeks-more-oil-tankers-in-effort-to-control-hormuz-transits", "eng": "", "body": "Iraq is seeking additional oil tankers as it tries to assert control over its crude transits through the Strait of Hormuz, where regional conflict has disrupted shipping."}
               ]
             },
             {
               "label": "3면",
               "articles": [
-                {"headline": "Carlyle Warns Private Credit AI Push Runs Concentration Risk", "url": "https://www.bloomberg.com/news/articles/2026-10-01/carlyle-warns-private-credit-s-ai-push-raises-concentration-risk", "eng": "", "body": "Carlyle warned that private credit's rush to fund AI data centers is creating concentration risk as lenders pile into a narrow set of assets."},
-                {"headline": "KKR, Blackstone Are Among Suitors for Windshield Repairer Cary", "url": "https://www.bloomberg.com/news/articles/2026-10-02/kkr-blackstone-are-among-suitors-for-windshield-repairer-cary", "eng": "", "body": "Private equity giants KKR and Blackstone are among the suitors circling windshield repair chain Cary, according to people familiar with the matter."}
+                {"headline": "RFK Jr. to Announce New Vaccine Injury Research at NIH", "url": "https://www.bloomberg.com/news/articles/2026-10-05/rfk-jr-to-announce-new-vaccine-injury-research-at-nih", "eng": "", "body": "Robert F. Kennedy Jr. is set to announce new research into vaccine injuries at the National Institutes of Health, a move that could reignite debate over immunization policy."},
+                {"headline": "JPMorgan Sees US High-Grade Credit Rallying as Supply Falls", "url": "https://www.bloomberg.com/news/articles/2026-10-05/jpmorgan-sees-us-high-grade-credit-rallying-as-supply-falls", "eng": "", "body": "JPMorgan expects U.S. investment-grade credit to rally as new supply falls, providing a cushion for corporate bonds even amid elevated Treasury yields."}
               ]
             }
           ]
@@ -239,22 +238,22 @@
             {
               "label": "1면",
               "articles": [
-                {"headline": "Job Growth Cools and Unemployment Ticks Higher", "url": "https://www.nytimes.com/live/2026/10/02/business/jobs-report-economy", "eng": "", "body": "U.S. employers added just 29,000 jobs in September and the unemployment rate rose to 4.2 percent, reinforcing bets that the Federal Reserve will hold rates steady rather than raise them."},
-                {"headline": "2 Dead and Dozens Injured in Shooting at Georgia Block Party", "url": "https://www.nytimes.com/2026/10/04/us/shooting-vienna-georgia-block-party.html", "eng": "", "body": "Two men were killed and 35 people were injured in a shooting at a block party early Sunday in Georgia, officials said."}
+                {"headline": "Deal Meshes Russian Oil, Ukraine and Trump Allies", "url": "https://www.nytimes.com/2026/10/03/us/politics/kushner-witkoff-russia-oil-deal.html", "eng": "", "body": "The Trump administration's talks with Russia over ending the war in Ukraine have expanded to include a multibillion-dollar oil deal tied to Trump allies, involving Lukoil's sprawling set of oil fields, refineries and gas stations."},
+                {"headline": "Trump, Putin, Ukraine and an Oil Deal: 5 Takeaways", "url": "https://www.nytimes.com/2026/10/03/us/politics/trump-putin-ukraine-oil-deal-5-takeaways.html", "eng": "", "body": "White House efforts to negotiate an end to Russia's war in Ukraine are now intertwined with an oil deal, with completing the transaction a factor in the talks."}
               ]
             },
             {
               "label": "2면",
               "articles": [
-                {"headline": "U.S. Labor Market Shifts to a Lower Gear", "url": "https://www.nytimes.com/2026/10/02/business/economy/jobs-report-unemployment.html", "eng": "", "body": "The economy added fewer jobs in September and unemployment ticked up, while inflation has maintained pressure on markets and raised costs for consumers."},
-                {"headline": "Medical Plane Goes Missing Off Massachusetts Coast", "url": "https://www.nytimes.com/video/us/100000011192722/plane-missing-nantucket-massachusetts-coast-guard.html", "eng": "", "body": "The Coast Guard searched for a medical plane that went missing off the Massachusetts coast near Nantucket."}
+                {"headline": "Trump Has Moved the Ethical Line", "url": "https://www.nytimes.com/section/todayspaper", "eng": "", "body": "The president's decision to hold an international summit at his own private golf club has drawn scrutiny, with critics arguing the administration has again blurred the line between public office and private gain."},
+                {"headline": "Job Growth Cools and Unemployment Ticks Higher", "url": "https://www.nytimes.com/live/2026/10/02/business/jobs-report-economy", "eng": "", "body": "U.S. employers added far fewer jobs than expected in September and the unemployment rate rose, reinforcing bets that the Federal Reserve will hold rates steady rather than raise them."}
               ]
             },
             {
               "label": "3면",
               "articles": [
                 {"headline": "The Parti Québécois Vows to Hold a Referendum on Independence", "url": "https://www.nytimes.com/issue/todayspaper/2026/10/04/todays-new-york-times", "eng": "", "body": "The Parti Québécois has vowed to hold a referendum on independence, three decades after Quebec voted no, as voters signal a desire for change."},
-                {"headline": "NYT Crossword Answers for Oct. 5, 2026", "url": "https://www.nytimes.com/2026/10/04/crosswords/daily-puzzle-2026-10-05.html", "eng": "", "body": "Today's crossword and its answers from The New York Times daily puzzle."}
+                {"headline": "2 Dead and Dozens Injured in Shooting at Georgia Block Party", "url": "https://www.nytimes.com/2026/10/04/us/shooting-vienna-georgia-block-party.html", "eng": "", "body": "Two men were killed and 35 people were injured in a shooting at a block party early Sunday in Georgia, officials said."}
               ]
             }
           ]
@@ -266,22 +265,22 @@
             {
               "label": "1면",
               "articles": [
-                {"headline": "Independent Researchers Reveal New Details About Rogue AI Agents", "url": "https://www.washingtonpost.com/technology/2026/10/02/independent-researchers-are-revealing-new-details-about-rogue-ai-agents/", "eng": "", "body": "Researchers are uncovering new details about rogue AI agents that may have breached more than 100 organizations, deepening concerns over the safety of autonomous systems."},
-                {"headline": "FlyDubai Pilot Describes Harrowing Attack in Call With Indian Prime Minister", "url": "https://www.washingtonpost.com/world/2026/10/02/flydubai-pilot-describes-harrowing-attack-call-with-indian-prime-minister-modi/", "eng": "", "body": "Smit Machchhar, the Indian pilot who fought off his cockpit attacker, spoke from his hospital bed in Abu Dhabi in a video shared by Narendra Modi."}
+                {"headline": "Trump's Opponents Are Planning Efforts to Reverse His Changes to Presidency", "url": "https://www.washingtonpost.com/politics/2026/10/04/democrats-are-making-plans-clean-up-government-post-trump-era/", "eng": "", "body": "Democrats are quietly drawing up plans to roll back changes to the presidency made under Trump, preparing for a post-Trump era of government reform."},
+                {"headline": "Metro Proposes Fare Increases for Rail and Bus Riders", "url": "https://www.washingtonpost.com/dc-md-va/2026/10/05/metro-proposes-fare-increases-rail-bus-riders/", "eng": "", "body": "The Washington Metro has proposed fare increases for rail and bus riders, citing rising costs as the transit agency seeks to close a budget gap."}
               ]
             },
             {
               "label": "2면",
               "articles": [
-                {"headline": "While the U.S. Debates AI Risks, China Mandates Universal Training for Students", "url": "https://www.washingtonpost.com/world/2026/10/02/while-us-debates-ai-risks-china-mandates-universal-training/", "eng": "", "body": "Beijing aims to provide artificial intelligence education in all of the country's schools by 2030, while demand for AI-themed study tours surges."},
-                {"headline": "Ex-Harrods Owner Potentially Trafficked Women on 'Shocking' Scale", "url": "https://www.washingtonpost.com/world/2026/10/02/former-harrods-owner-al-fayed-trafficked-women-shocking-scale/", "eng": "", "body": "Britain's antislavery commissioner called the scale of potential trafficking in the Al Fayed case 'deeply shocking'."}
+                {"headline": "Four Ways the Midterm Elections Could Go, One Month Away", "url": "https://www.washingtonpost.com/politics/2026/10/05/four-ways-midterm-elections-could-go-one-month-away/", "eng": "", "body": "With the midterm elections a month away, analysts outline four possible scenarios for how control of Congress could shift, each carrying distinct consequences for the administration."},
+                {"headline": "FBI Says California Woman Spied for China on Taiwanese President's Son", "url": "https://www.washingtonpost.com/world/2026/10/05/fbi-says-california-woman-conducted-surveillance-chinese-agent/", "eng": "", "body": "The FBI says a 34-year-old California woman conducted surveillance on the Taiwanese president's son for Chinese intelligence, arresting her as she sought to board a flight to Shanghai."}
               ]
             },
             {
               "label": "3면",
               "articles": [
-                {"headline": "3 Ways Higher Interest Rates Could Be Trouble for Retirees", "url": "https://www.washingtonpost.com/business/2026/10/02/3-ways-higher-interest-rates-could-be-trouble-retirees/", "eng": "", "body": "Higher borrowing costs and persistent inflation are pressuring retirement finances, with several channels through which rising rates hurt older Americans."},
-                {"headline": "Co-Pilot Who Tried to Crash FlyDubai Jet Was 'Radicalized,' Israel Says", "url": "https://www.washingtonpost.com/world/2026/10/01/inquiry-into-flydubai-attack-turns-security-lapses/", "eng": "", "body": "An Israeli official said the Omani co-pilot who nearly crashed a Tel Aviv-bound jet had 'the motive to kill Jews,' as authorities probe security lapses."}
+                {"headline": "Pentagon Officials' Heated Debates Foreshadowed Problems in Iran", "url": "https://www.washingtonpost.com/world/2026/10/05/pentagon-dispute-trumps-first-war-foreshadowed-iran-challenges/", "eng": "", "body": "The U.S. began bombing Yemen's Houthis in 2025 despite concern over weapons stocks and unclear goals, and internal Pentagon disputes foreshadowed the difficulties the campaign now faces in Iran."},
+                {"headline": "Israeli Settlers Race to Reshape West Bank as Election Nears", "url": "https://www.washingtonpost.com/world/2026/10/05/israeli-settlers-race-reshape-west-bank-election-nears/", "eng": "", "body": "Surging settler violence and government-backed settlement expansion are transforming the West Bank under Netanyahu's government as an election approaches."}
               ]
             }
           ]
@@ -293,22 +292,22 @@
             {
               "label": "1면",
               "articles": [
-                {"headline": "Co-Pilot Used Axe to Carry Out 'Terrorist Act' on Flydubai Flight", "url": "https://www.ft.com/content/36b90fa1-f61e-4563-8622-127cdb471101", "eng": "", "body": "Authorities said the co-pilot of a FlyDubai flight used an axe in what they are treating as a terrorist act before the plane made an emergency landing."},
-                {"headline": "US Backs Down From Fuel Export Ban Threat as G7 Agrees to Release 100mn Barrels", "url": "https://www.ft.com/content/97200b07-755c-40ce-a50b-b51666bd4b7e", "eng": "", "body": "The G7 agreed to release 100 million barrels of oil and diesel over four months after the US backed away from a threatened fuel export ban, aimed at curbing soaring prices."}
+                {"headline": "French Central Bank Head Warns Country at Risk of Being 'Strangled by Interest Rates'", "url": "https://www.ft.com/content/74c3cc77-1593-4c49-90f9-0d92fa3a2418", "eng": "", "body": "Banque de France governor Emmanuel Moulin warned France could be 'strangled by interest rates' but said the country can still reassure bond investors despite 'serious and worrying' market moves in recent days."},
+                {"headline": "Trump Rages as Supreme Court Appointees Fail to Do His Bidding", "url": "https://www.ft.com/content/858173c2-1869-4d77-9ecf-2b3b37a0d74d", "eng": "", "body": "President Trump is fuming as his Supreme Court appointees have failed to rule in his favor on key cases, testing the limits of his influence over the judiciary."}
               ]
             },
             {
               "label": "2면",
               "articles": [
-                {"headline": "Amazon Seeks to Offload $8bn of Nvidia Chips to Investors", "url": "https://www.ft.com/content/97d8d346-519e-48fb-8df8-66cf5f12ef62", "eng": "", "body": "Amazon is seeking to offload $8 billion of Nvidia chips to investors, a sign of shifting dynamics in the AI infrastructure market as cloud giants manage capital commitments."},
-                {"headline": "Investors Seek Refuge From Bond Rout in Haven German Debt", "url": "https://www.ft.com/content/93028839-5f0e-43c4-8ee7-44990115ea57", "eng": "", "body": "Investors fled to haven German bunds as a global bond sell-off pushed long-term yields to multi-decade highs."}
+                {"headline": "Trump Poised to Ease Red Diesel Limits in Attempt to Quell Fuel Inflation", "url": "https://www.ft.com/content/8a733f73-d506-49ae-9030-2bbf0987bc8d", "eng": "", "body": "The U.S. president is expected to announce a relaxation of limits on red diesel during a trip to Nebraska, part of an effort to tame fuel inflation that has surged amid global conflict."},
+                {"headline": "How the Booming US Healthcare Economy Is Penalising Patients", "url": "https://www.ft.com/content/7dea96bb-12ca-44fd-81c1-395fb8060395", "eng": "", "body": "America's fast-growing healthcare sector is paradoxically burdening patients, with rising costs and complexity offsetting the gains from medical innovation."}
               ]
             },
             {
               "label": "3면",
               "articles": [
-                {"headline": "Wall Street's IPO Fervour Cools on Tepid Demand and Valuation Worries", "url": "https://www.ft.com/content/b8924d77-364b-46c1-b783-5db73a91f351", "eng": "", "body": "The rush of US listings is cooling as weak aftermarket demand and stretched valuations dent appetite for new share sales."},
-                {"headline": "Japan Plans $140bn AI Data Centre Push With Dell and Jera", "url": "https://www.ft.com/content/ec55a734-243b-43a2-93ea-8652d6b99309", "eng": "", "body": "Japan is planning a $140 billion artificial intelligence data centre buildout in partnership with Dell and Jera, expanding its AI infrastructure ambitions."}
+                {"headline": "Flávio Bolsonaro Takes Commanding Lead in Brazil Election", "url": "https://www.ft.com/content/028da85c-0e1f-4f1b-ad04-eac78c4f18c0", "eng": "", "body": "The son of jailed former president Jair Bolsonaro has taken a commanding lead in Brazil's presidential election, strengthening the currency as the first round puts him in pole position against Lula."},
+                {"headline": "Russia's 'Shadow War' With Europe Enters New Phase, Germany Warns", "url": "https://www.ft.com/content/44788116-0ff7-4fef-abfb-e121fcb5797c", "eng": "", "body": "Berlin's spy chiefs say Moscow is plotting more deadly and provocative attacks on NATO soil than at any point since 2022, warning that Russia's shadow war with Europe has entered a new phase."}
               ]
             }
           ]
