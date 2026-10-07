@@ -1,7 +1,7 @@
 {
-  "date": "2026-10-07",
-  "dateLabel": "2026년 10월 7일(수요일)",
-  "generatedAt": "2026-10-07T07:22:45+09:00",
+  "date": "2026-10-08",
+  "dateLabel": "2026년 10월 8일(목요일)",
+  "generatedAt": "2026-10-08T07:23:39+09:00",
   "ticker": [
     {
       "name": "KOSPI",
@@ -11,27 +11,27 @@
     },
     {
       "name": "KOSDAQ",
-      "value": "919.92",
-      "change": "▲2.98%",
-      "dir": "up"
+      "value": "898.43",
+      "change": "▼2.34%",
+      "dir": "dn"
     },
     {
       "name": "S&P 500",
-      "value": "7,818.93",
-      "change": "▲0.58%",
-      "dir": "up"
+      "value": "7,801.77",
+      "change": "▼0.22%",
+      "dir": "dn"
     },
     {
       "name": "NASDAQ",
-      "value": "27,599.79",
-      "change": "▲0.45%",
-      "dir": "up"
+      "value": "27,538.69",
+      "change": "▼0.22%",
+      "dir": "dn"
     },
     {
       "name": "다우",
-      "value": "51,521.28",
-      "change": "▲0.49%",
-      "dir": "up"
+      "value": "51,233.81",
+      "change": "▼0.56%",
+      "dir": "dn"
     },
     {
       "name": "USD/KRW",
@@ -41,44 +41,44 @@
     },
     {
       "name": "비트코인",
-      "value": "$85,612",
-      "change": "▼0.01%",
-      "dir": "dn"
+      "value": "$83,522",
+      "change": "▲0.16%",
+      "dir": "up"
     },
     {
       "name": "WTI",
-      "value": "$89.76",
-      "change": "▲0.37%",
-      "dir": "up"
+      "value": "$89.20",
+      "change": "▼0.27%",
+      "dir": "dn"
     }
   ],
   "keywords": [
     {
-      "label": "① 노벨 물리학상 '중성미자'",
-      "desc": "남극 얼음 속 고에너지 중성미자(유령입자) 관측 美 할젠, 34년 만의 단독 수상. 광유전학 이은 기초과학의 시간, 10/8 화학상 발표"
+      "label": "① 노벨 화학상 '거울상 분자'",
+      "desc": "앙리 카강·소아이 겐소 공동 수상. 비대칭 합성의 비선형·자기촉매 현상으로 생명체 '카이랄성' 100년 수수께끼 해결. 오늘(10/8) 문학상 발표"
     },
     {
-      "label": "② 코스피 7천선 재이탈",
-      "desc": "외인 1조7,720억 순매도에 6,941.39(-0.89%). 반면 코스닥 919.92(+2.98%)로 3개월 만에 900선 회복, 시장 온도차 극명"
+      "label": "② 코스피 7천선 이탈 2일차",
+      "desc": "6,941.39(-0.89%) 마감, 외인 매도 지속·단기 회복 동력 약함. 10/14 CPI가 분수령"
     },
     {
-      "label": "③ 美 증시 사상 최고",
-      "desc": "S&P 500 7,818.93·나스닥 27,599.79 최고치. 10년물 5.28%에도 AI 랠리 지속, 10/14 CPI 분수령"
+      "label": "③ 美 증시 약보합",
+      "desc": "S&P 500 7,801.77(-0.22%)·다우 51,233.81(-0.56%). 전일 신기록 뒤 하루 만에 소폭 조정"
     },
     {
-      "label": "④ 누리호 5차 발사 D-1",
-      "desc": "역대 최다 15기 위성 싣고 7일 오후 우주로. 재난·안보 활용 위성군 시대 개막"
+      "label": "④ 누리호 5차 발사 성공",
+      "desc": "위성 15기 '미션 컴플리트', 군집위성 5기 초기 교신 성공. 민간기업 300여개 참여 확대"
     },
     {
-      "label": "⑤ 금융권 AI해킹 후폭풍",
-      "desc": "국내 은행 보안 인력 1% 미만·3대 신평사 점검. FT도 '韓 대통령, 은행 사이버공격 AI 활용 경고' 보도"
+      "label": "⑤ 이란·호르무즈 긴장",
+      "desc": "유조선 해운비 사상 최고(미국→아시아 7,700만달러). 유가·금리 불확실성 지속"
     }
   ],
   "morning": {
-    "date": "2026-10-07",
-    "headline": "2026 노벨 물리학상 '중성미자(유령입자)' 美 할젠 단독 수상…코스피 7천선 재이탈·코스닥 3개월만에 900선 회복",
-    "weather": "☀️ 맑음 | 15°C (체감 15°C) | 💧 59% | 🍃 바람 4km/h",
-    "schedule": "🗓️ 오늘의 일정: 수요MBA(제니엘) — 매주 수요일 자기주도 학습 세션",
+    "date": "2026-10-08",
+    "headline": "2026 노벨 화학상 '거울상 분자' 앙리 카강·소아이 겐소 공동 수상…코스피 7천선 이탈 2일차·美 증시 약보합",
+    "weather": "🌫️ 스모그 연무 | 16°C (체감 14°C) | 💧 55% | 🍃 바람 4km/h",
+    "schedule": "🗓️ 오늘의 일정: Z-P1(AX TF 요구정의서 공유·데이터 연동 착수) + Z-P6(회장님보고 뺏지 수여식 준비) + 『불변의 법칙』 완독",
     "domestic": {
       "kospi": {
         "value": "6,941.39",
@@ -87,59 +87,60 @@
         "rate": "-0.89%"
       },
       "kosdaq": {
-        "value": "919.92",
-        "change": "+26.63",
-        "changeRate": "+2.98%",
-        "rate": "+2.98%"
+        "value": "898.43",
+        "change": "-21.49",
+        "changeRate": "-2.34%",
+        "rate": "-2.34%"
       },
       "supply": {
-        "foreign": "외국인 순매도 (-1조7,720억)",
-        "individual": "개인 순매수 (+7,646억)",
-        "institution": "기관 순매도 (-17억)",
+        "foreign": "외국인 순매도 지속",
+        "individual": "개인 순매수",
+        "institution": "기관 순매도",
         "usdkrw": "1,338원",
         "change": "+0.02%"
       },
-      "comment": "코스피가 개천절 연휴 뒤 7,044.67로 상승 출발했지만 외국인 매도에 밀려 6,941.39(-0.89%)로 마감하며 7,000선을 사흘 만에 내줬다. 외국인(-1조7,720억)·기관(-17억)이 팔고 개인(+7,646억)·기타법인(+1조124억)이 샀다. SK하이닉스(-3.69%)·삼성전자(-1.45%) 등 반도체가 약세를 보인 반면, 코스닥은 919.92(+2.98%)로 약 3개월 만에 900선을 회복하며 소부장·바이오·배터리·보안주가 강세였다."
+      "comment": "코스피가 7일 7,044.67로 출발해 장중 6,897.38까지 밀린 뒤 6,941.39(-0.89%)로 마감하며 7,000선 이탈이 이틀째 이어졌다. 외국인 매도가 지수를 끌어내렸고, 단기 7천선 회복 동력이 약한 상황이다. 코스닥은 898.43(-2.34%)로 낙폭이 더 컸다."
     },
     "overseas": {
       "dow": {
-        "value": "51,521.28",
-        "change": "▲ +253.38",
-        "changeRate": "+0.49%"
+        "value": "51,233.81",
+        "change": "▼ -287.47",
+        "changeRate": "-0.56%"
       },
       "sp500": {
-        "value": "7,818.93",
-        "change": "▲ +44.98",
-        "changeRate": "+0.58%"
+        "value": "7,801.77",
+        "change": "▼ -17.16",
+        "changeRate": "-0.22%"
       },
       "nasdaq": {
-        "value": "27,599.79",
-        "change": "▲ +122.48",
-        "changeRate": "+0.45%"
+        "value": "27,538.69",
+        "change": "▼ -61.10",
+        "changeRate": "-0.22%"
       },
       "oil": {
-        "wti": "$89.76",
-        "brent": "$100.32",
-        "note": "브렌트 $100.32 — 호르무즈 통과 선박 선장 월 10만달러, 중동 지정학 리스크 지속"
+        "wti": "$89.20",
+        "brent": "$100.58",
+        "note": "브렌트 $100.58(+0.26%) — 호르무즈 통과 유조선 해운비 사상 최고, 중동 지정학 리스크 지속"
       },
-      "keyStocks": "미국 증시는 S&P 500 7,818.93(+0.58%)·나스닥 27,599.79(+0.45%)가 사상 최고를 경신하며 상승했다. 10년물 국채금리가 5.28%로 고공행진하는 와중에도 AI 랠리가 금리 부담을 상쇄했지만, 랠리가 소수 기술주에 편중됐다는 경계도 나온다. 다음 분수령은 10/14 CPI·10/15 PPI·소매판매다."
+      "keyStocks": "미국 증시는 S&P 500 7,801.77(-0.22%)·나스닥 27,538.69(-0.22%)·다우 51,233.81(-0.56%)로 일제히 약보합 마감했다. 전일 S&P 500이 2개월 만의 신기록(7,818.93)을 세운 뒤 하루 만에 소폭 조정됐다. 금리·유가 불확실성이 반영된 흐름이며, 다음 분수령은 10/14 CPI·10/15 PPI·소매판매다."
     },
-    "topNews": "2026 노벨 물리학상 '중성미자(유령입자)' 美 할젠 단독 수상…코스피 7천선 재이탈·코스닥 3개월만에 900선 회복",
+    "topNews": "2026 노벨 화학상 '거울상 분자' 앙리 카강·소아이 겐소 공동 수상…코스피 7천선 이탈 2일차·美 증시 약보합",
     "otherNews": [
-      "노벨 물리학상 — 남극 얼음 속 고에너지 중성미자(유령입자) 관측 美 할젠 단독 수상 (34년 만)",
-      "누리호 5차 발사 — 역대 최다 15기 위성 싣고 7일 오후 우주로",
-      "AI페스타26 개막(10/6) — 6만명 몰린 AI 축제, 국내 AI 생태계 주목",
-      "금융권 AI해킹 후폭풍 — 국내 은행 보안 인력 1% 미만, 3대 신평사 집중 점검",
-      "프랑스 재정위기 부각 — '마법의 돈' 시대 끝…국채 금리 급등, 정치 불안",
-      "Google, Constellation Energy와 사상 최대 원전 '업레이트' 계약",
-      "美 S&P 500·나스닥 사상 최고 — 10년물 국채 5.28%에도 AI 랠리 지속",
-      "이헬스위드 — 네이버클라우드 전자세금계산서 발행(10/6)"
+      "노벨 화학상 — '거울상 분자'(카이랄리티) 비대칭 합성의 비선형·자기촉매 발견, 카강·소아이 공동 수상",
+      "노벨 문학상 — 오늘(10/8) 한국시간 20:00 발표 예정",
+      "누리호 5차 발사 성공 — 위성 15기 '미션 컴플리트', 군집위성 5기 초기 교신 성공",
+      "이 대통령 — 적자기업 '先보조금' 검토 지시(배터리·태양광 등 전략산업)",
+      "'무상 여론조사' 윤석열·명태균 — 2심 무죄로 뒤집혀",
+      "'선박왕' 권혁 — 15년 밀린 체납세금 3,938억 완납 수순",
+      "러시아 페스트 연구소 사망 — '제2의 코로나' 무기연구설에 세계 긴장",
+      "Fed 의사록 — 9월 금리인상 '매파적 일치'(19명 전원 찬성)",
+      "LG-애플 '스마트홈 동맹' — 초인종·도어록 공동개발"
     ],
     "email": {
       "google": "",
-      "note": "오늘 경제일정: 수요MBA(제니엘). 다음 마감 10/8 美 30년물 국채·주간 실업수당 청구, 10/14 美 CPI, 10/15 PPI·소매판매"
+      "note": "업비트 레이븐코인(RVN) 10/12 거래지원 종료 · AIA생명 계약 안내 · KB증권 장기미사용 차단 예정 · LinkedIn 프로필 조회 17명+새 1촌 1건. 경제일정: 오늘 美 30년물 국채·주간 실업수당, 10/14 CPI, 10/15 PPI·소매판매"
     },
-    "insight": "💡 「유령입자와 7천선, 그리고 수요MBA의 날」\n\n① 노벨 물리학상 '중성미자': 남극 얼음 속에서 우주 기원을 담은 고에너지 중성미자(유령입자)를 검출한 연구가 34년 만의 단독 수상의 영예를 안았습니다. 광유전학(생리의학상)에 이은 기초과학의 시간. 내일(10/8) 화학상 발표가 이어집니다. 제니엘 AX·AI 투자 관점에서도 '불가능으로 취급되던 기초연구의 가치'를 재확인하는 사례입니다.\n\n② 코스피 7천선 재이탈: 외국인이 1조7,720억원을 순매도하며 지수가 6,941.39(-0.89%)로 밀렸습니다. 반면 코스닥은 3개월 만에 900선을 회복(+2.98%)하며 소부장·바이오·보안주가 강세였습니다. 시장 온도차가 극명한 만큼, 개별 종목·섹터 선별이 중요한 국면입니다.\n\n③ 미국 증시: S&P 500·나스닥이 사상 최고를 경신했습니다. 10년물 5.28% 고금리에도 AI 랠리가 버티고 있지만, 랠리가 소수 기술주에 편중됐다는 경계 신호가 나옵니다. 10/14 CPI가 다음 분수령입니다.\n\n④ 오늘의 실천: 수요MBA의 날입니다. 강사로 나서는 팀이 있다면 사전 자료·발표 점검을 챙기세요. 업무일지 프로토타입 검토(Z-P2)와 사업계획 예산 설정(Z-P7)을 오전에 집중하고, 법무사 연락(E-P2)·창업센터 지원(E-P3)·『불변의 법칙』 사유 정리(L-P3)는 오후로 배분하면 좋겠습니다."
+    "insight": "💡 「거울상 분자와 7천선 이탈, 그리고 밀린 일 7건」\n\n① 노벨 화학상 '카이랄리티(거울상 분자)': 생명체가 왜 특정 '손잡이' 분자만 선택하는지 100년 묵은 수수께끼를 푼 앙리 카강·소아이 겐소가 공동 수상했습니다. 생리의학(광유전학)→물리(중성미자)→화학(거울상 분자)으로 이어지는 기초과학의 시간. 오늘 저녁 문학상 발표가 이어집니다.\n\n② 코스피 7천선 이탈 2일차: 6,941.39(-0.89%)로 마감하며 외국인 매도가 지속되고 있습니다. 미국 증시도 S&P 500 신기록 뒤 하루 만에 약보합으로 돌아섰습니다. 10/14 CPI가 다음 분수령입니다.\n\n③ 밀린 일 7건 재정비: 어제(10/7) 밀린 작업이 7건입니다. Z-P2(업무일지 프로토타입)→Z-P7(예산 설정)→Z-P8(고용노동부 확인)→E-P2(법무사) 순으로 오전에 2~3건 처리하고, 오후에 AX TF 요구정의서 공유(Z-P1)와 회장님보고 뺏지 수여식 준비(Z-P6)에 집중하는 흐름이 효율적입니다.\n\n④ 오늘의 실천: 『불변의 법칙』 완독 및 사유 정리(L-P3)까지 오늘의 포커스입니다. 아침 명상 뒤 오전 업무 집중, 저녁엔 독서 사유로 마무리하세요."
   },
   "sections": {
     "kor": {
@@ -153,16 +154,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "삼성전자 '꿈의 영업이익' 눈앞…100조 훌쩍 넘나",
-                  "url": "https://www.mk.co.kr/news/stock/12169500",
-                  "eng": "Samsung's 'dream operating profit' looms; may top 100tn won",
-                  "body": "삼성전자가 8일 3분기 잠정실적 발표를 앞두고 사상 첫 '분기 영업이익 100조원' 시대를 열 것으로 관측된다. 다만 원화 강세와 스마트폰·가전(DX) 원가 부담으로 증권가 눈높이는 두 달 연속 하향 조정됐다."
+                  "headline": "노벨화학상에 앙리 카강·소아이 겐소",
+                  "url": "https://www.mk.co.kr/news/society/12170804",
+                  "eng": "Kagan and Soai win Nobel chemistry prize",
+                  "body": "2026년 노벨 화학상은 '거울상 분자'(카이랄리티)의 비대칭 유기합성에서 비선형 효과와 자기촉매 현상을 발견한 프랑스 앙리 카강과 일본 소아이 겐소에게 돌아갔다. 생명체가 특정 손잡이 분자만 선택하는 이유를 규명해 의약품 개발에 핵심적으로 공헌했다."
                 },
                 {
-                  "headline": "우주 기원 담은 중성미자 첫 관측 …34년 만에 단독 노벨물리학상",
-                  "url": "https://www.mk.co.kr/news/it/12169713",
-                  "eng": "Neutrino observation wins solo Nobel physics prize",
-                  "body": "남극 얼음 속에서 우주 기원을 담은 고에너지 중성미자(유령입자)를 검출한 연구가 34년 만의 단독 노벨 물리학상 수상의 영예를 안았다."
+                  "headline": "엔진시험부터 성공까지 … 긴박했던 누리호 5차 발사",
+                  "url": "https://www.mk.co.kr/news/it/12170485",
+                  "eng": "Nuri's tense path from engine test to success",
+                  "body": "누리호 5차 발사의 의미는 단순히 '또 한 번 날았다'가 아니다. 2018년 시험발사체의 엔진 검증부터 2021년 첫 완전체 비행의 실패 극복, 2022년 첫 완전 성공에 이르기까지 긴박했던 여정이 담겨 있다."
                 }
               ]
             },
@@ -170,16 +171,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "'빚더미 유럽' 분노 폭발 …재정 포퓰리즘 후폭풍",
-                  "url": "https://www.mk.co.kr/news/world/12169592",
-                  "eng": "Europe's debt pile fuels populist backlash",
-                  "body": "프랑스 등 유럽의 재정 적자가 누적되며 국채 금리가 급등하고, 투자자들이 '마법의 돈' 시대의 끝을 우려하고 있다. 재정 포퓰리즘의 후폭풍이 정치 불안으로 번지는 모양새다."
+                  "headline": "靑, '러시아에 석유 공급說' 우크라 주장에 \"사실과 다르다\"",
+                  "url": "https://www.mk.co.kr/news/politics/12170899",
+                  "eng": "Seoul denies Ukraine's oil-supply claim",
+                  "body": "청와대가 한국이 러시아에 석유를 공급했다는 우크라이나 측 주장에 대해 '사실과 다르다'며 반박했다."
                 },
                 {
-                  "headline": "美텍사스발전소 상업성 충족…알래스카LNG 투자 확정 아냐",
-                  "url": "https://www.mk.co.kr/news/economy/12169599",
-                  "eng": "Korea: Texas plant viable, Alaska LNG not confirmed",
-                  "body": "한국 정부가 미국 텍사스 가스발전소는 상업성을 충족했다고 평가한 반면, 알래스카 LNG 투자는 아직 확정된 것이 아니라고 선을 그었다."
+                  "headline": "이자 체납왕 '선박왕' 권혁 …밀린 세금 4000억, 결국 낸다",
+                  "url": "https://www.mk.co.kr/news/economy/12170798",
+                  "eng": "Shipping tycoon to pay 400bn won in back taxes",
+                  "body": "개인 체납액 1위인 '선박왕' 권혁 회장이 15년간 밀린 세금 약 4,000억원을 납부하기로 하면서 국세청 고액체납 정리가 속도를 낸다."
                 }
               ]
             },
@@ -187,16 +188,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "위성 15기 품고 우주로 …촘촘히 촬영해 재난막고 안보에 활용",
-                  "url": "https://www.mk.co.kr/news/business/12169511",
-                  "eng": "Nuri to carry 15 satellites for disaster, security",
-                  "body": "누리호가 역대 최다 15기 위성을 싣고 7일 발사를 앞두고 있다. 위성군은 지구를 촘촘히 촬영해 재난 대응과 안보에 활용될 예정이다."
+                  "headline": "내 아이 예산 깎고 외국인 아이는 141억? … 경기도 예산표 뜯어봤더니",
+                  "url": "https://www.mk.co.kr/news/society/12170356",
+                  "eng": "Gyeonggi budget favors foreign children: report",
+                  "body": "경기도 예산표를 분석한 결과 국내 아동 관련 예산은 줄어든 반면 외국인 아동 지원에는 141억원이 배정된 것으로 나타나 형평성 논란이 일고 있다."
                 },
                 {
-                  "headline": "군면제 말고도 '로또청약 혜택'까지?… 형평성 논란 일파만파",
-                  "url": "https://www.mk.co.kr/news/realestate/12169838",
-                  "eng": "Military-exemption lottery benefits stir fairness debate",
-                  "body": "병역특례를 둘러싼 '로또청약' 혜택 논란이 확산하며 형평성 시비가 커지고 있다. 국방부는 병역특례 제도 개선 검토에 착수했다."
+                  "headline": "\"제2의 코로나, 푸틴이 시작하나\"…흑사병 무기연구설에 전세계 긴장",
+                  "url": "https://www.mk.co.kr/news/world/12170951",
+                  "eng": "Plague lab death stokes bioweapon fears",
+                  "body": "러시아 시베리아 페스트 연구소에서 연구원이 사망한 것을 두고 흑사병 무기연구설이 퍼지며 전 세계가 긴장하고 있다. 미국은 신속·투명한 정보 공개를 요구했다."
                 }
               ]
             }
@@ -210,16 +211,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "초유의 '대법원장 국감'···조희대, '제2의 윤석열이냐' 질문에 \"모욕적이고 슬프다\"",
-                  "url": "https://www.khan.co.kr/article/202610061227001",
-                  "eng": "Chief Justice Jo testifies in historic hearing",
-                  "body": "조희대 대법원장이 6일 국회 법사위 국정감사에 출석해 증인선서를 거부하고, '제2의 윤석열'이냐는 질문에 '모욕적이고 슬프다'고 답했다. 대법원장이 국감에서 질의에 직접 답한 것은 1987년 재개 이후 처음이다."
+                  "headline": "[속보]올해 노벨화학상에 앙리 카강·소아이 겐소 교수···일본, 2년 연속 수상자 배출",
+                  "url": "https://www.khan.co.kr/article/202610071859001",
+                  "eng": "Kagan, Soai win Nobel chemistry; Japan 2nd straight",
+                  "body": "올해 노벨 화학상이 프랑스 앙리 카강 교수와 일본 소아이 겐소 교수에게 돌아갔다. 일본은 2년 연속 노벨상 수상자를 배출했다."
                 },
                 {
-                  "headline": "이 대통령 \"미디어 전환기 혼란···경향신문의 진실·정확성·독립성 원칙 빛 발할 것\" 축사",
-                  "url": "https://www.khan.co.kr/article/202610062222005",
-                  "eng": "President Lee hails Kyunghyang's 80th",
-                  "body": "이재명 대통령이 경향신문 창간 80주년 비전 선포식에 축사를 보내 미디어 전환기의 혼란 속에서도 진실·정확성·독립성 원칙이 빛을 발할 것이라고 밝혔다."
+                  "headline": "소아이 겐소 교수 노벨화학상 수상에 일본이 '들썩'···일본, 3년 연속 노벨상 쾌거",
+                  "url": "https://www.khan.co.kr/article/202610072215001",
+                  "eng": "Japan celebrates 3rd straight Nobel win",
+                  "body": "소아이 겐소 교수의 노벨 화학상 수상으로 일본이 3년 연속 노벨상 수상자를 배출하는 쾌거를 이뤘다."
                 }
               ]
             },
@@ -227,16 +228,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "누리호의 5번째 우주 여정 준비 끝···역대 최다 15기 위성 싣고 7일 '우주로'",
-                  "url": "https://www.khan.co.kr/article/202610061630001",
-                  "eng": "Nuri's 5th launch ready with 15 satellites",
-                  "body": "한국형 발사체 누리호가 6일 나로우주센터 발사대에 수직으로 세워졌다. 통산 5번째 발사인 이번 누리호는 역대 최다 15기 위성을 싣고 7일 오후 우주로 향한다."
+                  "headline": "'우주 CCTV'부터 일기예보 정확도 높이는 큐브 위성까지···누리호 타고 두둥실",
+                  "url": "https://www.khan.co.kr/article/202610071522021",
+                  "eng": "Nuri carries 15 satellites, most ever",
+                  "body": "7일 발사에 성공한 5번째 누리호에는 '우주 CCTV'부터 기상 관측 큐브위성까지 역대 최다 15기 위성이 탑재됐다. 주탑재위성은 KAIST가 개발한 초소형 군집위성 네온샛이다."
                 },
                 {
-                  "headline": "이 대통령 \"농지 전용해 태양광사업하면 몇배 소득, 지금이 기회…정부가 시스템 만들어야\"",
-                  "url": "https://www.khan.co.kr/article/202610061639001",
-                  "eng": "President Lee pushes solar on farmland",
-                  "body": "이재명 대통령이 국무회의에서 묵히는 농지를 태양광 발전에 활용하는 방안을 검토하라고 지시하며 '지금이 기회'라고 강조했다."
+                  "headline": "누리호 발사 숨죽여 지켜본 이 대통령 \"발사주기 더욱 당겨야\"",
+                  "url": "https://www.khan.co.kr/article/202610071755001",
+                  "eng": "President Lee calls for faster launch cadence",
+                  "body": "이재명 대통령이 7일 청와대에서 누리호 5차 발사 장면을 실시간으로 지켜본 뒤 '발사 주기를 더욱 당겨 위성체 기술 발전에 박차를 가해달라'고 당부했다."
                 }
               ]
             },
@@ -244,16 +245,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "인권위, 환자 4명 숨진 정신병원 직권조사···병원장 고발·영업정지 첫 권고",
-                  "url": "https://www.khan.co.kr/article/202610061200001",
-                  "eng": "Rights body probes deadly psychiatric hospital",
-                  "body": "국가인권위원회가 입원환자 4명이 숨진 인천 정신병원을 감금·무면허 의료행위 혐의로 고발하고 영업정지를 권고했다. 인권위가 정신병원에 이런 조치를 한 것은 처음이다."
+                  "headline": "개인 체납 1위 '선박왕' 권혁, 15년 밀린 세금 3938억원 완납하기로",
+                  "url": "https://www.khan.co.kr/article/202610071200001",
+                  "eng": "Tax deadbeat tycoon to pay 393.8bn won",
+                  "body": "국세청이 '선박왕' 권혁 회장으로부터 체납세금 1,000억원을 우선 징수했다. 납부계획이 이행되면 15년 만에 체납액 3,938억원이 모두 정리된다."
                 },
                 {
-                  "headline": "조현 \"우크라 사과 메시지 받았지만···수위 미달\" 주우크라 대사 소환 검토",
-                  "url": "https://www.khan.co.kr/article/202610062123005",
-                  "eng": "Korea mulls recalling envoy over Ukraine row",
-                  "body": "조현 외교부 장관이 북한군 포로 비공개 송환을 둘러싼 갈등에서 우크라이나로부터 사과 메시지를 받았지만 수위가 미달이라며 주우크라이나 대사 소환을 검토 중이라고 밝혔다."
+                  "headline": "'무상 여론조사' 윤석열·명태균, 2심 무죄로 뒤집혀",
+                  "url": "https://www.khan.co.kr/article/202610071615001",
+                  "eng": "Ex-president Yoon, Myung acquitted on appeal",
+                  "body": "정치브로커 명태균씨로부터 대선 여론조사를 무상 제공받은 혐의로 기소된 윤석열 전 대통령이 2심에서 무죄를 선고받았다. 법원은 여론조사 제공을 정치 기부행위로 보기 어렵다고 판단했다."
                 }
               ]
             }
@@ -267,16 +268,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "선서 거부한 조희대, 원고 꺼내 6분 작심발언…'위헌' 6차례 언급",
-                  "url": "https://www.donga.com/news/Politics/article/all/20261006/134793946/1",
-                  "eng": "Chief Justice Jo refuses oath, makes 6-minute statement",
-                  "body": "조희대 대법원장이 국감에서 증인선서를 거부한 채 준비해 온 원고를 꺼내 6분여간 작심 발언을 이어갔다. 그는 대법관 제청 과정의 국회·대통령 간섭을 두고 '위헌'을 6차례 언급했다."
+                  "headline": "누리호 임무 완벽 성공…지구 궤도에 위성 15기 배달했다",
+                  "url": "https://www.donga.com/news/It/article/all/20261007/134800624/1",
+                  "eng": "Nuri delivers 15 satellites to orbit",
+                  "body": "한국형 발사체 누리호 5차 발사가 완벽히 성공해 위성 15기 분리에 모두 성공했다. 초소형 군집위성 등의 임무 능력 시험이 이어질 예정이다."
                 },
                 {
-                  "headline": "노벨물리학상에 美 할전…남극서 우주 비밀 풀 '중성미자' 포착",
-                  "url": "https://www.donga.com/news/Inter/article/all/20261006/134796526/1",
-                  "eng": "US scientist wins Nobel for neutrino capture",
-                  "body": "올해 노벨 물리학상은 남극 얼음 속에서 우주 기원의 고에너지 중성미자를 포착한 미국 연구자에게 돌아갔다. '유령입자'로 불리는 중성미자 관측이 우주의 비밀을 푸는 단초가 될 것으로 기대된다."
+                  "headline": "일본, 노벨화학상 2년 연속 탔다…32번째 수상",
+                  "url": "https://www.donga.com/news/Issue/8811",
+                  "eng": "Japan wins Nobel chemistry 2 years running",
+                  "body": "2026년 노벨 화학상 수상자로 프랑스 앙리 카강(96)과 일본 소아이 겐소(76)가 선정됐다. 일본으로서는 2년 연속, 통산 32번째 노벨상 수상이다."
                 }
               ]
             },
@@ -284,10 +285,10 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "'페스트균 시험관 깨졌다' 러 연구원 폐렴 사망…'21세기 흑사병' 공포",
-                  "url": "https://www.donga.com/news/Inter/article/all/20261006/134792456/1",
-                  "eng": "Russian plague-lab death sparks fears",
-                  "body": "러시아 시베리아 페스트 연구소에서 여성 연구원이 원인 불명의 폐렴으로 숨져 페스트균 감염 가능성이 제기됐다. 미국은 신속하고 투명한 정보 공개를 요구하고 나섰다."
+                  "headline": "누리호 5차 발사 성공…300여개 민간기업이 쏘아올렸다",
+                  "url": "https://www.donga.com/news/It/article/all/20261007/134802875/1",
+                  "eng": "300 private firms involved in Nuri launch",
+                  "body": "7일 성공한 누리호 5차 발사에는 지난해 11월 4차 발사 때보다 민간기업 참여가 늘어 총 300여개 민간기업이 참여한 것으로 나타났다."
                 },
                 {
                   "headline": "경찰, 금융권 동시다발 해킹 수사에 28명 투입 전담팀 꾸려",
@@ -301,16 +302,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "中, 美거주 대만총통 아들에 '여성 감시자' 붙였다",
-                  "url": "https://www.donga.com/news/Inter/article/all/20261006/134792256/1",
-                  "eng": "China monitored Taiwan leader's son in US",
-                  "body": "중국이 미국에 거주하는 대만 총통의 아들을 감시하기 위해 캘리포니아 여성을 시켰다는 FBI 발표가 나왔다. FBI는 상하이행 비행기에 오르려던 여성을 체포했다."
-                },
-                {
                   "headline": "삼전하닉 핵심 27명 中 CXMT로…이직후 3년도 안돼 퇴출",
                   "url": "https://www.donga.com/news/Economy/article/all/20261006/134791630/1",
                   "eng": "27 Samsung-Hynix engineers left for China's CXMT",
                   "body": "삼성전자·SK하이닉스 핵심 인력 27명이 중국 CXMT로 이직한 것으로 확인됐다. 이들은 이직 후 3년도 안 돼 퇴출되는 등 중국의 반도체 인력 빼가기 실태가 드러났다."
+                },
+                {
+                  "headline": "노벨물리학상에 美 할전…남극서 우주 비밀 풀 '중성미자' 포착",
+                  "url": "https://www.donga.com/news/Inter/article/all/20261006/134796526/1",
+                  "eng": "US scientist wins Nobel for neutrino capture",
+                  "body": "올해 노벨 물리학상은 남극 얼음 속에서 우주 기원의 고에너지 중성미자를 포착한 미국 연구자에게 돌아갔다. '유령입자' 관측이 우주의 비밀을 푸는 단초가 될 것으로 기대된다."
                 }
               ]
             }
@@ -324,16 +325,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "보안 인력 1%도 안 됐다…해킹 사태가 드러낸 은행 현실",
-                  "url": "https://www.hankyung.com/article/2026100662861",
-                  "eng": "Banks' security staff under 1% of workforce",
-                  "body": "국내 은행의 보안 인력이 전체 직원의 1%도 안 되는 것으로 나타나 금융권 AI 해킹 사태 이후 보안 투자 부족이 도마에 올랐다. 3대 신평사가 보안 체계 집중 점검에 나섰다."
+                  "headline": "李대통령 \"적자기업에 先보조금 검토하라\"",
+                  "url": "https://www.hankyung.com/article/2026100791851",
+                  "eng": "President Lee eyes subsidies for loss-making firms",
+                  "body": "이재명 대통령이 배터리·태양광 등 전략산업의 적자기업에 대해 보조금을 선지급하는 방안을 검토하라고 지시했다."
                 },
                 {
-                  "headline": "정부 '용적률 완화' 서울시 '그린벨트 해제'…공급 속도전",
-                  "url": "https://www.hankyung.com/article/2026100663691",
-                  "eng": "Gov't, Seoul race to boost housing supply",
-                  "body": "정부가 용적률 완화를, 서울시가 그린벨트 해제를 각각 추진하며 주택 공급 속도전에 나섰다. 부동산 대책 후폭풍 속 공급 확대 신호가 잇따르고 있다."
+                  "headline": "노벨화학상에 카강·소아이…'의약품 제조 공정 혁신'",
+                  "url": "https://www.hankyung.com/article/2026100794031",
+                  "eng": "Nobel chemistry honors drug-manufacturing breakthrough",
+                  "body": "노벨 화학상이 앙리 카강·소아이 겐소에게 돌아갔다. 비대칭 합성 연구는 의약품 제조 공정 혁신으로 평가받는다."
                 }
               ]
             },
@@ -341,16 +342,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "조희대 대법원장 \"대법관 제청에 국회·대통령 간섭 위헌\"",
-                  "url": "https://www.hankyung.com/article/2026100664131",
-                  "eng": "Jo: presidential, parliamentary meddling unconstitutional",
-                  "body": "조희대 대법원장이 국회와 대통령의 대법관 제청 간섭은 위헌이라고 주장했다. 대법관 공석 사태가 이어지는 가운데 사법부 독립을 둘러싼 공방이 격화하고 있다."
+                  "headline": "한화에어로 직원이 비행 통제…'상업 발사 플랫폼' 시대 열린다",
+                  "url": "https://www.hankyung.com/article/2026100791131",
+                  "eng": "Hanwha staff control flight; commercial launch era",
+                  "body": "한화에어로스페이스 직원이 발사체 비행을 통제하는 등 민간 주도의 상업 발사 플랫폼 시대가 열리고 있다."
                 },
                 {
-                  "headline": "코스닥, 석달 만에 900선…소부장·바이오·배터리 강세",
-                  "url": "https://www.hankyung.com/article/2026100663381",
-                  "eng": "KOSDAQ back above 900 on biotech, parts rally",
-                  "body": "코스닥이 약 3개월 만에 종가 기준 900선을 회복했다. 소부장·바이오·배터리 업종이 강세를 보이며 외국인과 기관의 동반 순매수를 이끌었다."
+                  "headline": "LG-애플 '스마트홈 동맹'…초인종·도어록 등 공동개발",
+                  "url": "https://www.hankyung.com/article/2026100791491",
+                  "eng": "LG, Apple team up on smart home devices",
+                  "body": "LG전자와 애플이 스마트홈 분야에서 손잡고 초인종·도어록 등을 공동개발하기로 했다."
                 }
               ]
             },
@@ -358,16 +359,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "美국채 수요 둔화 조짐…금리 상승에도 엔비디아는 건재",
-                  "url": "https://www.hankyung.com/article/202610076737i",
-                  "eng": "US bond demand softens but Nvidia holds up",
-                  "body": "미국 국채 수요 둔화 조짐에도 금리 상승 국면에서 엔비디아가 견조한 흐름을 이어가고 있다. AI 랠리가 국채 금리 상승 부담을 상쇄하는 구도다."
+                  "headline": "'협상 없다'는 北…MDL 수십m 차이로 충돌하나",
+                  "url": "https://www.hankyung.com/article/2026100792301",
+                  "eng": "North Korea rules out talks over MDL",
+                  "body": "북한이 협상 여지가 없다는 입장을 고수하면서 군사분계선(MDL) 수십m 차이를 둘러싼 남북 간 긴장이 높아지고 있다."
                 },
                 {
-                  "headline": "'일할 시간' 사라진 저임금 근로자…월급 격차 더 커졌다",
-                  "url": "https://www.hankyung.com/article/2026100663191",
-                  "eng": "Low-wage workers lose hours, widening pay gap",
-                  "body": "저임금 근로자의 일할 시간이 줄면서 소득 격차가 더 벌어진 것으로 나타났다. 최저임금·주52시간제가 저소득층에 부담으로 작용한다는 지적이 나온다."
+                  "headline": "한미약품 '국산 1호 비만신약' 이달 나온다",
+                  "url": "https://www.hankyung.com/article/2026100794021",
+                  "eng": "Hanmi to launch first Korean obesity drug",
+                  "body": "한미약품의 국산 1호 비만 신약이 이달 출시된다. 비만치료제 시장 경쟁이 본격화할 전망이다."
                 }
               ]
             }
@@ -386,16 +387,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "France's Appetite for 'Magic Money' Has Turned Into a Debt Bomb",
-                  "url": "https://www.wsj.com/world/europe/france-debt-bonds-spending-c7981557",
+                  "headline": "Inside Bessent's Treasury: Tension, Turnover and Unmet Economic Goals",
+                  "url": "https://www.wsj.com/politics/policy/bessent-treasury-tension-turnover-unmet-economic-goals-b552be0a",
                   "eng": "",
-                  "body": "After years of overspending, France has emerged as one of Europe's weakest links, and investors are bracing for things to get worse as the country's bond market comes under pressure."
+                  "body": "Ahead of midterms that could turn on high prices and borrowing costs, the Treasury secretary has dressed down senior advisers and junior staffers alike over issues large and small."
                 },
                 {
-                  "headline": "S&P 500 Closes at Record High",
-                  "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-06-2026",
+                  "headline": "Wells Fargo Faces Regulator Probe Over Efforts to Boost Black Homeownership",
+                  "url": "https://www.wsj.com/finance/banking/wells-fargo-faces-regulator-probe-over-efforts-to-boost-black-homeownership-a337b46e",
                   "eng": "",
-                  "body": "Stocks rose with the S&P 500 and Nasdaq closing at record highs. The S&P climbed to 7,819, its first end-of-day high since August, on earnings optimism."
+                  "body": "The Department of Housing and Urban Development is seeking to crack down on race-based lending, calling it a potential violation of the Fair Housing Act."
                 }
               ]
             },
@@ -403,16 +404,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "U.S. Escalates Pressure on Russia Over Siberia Lab Death",
-                  "url": "https://www.wsj.com/world/russia/u-s-escalates-pressure-on-russia-over-siberia-lab-death-6f61225a",
+                  "headline": "Treasury Yields Retreat After Strong Auction",
+                  "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-07-2026",
                   "eng": "",
-                  "body": "The U.S. has warned Moscow that its failure to disclose details about the death of a researcher at a Siberian plague lab violates international health obligations."
+                  "body": "Stocks are down and Treasury yields have retreated after setting fresh multidecade highs."
                 },
                 {
-                  "headline": "Google and Constellation Energy Strike a Sweeping Nuclear-Power Deal",
-                  "url": "https://www.wsj.com/business/energy-oil/google-and-constellation-energy-strike-a-sweeping-nuclear-power-deal-4287b372",
+                  "headline": "Judge Orders Officials to Save Evidence in Christa Pike's Failed Execution",
+                  "url": "https://www.wsj.com/us-news/law/judge-orders-officials-to-save-evidence-in-christa-pikes-failed-execution-5f5edb7b",
                   "eng": "",
-                  "body": "Google and Constellation Energy struck the largest-ever 'uprate' project, one that squeezes more power out of existing reactors, between a nuclear-power provider and a tech company."
+                  "body": "The Tennessee death-row inmate woke up in the hospital 'angry and confused about everything,' her attorney said."
                 }
               ]
             },
@@ -420,16 +421,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "Former German Spy Chief Arrested on Suspicion of Espionage",
-                  "url": "https://www.wsj.com/world/europe/former-german-spy-chief-arrested-on-suspicion-of-espionage-9e261c69",
+                  "headline": "FlyDubai Co-Pilot Almost Carried Out His Attack in July",
+                  "url": "https://www.wsj.com/world/middle-east/flydubai-co-pilot-almost-carried-out-his-attack-in-july-58bfd268",
                   "eng": "",
-                  "body": "A former German spy chief has been arrested on suspicion of espionage, deepening security concerns across Europe as Berlin warns of Russia's escalating shadow war."
+                  "body": "People briefed on the investigation say he sought out airlines and routes that would take him to Israel and had planned to act on an earlier trip."
                 },
                 {
-                  "headline": "The Surge in Rates Is Blowing Up Commercial Real-Estate Deals",
-                  "url": "https://www.wsj.com/real-estate/commercial-real-estate-interest-rates-22d04b1b",
+                  "headline": "U.S. Investors Have an 'Exorbitant Privilege'",
+                  "url": "https://www.wsj.com/finance/investing/u-s-investors-have-an-exorbitant-privilege-16201ed3",
                   "eng": "",
-                  "body": "Property buyers are demanding sellers renegotiate terms due to higher mortgage rates, signaling broader distress across the commercial real-estate market."
+                  "body": "The S&P 500 just hit another record, but it sure doesn't look like a bull market beneath the surface."
                 }
               ]
             }
@@ -443,16 +444,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "S&P 500 Climbs to Record High on Earnings Optimism",
-                  "url": "https://www.bloomberg.com/news/articles/2026-10-05/s-p-500-closes-in-on-record-high-as-tech-rallies-markets-wrap-muvv94wz",
+                  "headline": "Fed Minutes Show Hawkish Unity Behind September Rate Hike",
+                  "url": "https://www.bloomberg.com/news/articles/2026-10-07/fed-minutes-show-hawkish-unity-behind-september-rate-hike",
                   "eng": "",
-                  "body": "Wall Street traders drove stocks to all-time highs on growing bets that Corporate America can weather still-elevated energy costs and interest rates."
+                  "body": "All 19 officials backed the decision, with many supporting the move to guard against the risk of intensifying inflation pressures."
                 },
                 {
-                  "headline": "Deeply Distressed US Loans Rise to Highest Level Since Pandemic",
-                  "url": "https://www.bloomberg.com/news/articles/2026-10-06/deeply-distressed-us-loans-rise-to-highest-level-since-pandemic",
+                  "headline": "Oil Shipping Costs Reach Dizzying New Highs on Hormuz Snarls",
+                  "url": "https://www.bloomberg.com/news/articles/2026-10-07/oil-shipping-costs-reach-dizzying-new-highs-on-hormuz-snarls",
                   "eng": "",
-                  "body": "Technology is the single biggest sector under pressure as deeply distressed U.S. loans climb to their highest level since the pandemic, JPMorgan says."
+                  "body": "It now costs $77 million to hire a very large crude carrier to move US oil to Asia. The average in 2025 was $9.2 million."
                 }
               ]
             },
@@ -460,16 +461,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "Trump Says He's Considering Gas Tax Suspension to Ease Costs",
-                  "url": "https://www.bloomberg.com/news/articles/2026-10-06/trump-says-he-s-considering-gas-tax-suspension-to-ease-costs",
+                  "headline": "Paramount's Monster Debt Deal Offers Few Safeguards to Investors",
+                  "url": "https://www.bloomberg.com/news/articles/2026-10-07/paramount-s-monster-debt-deal-offers-few-safeguards-to-investors",
                   "eng": "",
-                  "body": "President Trump said he is considering suspending the federal gas tax, part of an effort to ease consumer costs ahead of the midterm elections."
+                  "body": "Bond investors backing David Ellison's audacious $110 billion takeover of Warner Bros. Discovery are making a bold bet of their own."
                 },
                 {
-                  "headline": "Ray Dalio Warns China, Japan May Pull Back From Treasuries",
-                  "url": "https://www.bloomberg.com/news/articles/2026-10-06/ray-dalio-warns-china-japan-may-pull-back-from-us-treasuries",
+                  "headline": "Novogratz Joins Crowd Warning of AI Bubble, Says Pile In Anyway",
+                  "url": "https://www.bloomberg.com/news/articles/2026-10-07/novogratz-says-ai-is-in-a-bubble-and-investors-should-pile-in",
                   "eng": "",
-                  "body": "Ray Dalio warned that China and Japan may pull back from U.S. Treasuries as public debt tops $40 trillion and yields hit multi-decade highs."
+                  "body": "Mike Novogratz warned that AI is in a bubble but said investors should pile in anyway, underscoring the momentum behind the AI trade."
                 }
               ]
             },
@@ -477,16 +478,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "BofA Analysts See Tech Bubble Brewing But Advise Clients to Pile In",
-                  "url": "https://www.bloomberg.com/news/articles/2026-10-06/bofa-analysts-see-tech-bubble-brewing-advise-clients-to-pile-in",
+                  "headline": "Apple to Launch Doorbell, Lock, Thermostat Developed With LG",
+                  "url": "https://www.bloomberg.com/news/articles/2026-10-06/apple-s-smart-home-push-includes-doorbell-lock-thermostat-codeveloped-with-lg",
                   "eng": "",
-                  "body": "Bank of America analysts see signs of a tech bubble brewing but are still advising clients to pile in, underscoring the momentum behind the AI trade."
+                  "body": "Apple is preparing smart home devices including a doorbell, lock and thermostat co-developed with South Korea's LG Electronics."
                 },
                 {
-                  "headline": "US Senate Map Moves in Democrats' Favor as Kansas Rated 'Tossup'",
-                  "url": "https://www.bloomberg.com/news/articles/2026-10-06/us-senate-map-moves-in-democrats-favor-as-kansas-rated-tossup",
+                  "headline": "Deeply Distressed US Loans Rise to Highest Level Since Pandemic, JPMorgan Says",
+                  "url": "https://www.bloomberg.com/news/articles/2026-10-06/deeply-distressed-us-loans-rise-to-highest-level-since-pandemic",
                   "eng": "",
-                  "body": "The U.S. Senate map has shifted toward Democrats as nonpartisan analysts moved Kansas to 'tossup', tightening the race for control of Congress."
+                  "body": "Technology is the single biggest sector under pressure as deeply distressed U.S. loans climb to their highest level since the pandemic."
                 }
               ]
             }
@@ -500,16 +501,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "Spain Clears Way for Separatist Leader to Return to Catalonia",
-                  "url": "https://www.nytimes.com/2026/10/06/world/europe/spain-separatist-amnesty-catalonia-return.html",
+                  "headline": "Trump Moves to Remove Two Top Political Advisers Ahead of Midterms",
+                  "url": "https://www.nytimes.com/2026/10/07/us/politics/trump-advisers-midterms.html",
                   "eng": "",
-                  "body": "The Spanish Supreme Court canceled an arrest warrant for Carles Puigdemont, who has been living in self-imposed exile in Belgium."
+                  "body": "The president is preparing to remove two senior political advisers after reports they took on outside work during the midterm campaign."
                 },
                 {
-                  "headline": "Midterm Elections: Who Is Winning the Race for Congress? Latest Data",
-                  "url": "https://www.nytimes.com/2026/10/05/us/politics/midterm-elections-control-congress.html",
+                  "headline": "There's Another Cockpit Israelis Need to Rush",
+                  "url": "https://www.nytimes.com/2026/10/06/opinion/israel-palestinians-netanyahu-flydubai.html",
                   "eng": "",
-                  "body": "With a month to the midterms, the New York Times data team breaks down which party is favored to win control of the House and Senate."
+                  "body": "A column ties the FlyDubai cockpit attack to the third anniversary of the Oct. 7 massacre, arguing Israelis must confront the country's unresolved divisions."
                 }
               ]
             },
@@ -534,16 +535,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "There's Another Cockpit Israelis Need to Rush",
-                  "url": "https://www.nytimes.com/2026/10/06/opinion/israel-palestinians-netanyahu-flydubai.html",
+                  "headline": "With Christa Pike Unconscious, Another Execution Attempt Is in Doubt",
+                  "url": "https://www.nytimes.com/2026/10/02/us/christa-pike-unconscious-what-next.html",
                   "eng": "",
-                  "body": "An opinion column ties the FlyDubai cockpit attack to the third anniversary of the Oct. 7 massacre, arguing Israelis must confront the country's unresolved divisions."
+                  "body": "The Tennessee death-row inmate survived two lethal doses of pentobarbital and remains hospitalized, casting doubt on another execution attempt."
                 },
                 {
-                  "headline": "Election Dispatches: Candidates in Crucial Maine Senate Race Set to Debate",
-                  "url": "https://www.nytimes.com/live/2026/10/06/us/midterms-elections",
+                  "headline": "A.I. Agents Are Cute, Cuddly and Maybe Dangerous",
+                  "url": "https://www.nytimes.com/2026/10/02/podcasts/hardfork-regulation-agents-muse.html",
                   "eng": "",
-                  "body": "Three major Senate races have shifted toward Democrats, according to the Cook Political Report, as candidates in Maine prepare to debate."
+                  "body": "As AI agents become more personable, regulators and technologists warn of new risks from systems designed to win trust and act autonomously."
                 }
               ]
             }
@@ -557,16 +558,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "Protests sweep France, as student walkouts tap into public discontent",
-                  "url": "https://www.washingtonpost.com/world/2026/10/06/protests-sweep-france-closing-schools-student-walkouts-escalate/",
+                  "headline": "Trump wants to turn his West Palm Beach golf club into the new Camp David",
+                  "url": "https://www.washingtonpost.com/politics/2026/10/07/trump-wants-new-camp-david-his-own-golf-club/",
                   "eng": "",
-                  "body": "A nationwide day of protest follows more than two weeks of demonstrations and blockades over school conditions, with more than 5,000 people detained."
+                  "body": "The plan calls for the federal government to be granted part of the property, with the rest maintained as a private course."
                 },
                 {
-                  "headline": "Escalating a 'war' in Europe, Putin aims to end its support for Ukraine",
-                  "url": "https://www.washingtonpost.com/world/2026/10/06/with-hybrid-attacks-nuclear-bluster-putin-aims-end-europes-support-ukraine/",
+                  "headline": "Trump rebukes political advisers for taking other work during midterms",
+                  "url": "https://www.washingtonpost.com/politics/2026/10/07/trump-rebukes-advisers-chris-lacivita-james-blair-taking-other-work/",
                   "eng": "",
-                  "body": "With hybrid attacks and nuclear bluster, Vladimir Putin is escalating a shadow war in Europe aimed at ending Western support for Ukraine."
+                  "body": "President Trump admonished two top advisers for pursuing outside work during the midterm campaign, stirring tension in his political operation."
                 }
               ]
             },
@@ -574,16 +575,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "Susan Collins, who's depended on winning Trump's haters, faces her biggest test",
-                  "url": "https://www.washingtonpost.com/politics/2026/10/06/susan-collins-political-survivor-tries-outrun-trump/",
+                  "headline": "Trump says 'we don't think' Russian plague case is a bioweapon",
+                  "url": "https://www.washingtonpost.com/health/2026/10/07/trump-says-we-dont-think-russian-plague-case-is-bioweapon/",
                   "eng": "",
-                  "body": "In her bid for a sixth term representing Maine, Susan Collins has been beset by President Trump weighing her down with constant controversy."
+                  "body": "U.S. officials have asked Russia to provide more information about the lab worker's reported death and the country's elevated response."
                 },
                 {
-                  "headline": "Obama-era DOJ official to lead review of Cornell response to rape allegations",
-                  "url": "https://www.washingtonpost.com/education/2026/10/06/obama-era-doj-official-lead-review-cornell-response-rape-allegations/",
+                  "headline": "Judge orders Tennessee to preserve evidence in failed execution of Christa Pike",
+                  "url": "https://www.washingtonpost.com/politics/2026/10/07/judge-orders-tennessee-preserve-evidence-failed-execution-christa-pike/",
                   "eng": "",
-                  "body": "Sally Yates will lead an independent review of Cornell University's response to rape allegations, after student protests and a possible no-confidence vote."
+                  "body": "Death row inmate Christa Pike survived two lethal doses of pentobarbital last week and remains hospitalized in Nashville."
                 }
               ]
             },
@@ -591,16 +592,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "Intelligence on potential Iranian drone attack led U.S. to move bombers",
-                  "url": "https://www.washingtonpost.com/world/2026/10/05/relocation-us-bombers-uk-highlights-new-risks-military-bases/",
+                  "headline": "Earth set a record for atmospheric moisture in September",
+                  "url": "https://www.washingtonpost.com/weather/2026/10/07/earth-set-record-atmospheric-moisture-september/",
                   "eng": "",
-                  "body": "Multiple streams of intelligence warned of possible Iranian drone attacks on a U.K. base, prompting the U.S. to relocate its B-1 bombers."
+                  "body": "September set a global record for atmospheric moisture, a milestone scientists link to a warming climate and intensifying storms."
                 },
                 {
-                  "headline": "Justice Alito says he won't retire during lame-duck session of Congress",
-                  "url": "https://www.washingtonpost.com/politics/2026/10/06/justice-alito-says-he-wont-retire-during-lame-duck-session-congress/",
+                  "headline": "Messi plays his final game with Argentina, marking the end of an era",
+                  "url": "https://www.washingtonpost.com/sports/2026/10/07/messi-plays-his-final-game-with-argentina-marking-end-an-era/",
                   "eng": "",
-                  "body": "Supreme Court Justice Samuel Alito said he will not retire during the lame-duck session of Congress, defusing speculation about a pre-election vacancy."
+                  "body": "Lionel Messi played his final match for Argentina, closing one of the most storied chapters in international soccer history."
                 }
               ]
             }
@@ -614,16 +615,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "Ships' captains paid $100,000 a month to transit Strait of Hormuz",
-                  "url": "https://www.ft.com/content/0d665e5b-d8c8-4f1e-acf5-bba7193b4e6e",
+                  "headline": "SpaceX credit risk jumps on worries over its borrowing spree",
+                  "url": "https://www.ft.com/content/4f2417d3-3de6-4f62-bd3a-8c8f740a4b29",
                   "eng": "",
-                  "body": "Salaries and bonuses are spiraling for seafarers willing to risk the perilous trip through the Strait of Hormuz in the face of Iranian attacks."
+                  "body": "A leap in credit default swaps tracking Elon Musk's aerospace group follows an FT report that it is seeking to raise $40bn to buy Nvidia chips."
                 },
                 {
-                  "headline": "S&P 500 hits record high as AI stocks shrug off bond market slump",
-                  "url": "https://www.ft.com/content/1c1ee003-f041-4c66-a971-f08d488d11f7",
+                  "headline": "China slaps down EU request for voluntary curbs on hybrid car exports",
+                  "url": "https://www.ft.com/content/32e1c801-fe7d-4389-b3fc-ab687cbb087b",
                   "eng": "",
-                  "body": "Wall Street's benchmark index closed at a fresh peak, but the rally is increasingly reliant on a handful of tech stocks."
+                  "body": "The European Commission is now considering temporary limits to control surging shipments that could trigger a serious trade conflict."
                 }
               ]
             },
@@ -631,16 +632,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "Goldman Sachs and Man Group exposed in EY data breach",
-                  "url": "https://www.ft.com/content/2ad1ff25-f08e-4e78-83c9-90e7ea3844ee",
+                  "headline": "US oil trader takes $2bn gamble on tankers as carriers steer clear of Hormuz",
+                  "url": "https://www.ft.com/content/ff76eda4-0c63-4fcd-a5a1-2729fbbffccc",
                   "eng": "",
-                  "body": "Disclosures widen the circle of victims of a hacking incident earlier this year, with Goldman Sachs and Man Group the latest exposed."
+                  "body": "An American security push aims to spur Asian refining as diesel shortages stoke inflation amid the Hormuz shipping crisis."
                 },
                 {
-                  "headline": "Former German spy chief arrested for treason",
-                  "url": "https://www.ft.com/content/4c565931-6ac7-4b4c-be72-d86e8e3a8aec",
+                  "headline": "Diesel price jumps after IEA says no additional fuel will be released",
+                  "url": "https://www.ft.com/content/2761b6af-df11-49e8-a348-792a9597c9af",
                   "eng": "",
-                  "body": "Ex-intelligence head August Hanning is suspected of selling state secrets to a foreign power, deepening Europe's security crisis."
+                  "body": "Agency members say 100mn barrels promised by G7 will come from the 400mn stock release agreed in March."
                 }
               ]
             },
@@ -648,16 +649,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "Paramount closes $111bn takeover of Warner Bros",
-                  "url": "https://www.ft.com/content/93756433-eb78-422d-8ac3-30e8cc243a00",
+                  "headline": "Republicans should brace for Black voter backlash, says Jim Clyburn",
+                  "url": "https://www.ft.com/content/793d9121-1dae-498b-bae1-db8c69e67e2d",
                   "eng": "",
-                  "body": "Paramount completed its $111bn takeover of Warner Bros, with heavy cuts expected as boss David Ellison seeks $6bn of cost savings at the combined group."
+                  "body": "Civil rights veteran says Republicans will 'reap the reaction' for redistricting moves ahead of midterm elections."
                 },
                 {
-                  "headline": "AI models used in bank cyber attacks, warns South Korea's president",
-                  "url": "https://www.ft.com/content/fb32e9f8-4bf7-44ad-983d-1a03f50f66f5",
+                  "headline": "Wall Street banks launch record $60bn chip deal for Broadcom and Anthropic",
+                  "url": "https://www.ft.com/content/5b9c8ce3-d07c-46f9-8cea-cbc4e7f8ccca",
                   "eng": "",
-                  "body": "South Korea's president warned that AI models are being used in bank cyber attacks, as the country grapples with a wave of breaches across its financial sector."
+                  "body": "Banks have launched a record $60bn financing for a chip deal involving Broadcom and AI lab Anthropic."
                 }
               ]
             }
