@@ -1,36 +1,36 @@
 {
-  "date": "2026-10-12",
-  "dateLabel": "2026년 10월 12일(월요일)",
-  "generatedAt": "2026-10-12T07:18:57+09:00",
+  "date": "2026-10-13",
+  "dateLabel": "2026년 10월 13일(화요일)",
+  "generatedAt": "2026-10-13T07:15:38+09:00",
   "ticker": [
     {
       "name": "KOSPI",
-      "value": "6,625.93",
-      "change": "▼2.62%",
+      "value": "6,384.24",
+      "change": "▼3.65%",
       "dir": "dn"
     },
     {
       "name": "KOSDAQ",
-      "value": "892.27",
-      "change": "▼0.69%",
+      "value": "849.19",
+      "change": "▼4.83%",
       "dir": "dn"
     },
     {
       "name": "S&P 500",
-      "value": "7,811.54",
-      "change": "▲0.59%",
-      "dir": "up"
+      "value": "7,765.36",
+      "change": "▼0.47%",
+      "dir": "dn"
     },
     {
       "name": "NASDAQ",
-      "value": "27,366.17",
-      "change": "▲0.64%",
-      "dir": "up"
+      "value": "27,193.34",
+      "change": "▼1.25%",
+      "dir": "dn"
     },
     {
       "name": "다우",
-      "value": "51,654.95",
-      "change": "▲0.83%",
+      "value": "51,231.64",
+      "change": "▲0.10%",
       "dir": "up"
     },
     {
@@ -41,102 +41,102 @@
     },
     {
       "name": "WTI",
-      "value": "$91.85",
-      "change": "▲0.39%",
+      "value": "$93.32",
+      "change": "▲1.60%",
       "dir": "up"
     },
     {
       "name": "원/달러",
-      "value": "1,340.44원",
-      "change": "▼0.07%",
+      "value": "1,334.94원",
+      "change": "▼0.41%",
       "dir": "dn"
     }
   ],
   "keywords": [
     {
-      "label": "① 기업대출 연체 10조 돌파",
-      "desc": "은행권 기업대출 연체액 10.1조(2026 2Q)로 사상 첫 10조 돌파, 5년 새 3.5배. 비은행 연체율 6.28%는 은행권(0.68%)의 9.2배 — 부실 뇌관 (매경 단독)"
+      "label": "① 코스피 '검은 월요일'",
+      "desc": "삼성전자가 글로벌 테크 최초 분기 매출 100조(영업익 107조)를 찍고도 주가 -4.39%. 코스피 6,384.24(-3.65%)로 두 달 만에 6,400선 붕괴, 외국인 2조원대 순매도"
     },
     {
-      "label": "② 증권사 'T+2 이자 장사'",
-      "desc": "매도대금담보대출 연 8~10% 금리, 10개사 8개월 이자수익 1,197억(작년 연간 1.8배)·키움 58.2%. 당국 압박에 금리 인하·T+1 단축 로드맵 순연 가능"
+      "label": "② 노벨경제학상 홀·우드퍼드",
+      "desc": "거시경제 안정화의 미시경제학적 토대 마련 공로로 로버트 홀·마이클 우드퍼드 공동 수상. 신현송 한은 총재 '추가 금리 인상 가능' 발언과 맞물려 통화정책 이론 재조명"
     },
     {
-      "label": "③ 트럼프 '러·우크 에너지 휴전'",
-      "desc": "러 디젤 수출 재개 합의 발표(즉각 발효) — 美-러 밀착 논란. 호르무즈 유조선 피격·리야드 공항 피격(12명 사망)으로 중동·유가 리스크 잔존"
+      "label": "③ 트럼프 '러 경유 딜' 파문",
+      "desc": "러시아산 경유 수입 합의에 美 공화당 내부서도 반대 목소리. 젤렌스키 '푸틴 60일 휴전 보장 시 대선 실시' 역제안, 정보 공유 중단 가능성"
     },
     {
-      "label": "④ 나스닥 4주 연속 상승",
-      "desc": "S&P 7,811.54(+0.59%)·나스닥 27,366(+0.64%)·다우 +0.83% 주간 상승. 5월 이후 최장 랠리, 제프리스 S&P 2027년 9,000 전망"
+      "label": "④ 원화 강세·달러예금 30조",
+      "desc": "달러/원 1,334원대 진입, 원화 강세 지속. 환테크족 베팅에 달러예금 30조원 뭉칫돈 (매경)"
     },
     {
-      "label": "⑤ 담합 적발·유조선 품귀",
-      "desc": "밀가루·전분당 가격 담합 적발 + 중고 유조선 품귀(10년 된 중고 2,000억, 신조보다 비싼 기현상)"
+      "label": "⑤ AI 투자 리스크·금리 부담",
+      "desc": "AI 수요 자체는 강하나 차입 비용 상승에 금융 위험 확대. 美 10년물 5.2%대, 피므코 '6% 도달 가능' 경고"
     }
   ],
   "morning": {
-    "date": "2026-10-12",
-    "headline": "기업대출 연체액 사상 첫 10조 돌파…코스피 6,625.93(-2.62%) 연휴 전 급락, 美 나스닥 4주 연속 상승(S&P 7,811.54)",
-    "weather": "☁️ 흐림 · 22°C · 체감 22°C · 습도 65% · 바람 5km/h",
-    "schedule": "🗓️ 월요일 · [E-P2] 법인 등기사항 정리(오늘) · [Z-P7] 2027 사업계획서 예산 설정 · 주니어 월요조회",
+    "date": "2026-10-13",
+    "headline": "코스피 '검은 월요일'…삼성전자 100조 실적에도 6,384.24(-3.65%) 급락, 노벨경제학상 홀·우드퍼드 공동 수상",
+    "weather": "🌧️ 비(Light rain) · 20°C · 체감 21°C · 습도 90% · 바람 8km/h",
+    "schedule": "🗓️ 화요일 · [Z-P7] 2027 사업계획서 예산 설정(10-12 지연·10-23 마감) · [E-P2] 법인 등기사항 정리 · [Z-P6] 전사 주간 업무 송부",
     "domestic": {
       "kospi": {
-        "value": "6,625.93",
-        "change": "-177.97",
-        "changeRate": "-2.62%",
-        "rate": "-2.62%"
+        "value": "6,384.24",
+        "change": "-241.69",
+        "changeRate": "-3.65%",
+        "rate": "-3.65%"
       },
       "kosdaq": {
-        "value": "892.27",
-        "change": "-6.16",
-        "changeRate": "-0.69%",
-        "rate": "-0.69%"
+        "value": "849.19",
+        "change": "-43.08",
+        "changeRate": "-4.83%",
+        "rate": "-4.83%"
       },
       "supply": {
-        "foreign": "외국인 순매도 지속",
-        "individual": "",
-        "institution": "",
-        "usdkrw": "1,340.44원",
+        "foreign": "외국인 순매도 2조186억원",
+        "individual": "개인 순매수 1조4,674억원",
+        "institution": "기관 순매도 1,107억원",
+        "usdkrw": "1,334.94원",
         "change": ""
       },
-      "comment": "코스피가 10/8 마감 6,625.93(-2.62%)으로 추석·한글날 연휴를 앞두고 급락, 7,000선을 다시 내주고 6,600선까지 후퇴했다. 외국인 매도와 금리 부담이 지속된 한 주였다. 원/달러는 1,343원대(10/2)로 원화 강세 흐름이었으나 증시 반등으로는 부족했다. 오늘(10/12)은 연휴 후 첫 거래일로, 미국발 훈풍(나스닥 4주 연속 상승)에 힘입은 반등 시도가 주목된다."
+      "comment": "코스피가 10/12 마감 6,384.24(-3.65%)로 두 달 만에 6,400선 아래로 추락했다. 10/2(7,003) 이후 8거래일 만에 619P(-8.85%) 내린 것이다. 삼성전자(-4.39%)·SK하이닉스(-4.52%) 동반 급락이 하락을 주도했고, 외국인은 2조원대 순매도를 쏟아냈다. AI 반도체 관세 불확실성과 신현송 한은 총재의 '추가 금리 인상 가능' 발언, 美 10년물 금리·국제유가 상승이 겹치며 투자심리가 급랭했다."
     },
     "overseas": {
       "dow": {
-        "value": "51,654.95",
-        "change": "▲ +429",
-        "changeRate": "+0.83%"
+        "value": "51,231.64",
+        "change": "▲ +51.77",
+        "changeRate": "+0.10%"
       },
       "sp500": {
-        "value": "7,811.54",
-        "change": "▲ +46.18",
-        "changeRate": "+0.59%"
+        "value": "7,765.36",
+        "change": "▼ -36.41",
+        "changeRate": "-0.47%"
       },
       "nasdaq": {
-        "value": "27,366.17",
-        "change": "▲ +172.83",
-        "changeRate": "+0.64%"
+        "value": "27,193.34",
+        "change": "▼ -345.35",
+        "changeRate": "-1.25%"
       },
       "oil": {
-        "wti": "$91.85",
-        "brent": "$104.72",
-        "note": "WTI $91대·Brent $104대 고공권(호르무즈 유조선 피격·리야드 공항 피격). 美 10년물 5.2%대(피므코 '6% 도달 가능' 경고)·원/달러 1,340.44. 이번주 10/14 美 CPI, 실적 시즌 본격화."
+        "wti": "$93.32",
+        "brent": "$106.10",
+        "note": "WTI $93대·Brent $106대 고공권(러시아의 우크라 발전소 공습·호르무즈 유조선 피격). 美 10년물 5.2%대(피므코 '6% 도달 가능' 경고)·원/달러 1,334.94. 10/14 美 CPI·3분기 실적 시즌 본격화."
       },
-      "keyStocks": "10/9(금) 마감 미국 3대 지수 주간 상승 — 다우 +0.83%(51,654.95)·S&P 500 +0.59%(7,811.54)·나스닥 +0.64%(27,366.17). 나스닥은 4주 연속 상승(5월 이후 최장 랠리)하며 전 업종·전 시총 브로드 랠리. 美 10년물 국채금리 상승 압력이 유일한 부담 요인. 제프리스, S&P 500 2027년 9,000 도달 전망 제시."
+      "keyStocks": "미 3대 지수 혼조 — 다우 +0.10%(51,231.64)·S&P 500 -0.47%(7,765.36)·나스닥 -1.25%(27,193.34). 기술주 약세에 혼조 마감, S&P500은 전일 사상 최고(7,818)에서 소폭 조정. 美 10년물 금리와 국제유가 상승이 기술주 발목을 잡았고, 마이크론(-3.9%) 등 반도체주가 나스닥을 끌어내렸다. 10/12(월)부터 3분기 실적 시즌 본격 돌입."
     },
-    "topNews": "기업대출 연체액 사상 첫 10조 돌파…코스피 6,625.93(-2.62%) 연휴 전 급락, 美 나스닥 4주 연속 상승(S&P 7,811.54)",
+    "topNews": "코스피 '검은 월요일'…삼성전자 100조 실적에도 6,384.24(-3.65%) 급락, 노벨경제학상 홀·우드퍼드 공동 수상",
     "otherNews": [
-      "기업대출 연체액 — 은행권 연체액 2.9조(2021년 말)→10.1조(2026 2Q) 5년 새 3.5배, 비은행 연체율 6.28% 부실 뇌관 (매경 단독)",
-      "증권사 'T+2 이자 장사' — 매도대금담보대출 연 8~10%, 10개사 8개월 이자수익 1,197억(작년 연간 1.8배)·키움 58.2% 차지",
-      "트럼프 \"러·우크라 에너지 휴전 합의\" — 러 디젤 수출 재개·美-러 밀착 논란, 젤렌스키 '새 대통령 필요' 발언 등 파문",
-      "중동 리스크 — 호르무즈 유조선 피격·리야드 공항 피격(12명 사망·수백 명 부상), 유가 고공행진 지속",
-      "담합·품귀 — 밀가루·전분당 가격 담합 적발 + 중고 유조선 품귀(10년 된 중고 2,000억, 신조보다 비싼 기현상)"
+      "코스피 '검은 월요일' — 삼성전자 분기 매출 100조(글로벌 테크 최초)에도 주가 -4.39%, 외국인 1조5,762억 순매도에 6,400선 붕괴",
+      "노벨경제학상 — 로버트 홀·마이클 우드퍼드 공동 수상, 거시경제 안정화의 미시경제학적 토대 마련 공로",
+      "원화 강세·달러예금 30조 — 달러/원 1,341원대 진입, 환테크족 베팅에 달러예금 30조원 뭉칫돈 (매경)",
+      "'주가조작' 주범 유료 강의 — 규제 빈틈 피해 버젓이 유료 강의, 금융 규제 사각지대 재부각 (매경 단독)",
+      "AI 투자 리스크 — 차입 비용 상승에 금융 위험 확대, AI 수요 강하나 자금 조달 비용 상승이 변수"
     ],
     "email": {
       "google": "",
-      "note": "추석·한글날 연휴 후 첫 거래일(코스피 개장). 이번주 10/14 美 CPI·10/15 PPI·소매판매, 실적 시즌 본격화. 오늘 [E-P2] 법인 등기 정리 + [Z-P7] 예산 설정 두 건으로 시작."
+      "note": "오늘(10/13) [Z-P7] 2027 사업계획서 예산 설정(10-12 지연) + [E-P2] 법인 등기 정리 두 건 우선. 美 3분기 실적 시즌 본격 돌입, 10/14 美 CPI 대기."
     },
-    "insight": "💡 「고금리 시대의 그림자 — '빚 2,000조'와 연체 10조」\n\n① 기업대출 잔액이 5년 새 30% 늘 동안 연체액은 3.5배 불어나 사상 첫 10조원을 돌파했다. 특히 비은행 연체율 6.28%는 자영업·중소기업의 체감 위기가 통계로 드러난 수치다. \"돌려막기도 한계\"라는 업계 목소리는 금리 인하 없이는 회복이 더딜 것임을 시사한다.\n\n② 이 흐름은 제니엘에도 시사점을 준다. 고객사 500곳이 인건비·재무 구조조정 압박을 받는 국면에서 AI HR 솔루션은 '비용'이 아니라 '인건비 효율화로 연체 부담을 줄이는 투자'로 프레임하는 것이 더 설득력 있다. 어려울수록 효율화 수요는 커진다.\n\n③ 오늘의 한 줄: 연휴 후 첫 거래일 + 밀린 과제 7건. 하루를 [E-P2] 등기 정리와 [Z-P7] 예산 설정 두 건으로 시작하면 주간 리듬이 살아납니다. 화이팅 🙌"
+    "insight": "💡 「7,000에서 6,384까지 — 하방이 가르쳐주는 것」\n\n열흘 만에 8.85% 하락. 삼성전자가 분기 매출 100조를 찍고도 4% 넘게 빠졌다는 사실은 시장이 '좋은 뉴스'보다 '나쁜 가능성'에 더 민감하게 반응하는 국면임을 보여준다. AI 반도체 관세 불확실성, 추가 금리 인상 가능성, 글로벌 차입 비용 상승 — 이 세 가지는 당장 내일 해소될 이슈가 아니다.\n\n제니엘 입장에서는 이 흐름이 오히려 기회다. 고객사들이 인건비·효율화 압박을 더 받을수록, AI HR 솔루션의 설득력은 올라간다. \"비용이 아닌 투자\" 프레임을 \"하방 리스크 헤지\"로 확장해볼 시점. 어려울수록 선택은 집중이고, 실행은 더 빨라져야 한다.\n\n오늘의 한 줄: 밀린 과제 3건(주간 업무·예산·등기)이 월요일의 숙제로 남았다. 화요일 아침, 첫 30분을 이 셋 중 하나를 끝내는 데 쓰면 하루 리듬이 잡힙니다. ☕️"
   },
   "sections": {
     "kor": {
@@ -150,16 +150,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "수에즈 대체할 북극항로 … 韓 컨테이너선 첫 왕복",
-                  "url": "https://www.mk.co.kr/news/economy/12173093",
-                  "eng": "South Korean container ship completes first Arctic route round trip",
-                  "body": "국내 컨테이너선의 첫 북극 항로 왕복 시범운항이 마무리되면서 상업화에 한발 다가섰다는 평가가 나온다. 북극 항로는 수에즈운하 통과보다 운항 거리가 35% 짧아 물류비 절감을 기대할 수 있다."
+                  "headline": "역대급 실적 잔치에도 '휘청' … 코스피, 반등 활로 찾을까",
+                  "url": "https://www.mk.co.kr/news/stock/12173990",
+                  "eng": "Kospi struggles despite record corporate earnings",
+                  "body": "국내 상장사 실적이 급증하고 있지만 코스피는 좀처럼 힘을 쓰지 못하고 있다. 주가 상승폭이 실적 향상을 따라가지 못하면서 향후 1년간 예상 기업 이익 기준 주가수익비율(PER)은 약 1년 만에 절반 이하로 떨어졌다."
                 },
                 {
-                  "headline": "[단독] 집 지을 일 산더미인데 … LH는 저임금·인력유출 '이중고'",
-                  "url": "https://www.mk.co.kr/news/politics/12172962",
-                  "eng": "LH faces low wages and staff exodus amid heavy construction backlog",
-                  "body": "주택 공급 물량은 쌓여 있는데 한국토지주택공사(LH)는 저임금과 인력 유출이라는 이중고에 시달리고 있는 것으로 나타났다."
+                  "headline": "원화 강세에 환테크족 '베팅' … 달러예금 30조원 뭉칫돈",
+                  "url": "https://www.mk.co.kr/news/economy/12173945",
+                  "eng": "Dollar deposits top 30tn won as won strengthens",
+                  "body": "달러/원 환율이 1,341원대까지 내려가는 등 최근 달러 약세 기조가 지속되면서 환테크족의 베팅이 이어지고 있다. 달러예금 잔액은 30조원에 육박하는 뭉칫돈으로 불어났다."
                 }
               ]
             },
@@ -167,16 +167,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "[단독] 기업대출 연체액 '눈덩이' … 사상 첫 10조원 돌파",
-                  "url": "https://www.mk.co.kr/news/economy/12173110",
-                  "eng": "Corporate loan delinquencies top 10tn won for first time",
-                  "body": "은행권 기업대출 연체액이 올해 2분기 10조1000억원으로 사상 처음 10조원을 돌파했다. 2021년 말 2조9000억원에서 5년 새 약 3.5배 급증한 수치다."
+                  "headline": "올해 노벨경제학상 수상자는 … '거시경제 안정화' 듀오",
+                  "url": "https://www.mk.co.kr/news/economy/12174036",
+                  "eng": "Hall and Woodford share Nobel economics prize",
+                  "body": "2026년 노벨경제학상은 로버트 홀과 마이클 우드퍼드가 공동 수상했다. 거시경제 안정화의 미시경제학적 토대를 마련한 공로가 인정됐다."
                 },
                 {
-                  "headline": "T+2 기다리는 개미들 잡았다 … 증권사들의 '이자 장사'",
-                  "url": "https://www.mk.co.kr/news/stock/12173206",
-                  "eng": "Brokerages profit from T+2 settlement interest on retail investors",
-                  "body": "주식 매도 후 대금 입금 전까지의 단기 매도대금담보대출에 연 8~10% 금리를 매긴 증권사들의 '이자 장사'가 드러났다. 10개사의 1~8월 이자수익은 1197억원으로 작년 연간치의 1.8배에 달한다."
+                  "headline": "[단독] 삼성, 갤럭시S27 '프로' 신설 … 고가모델 늘리는 이유가",
+                  "url": "https://www.mk.co.kr/news/business/12173976",
+                  "eng": "Samsung adds Galaxy S27 Pro to premium lineup",
+                  "body": "삼성전자가 갤럭시S27에 기존 3종 체제에 더해 '프로' 모델을 신설한다. S펜을 없앤 6.5인치 고급 모델로 고가 모델 비중을 늘려 판매 단가를 확보하려는 전략이다."
                 }
               ]
             },
@@ -184,16 +184,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "[단독] 10년 된 중고가 2천억 … 품귀대란 일어난 유조선",
-                  "url": "https://www.mk.co.kr/news/business/12173090",
-                  "eng": "10-year-old used tanker fetches 200bn won amid shortage",
-                  "body": "호르무즈 긴장 등으로 유조선 수요가 폭증하면서 10년 된 중고 유조선이 2000억원에 거래되는 품귀 현상이 벌어졌다. 신조선보다 비싼 기현상이다."
+                  "headline": "인허가 지연에 종부세 벼락… 주택사업 숨통 막는 세법",
+                  "url": "https://www.mk.co.kr/news/realestate/12173902",
+                  "eng": "Permit delays and property tax squeeze housing projects",
+                  "body": "인허가 지연으로 사업이 늦어진 주택사업장에 종합부동산세가 부과되는 등 세법이 주택사업의 숨통을 막고 있다는 지적이 나온다."
                 },
                 {
-                  "headline": "자사주 매입 봇물이라더니 … '삼전닉스' 빠지자 13% 감소",
-                  "url": "https://www.mk.co.kr/news/stock/12173038",
-                  "eng": "Korea buybacks drop 13% without Samsung and SK Hynix",
-                  "body": "삼성전자와 SK하이닉스를 제외하면 국내 상장사의 자사주 매입 규모가 13% 줄어든 것으로 나타났다. '자사주 매입 봇물'은 두 반도체 대장주에 집중된 현상이었다."
+                  "headline": "[단독] '주가조작' 주범, 규제 빈틈 피해 버젓이 유료 강의",
+                  "url": "https://www.mk.co.kr/news/society/12173975",
+                  "eng": "Stock manipulation convicts exploit regulatory gaps to sell paid courses",
+                  "body": "주가조작 사건의 주범들이 금융 규제의 빈틈을 피해 버젓이 유료 강의를 하고 있는 것으로 확인됐다. 금융 규제 사각지대 문제가 다시 부각되고 있다."
                 }
               ]
             }
@@ -207,16 +207,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "트럼프 \"러·우크라, 에너지 휴전 합의\"···구체적 범위·기간은 미공개",
-                  "url": "https://www.khan.co.kr/article/202610112336001",
-                  "eng": "Trump announces Russia-Ukraine energy ceasefire, details undisclosed",
-                  "body": "도널드 트럼프 미국 대통령은 러시아와 우크라이나가 에너지 부문 공격을 중단하는 휴전에 합의했다고 밝혔다. 구체적 범위와 기간은 공개되지 않았다."
+                  "headline": "LH 사장 \"집값 급락 가능성 좀 많아···지금 집 안 사도 손해 안 봐\"",
+                  "url": "https://www.khan.co.kr/article/202610121623001",
+                  "eng": "LH chief warns of possible sharp home price fall",
+                  "body": "이성훈 한국토지주택공사(LH) 사장이 향후 집값 전망에 대해 '급락할 가능성이 좀 많다'고 밝혔다. 생애최초 주택구매자 대출 규제 강화 발언과 관련해 국정감사에서 이같이 답했다."
                 },
                 {
-                  "headline": "호르무즈서 출항하던 유조선, 정체불명 발사체에 피격···선원들은 무사",
-                  "url": "https://www.khan.co.kr/article/202610112238001",
-                  "eng": "Tanker hit by projectile near Strait of Hormuz, crew safe",
-                  "body": "호르무즈 해협에서 출항하던 유조선 한 척이 정체불명의 발사체에 피격돼 화재가 발생했으나 선원들의 인명 피해는 없었다."
+                  "headline": "북한, 한국군 '극초음속 비행체' 발사 4일 만에 탄도미사일 두 발 발사…\"무력 대응으로 분석\"",
+                  "url": "https://www.khan.co.kr/article/202610121616011",
+                  "eng": "North Korea fires ballistic missiles days after South's hypersonic test",
+                  "body": "북한이 12일 오전 동해상으로 탄도미사일 수 발을 발사했다고 합동참모본부가 밝혔다. 정부가 극초음속 활공비행체(HGV) 최초 시험 발사를 공개한 지 나흘 만으로, 무력 대응이라는 분석이 나온다."
                 }
               ]
             },
@@ -224,16 +224,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "\"동맹 기준 준수 기대\" 한·미동맹 이상기류 의혹에···정부 \"한·미 신뢰 굳건\" 진화 나서",
-                  "url": "https://www.khan.co.kr/article/202610111740001",
-                  "eng": "Seoul moves to defuse US alliance friction over information sharing",
-                  "body": "미국 행정부 고위 당국자의 '한국이 동맹의 기준을 준수하길 기대한다'는 발언을 두고 외교부가 '한·미 신뢰가 굳건하다'며 진화에 나섰다."
+                  "headline": "신현송 한은 총재 \"레버리지 ETF 관련 경고 못해…국민께 송구\"",
+                  "url": "https://www.khan.co.kr/article/202610121441001",
+                  "eng": "BOK chief apologizes over leverage ETF warning gap",
+                  "body": "신현송 한국은행 총재가 단일종목 레버리지 상장지수펀드(ETF)와 관련해 충분히 경고하지 못했다며 국민께 송구하다고 밝혔다. 국회 재정경제기획위원회 국정감사에서 답변했다."
                 },
                 {
-                  "headline": "10% 반등은커녕 '역대 최저치' 경신한 민주당 지지율···돌파구가 안 보인다",
-                  "url": "https://www.khan.co.kr/article/202610111747001",
-                  "eng": "Democratic Party approval hits record low with no breakthrough",
-                  "body": "더불어민주당 지지율이 역대 최저치를 경신하며 돌파구를 찾지 못하고 있다는 여론조사 결과가 나왔다."
+                  "headline": "이 대통령 지지율 2주 연속 하락해 35.2%···국민의힘 41.3% 오차 범위 내 접전",
+                  "url": "https://www.khan.co.kr/article/202610120836001",
+                  "eng": "President Lee's approval slips to 35.2%, parties neck-and-neck",
+                  "body": "이재명 대통령의 국정수행 긍정 평가가 2주 연속 하락해 35.2%를 기록했다. 정당 지지도는 더불어민주당 35.5%, 국민의힘 41.3%로 8주 연속 오차범위 내 접전을 이어갔다."
                 }
               ]
             },
@@ -241,16 +241,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "[단독] 가습기살균제 태아기 노출자 33명 피해 판정 못 받아",
-                  "url": "https://www.khan.co.kr/article/202610111559001",
-                  "eng": "33 fetal humidifier disinfectant victims denied damage ruling",
-                  "body": "엄마 뱃속에서 가습기살균제에 노출된 '태아기 노출자' 33명이 관련 연구 결과가 없다는 이유로 수년째 피해 여부를 판정받지 못한 것으로 파악됐다."
+                  "headline": "[단독] 한동훈 딸 '허위 스펙 의혹' 경찰 수사, 압색영장 신청 전무…배우자만 1회 '서면 조사'",
+                  "url": "https://www.khan.co.kr/article/202610120600071",
+                  "eng": "Police sought no warrant in Han Dong-hoon daughter probe",
+                  "body": "경찰이 한동훈 의원 딸의 '허위 스펙' 의혹을 수사하며 압수수색 영장을 한차례도 신청하지 않은 것으로 드러났다. 의혹 관련자 조사는 배우자를 상대로 한 서면 조사가 전부였다."
                 },
                 {
-                  "headline": "[단독] 국세청 비정기 세무조사 70% 이상 '탈루 혐의'",
-                  "url": "https://www.khan.co.kr/article/202610111457011",
-                  "eng": "Over 70% of tax agency's irregular audits cite evasion",
-                  "body": "지난해 실시된 국세청의 비정기 세무조사 10건 중 7건 이상이 명백한 탈루 혐의에 따른 것으로 나타났다. 선정사유별 통계 공개는 처음이다."
+                  "headline": "정동영 \"미국과 줄다리기하지 않는 동맹국 없어…퇴출해야 할 것은 색깔론\"",
+                  "url": "https://www.khan.co.kr/article/202610121103001",
+                  "eng": "Unification minister defends US alliance stance",
+                  "body": "정동영 통일부 장관은 최근 한·미 동맹 난항 주장에 대해 미국과 안보·통상 관계로 줄다리기하지 않는 나라가 없다며 국익과 자율성을 물어야 한다고 밝혔다."
                 }
               ]
             }
@@ -264,16 +264,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "[단독]美 \"韓, 정보-방첩 수십년 동맹기준 준수해야\"",
-                  "url": "https://www.donga.com/news/article/all/20261009/134816847/2",
-                  "eng": "US presses Seoul to uphold decades-long alliance standards on intel",
-                  "body": "미국이 한국에 수십 년간 이어온 정보·방첩 분야 동맹 기준을 준수해야 한다는 입장을 전한 것으로 확인됐다."
+                  "headline": "北, 평양서 동해로 탄도미사일 여러발 발사…韓 극초음속 미사일 발사 나흘만",
+                  "url": "https://www.donga.com/news/Politics/article/all/20261012/134823768/2",
+                  "eng": "North Korea fires multiple ballistic missiles into East Sea",
+                  "body": "북한이 12일 오전 9시 20분경 평양 일대에서 동해상으로 탄도미사일 수 발을 발사했다고 합동참모본부가 밝혔다. 올해 16번째 발사로, 이달 3일 이후 9일 만이다."
                 },
                 {
-                  "headline": "목표 명중… 국산 '극초음속 미사일' 성공 공개",
-                  "url": "https://www.donga.com/news/article/all/20261009/134816841/2",
-                  "eng": "Korea unveils successful hypersonic missile test",
-                  "body": "한국이 국산 극초음속 미사일의 시험발사 성공 장면을 공개했다. 북한 도발에 대한 경고 메시지로 해석된다."
+                  "headline": "트럼프, 러 정유시설 때린 젤렌스키에 격노…정보 공유 중단 가능성",
+                  "url": "https://www.donga.com/news/Inter/article/all/20261012/134824419/1",
+                  "eng": "Trump fumes at Zelensky over refinery strikes, may cut intel sharing",
+                  "body": "도널드 트럼프 미국 대통령이 러시아 정유시설을 공격한 볼로디미르 젤렌스키 우크라이나 대통령에 격노하며 대우크라이나 정보 공유를 중단할 가능성이 제기됐다."
                 }
               ]
             },
@@ -281,16 +281,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "노벨평화상에 나비 필라이… 남아공 출신 인권 운동가",
-                  "url": "https://www.donga.com/news/article/all/20261009/134816839/2",
-                  "eng": "Navi Pillay wins Nobel Peace Prize",
-                  "body": "2026년 노벨평화상에 남아프리카공화국의 법률가 겸 인권 운동가 나비 필라이가 선정됐다. 2008~2014년 유엔 인권최고대표를 지낸 국제법 전문가다."
+                  "headline": "KDI \"韓산업, 반도체 빼면 경쟁력 하락세… 2030년 이후 역성장\"",
+                  "url": "https://www.donga.com/news/Economy/article/all/20261012/134828680/2",
+                  "eng": "KDI warns Korean industry to shrink after 2030 without chips",
+                  "body": "한국개발연구원(KDI)이 반도체를 제외하면 한국 산업의 경쟁력이 하락세에 접어들었으며 2030년 이후 역성장할 수 있다는 분석을 내놨다."
                 },
                 {
-                  "headline": "광주 팹 부지 찾은 최태원 \"가장 빠른 속도로 건설\"",
-                  "url": "https://www.donga.com/news/article/all/20261009/134816843/2",
-                  "eng": "SK's Chey vows fastest possible Gwangju fab construction",
-                  "body": "최태원 SK그룹 회장이 광주 반도체 팹 부지를 방문해 '가장 빠른 속도로 건설하겠다'는 의지를 밝혔다."
+                  "headline": "서울 아파트 거래 54.7%가 전고점 이상…3분기 역대 최고가",
+                  "url": "https://www.donga.com/news/Economy/article/all/20261012/134824728/1",
+                  "eng": "Over half of Seoul apartment trades above prior peak",
+                  "body": "서울 아파트 매매 거래의 54.7%가 전고점 이상 가격에 이뤄진 것으로 나타났다. 3분기 거래량과 가격이 역대 최고 수준을 기록했다."
                 }
               ]
             },
@@ -298,16 +298,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "60% 증액 2028~2034년 EU 장기예산안 놓고 獨 \"삭감해야\" 佛 \"확대해야\" 충돌",
-                  "url": "https://www.donga.com/news/Inter/article/all/20261011/134822143/2",
-                  "eng": "Germany and France clash over EU long-term budget",
-                  "body": "60% 증액을 담은 2028~2034년 EU 장기예산안을 놓고 독일은 삭감을, 프랑스는 확대를 주장하며 충돌하고 있다."
+                  "headline": "'방첩 동맹 기준' 거론한 美… \"국정원의 中 방첩활동 관련 불만인듯\"",
+                  "url": "https://www.donga.com/news/Politics/article/all/20261012/134822408/2",
+                  "eng": "US counterintelligence standard remark linked to NIS China stance",
+                  "body": "미국이 '수십 년간 이어온 정보·방첩 동맹 기준 준수'를 거론한 것은 국정원의 대중국 방첩 활동 관련 불만이라는 해석이 나온다."
                 },
                 {
-                  "headline": "유엔서 'DMZ 지뢰' 설전… 韓 \"사과하라\" 北 \"군사 주권\"",
-                  "url": "https://www.donga.com/news/article/all/20261009/134816845/2",
-                  "eng": "Korea and North clash over DMZ landmines at UN",
-                  "body": "DMZ 지뢰 문제를 두고 유엔에서 한국은 사과를 요구하고 북한은 군사 주권을 주장하며 설전을 벌였다."
+                  "headline": "'AI 해킹'에 뚫린 은행들, 2주전 '위험' 공유받고도 공격에 대비하지 못해",
+                  "url": "https://www.donga.com/news/Economy/article/all/20261012/134822418/2",
+                  "eng": "Korean banks hit by AI hacking despite prior warning",
+                  "body": "중국산 AI 도구를 악용한 해킹 공격에 금융권이 뚫린 가운데, 은행들이 2주 전 위험 정보를 공유받고도 공격에 제대로 대비하지 못한 것으로 드러났다."
                 }
               ]
             }
@@ -321,16 +321,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "트럼프 \"러-우크라, '에너지 부문 휴전 합의'…즉각 발효\"",
-                  "url": "https://www.hankyung.com/article/2026101247267",
-                  "eng": "Trump says Russia-Ukraine energy ceasefire takes effect immediately",
-                  "body": "도널드 트럼프 미국 대통령이 러시아와 우크라이나가 에너지 부문 휴전에 합의했으며 즉각 발효된다고 밝혔다."
+                  "headline": "케인스의 현대적 부활…노벨 경제학상 홀·우드퍼드",
+                  "url": "https://www.hankyung.com/article/2026101271731",
+                  "eng": "Hall and Woodford revive Keynes with Nobel prize",
+                  "body": "2026년 노벨경제학상은 경기 안정화의 이론적 토대를 마련한 로버트 홀과 마이클 우드퍼드에게 돌아갔다. 두 학자의 연구는 현대 통화정책의 미시경제학적 기반으로 평가받는다."
                 },
                 {
-                  "headline": "[단독] '농지 전수조사' 후폭풍…대출 부실 두 배로",
-                  "url": "https://www.hankyung.com/article/2026101144951",
-                  "eng": "Farmland audit fallout doubles bad loans",
-                  "body": "정부의 농지 전수조사 후폭풍으로 관련 대출 부실이 두 배로 늘어난 것으로 나타났다."
+                  "headline": "코스피, 두 달 만에 6400선 아래로…코스닥도 '급락'",
+                  "url": "https://www.hankyung.com/article/2026101264236",
+                  "eng": "Kospi falls below 6,400 for first time in two months",
+                  "body": "코스피가 두 달 만에 6,400선 아래로 내려갔다. 코스닥도 4% 넘게 급락하며 동반 하락했다. 외국인 매도와 반도체주 급락이 하락을 주도했다."
                 }
               ]
             },
@@ -338,16 +338,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "\"열심히 일해봤자 나만 손해\"…공무원 몸 사리고, 의사는 분만실 떠난다",
-                  "url": "https://www.hankyung.com/article/2026101144721",
-                  "eng": "Civil servants avoid work, doctors leave delivery rooms",
-                  "body": "보상 체계가 흔들리면서 공무원은 몸을 사리고 의사는 분만실을 떠나는 등 필수 분야의 인력 이탈이 심화하고 있다."
+                  "headline": "후티 공격에 하늘길 멈춘 리야드…항공편 99.7% 결항",
+                  "url": "https://www.hankyung.com/article/2026101272697",
+                  "eng": "Riyadh flights grounded as Houthi strikes hit airport",
+                  "body": "예멘 후티 반군의 공격으로 사우디아라비아 리야드 공항의 항공편 99.7%가 결항했다. 공항 피격으로 12명이 숨지고 수백 명이 다친 것으로 알려졌다."
                 },
                 {
-                  "headline": "김승연 \"낙관주의 설 자리 없다\"…한화그룹 창립 74주년",
-                  "url": "https://www.hankyung.com/article/2026101145011",
-                  "eng": "Hanwha chairman warns no room for optimism at 74th anniversary",
-                  "body": "김승연 한화그룹 회장이 창립 74주년을 맞아 '낙관주의가 설 자리가 없다'며 위기 의식을 강조했다."
+                  "headline": "\"반도체 호황, 제조 경쟁력 약화 가려…2030년 역성장\"",
+                  "url": "https://www.hankyung.com/article/2026101269811",
+                  "eng": "Chip boom masks manufacturing decline, 2030 contraction feared",
+                  "body": "반도체 호황이 다른 제조업의 경쟁력 약화를 가리고 있다는 분석이 나왔다. 반도체를 제외한 산업 경쟁력이 하락세에 접어들어 2030년 이후 역성장할 수 있다는 경고다."
                 }
               ]
             },
@@ -355,16 +355,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "소득 4만달러 시대, 우리는 그에 걸맞은 품격 갖췄나",
-                  "url": "https://www.hankyung.com/article/2026101145301",
-                  "eng": "In $40,000 income era, half of Koreans feel unprepared",
-                  "body": "한국경제 창간 62주년 기획 조사에서 국민 절반이 '소득 4만달러 시대에 걸맞은 품격을 준비하지 못했다'고 답했다."
+                  "headline": "LH 사장 \"공급 늘고 금리 오르면 집값 크게 떨어질 수도\"",
+                  "url": "https://www.hankyung.com/article/2026101266267",
+                  "eng": "LH chief sees home prices falling on supply and rates",
+                  "body": "이성훈 LH 사장이 주택 공급 확대와 금리 상승을 근거로 향후 집값이 큰 폭으로 떨어질 수 있다고 전망했다. 국회 국토교통위원회 국정감사에서 밝혔다."
                 },
                 {
-                  "headline": "\"누구는 10억 받고, 누구는 소외\"…성과급 '분열의 불씨'로",
-                  "url": "https://www.hankyung.com/article/2026101144901",
-                  "eng": "Performance bonuses spark division among workers",
-                  "body": "대규모 성과급이 일부 계열사·직군에 집중되면서 '누구는 10억 받고 누구는 소외된다'는 불만이 조직 분열의 불씨가 되고 있다."
+                  "headline": "\"삼전닉스 있어도 B급\"...외국인 떠나는 이유",
+                  "url": "https://www.hankyung.com/article/2026101271706",
+                  "eng": "Foreign investors leave Korea despite chip giants",
+                  "body": "삼성전자와 SK하이닉스라는 글로벌 반도체 대장주가 있음에도 외국인 투자자가 한국 증시를 떠나는 이유를 분석했다. 반도체 외 산업의 낮은 수익성과 코리아 디스카운트가 꼽힌다."
                 }
               ]
             }
@@ -383,16 +383,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "Trump Pushes Russia-Ukraine Energy Ceasefire as Export Deal Draws Criticism",
-                  "url": "https://www.wsj.com/world/trump-declares-a-russia-ukraine-energy-ceasefire-but-moscow-hasnt-confirmed-f57414e9",
+                  "headline": "Russia Pounds Ukrainian Energy Despite Trump's Ceasefire Announcement",
+                  "url": "https://www.wsj.com/world/europe/russia-pounds-ukrainian-energy-despite-trumps-ceasefire-announcement-f5d4779d",
                   "eng": "",
-                  "body": "President Trump declared a Russia-Ukraine energy ceasefire, but a bipartisan group of senators is challenging his move to allow Russia to ship diesel to the U.S., citing a 2022 law."
+                  "body": "Russia continued striking Ukrainian power plants even after President Trump announced an energy ceasefire, underscoring doubts about Moscow's commitment."
                 },
                 {
-                  "headline": "Hackers Use Chinese AI Tool to Hit South Korean Banks, Exposing New Risk",
-                  "url": "https://www.wsj.com/world/asia/hackers-use-chinese-ai-tool-to-hit-south-korean-banks-exposing-new-risk-5d4d3885",
+                  "headline": "NATO Top Commander Lays Out Plan to Thwart a Russian Attack",
+                  "url": "https://www.wsj.com/world/europe/natos-top-commander-lays-out-plan-to-thwart-a-russian-attack-on-the-alliance-96d57680",
                   "eng": "",
-                  "body": "Hackers used a Chinese artificial-intelligence tool to target South Korean banks, exposing a new cybersecurity risk as AI lowers the barrier to sophisticated attacks."
+                  "body": "NATO's top commander outlined a plan to deter any Russian attack on the alliance, calling for continued aid to Ukraine to blunt President Putin's ambitions."
                 }
               ]
             },
@@ -400,16 +400,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "At Least 12 Killed, Hundreds Injured at Saudi Airport in Houthi Strikes",
-                  "url": "https://www.wsj.com/world/middle-east/iran-backed-houthis-hit-saudi-capitals-airport-in-damaging-new-attack-d4c12236",
+                  "headline": "Ilhan Omar's Home Is Searched by Federal Agents",
+                  "url": "https://www.wsj.com/politics/policy/ilhan-omars-home-is-searched-by-federal-agents-14a79871",
                   "eng": "",
-                  "body": "At least 12 people were killed and hundreds injured in Houthi strikes on the Saudi capital's airport, in a damaging new attack on vital infrastructure."
+                  "body": "Federal agents searched the home of Rep. Ilhan Omar, a move that drew immediate criticism from Democratic lawmakers."
                 },
                 {
-                  "headline": "Amazon in Talks to Buy AI Startup Decart for Around $7 Billion",
-                  "url": "https://www.wsj.com/business/deals/amazon-in-talks-to-buy-ai-startup-decart-for-around-7-billion-9433abad",
+                  "headline": "Hackers Use Chinese AI Tool to Hit South Korean Banks, Exposing New Risk",
+                  "url": "https://www.wsj.com/world/asia/hackers-use-chinese-ai-tool-to-hit-south-korean-banks-exposing-new-risk-5d4d3885",
                   "eng": "",
-                  "body": "Amazon is in talks to acquire AI startup Decart for around $7 billion, according to people familiar with the matter, accelerating the AI dealmaking race."
+                  "body": "Hackers used a Chinese artificial-intelligence tool to target South Korean banks, exposing a new cybersecurity risk as AI lowers the barrier to sophisticated attacks."
                 }
               ]
             },
@@ -440,16 +440,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "Once-Hot AI Trade Leaves Korean Stocks Struggling for Buyers",
-                  "url": "https://www.bloomberg.com/news/articles/2026-10-11/once-hot-ai-trade-leaves-korean-stocks-struggling-for-buyers",
+                  "headline": "JPMorgan, Goldman Curb Exposure on $5 Billion Volta AI Loan Sale",
+                  "url": "https://www.bloomberg.com/news/articles/2026-10-12/jpmorgan-goldman-curb-exposure-on-5-billion-volta-ai-loan-sale",
                   "eng": "",
-                  "body": "The once-hot AI trade has left Korean stocks struggling to find buyers as foreign investors retreat, weighing on the Kospi."
+                  "body": "JPMorgan and Goldman Sachs are curbing their exposure to a $5 billion loan package for AI firm Volta, signaling caution as lenders reassess AI-debt risk."
                 },
                 {
-                  "headline": "NATO Commander Says Ukraine Aid Will Deter Putin's Europe Threat",
-                  "url": "https://www.bloomberg.com/news/articles/2026-10-11/nato-commander-says-ukraine-aid-will-deter-putin-s-europe-threat",
+                  "headline": "Wall Street Strategists See Value in Duration After Bond Rout",
+                  "url": "https://www.bloomberg.com/news/articles/2026-10-12/wall-street-strategists-see-value-in-duration-after-bond-rout",
                   "eng": "",
-                  "body": "NATO's top commander said continued military aid to Ukraine will deter Russian President Putin from escalating his threat to Europe."
+                  "body": "Strategists see renewed value in longer-dated bonds after a sharp selloff pushed Treasury yields to multi-year highs."
                 }
               ]
             },
@@ -457,16 +457,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "US Bond Traders Await CPI, Warsh For Insight on Fed's Rate Path",
-                  "url": "https://www.bloomberg.com/news/articles/2026-10-11/us-bond-traders-await-cpi-warsh-for-insight-on-fed-s-rate-path",
+                  "headline": "Albertsons Seeks More Than $9 Billion Over Busted Kroger Deal",
+                  "url": "https://www.bloomberg.com/news/articles/2026-10-12/albertsons-seeks-more-than-9-billion-over-busted-kroger-deal",
                   "eng": "",
-                  "body": "US bond traders are looking to the coming CPI report and Fed nominee signals for clues on the central bank's rate path."
+                  "body": "Albertsons is seeking more than $9 billion from Kroger over the collapsed merger, escalating a legal fight between the grocery chains."
                 },
                 {
-                  "headline": "Xpeng Says It Can Quickly Adapt Car Autopilot Systems for Europe",
-                  "url": "https://www.bloomberg.com/news/articles/2026-10-11/xpeng-says-it-can-quickly-adapt-car-autopilot-systems-for-europe",
+                  "headline": "Supertankers Turn From Gulf Oil Transfer Hub Amid Iran's Attacks",
+                  "url": "https://www.bloomberg.com/news/articles/2026-10-12/supertankers-turn-from-gulf-oil-transfer-hub-amid-iran-s-attacks",
                   "eng": "",
-                  "body": "Chinese EV maker Xpeng said it can quickly adapt its car autopilot systems for European markets as it pushes overseas expansion."
+                  "body": "Supertankers are avoiding a key Gulf oil transfer hub as Iranian attacks on shipping escalate, threatening crude flows through the region."
                 }
               ]
             },
@@ -474,16 +474,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "Bond Selloff May Mean Fewer Rate Hikes From Global Central Banks",
-                  "url": "https://www.bloomberg.com/news/articles/2026-10-11/bond-selloff-may-mean-fewer-rate-hikes-from-global-central-banks",
+                  "headline": "AI's Giant Money Loop Is Drawing Foreign Cash Like 2008",
+                  "url": "https://www.bloomberg.com/news/features/2026-10-12/how-the-ai-boom-is-fueling-global-financial-risks",
                   "eng": "",
-                  "body": "A global bond selloff may reduce pressure on central banks to raise rates further, as tightening financial conditions do some of the work."
+                  "body": "A circular funding model is accelerating the AI boom while amplifying imbalances, reviving memories of the global financial crisis."
                 },
                 {
-                  "headline": "Private Credit Firms See Rare Growth Shortcut With BDCs for Sale",
-                  "url": "https://www.bloomberg.com/news/articles/2026-10-08/private-credit-firms-see-rare-growth-shortcut-with-bdcs-for-sale",
+                  "headline": "Fed's Hammack Says Smaller, Frequent Rate Adjustments Preferable",
+                  "url": "https://www.bloomberg.com/news/articles/2026-10-12/fed-s-hammack-says-smaller-frequent-rate-adjustments-preferable",
                   "eng": "",
-                  "body": "Private credit firms see a rare growth shortcut as business development companies come up for sale, offering scale in a crowded market."
+                  "body": "Cleveland Fed president Beth Hammack said smaller, more frequent interest-rate adjustments are preferable to large moves."
                 }
               ]
             }
@@ -497,10 +497,10 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "Ukraine Shrugs Off Trump Call to Ditch Zelensky for Energy Strikes",
-                  "url": "https://www.nytimes.com/2026/10/11/world/europe/trump-zelensky-diesel-energy-russia-.html",
+                  "headline": "Rebuking Ukraine Over Oil Strikes, Trump Says It Should 'Get a New President'",
+                  "url": "https://www.nytimes.com/2026/10/10/world/europe/ukraine-russia-trump-diesel-talks.html",
                   "eng": "",
-                  "body": "Ukraine shrugged off President Trump's call to replace Zelensky over energy strikes that the president blames for rising global energy prices."
+                  "body": "President Trump accused Ukraine of causing a 'world problem' with Russian refinery attacks and said it should replace President Zelensky."
                 },
                 {
                   "headline": "Trump Administration Hits International Criminal Court With Severe Sanctions",
@@ -554,16 +554,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "Pentagon raises official toll of troops who died during war with Iran to 21",
-                  "url": "https://www.washingtonpost.com/national-security/2026/10/10/pentagon-raises-official-toll-troops-killed-during-war-with-iran-21/",
+                  "headline": "Trump hits International Criminal Court with sanctions after Nobel goes to former judge",
+                  "url": "https://www.washingtonpost.com/world/2026/10/09/trump-hits-international-criminal-court-with-new-us-sanctions/",
                   "eng": "",
-                  "body": "The Pentagon raised the official toll of U.S. troops who died during the war with Iran to 21 after lawmakers pressed for corrected numbers."
+                  "body": "The sanctions are aimed at cutting the ICC off from the global financial system and include threats of punishment for countries that do business with the court."
                 },
                 {
-                  "headline": "12 killed, hundreds injured in Saudi Arabia airport attack as Houthi strikes intensify",
-                  "url": "https://www.washingtonpost.com/world/2026/10/10/saudi-arabia-faces-new-level-peril-houthi-attacks-amid-wider-iran-war/",
+                  "headline": "Trump announces diesel deal with Russia in bid to lower prices",
+                  "url": "https://www.washingtonpost.com/politics/2026/10/09/trump-says-putin-will-export-diesel-bid-lower-prices/",
                   "eng": "",
-                  "body": "At least 12 people were killed and hundreds injured in an attack on the Riyadh airport as Houthi strikes intensified amid a wider Iran war."
+                  "body": "The deal aligns the U.S. with Russia and against Ukraine's efforts to bomb Russian refineries, drawing criticism at home and abroad."
                 }
               ]
             },
@@ -571,16 +571,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "Trump's Zelensky attack, Russia diesel deal draw criticism in U.S. and abroad",
-                  "url": "https://www.washingtonpost.com/world/2026/10/11/trumps-zelensky-attack-russia-diesel-deal-draw-criticism-us-abroad/",
+                  "headline": "Iran scales up Hormuz attacks, raising pressure on Trump as midterms near",
+                  "url": "https://www.washingtonpost.com/world/2026/10/08/iran-scales-up-hormuz-attacks-raising-pressure-trump-midterms-near/",
                   "eng": "",
-                  "body": "President Trump's attacks on Zelensky and a deal to let Russia ship diesel to the U.S. drew criticism at home and abroad."
+                  "body": "Oil shipments have slowed in the face of Iranian attacks after President Trump celebrated restored flows, a level of violence not seen for months."
                 },
                 {
-                  "headline": "Trump says Ukraine should 'get a new president' after U.S.-Russia diesel deal",
-                  "url": "https://www.washingtonpost.com/politics/2026/10/10/trump-says-ukraine-should-get-new-president-after-us-russia-diesel-deal/",
+                  "headline": "Navi Pillay, leading human rights jurist, awarded Nobel Peace Prize",
+                  "url": "https://www.washingtonpost.com/world/2026/10/09/navi-pillay-wins-nobel-peace-prize/",
                   "eng": "",
-                  "body": "President Trump said Ukraine should 'get a new president' after announcing a diesel deal with Russia that has alarmed allies."
+                  "body": "The trailblazing South African human rights lawyer and ICC judge was recognized for her work ensuring war crimes are prosecuted."
                 }
               ]
             },
@@ -588,16 +588,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "Trump showers voters with checks and tax relief in final sprint to midterms",
-                  "url": "https://www.washingtonpost.com/business/2026/10/10/president-donald-trump-seeks-break-through-with-economically-weary-voters/",
+                  "headline": "PAC linked to GOP firm is boosting Ohio socialist in Senate race",
+                  "url": "https://www.washingtonpost.com/politics/2026/10/12/pac-linked-gop-firm-is-boosting-ohio-socialist-greg-levy-senate-race/",
                   "eng": "",
-                  "body": "President Trump is showering voters with checks and tax relief in a final sprint to the midterms, seeking a breakthrough with economically weary voters."
+                  "body": "A political action committee with ties to a GOP firm is boosting a socialist candidate in Ohio's Senate race, an unusual midterm gambit."
                 },
                 {
-                  "headline": "These are the voters who will decide the midterm elections",
-                  "url": "https://www.washingtonpost.com/politics/interactive/2026/10/11/these-are-voters-who-will-decide-midterm-elections/",
+                  "headline": "Pope Leo XIV will have surgery to remove nodule on his lung, Vatican says",
+                  "url": "https://www.washingtonpost.com/world/2026/10/11/pope-will-have-surgery-remove-nodule-his-lung-vatican-says/",
                   "eng": "",
-                  "body": "The Washington Post profiles the swing voters who will decide control of Congress in the November midterm elections."
+                  "body": "The Vatican said Pope Leo XIV will undergo surgery to remove a nodule found on his lung."
                 }
               ]
             }
@@ -611,10 +611,10 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "Missile strike on Riyadh airport kills 12 and injures hundreds",
-                  "url": "https://www.ft.com/content/391ddf3f-b233-41fd-819b-fcdbfb0ed010",
+                  "headline": "Wall Street banks launch record $60bn chip deal for Broadcom and Anthropic",
+                  "url": "https://www.ft.com/content/5b9c8ce3-d07c-46f9-8cea-cbc4e7f8ccca",
                   "eng": "",
-                  "body": "A missile strike on Riyadh airport killed 12 people and injured hundreds, deepening regional turmoil over the Strait of Hormuz."
+                  "body": "Bank of America, Citigroup and Morgan Stanley began offloading a $60bn debt package funding Anthropic's lease of Google chips, the largest chip-financing deal to date."
                 },
                 {
                   "headline": "Trump agrees deal with Putin for Russia to release diesel",
@@ -628,10 +628,10 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "Nvidia in talks to acquire US 'open' model start-up Reflection AI",
-                  "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
+                  "headline": "Anthropic in chips deals with Google and Broadcom worth hundreds of billions",
+                  "url": "https://www.ft.com/content/28757ce7-0d9f-4ffb-bb91-16dc83f2cf6a",
                   "eng": "",
-                  "body": "Nvidia is in talks to acquire US open-model start-up Reflection AI, which the Trump administration hopes will rival cheap Chinese alternatives such as DeepSeek."
+                  "body": "Anthropic has struck chip deals with Google and Broadcom worth hundreds of billions of dollars, deepening its AI infrastructure spending."
                 },
                 {
                   "headline": "US 10-year Treasury yields risk hitting 6% for first time since 2000, Pimco says",
