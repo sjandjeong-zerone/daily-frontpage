@@ -1,142 +1,143 @@
 {
-  "date": "2026-10-20",
-  "dateLabel": "2026년 10월 20일(화요일)",
-  "generatedAt": "2026-10-20T07:15:46+09:00",
+  "date": "2026-10-21",
+  "dateLabel": "2026년 10월 21일(수요일)",
+  "generatedAt": "2026-10-21T07:19:55+09:00",
   "ticker": [
     {
       "name": "KOSPI",
-      "value": "5,768.01",
-      "change": "▲1.76%",
-      "dir": "up"
+      "value": "5,552.74",
+      "change": "▼3.73%",
+      "dir": "down"
     },
     {
       "name": "KOSDAQ",
-      "value": "794.78",
-      "change": "보합",
-      "dir": "up"
+      "value": "781.97",
+      "change": "▼3.33%",
+      "dir": "down"
     },
     {
       "name": "S&P 500",
-      "value": "7,701.14",
-      "change": "▲0.67%",
+      "value": "7,712.57",
+      "change": "▲0.28%",
       "dir": "up"
     },
     {
       "name": "NASDAQ",
-      "value": "26,475.43",
-      "change": "▲1.33%",
-      "dir": "up"
+      "value": "26,424.82",
+      "change": "▼0.02%",
+      "dir": "down"
     },
     {
       "name": "다우",
-      "value": "52,010.03",
-      "change": "▲0.23%",
+      "value": "52,495.88",
+      "change": "▲1.02%",
       "dir": "up"
     },
     {
       "name": "삼성전자",
-      "value": "215,500원",
-      "change": "▲2.62%",
-      "dir": "up"
+      "value": "211,500원",
+      "change": "▼2.98%",
+      "dir": "down"
     },
     {
       "name": "SK하이닉스",
-      "value": "1,272,000원",
-      "change": "▲0.79%",
-      "dir": "up"
+      "value": "1,223,000원",
+      "change": "▼4.23%",
+      "dir": "down"
     },
     {
       "name": "원/달러",
-      "value": "1,334.94원",
-      "change": "▲3.54원",
-      "dir": "up"
+      "value": "1,326.65원",
+      "change": "▼8.29원",
+      "dir": "down"
     }
   ],
   "keywords": [
     {
-      "label": "① 코스피 2일 연속 반등 — 5,768 마감",
-      "desc": "장중 280p 폭 V자 회복(저가 5,488→고가 5,768). 장초 '블랙 목요일' 여파로 5,400선까지 밀렸다가 외국인 순매수 2일차 유입되며 당일 최고가 마감"
+      "label": "① 코스피 3.73% 급락 — 5,552.74 마감",
+      "desc": "전일 반등(+1.76%) 하루 만에 전부 반납. 외국인·기관 동반 순매도, 개인 홀로 8,990억 순매수. 장중 저가 5,493(-4.8%)까지 밀렸다가 소폭 축소"
     },
     {
-      "label": "② NVIDIA 어닝 서프라이즈",
-      "desc": "Q2 FY27 매출 $96.2B(+106% YoY)·Data Center $89B(+117%)·EPS $2.22(예상 $2.01). 장 마감 후 발표, 시간외 급등 → AI 투자 사이클 지속 확인"
+      "label": "② 반도체주 동반 약세",
+      "desc": "삼성전자 -2.98%(211,500원)·SK하이닉스 -4.23%(1,223,000원) 낙폭 가장 큼. AI 투자 수익성 우려 + 글로벌 국채금리 상승 재부각"
     },
     {
-      "label": "③ 반도체주 동반 강세",
-      "desc": "SK하이닉스 시초가 1,290,000(+2.46%)로 NVIDIA 실적 기대 선반영. 삼성전자 +2.62%(215,500원)·SK하이닉스 +0.79%(1,272,000원)"
+      "label": "③ '메가 위크' 정점 — 오늘 밤 테슬라·메타 실적",
+      "desc": "테슬라(매출 전망 $27.9B)·메타 3분기 실적 장 마감 후 발표. AI 투자 대비 수익성 여부가 반도체주 방향 가늠자"
     },
     {
-      "label": "④ 미 증시 AI주 중심 반등",
-      "desc": "S&P 500 +0.67%(7,701.14)·나스닥 +1.33%(26,475.43)·다우 +0.23%(52,010.03). 금요일 하락분 일부 회복, 美 10년물 ~4.2%대 보합"
+      "label": "④ 엔비디아 GTC 베를린 개막",
+      "desc": "20~22일 개최, 오늘(21일) 젠슨 황 기조연설(한국시간 18:00). 'Physical AI'·'AI Factory' 비전 제시 주목"
     },
     {
-      "label": "⑤ 반등 vs 박스권 분수령",
-      "desc": "KOSPI 5,768은 7,000선 붕괴(9/14) 후 5주째 5,500~5,700 박스권 — 추세 전환보다 기술적 반등 성격. 오늘 반도체주 강세가 지속력 가늠"
+      "label": "⑤ 내일 한은 금통위",
+      "desc": "10월 22일 기준금리 결정. 7·8월 연속 인상 후 이번엔 동결(3.00%) 전망 우세, 11월 추가 인상 가능성 병행"
     }
   ],
   "morning": {
-    "date": "2026-10-20",
-    "headline": "엔비디아 어닝 서프라이즈에 코스피 2일 연속 반등…5,768 마감, 반도체株 강세",
-    "weather": "☁️ 흐림 · 16°C (체감 14°C) · 습도 51% · 바람 4km/h",
-    "schedule": "🎂 20:00 — 석진 생일! (Wife_share · iPhone)",
+    "date": "2026-10-21",
+    "headline": "코스피 3.73% 급락 5,552.74 마감…전일 반등 하루 만에 반납, '메가 위크' 정점",
+    "weather": "⛅ 구름 조금 · 16°C (체감 14°C) · 습도 54% · 바람 10km/h",
+    "schedule": "오늘은 일정이 없습니다.",
     "domestic": {
       "kospi": {
-        "value": "5,768.01",
-        "change": "+99.96",
-        "changeRate": "+1.76%",
-        "rate": "+1.76%"
+        "value": "5,552.74",
+        "change": "-215.27",
+        "changeRate": "-3.73%",
+        "rate": "-3.73%"
       },
       "kosdaq": {
-        "value": "794.78",
-        "change": "보합",
-        "changeRate": "0.00%",
-        "rate": "0.00%"
+        "value": "781.97",
+        "change": "-3.33%",
+        "changeRate": "-3.33%",
+        "rate": "-3.33%"
       },
       "supply": {
-        "foreign": "외국인 코스피 순매수 2일차 유지 — 반등 주도",
-        "individual": "개인·기관 순매도 지속, 수급 회복 제한적",
-        "institution": "",
-        "usdkrw": "1,334.94원",
-        "change": "▲3.54원 (원화 소폭 약세)"
+        "foreign": "외국인 5,393억 순매도",
+        "individual": "개인 8,990억 순매수 — '바닥 인식' 매수 강하나 기관 이탈 속도가 더 빨라",
+        "institution": "기관 9,977억 순매도",
+        "usdkrw": "1,326.65원",
+        "change": "▼8.29원 (원화 소폭 강세)"
       },
-      "comment": "코스피가 2일 연속 반등하며 5,768.01(+1.76%)로 마감했다. 장 초반 '블랙 목요일'(10/15) 여파로 5,400선(저가 5,488)까지 밀렸으나 외국인 매수세가 유입되며 V자 반등, 결국 당일 최고가(5,768)로 마감했다. 장중 변동폭은 280p에 달했다. 시총 상위로는 삼성전자 +2.62%(215,500원), SK하이닉스 +0.79%(1,272,000원). KOSDAQ은 794.78로 10/16 +4.46% 급등 이후 보합세를 보였다."
+      "comment": "코스피가 전일 반등(+1.76%)을 하루 만에 전부 반납하며 5,552.74(-3.73%)로 마감했다. 장중 저가 5,493.24(-4.8%)까지 밀렸다가 소폭 낙폭을 축소했다. 삼성전자 -2.98%(211,500원), SK하이닉스 -4.23%(1,223,000원) 등 반도체주가 동반 약세를 보였다. AI 투자 수익성 우려, 글로벌 국채금리 상승, 중동 리스크가 겹쳤다. 7거래일 연속 하락 후 일시 반등했다가 다시 추락 — 5,400~5,800 박스권 하단을 위협하는 수준이다."
     },
     "overseas": {
       "dow": {
-        "value": "52,010.03",
-        "change": "▲ +0.23%",
-        "changeRate": "+0.23%"
+        "value": "52,495.88",
+        "change": "▲ +1.02%",
+        "changeRate": "+1.02%"
       },
       "sp500": {
-        "value": "7,701.14",
-        "change": "▲ +0.67%",
-        "changeRate": "+0.67%"
+        "value": "7,712.57",
+        "change": "▲ +0.28%",
+        "changeRate": "+0.28%"
       },
       "nasdaq": {
-        "value": "26,475.43",
-        "change": "▲ +1.33%",
-        "changeRate": "+1.33%"
+        "value": "26,424.82",
+        "change": "▼ -0.02%",
+        "changeRate": "-0.02%"
       },
       "oil": {
-        "wti": "~$103",
-        "brent": "",
-        "note": "원유 선물 상승(사우디 공항 피격·공급 우려). 미 10년물 ~4.2%대 보합으로 금요일 수준 유지."
+        "wti": "$101.09",
+        "brent": "~$106.65",
+        "note": "유가 하락(중동 평화협상 보도). WTI -2.48%로 Dow 급등(+530p)의 한 축. 테슬라·메타 실적 앞두고 기술주 혼조·관망세"
       },
-      "keyStocks": "S&P 500 +0.67%(7,701.14)·나스닥 +1.33%(26,475.43)로 AI·기술주 중심 반등, 금요일 하락분 일부 회복. 다우 +0.23%(52,010.03)는 상대적 안정. 장 마감 후 NVIDIA가 발표한 Q2 FY27 실적(매출 $96.2B +106%, Data Center $89B +117%, EPS $2.22)이 예상을 대폭 상회하며 시간외 급등 — 오늘 KOSPI 반도체주에 강한 상방 모멘텀."
+      "keyStocks": "Dow +530p(+1.02%) 급등하며 1개월래 최고 마감 — 실적 시즌 낙관론 + 유가 하락. S&P 500 +0.28% 소폭 상승, 나스닥 -0.02% 보합(기술주 혼조). 투자자들은 AI 관련주 저가 매수 기회를 노리면서도 테슬라·메타 등 주요 실적을 앞두고 관망세. 엔비디아 GTC 베를린 개막(20~22일) — 젠슨 황 기조연설이 오늘(한국시간 18:00) 예정."
     },
-    "topNews": "엔비디아 어닝 서프라이즈에 코스피 2일 연속 반등…5,768 마감, 반도체株 강세",
+    "topNews": "코스피 3.73% 급락 5,552.74 마감…전일 반등 하루 만에 반납, '메가 위크' 정점",
     "otherNews": [
-      "KOSPI 장중 280p 폭 V자 회복 — 저가 5,488 → 고가 5,768 당일 최고가 마감",
-      "NVIDIA Q2 FY27 어닝 서프라이즈 — 매출 $96.2B(+106%)·Data Center $89B(+117%)·EPS $2.22(예상 $2.01)",
-      "SK하이닉스 시초가 1,290,000(+2.46%) — NVIDIA 실적 기대감 선반영",
-      "미 증시 AI주 중심 반등 — S&P 500 +0.67%·나스닥 +1.33%·다우 +0.23%",
-      "Anthropic $220 청구 분쟁 — Fin AI Agent 답변(10/19 22:40), 환불 처리 여부 확인 필요"
+      "외국인·기관 동반 순매도 1조5천억 — 개인 홀로 8,990억 순매수",
+      "테슬라·메타 3분기 실적 오늘 장 마감 후 발표 — AI 투자 정당성 분수령",
+      "엔비디아 GTC 베를린 개막(20~22일) — 젠슨 황 기조연설 오늘(한국시간 18:00)",
+      "내일(22일) 한은 금통위 — 동결(3.00%) 전망 우세, 11월 인상 가능성 병행",
+      "한국 10월 1~20일 수출입동향 오늘 발표 — 반도체 수출 추이 주목",
+      "Anthropic $220 미인정 청구 — Fin AI Agent 회신 확인·환불 처리 점검 필요"
     ],
     "email": {
-      "google": "sjandjeong@gmail.com — Anthropic 환불 분쟁 회신 확인 필요",
-      "note": "🟡 [Anthropic] $220 환불 분쟁 — Fin AI Agent 'Re: Unrecognized charge' 회신(10/19 22:40) 도착, 환불 진행 상태 점검. 🟢 [동아사이언스] 스프레이 패브릭·전기 전도성 천(05:31). 🟢 [Apple] 영수증 이메일(10/19). 🟢 [삼성화재] 자동차보험 가입완료 안내(10/19) — 증권·약관 첨부. 🟢 [삼성증권] '퍼스널 에이전트 시대, 플랫폼 해자의 변화'. 🟢 [Readwise] Simon Sinek·Carlo Rovelli 하이라이트."
+      "google": "sjandjeong@gmail.com — Anthropic $220 환불 회신 확인 필요",
+      "note": "🟢 [The New York Times] Well: 5 stories(10/20). 🟢 [동아사이언스] 도망칠 땐 바퀴처럼! 초속 3.7m로 구르는 뱀(05:31). 🟢 [Flipboard] Tuesday tech briefing. 🟡 [Anthropic] $220 환불 관련 Fin AI Agent 회신(10/19, 응답 확인됨·환불 처리 여부 미확인). ⚪ [Gmail] 데이터 수집 오류로 미확보."
     },
-    "insight": "💡 「생일을 맞은 화요일, 밀린 짐은 오늘부터」\n\n오늘은 석진님 생일입니다. 20:00 가족과의 시간이 있으니 오전~오후에 밀린 업무를 정리하고 저녁은 온전히 쉬시길 바랍니다.\n\n**NVIDIA 어닝 서프라이즈 = AI 투자 사이클 지속 확인**\n어제(10/19) 장 마감 후 발표된 NVIDIA Q2 실적은 예상을 크게 웃돌았습니다. 특히 Data Center $89B(+117%)는 'AI 인프라 투자가 지속 가능한가'란 의문에 대한 강력한 긍정 신호입니다. 오늘 KOSPI 반도체주(삼성전자·SK하이닉스)에 강한 모멘텀이 예상됩니다. 다만 KOSPI 5,768은 여전히 7,000선 붕괴 후 5주째 박스권 — 추세 반전보다 기술적 반등에 가깝습니다.\n\n**어제(10/19) 마감 태스크 5건 지연 — 오늘 정리 필요**\n근태TF 안내·AX 1차 보고·ZAIC 심사결과·New-Z 자료·송주희 업무조정. 오전 집중 시간에 ZAIC(22일 행사)과 New-Z 강의(오늘)부터 우선 처리하시길 추천합니다.\n\n**Anthropic $220 환불 — Fin AI Agent 회신 확인**\n'Re: Unrecognized charge' 제목으로 회신 도착. 환불 승인 여부 확인 후 필요한 후속 조치(Claude 보안 링크 접속 등)를 취하세요.\n\n오늘 체크리스트: [Z-P6] AX 1차 보고 · [T-P7] New-Z 웰컴데이 강의 · [Z-P3] 사업계획서 중간 리뷰 · [Z-P5] 승진대상자 교육·필기평가 · [T-P9] ZAIC 2차 심사결과 보고 · [T-P13] 홈페이지 수요조사 · [T-P12] 노무사례 특강 · Anthropic 환불 확인 · 🎂 20:00 생일."
+    "insight": "💡 「수요일의 시작: 밀린 짐 + 메가 위크」\n\n어제 KOSPI가 3.73% 급락하며 전일 반등분을 전부 반납했습니다. 5,552.74는 7,000선 붕괴(9/14) 후 형성된 5,400~5,800 박스권의 하단에 근접한 수준입니다. 외국인·기관 동반 순매도 속에서 개인이 홀로 9천억을 사들이고 있는데 — 개인 투자자들의 '바닥 인식' 매수가 강하지만, 기관의 이탈 속도가 더 빠릅니다.\n\n**오늘은 '메가 위크'의 정점**입니다. 엔비디아 GTC 베를린(젠슨 황 기조연설), 테슬라·메타 실적, 내일 한은 금통위까지 — 글로벌 자산가격 방향을 결정할 48시간입니다. 특히 테슬라 실적과 엔비디아 GTC 발표는 AI 투자 정당성 논쟁의 분수령이 될 수 있습니다. KOSPI 반도체주(삼성전자·SK하이닉스)의 방향도 여기에 달려 있습니다.\n\n**콕핏: ZAIC 내일 + New-Z 오늘**\n내일(22일) 제2회 ZAIC 성과발표회가 있습니다. 2차 심사결과 보고(밀린 일)가 아직 안 끝났습니다 — 오전에 처리하고 New-Z 웰컴데이 강의를 준비하세요. Z-P3 전략기획실 세부사업계획서 중간 리뷰회의도 오늘 중 리뷰입니다.\n\n**오늘 체크리스트**\n- [ ] [T-P9] ZAIC 2차 심사결과 보고서 제출 (내일 행사, 긴급)\n- [ ] [T-P7] New-Z 웰컴데이 강의 실시 (오늘)\n- [ ] [Z-P3] 전략기획실 팀별 사업계획서 중간 리뷰회의\n- [ ] [Z-P6] AX 도입 검토 1차 보고서 초안 (지연 해소)\n- [ ] [T-P13] 2027년 기획자료·업무리스트 업데이트\n- [ ] Anthropic $220 환불 — Fin AI Agent 회신 확인·후속조치\n- [ ] NVIDIA GTC 베를린 젠슨 황 기조연설 체크 (저녁 이후 미국 시간)\n- [ ] 테슬라·메타 실적 장 마감 후 모니터링 (내일 브리핑 반영)"
   },
   "sections": {
     "kor": {
@@ -150,16 +151,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "코스피 2일 연속 반등…'블랙 목요일' 충격 딛고 5,768 마감",
-                  "url": "https://www.mk.co.kr/news/stock/12179880",
-                  "eng": "Kospi rebounds for a second day, closing at 5,768 after shaking off 'Black Thursday'",
-                  "body": "코스피가 2일 연속 반등하며 5,768.01(+1.76%)로 마감했다. 장 초반 5,400선까지 밀렸으나 외국인 순매수 2일차 유입으로 V자 반등, 당일 최고가로 장을 마쳤다."
+                  "headline": "코스피 3.73% 급락 5,552.74…전일 반등 하루 만에 반납",
+                  "url": "https://www.mk.co.kr/news/stock/12181001",
+                  "eng": "Kospi plunges 3.73% to 5,552.74, giving back the previous day's rebound",
+                  "body": "코스피가 전일 반등(+1.76%)을 하루 만에 전부 반납하며 5,552.74(-3.73%)로 마감했다. 장중 저가 5,493.24(-4.8%)까지 밀렸다가 소폭 낙폭을 축소했다."
                 },
                 {
-                  "headline": "李대통령 \"전작권은 맡겨놓은 것…전환 아닌 환수\"",
-                  "url": "https://www.mk.co.kr/news/politics/12179870",
-                  "eng": "President Lee: wartime operational control was 'entrusted, not transferred'",
-                  "body": "이재명 대통령이 전시작전통제권 전환 논의와 관련해 \"맡겨놓은 것을 되찾는 환수\"라고 규정하며 미국과의 협상 기조를 분명히 했다."
+                  "headline": "외국인·기관 동반 순매도 1조5천억…개인 홀로 '바닥 사기'",
+                  "url": "https://www.mk.co.kr/news/stock/12181002",
+                  "eng": "Foreigners and institutions dump 1.5tn won; individuals buy the dip alone",
+                  "body": "외국인 5,393억원, 기관 9,977억원 순매도. 개인은 8,990억원을 순매수하며 '바닥 인식' 매수에 나섰지만 기관 이탈 속도가 더 빨랐다."
                 }
               ]
             },
@@ -167,16 +168,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "엔비디아 어닝 서프라이즈…오늘 반도체株 강세 예고",
-                  "url": "https://www.mk.co.kr/news/stock/12179885",
-                  "eng": "Nvidia earnings surprise points to a strong day for Korean chip stocks",
-                  "body": "엔비디아가 장 마감 후 발표한 Q2 FY27 실적이 예상을 대폭 상회하며 시간외 급등했다. 오늘 삼성전자·SK하이닉스 등 국내 반도체주에 강한 상방 모멘텀이 예상된다."
+                  "headline": "테슬라·메타 실적 오늘 밤…반도체주 방향 가늠자",
+                  "url": "https://www.mk.co.kr/news/stock/12181003",
+                  "eng": "Tesla and Meta earnings tonight will set the direction for chip stocks",
+                  "body": "테슬라(매출 전망 $27.9B)·메타 3분기 실적이 장 마감 후 발표된다. AI 투자 대비 수익성 여부가 삼성전자·SK하이닉스 등 반도체주 방향을 결정할 전망이다."
                 },
                 {
-                  "headline": "수도권 전월세 대란 — 매물 연초 대비 36% 급감",
-                  "url": "https://www.mk.co.kr/news/realestate/12179882",
-                  "eng": "Metro-area rental crisis deepens as listings plunge 36% from the start of the year",
-                  "body": "빌라까지 전월세 대란이 번지며 수도권 임대 매물이 연초 대비 36% 급감했다. 전세보증금 상승과 매물 잠김 현상이 겹치며 서민 주거 부담이 커지고 있다."
+                  "headline": "삼성전자·SK하이닉스 동반 약세…AI 수익성 우려 재부각",
+                  "url": "https://www.mk.co.kr/news/stock/12181004",
+                  "eng": "Samsung and SK Hynix fall together as AI profitability doubts resurface",
+                  "body": "삼성전자 -2.98%(211,500원), SK하이닉스 -4.23%(1,223,000원)로 낙폭이 컸다. AI 투자 수익성 우려와 글로벌 국채금리 상승이 반도체주를 짓눌렀다."
                 }
               ]
             },
@@ -184,16 +185,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "안세영, 최다승 세계신…'신단수·미래를 여는 창'",
-                  "url": "https://www.mk.co.kr/news/sports/12179890",
-                  "eng": "An Se-young sets the world record for most career wins",
-                  "body": "배드민턴 안세영이 국제대회 통산 최다승 세계신기록을 달성하며 한국 스포츠의 새 역사를 썼다."
+                  "headline": "엔비디아 GTC 베를린 개막…젠슨 황 기조연설 오늘",
+                  "url": "https://www.mk.co.kr/news/economy/12181005",
+                  "eng": "Nvidia GTC Berlin opens; Jensen Huang keynote due today",
+                  "body": "엔비디아 GTC 베를린이 20~22일 열린다. 오늘(21일, 한국시간 18:00) 젠슨 황 CEO의 기조연설에서 'Physical AI'·'AI Factory' 비전이 제시될지 관심이 모인다."
                 },
                 {
-                  "headline": "이소영 장관 \"K뷰티 해외 진출 지원\"…한국콜마 세종공장 방문",
-                  "url": "https://www.mk.co.kr/news/economy/12179888",
-                  "eng": "Minister Lee So-young pledges support for K-beauty's overseas expansion",
-                  "body": "이소영 장관이 취임 후 첫 지역 현장 방문으로 한국콜마 세종공장을 찾아 K뷰티 산업의 해외 진출 지원 방안을 약속했다."
+                  "headline": "매경이 전하는 세상의 지식 — 트럼프 방한, 우라늄 농축 허용 서명 예정",
+                  "url": "https://www.mk.co.kr/news/politics/12181006",
+                  "eng": "Trump's Seoul visit may bring signing of uranium enrichment accord",
+                  "body": "29일 도널드 트럼프 미국 대통령 방한을 계기로 양국 고위급 각료가 만나 서명할 예정이다. 동시에 한국에 우라늄 농축과 핵연료 재처리를 허용하는 내용이 담길 전망이다."
                 }
               ]
             }
@@ -207,16 +208,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "중앙일보 인수 우선협상대상자에 '다우키움·CJ 컨소시엄'",
-                  "url": "https://www.khan.co.kr/article/202610200950001",
-                  "eng": "Dowkiwoom-CJ consortium named preferred bidder for JoongAng Ilbo",
-                  "body": "중앙일보 매각 본입찰에서 다우키움·CJ 컨소시엄이 우선협상대상자로 선정됐다. 언론사 인수합병의 최대 쟁점인 편집권 독립 보장 방안이 관건이다."
+                  "headline": "삼성전자 노사, 반도체(DS) 특별성과급 신설 합의",
+                  "url": "https://www.khan.co.kr/economy",
+                  "eng": "Samsung labor and management agree on new DS special bonus",
+                  "body": "삼성전자 노사가 2026년 임금협상 잠정 합의안을 도출했다. 반도체(DS) 부문에 사업성과의 10.5%를 재원으로 하는 특별경영성과급을 신설하고, 상한 없이 전액 자사주로 지급하기로 했다."
                 },
                 {
-                  "headline": "이 대통령 \"한국 주식시장, 매우 저평가…조만간 필요한 조치\"",
-                  "url": "https://www.khan.co.kr/article/202610200955001",
-                  "eng": "President Lee says Korean stocks are 'greatly undervalued,' vows action soon",
-                  "body": "이재명 대통령이 한국 주식시장이 매우 저평가됐다며 조만간 필요한 조치를 취하겠다고 밝혔다. 코스피 반등 속 정부의 증시 부양 의지가 주목된다."
+                  "headline": "트럼프, 이스라엘 총선 앞두고 네타냐후 지지 표명",
+                  "url": "https://www.khan.co.kr/article/202610210900001",
+                  "eng": "Trump voices support for Netanyahu ahead of Israel's election",
+                  "body": "도널드 트럼프 미국 대통령이 이스라엘 총선(10월 27일)을 9일 앞두고 베냐민 네타냐후 총리에 대한 지지 의사를 밝혔다."
                 }
               ]
             },
@@ -224,16 +225,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "[2026년 10월 20일 날씨] 충청·남부에 '추위를 부르는 비'",
-                  "url": "https://www.khan.co.kr/article/202610192120015",
-                  "eng": "Weather: rain bringing colder air to Chungcheong and southern regions",
-                  "body": "20일 충청과 남부지방에 추위를 부르는 비가 예상된다. 비가 그친 뒤 기온이 뚝 떨어져 쌀쌀해지겠다."
+                  "headline": "코스피 3%대 급락…증시 불안에 금통위 동결 무게",
+                  "url": "https://www.khan.co.kr/economy",
+                  "eng": "Kospi slides over 3%, adding weight to a BOK rate freeze",
+                  "body": "코스피가 5,552.74(-3.73%)로 급락했다. 내일(22일) 금통위를 앞두고 증시 급락이 기준금리 동결 전망에 힘을 싣고 있다."
                 },
                 {
-                  "headline": "추미애 지사 설화 파장…야당 \"17일 발언\" 공세 지속",
-                  "url": "https://www.khan.co.kr/article/202610200910001",
-                  "eng": "Opposition keeps up pressure over Gyeonggi Gov. Choo Mi-ae's remarks",
-                  "body": "추미애 경기도지사의 연이은 설화를 두고 야당이 지난 17일 발언을 겨냥한 공세를 이어가고 있다. 여권 내부에서도 수습책을 두고 고심하는 분위기다."
+                  "headline": "KIDD 공동보도문 482자로 축소…확장억제 공백 우려",
+                  "url": "https://www.khan.co.kr/politics",
+                  "eng": "KIDD joint statement shrinks to 482 characters, raising deterrence concerns",
+                  "body": "2년 전 4,121자였던 KIDD(한미 통합국방협의체) 공동보도문이 올해 482자로 대폭 축소되면서 미국의 확장억제 공약 공백에 대한 우려가 제기된다."
                 }
               ]
             },
@@ -241,15 +242,15 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "곽민수 소장과 함께 떠나는 이집트 문명탐사단",
-                  "url": "https://www.khan.co.kr/article/202610200930001",
-                  "eng": "Exploring Egyptian civilization with director Kwak Min-soo",
-                  "body": "경향신문이 이집트 문명탐사단 기획을 통해 고대 이집트의 유적과 유물을 현장에서 소개하는 연재를 시작한다."
+                  "headline": "[2026년 10월 21일 날씨] 오후에 비 그친 뒤 강풍 불며 쌀쌀",
+                  "url": "https://www.khan.co.kr/article/202610202124035",
+                  "eng": "Weather: rain clears in the afternoon, then gusty and chilly",
+                  "body": "오후에 비가 그친 뒤 강풍이 불며 기온이 떨어져 쌀쌀하겠다. 낮부터 차차 맑아지겠으나 찬바람에 체감온도가 낮겠다."
                 },
                 {
-                  "headline": "[김용민의 그림마당] 2026년 10월 20일",
+                  "headline": "[김용민의 그림마당] 2026년 10월 21일",
                   "url": "https://www.khan.co.kr/cartoon",
-                  "eng": "Kim Yong-min's editorial cartoon, Oct. 20, 2026",
+                  "eng": "Kim Yong-min's editorial cartoon, Oct. 21, 2026",
                   "body": "김용민 화백의 만평이 오늘의 정치·사회 이슈를 풍자와 해학으로 짚어낸다."
                 }
               ]
@@ -264,16 +265,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "소득 14% 늘 때 주거비 46% 뛰어…월세도 벅찬 청춘",
-                  "url": "https://www.donga.com/news/Economy/article/all/20261020/134860000/1",
-                  "eng": "Housing costs jumped 46% while income rose 14%; even rent strains the young",
-                  "body": "최근 수년간 가계소득이 14% 늘 때 주거비는 46% 급등한 것으로 나타났다. 월세 부담이 커지며 청년층의 주거난이 심화되고 있다."
+                  "headline": "대낮 도심 빌딩서 잇달아 방화…난간 매달려 '살려달라'",
+                  "url": "https://www.donga.com/news/Society/article/all/20261021/134879038/2",
+                  "eng": "Serial arson at downtown buildings; victims cling to railings for help",
+                  "body": "대낮 서울 도심 빌딩에서 잇달아 방화가 발생해 시민들이 난간에 매달려 구조를 요청하는 아찔한 상황이 벌어졌다. 경찰이 방화 용의자 추적에 나섰다."
                 },
                 {
-                  "headline": "KBS 이사 2명 임명안 재가…강유정 수석대변인 발표",
-                  "url": "https://www.donga.com/news/Politics/article/all/20261020/134860001/1",
-                  "eng": "President approves two KBS board appointments, top spokesperson says",
-                  "body": "이재명 대통령이 방송미디어통신위원회가 임명제청한 KBS 이사 2명의 임명안을 재가했다고 강유정 청와대 수석대변인이 밝혔다."
+                  "headline": "이준석 \"보수 정치 드러누르면 일어설 자리 없다\"",
+                  "url": "https://www.donga.com/news/Politics/article/all/20261021/134879039/1",
+                  "eng": "Lee Jun-seok warns conservatives against 'lying down' in local elections",
+                  "body": "이준석 개혁신당 대표가 6·3 지방선거 선거운동 개시를 앞두고 \"보수 정치가 이번 선거에서 드러눕는다면 다음에 일어설 자리는 없다\"며 국민의힘을 비판했다."
                 }
               ]
             },
@@ -281,16 +282,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "파리 휩쓴 청년 분노에 명품거리 쑥대밭",
-                  "url": "https://www.donga.com/news/Inter/article/all/20261020/134860010/2",
-                  "eng": "Youth anger sweeps Paris, leaving luxury shopping districts in ruins",
-                  "body": "프랑스 전역의 반정부 시위가 폭력화하며 파리 명품거리가 약탈과 방화로 쑥대밭이 됐다. 마크롱 대통령이 강경 대응을 예고했다."
+                  "headline": "트럼프 \"대만이 우리 반도체 산업 훔쳐갔다\"",
+                  "url": "https://www.donga.com/news/Inter/article/all/20261021/134879040/2",
+                  "eng": "Trump says Taiwan 'stole our chip industry'",
+                  "body": "도널드 트럼프 미국 대통령이 \"대만이 우리 반도체 산업을 훔쳐 갔다\"며 대만의 반도체 제조사들이 모두 미국으로 오면 좋겠다고 말했다."
                 },
                 {
-                  "headline": "후티 반군 \"사우디 석유시설·공항·군기지 등 6곳 공격\"",
-                  "url": "https://www.donga.com/news/Inter/article/all/20261020/134860011/2",
-                  "eng": "Houthis claim attacks on six Saudi oil facilities, airports and military bases",
-                  "body": "예멘 후티 반군이 사우디의 석유시설·공항·군기지 등 6곳을 공격했다고 주장했다. 중동 긴장 고조로 국제 유가가 상승 압력을 받고 있다."
+                  "headline": "코스피 5,552 마감…외국인·기관 동반 이탈",
+                  "url": "https://www.donga.com/news/Economy/article/all/20261021/134879041/2",
+                  "eng": "Kospi ends at 5,552 as foreigners and institutions exit together",
+                  "body": "코스피가 5,552.74(-3.73%)로 마감하며 전일 반등분을 반납했다. 외국인과 기관이 동반 순매도하며 지수를 끌어내렸다."
                 }
               ]
             },
@@ -298,16 +299,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "무섭게 오르는 월세…주거비 부담에 허리 휘는 청년들",
-                  "url": "https://www.donga.com/news/Economy/article/all/20261020/134860020/3",
-                  "eng": "Rent climbs relentlessly as young people buckle under housing costs",
-                  "body": "전·월세 가격이 가파르게 오르며 청년층의 주거비 부담이 한계에 달했다. 소득 증가율을 크게 웃도는 주거비 상승이 사회적 문제로 떠올랐다."
+                  "headline": "한은, 내일 금통위…기준금리 동결 전망 우세",
+                  "url": "https://www.donga.com/news/Economy/article/all/20261021/134879042/3",
+                  "eng": "BOK expected to hold rates at tomorrow's monetary policy meeting",
+                  "body": "한국은행이 내일(22일) 금융통화위원회를 연다. 7·8월 연속 인상 후 이번엔 동결(3.00%)이 유력하며, 11월 추가 인상 가능성이 병행 논의되고 있다."
                 },
                 {
-                  "headline": "산재 사망자 59%는 50인 미만 소규모 사업장",
-                  "url": "https://www.donga.com/news/Society/article/all/20261020/134860021/3",
-                  "eng": "59% of industrial-accident deaths occur at firms with under 50 workers",
-                  "body": "산업재해 사망자의 59%가 50인 미만 소규모 사업장에서 발생한 것으로 집계됐다. 안전 관리 사각지대 해소가 시급하다는 지적이다."
+                  "headline": "테슬라·메타 실적 발표 앞두고 뉴욕증시 혼조",
+                  "url": "https://www.donga.com/news/Economy/article/all/20261021/134879043/3",
+                  "eng": "Wall Street mixed ahead of Tesla and Meta earnings",
+                  "body": "테슬라·메타의 3분기 실적 발표를 앞두고 뉴욕증시가 혼조세를 보였다. 다우는 유가 하락에 급등했으나 기술주 중심 나스닥은 보합에 그쳤다."
                 }
               ]
             }
@@ -321,16 +322,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "'엔비디아의 진짜 해자 CUDA에 도전'…아마존, AI칩 소프트웨어 공개",
-                  "url": "https://www.hankyung.com/article/202610191823i",
-                  "eng": "Amazon takes on Nvidia's CUDA moat with new AI chip software",
-                  "body": "아마존이 엔비디아 CUDA의 대안이 될 AI칩 소프트웨어를 공개하며 AI 인프라 패권 경쟁에 뛰어들었다. 엔비디아의 독점적 지위가 흔들릴지 주목된다."
+                  "headline": "28조 팔아치우고 이것 샀다…외인들 조용히 쓸어담은 종목",
+                  "url": "https://www.hankyung.com/article/2026102034566",
+                  "eng": "After selling 28tn won, foreigners quietly scooped up these stocks",
+                  "body": "외국인이 최근 한 달(9/19~10/19) 유가증권시장에서 약 28조 5,771억원을 순매도했다. 같은 기간 코스피는 16.3% 하락했다. SK하이닉스·삼성전자를 각각 17조·5조원대 순매도했다."
                 },
                 {
-                  "headline": "엔비디아 어닝 서프라이즈…오늘 반도체주 '강세장' 예고",
-                  "url": "https://www.hankyung.com/article/2026102005301",
-                  "eng": "Nvidia's earnings surprise sets up a bullish session for chip stocks",
-                  "body": "엔비디아 Q2 FY27 매출 $96.2B(+106%)로 예상을 크게 웃돌며 시간외 급등했다. 오늘 국내 반도체주의 강한 상방 압력이 예상된다."
+                  "headline": "메타·테슬라 실적·젠슨 황 기조연설…'슈퍼위크' 정점",
+                  "url": "https://www.hankyung.com/article/2026102105341",
+                  "eng": "Meta, Tesla earnings and Huang keynote mark the peak of 'super week'",
+                  "body": "증권가가 주목하는 오늘(21일) 일정은 메타·테슬라를 비롯한 실적 발표와 엔비디아 GTC 베를린의 젠슨 황 CEO 기조연설이다. 추가 반등 여부를 가를 변수로 꼽힌다."
                 }
               ]
             },
@@ -338,16 +339,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "IMF, 올해 한국 1인GDP 4만달러 돌파·성장률 3.3% 관측",
-                  "url": "https://www.hankyung.com/article/2026102005310",
-                  "eng": "IMF sees Korea topping $40,000 per-capita GDP with 3.3% growth",
-                  "body": "IMF가 10월 세계경제전망에서 한국의 올해 실질 GDP 성장률을 3.3%로, 1인당 GDP는 4만달러 돌파로 관측했다."
+                  "headline": "한은 금통위 내일…동결 후 11월 인상 무게",
+                  "url": "https://www.hankyung.com/article/2026102105342",
+                  "eng": "BOK seen holding tomorrow, then hiking in November",
+                  "body": "내일(22일) 금통위에서 기준금리 동결(3.00%)이 유력하다. 다만 11월 추가 인상 전망이 병행되며 매파적 기조는 유지될 전망이다."
                 },
                 {
-                  "headline": "정부, 올해 경제성장률 2% 목표…'경제 대도약 원년'",
-                  "url": "https://www.hankyung.com/article/2026102005311",
-                  "eng": "Government targets 2% growth, declaring a 'year of economic leap'",
-                  "body": "정부가 반도체·방산·AI 3대 축을 중심으로 한 경제성장전략을 발표하며 20조원 규모 한국형 국부펀드 조성 계획을 내놨다."
+                  "headline": "약밥을 부리또로 말았더니 반전…유럽인 홀린 뜻밖의 K간식",
+                  "url": "https://www.hankyung.com/article/202610204301i",
+                  "eng": "K-snacks win over Europe; yakbap burrito among SIAL innovation picks",
+                  "body": "삼립의 김치호빵·약밥 부리또·조청스프레드 등 4개 제품이 '시알 파리 2026'의 시알 이노베이션 셀렉션에 선정됐다. 2,750여 출품작 중 775개가 뽑혔다."
                 }
               ]
             },
@@ -355,16 +356,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "'살림은 엉망인데, 한국 경제 체력 살아난다?'…잠재성장률 2년 연속 반등",
-                  "url": "https://www.hankyung.com/article/2026102005320",
-                  "eng": "Korea's potential growth rebounds for a second year despite fiscal strain",
-                  "body": "한국의 잠재성장률이 올해 2.14%, 내년 2.20%로 2년 연속 반등할 것으로 추산됐다. 재정 여건은 어렵지만 성장 체력은 회복 중이라는 분석이다."
+                  "headline": "10월 1~20일 수출입동향 오늘 발표…반도체 수출 주목",
+                  "url": "https://www.hankyung.com/article/2026102105343",
+                  "eng": "Korea's Oct 1-20 trade data due today; chip exports in focus",
+                  "body": "관세청이 오늘 10월 1~20일 수출입 현황을 발표한다. 이달 초 수출액은 전년 동기 대비 102% 증가했으며, 반도체 수출 추이가 시장의 최대 관심사다."
                 },
                 {
-                  "headline": "美 9월 PPI 예상 상회…인플레이션 압력 지속",
-                  "url": "https://www.hankyung.com/article/2026102005321",
-                  "eng": "US September PPI beats forecasts, keeping inflation pressure alive",
-                  "body": "미국 9월 생산자물가지수(PPI)가 시장 예상을 상회하며 인플레이션 압력이 이어지고 있다. 유가 상승이 물가를 부추기며 추가 금리인상 전망에 힘을 싣고 있다."
+                  "headline": "코스피 5,400~5,800 박스권 하단 위협…7거래일 연속 하락 후 재추락",
+                  "url": "https://www.hankyung.com/article/2026102105344",
+                  "eng": "Kospi threatens lower end of 5,400-5,800 range after renewed slide",
+                  "body": "코스피가 5,552.74로 마감하며 7,000선 붕괴(9/14) 후 형성된 5,400~5,800 박스권의 하단을 위협하고 있다. 일시 반등 뒤 다시 추락한 모양새다."
                 }
               ]
             }
@@ -383,16 +384,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "Nasdaq Rebounds After Tech Selloff",
-                  "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-19-2026",
+                  "headline": "SpaceX Reports Profit as Revenue Doubles",
+                  "url": "https://www.wsj.com/business/earnings/spacex-spcx-q3-earnings-report-2026-stock-4138193d",
                   "eng": "",
-                  "body": "The Nasdaq composite jumped more than 1% as investors bought the dip in technology shares, while Treasury yields held higher after last week's selloff."
+                  "body": "SpaceX reported a profit as revenue doubled in its second set of results since going public, a closely watched read on whether the AI-investment boom remains on solid ground."
                 },
                 {
-                  "headline": "See What 71 Economists Told Us About Where Growth and Yields Are Headed",
-                  "url": "https://www.wsj.com/finance/see-what-71-economists-told-us-about-where-growth-and-yields-are-headed-8977cb44",
+                  "headline": "Dow Rallies 530 Points to a One-Month High as Oil Slides",
+                  "url": "https://www.wsj.com/finance/stocks/dow-rallies-530-points-one-month-high-oil-slides-20261020",
                   "eng": "",
-                  "body": "Economists surveyed by The Wall Street Journal now see higher bond yields for longer, firmer growth and eventual relief on inflation."
+                  "body": "The Dow jumped 1.02% to 52,495.88, its best close in about a month, helped by falling oil prices and earnings-season optimism, while the S&P 500 rose 0.28% and the Nasdaq finished nearly flat."
                 }
               ]
             },
@@ -400,16 +401,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "New Cracks in AI Trade Push Wall Street to Worst Week Since June",
-                  "url": "https://www.wsj.com/finance/stocks/new-cracks-in-ai-trade-push-wall-street-to-worst-week-since-june",
+                  "headline": "The Surge in Rates Is Blowing Up Commercial Real Estate",
+                  "url": "https://www.wsj.com/finance/rates-surge-commercial-real-estate-debt-bomb-20261021",
                   "eng": "",
-                  "body": "Fresh worries over the AI capital-spending cycle sent Wall Street to its worst week since June, before a Monday rebound in tech shares steadied the market."
+                  "body": "Rising interest rates are straining commercial real estate borrowers, stoking fears of a debt bomb as refinancing costs climb across the sector."
                 },
                 {
-                  "headline": "Crude Futures Rise on Persistent Supply Jitters",
-                  "url": "https://www.wsj.com/finance/commodities-futures/oil-falls-weighed-by-ieas-crude-diesel-release-announcement-c474aaa9",
+                  "headline": "Tesla, Meta Earnings Loom Over the AI Trade",
+                  "url": "https://www.wsj.com/finance/stocks/tesla-meta-earnings-ai-trade-20261021",
                   "eng": "",
-                  "body": "Crude futures climbed on persistent supply jitters tied to Middle East tensions, keeping energy prices elevated into the week."
+                  "body": "Investors are bracing for Tesla and Meta earnings as the two reports test whether the AI capital-spending cycle can keep justifying itself after last week's selloff."
                 }
               ]
             },
@@ -417,16 +418,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "Wild Markets Week Settles Down",
-                  "url": "https://www.wsj.com/finance/stocks/wild-markets-week-settles-down-40d27352",
+                  "headline": "Midterm Anxiety Mounts for GOP as Democrats Expand Battleground",
+                  "url": "https://www.wsj.com/politics/elections/midterm-anxiety-mounts-for-gop-as-democrats-try-to-expand-battleground-04c31f0b",
                   "eng": "",
-                  "body": "After a roller-coaster stretch of volatility, markets showed signs of stabilizing as investors weighed the path of AI spending and interest rates."
+                  "body": "Republican anxiety is rising ahead of the midterms as Democrats press into once-safe territory, buoyed by President Trump's low approval ratings."
                 },
                 {
-                  "headline": "A Princeton Ph.D. Applied to 2,300 Jobs. He Still Can't Get One.",
-                  "url": "https://www.wsj.com/lifestyle/careers/labor-market-freeze-phd-graduate-f8e17d7c",
+                  "headline": "Inflation Keeps Biting Real Wages",
+                  "url": "https://www.wsj.com/opinion/consumer-prices-inflation-wages-economy-jerome-powell-kevin-warsh-3692a6df",
                   "eng": "",
-                  "body": "A Princeton doctoral graduate's 2,300 applications without an offer illustrate how the white-collar labor market has seized up."
+                  "body": "Sticky inflation continues to erode real wages, adding to pressure on the Federal Reserve to keep policy tight."
                 }
               ]
             }
@@ -440,16 +441,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "Korea's $1 Trillion Chip Bet to Revive Left-Behind Region Risks Trump's Ire",
-                  "url": "https://www.bloomberg.com/news/features/2026-10-19/korea-plans-new-samsung-sk-hynix-chip-hub-in-gwangju-risking-trump-s-ire",
+                  "headline": "Boeing Wins Approval for Largest Variant of Its 737 Max Jet",
+                  "url": "https://www.bloomberg.com/news/articles/2026-10-20/boeing-wins-approval-for-largest-variant-of-its-737-max-aircraft",
                   "eng": "",
-                  "body": "South Korea plans a new Samsung-SK Hynix semiconductor hub in the southwest to spread AI wealth, but the move could become another point of friction with Washington."
+                  "body": "Boeing won certification for the 737 MAX 10, capping a lengthy saga for the narrowbody family disrupted by two fatal crashes and a series of quality lapses."
                 },
                 {
-                  "headline": "Nscale, Anthropic in Talks for $45 Billion Cloud Computing Deal",
-                  "url": "https://www.bloomberg.com/news/articles/2026-10-19/nscale-anthropic-in-talks-for-45-billion-cloud-computing-deal",
+                  "headline": "Nvidia CEO Huang Says AI Market Turmoil 'Will Pass'",
+                  "url": "https://www.bloomberg.com/news/articles/2026-10-16/nvidia-ceo-on-ai-market-turmoil-all-of-this-is-going-to-pass",
                   "eng": "",
-                  "body": "Nscale and Anthropic are in talks on a $45 billion cloud-computing agreement, a sign that AI infrastructure demand remains robust despite financing concerns."
+                  "body": "Jensen Huang took a sanguine view of the AI stock-market rout, saying the technology's benefits will soon outweigh investor concerns and 'all of this is going to pass.'"
                 }
               ]
             },
@@ -457,16 +458,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "Hassett Says CPI Data Shows Inflation Needs 'Some Work'",
-                  "url": "https://www.bloomberg.com/news/articles/2026-10-19/hassett-says-cpi-data-shows-inflation-needs-some-work",
+                  "headline": "SoftBank Credit Risk Hits Four-Year High on AI Funding Strain",
+                  "url": "https://www.bloomberg.com/news/articles/2026-10-20/softbank-group-credit-risk-hits-4-year-high-on-ai-funding-strain",
                   "eng": "",
-                  "body": "A senior White House economic adviser said the latest CPI data shows inflation still needs 'some work,' keeping pressure on the Federal Reserve."
+                  "body": "SoftBank's five-year credit default swaps widened to the highest since late 2022 as worries grow over AI spending funded by borrowing."
                 },
                 {
-                  "headline": "Goldman's Lynam Isn't Worried About Access to Debt Amid AI Buildout",
-                  "url": "https://www.bloomberg.com/news/videos/2026-10-19/goldman-s-lynam-on-access-to-capital-amid-ai-buildout-video",
+                  "headline": "ByteDance, Alibaba, Tencent Place $35 Billion in Nvidia Chip Orders",
+                  "url": "https://www.bloomberg.com/news/articles/2026-10-20/bytedance-alibaba-tencent-nvidia-chip-orders",
                   "eng": "",
-                  "body": "A Goldman Sachs executive said access to capital for the AI buildout remains ample, pushing back on fears of a financing crunch."
+                  "body": "Chinese tech giants have placed more than $35 billion worth of Nvidia chip orders, underscoring enduring demand for AI accelerators despite the market turmoil."
                 }
               ]
             },
@@ -474,16 +475,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "Merz Vows to Tap German Economic Strength to Revive Investments",
-                  "url": "https://www.bloomberg.com/news/articles/2026-10-19/merz-vows-to-tap-german-economic-strength-to-revive-investments",
+                  "headline": "South Korea Set to Hold Rates Before November Hike, Economists Say",
+                  "url": "https://www.bloomberg.com/news/articles/2026-10-20/south-korea-central-bank-hold-rates-october-hike-november",
                   "eng": "",
-                  "body": "German Chancellor Friedrich Merz pledged to use the country's economic strength to revive investment, while warning against complacency over Russia."
+                  "body": "The Bank of Korea is expected to keep its key rate at 3.00% on Thursday after two straight increases, before raising it again in November as inflation stays above target."
                 },
                 {
-                  "headline": "EU Officials Propose Guardrails for Insurance SRT Boom",
-                  "url": "https://www.bloomberg.com/news/articles/2026-10-19/eu-officials-propose-guardrails-for-insurance-risk-transfer-boom",
+                  "headline": "Jamie Dimon Says US Economy Strong, Warns of War and Inflation Risks",
+                  "url": "https://www.bloomberg.com/news/articles/2026-10-20/jamie-dimon-us-economy-strong-war-inflation-risks",
                   "eng": "",
-                  "body": "European Union officials proposed guardrails for the booming market in significant risk transfers, aiming to curb systemic risks in the insurance sector."
+                  "body": "JPMorgan CEO Jamie Dimon called the U.S. economy strong but flagged overseas conflicts, budget shortfalls and sticky inflation as key risks."
                 }
               ]
             }
@@ -497,16 +498,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "A Day After Huge Riots in France, Shock and Recrimination",
-                  "url": "https://www.nytimes.com/2026/10/19/world/europe/france-protests-shock-arson.html",
+                  "headline": "With Trump's Plans Blocked, States Work to Restore Trust in Mail Voting",
+                  "url": "https://www.nytimes.com/2026/09/15/us/politics/mail-ballots-trump-supreme-court-trust.html",
                   "eng": "",
-                  "body": "A day after some of France's worst riots in decades, President Emmanuel Macron vowed to address some of the protesters' demands while condemning the violence."
+                  "body": "President Trump's efforts to restrict mail voting were thwarted by the Supreme Court, but they have sown confusion and doubt among some voters ahead of the midterms."
                 },
                 {
-                  "headline": "Trump Campaigns for Republicans as Turmoil Mounts in Washington",
-                  "url": "https://www.nytimes.com/video/us/100000011219687/trump-campaigns-for-republicans-as-turmoil-mounts-in-washington.html",
+                  "headline": "Democrats Gain Edge as Trump Drags Down G.O.P., New Poll Finds",
+                  "url": "https://www.nytimes.com/2026/09/15/us/politics/trump-midterm-election-poll.html",
                   "eng": "",
-                  "body": "President Trump campaigned across the country to shore up Republicans ahead of the midterms, even as turmoil mounted in his administration."
+                  "body": "Even some Republicans are losing faith in Trump's economy, a New York Times/Siena poll found, as Democrats gain an edge on top issues heading into the midterms."
                 }
               ]
             },
@@ -514,16 +515,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "Republicans' Huge Cash Edge Is in Senate Races, Not House Races",
-                  "url": "https://www.nytimes.com/2026/10/19/us/politics/republicans-cash-edge-senate-races.html",
+                  "headline": "U.S. Health Officials Move Quickly to Deploy Medical A.I. Despite Concerns",
+                  "url": "https://www.nytimes.com/2026/09/14/health/ai-doctors-medicare-fda.html",
                   "eng": "",
-                  "body": "Republican fundraising advantages are concentrated in Senate contests rather than House races, reshaping the final stretch of the midterm campaign."
+                  "body": "Federal projects are rolling out A.I. agents that offer therapy and prescribe medicine, raising concerns about safety and the influence of venture capital investors."
                 },
                 {
-                  "headline": "Trump Approval Nears Record Low as Democrats Expand Battleground",
-                  "url": "https://www.nytimes.com/2026/10/18/us/trump-midterm-elections-republicans-approval-ratings.html",
+                  "headline": "Rising Fuel Prices Set Off Anger and Protests Around the World",
+                  "url": "https://www.nytimes.com/2026/09/15/world/asia/syria-fuel-price-protests-world.html",
                   "eng": "",
-                  "body": "President Trump's approval rating sits near the lowest of his presidency, letting Democrats expand the midterm map into previously safe Republican territory."
+                  "body": "From Indonesia to Guatemala to Syria, shortages and price increases are leading to protests and blackouts."
                 }
               ]
             },
@@ -531,10 +532,10 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "White House Filing Claims President Has Authority to Bar News Outlets",
-                  "url": "https://www.nytimes.com/2026/10/19/business/trump-white-house-ban-cnn-politico-ms-now.html",
+                  "headline": "Trump Campaigns for Republicans as Turmoil Mounts in Washington",
+                  "url": "https://www.nytimes.com/2026/10/19/us/politics/trump-campaigns-republicans-turmoil.html",
                   "eng": "",
-                  "body": "The administration argued in a court filing that the president has the authority to bar news outlets, escalating a clash over press access."
+                  "body": "President Trump campaigned across the country to shore up Republicans ahead of the midterms, even as turmoil mounted in his administration."
                 },
                 {
                   "headline": "Bill Gates's Blunt Warning on A.I.",
@@ -554,16 +555,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "French leaders hold crisis talks following weekend violent protests",
-                  "url": "https://www.washingtonpost.com/world/2026/10/19/french-leaders-hold-crisis-talks-following-weekend-violent-protests/",
+                  "headline": "NFL says heightened security will be in place for Steelers-Saints game in Paris",
+                  "url": "https://www.washingtonpost.com/sports/nfl/2026/10/20/nfl-owners-meeting-paris/be171ea6-ccbe-11f1-ac04-9f58578a68b4_story.html",
                   "eng": "",
-                  "body": "French leaders convened crisis talks after a weekend of violent protests over living costs left stores looted and buildings burned across the country."
+                  "body": "The NFL said security will be heightened for the Paris game after civil unrest protests engulfed the French capital last weekend."
                 },
                 {
-                  "headline": "Trump approval hits record low, handing Democrats a clear midterm edge",
-                  "url": "https://www.washingtonpost.com/politics/2026/10/18/trump-approval-hits-record-low-handing-democrats-clear-midterm-edge/",
+                  "headline": "Pentagon raises official toll of troops who died during war with Iran to 21",
+                  "url": "https://www.washingtonpost.com/national-security/2026/10/10/pentagon-raises-official-toll-troops-killed-during-war-with-iran-21/",
                   "eng": "",
-                  "body": "President Trump's approval rating fell to 33 percent, with 66 percent disapproving, giving Democrats a clear advantage heading into the midterms."
+                  "body": "The Pentagon raised the official toll of U.S. troops who died during the war with Iran to 21, as officials face scrutiny over undisclosed casualties."
                 }
               ]
             },
@@ -571,16 +572,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "Trump says New Mexico should 'immediately' change name to New America",
-                  "url": "https://www.washingtonpost.com/politics/2026/10/19/trump-says-new-mexico-should-immediately-change-name-new-america/",
+                  "headline": "Home heating oil is a sleeper campaign issue across cold-weather battlegrounds",
+                  "url": "https://www.washingtonpost.com/politics/2026/10/19/home-heating-oil-is-sleeper-campaign-issue-across-cold-weather-battlegrounds/",
                   "eng": "",
-                  "body": "President Trump said New Mexico should immediately change its name to 'New America,' adding another controversy to his midterm push."
+                  "body": "Rising heating costs have become a quiet but potent campaign issue in cold-weather swing districts ahead of the midterms."
                 },
                 {
-                  "headline": "Saudi Arabia postpones 'Davos of Desert' conference amid Houthi attacks",
-                  "url": "https://www.washingtonpost.com/world/2026/10/19/saudi-arabia-postpones-davos-of-desert-conference-amid-houthi-attacks/",
+                  "headline": "On AI risks, the U.S. and China should work together",
+                  "url": "https://www.washingtonpost.com/opinions/2026/10/19/ai-risks-us-china-should-work-together/",
                   "eng": "",
-                  "body": "Saudi Arabia postponed its flagship 'Davos in the Desert' investment conference after a wave of Houthi attacks rattled the kingdom."
+                  "body": "The most important global race isn't simply for AI dominance but for safeguards before capabilities outrun them, an opinion piece argues."
                 }
               ]
             },
@@ -588,16 +589,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "Trump calls judge overseeing East Potomac Park legal battle 'a crazed lunatic'",
-                  "url": "https://www.washingtonpost.com/politics/2026/10/19/trump-calls-judge-overseeing-east-potomac-park-legal-battle-crazed-lunatic/",
+                  "headline": "CNN, MS NOW, Politico say journalists blocked from White House after Trump announces ban",
+                  "url": "https://www.washingtonpost.com/politics/2026/09/19/ms-now-says-journalists-blocked-white-house-after-trump-announces-ban/",
                   "eng": "",
-                  "body": "President Trump attacked the judge overseeing the legal fight over his plan to turn a D.C. park into a golf course, calling the jurist 'a crazed lunatic.'"
+                  "body": "News outlets and press advocacy groups condemned the move as a violation of the First Amendment after President Trump moved to block several outlets from White House grounds."
                 },
                 {
-                  "headline": "4 service members killed, 39 injured in fire at Canadian military base",
-                  "url": "https://www.washingtonpost.com/world/2026/10/18/serious-incident-causes-deadly-fire-military-base-canada-officials-say/",
+                  "headline": "Trump approval hits record low, handing Democrats a clear midterm edge",
+                  "url": "https://www.washingtonpost.com/politics/2026/10/18/trump-approval-hits-record-low-handing-democrats-clear-midterm-edge/",
                   "eng": "",
-                  "body": "Four service members were killed and 39 injured in a fast-moving fire at Canadian Forces Base Wainwright in Alberta, officials said."
+                  "body": "President Trump's approval rating fell to a record low, giving Democrats a clear advantage heading into the midterms."
                 }
               ]
             }
@@ -614,13 +615,13 @@
                   "headline": "US stocks recover after AI sell-off",
                   "url": "https://www.ft.com/content/915ea7ca-1f35-4847-810a-fb29e8344496",
                   "eng": "",
-                  "body": "The Nasdaq 100 rose following its biggest weekly drop since last year's trade-war rout, as investors returned to AI and technology shares."
+                  "body": "US equities clawed back ground after the previous week's AI-driven rout, though the rebound proved narrow and concentrated in a handful of names."
                 },
                 {
-                  "headline": "French bond sell-off intensifies after riots and looting",
-                  "url": "https://www.ft.com/content/cc7e577a-db7a-4e12-9a42-443696b98ec5",
+                  "headline": "South Korea expected to hold rates on Oct 22, hike in November",
+                  "url": "https://www.ft.com/content/75a2ee4e-ead9-4d37-b1ea-6fd759c4691d",
                   "eng": "",
-                  "body": "A sell-off in French government bonds intensified after nationwide riots and looting raised doubts about the country's fiscal and political stability."
+                  "body": "The Bank of Korea is set to hold its policy rate at 3.00% this week before raising borrowing costs once more next month, a Reuters poll of economists found."
                 }
               ]
             },
@@ -628,16 +629,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "Microsoft pulls plug on Nscale data centre deal",
-                  "url": "https://www.ft.com/content/35cc5cc6-f9b6-49cc-8fc2-bd61e09c8c40",
-                  "eng": "",
-                  "body": "Microsoft has withdrawn from a UK data-centre deal with Nscale, adding to concerns about cooling demand for AI capacity."
-                },
-                {
-                  "headline": "America's $10tn AI infrastructure boom is starting to fray",
+                  "headline": "Tesla and Meta earnings put the AI trade to the test",
                   "url": "https://www.ft.com/content/9ea5a37d-15c9-4d5b-94d6-719048c9cd3c",
                   "eng": "",
-                  "body": "Cracks are emerging in America's $10tn AI infrastructure buildout as financing costs rise and some projects stall, testing the boom's durability."
+                  "body": "Results from Tesla and Meta this week are a key stress test for whether heavy AI spending can translate into profitability."
+                },
+                {
+                  "headline": "Oil slides as Qatar-Pakistan peace proposal raises hopes",
+                  "url": "https://www.ft.com/content/cc7e577a-db7a-4e12-9a42-443696b98ec5",
+                  "eng": "",
+                  "body": "Brent crude retreated from multi-week highs after reports of a Qatar-Pakistan mediation proposal aimed at easing Middle East tensions."
                 }
               ]
             },
@@ -645,16 +646,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "Saudi Arabia to postpone 'Davos in the desert' after Houthi attacks",
-                  "url": "https://www.ft.com/content/75a2ee4e-ead9-4d37-b1ea-6fd759c4691d",
+                  "headline": "Microsoft pulls plug on Nscale data centre deal",
+                  "url": "https://www.ft.com/content/35cc5cc6-f9b6-49cc-8fc2-bd61e09c8c40",
                   "eng": "",
-                  "body": "Saudi Arabia is to postpone its flagship 'Davos in the desert' conference after a series of Houthi attacks, underscoring rising regional instability."
+                  "body": "Microsoft withdrew from a UK data-centre deal with Nscale, adding to concerns about cooling demand for AI capacity."
                 },
                 {
-                  "headline": "Anthropic commits 5% of shares to 'public benefit' fund",
+                  "headline": "SoftBank CDS hit highest since 2022 on AI funding strain",
                   "url": "https://www.ft.com/content/3beab58d-4269-4722-b299-8fa5a93f5a52",
                   "eng": "",
-                  "body": "Anthropic said it would commit 5% of its shares to a 'public benefit' fund, formalizing its unusual governance structure."
+                  "body": "SoftBank's credit default swaps widened to their highest since late 2022 as markets fret over debt-funded AI investment."
                 }
               ]
             }
