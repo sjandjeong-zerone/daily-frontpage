@@ -1,142 +1,142 @@
 {
-  "date": "2026-10-30",
-  "dateLabel": "2026년 10월 30일(금요일)",
-  "generatedAt": "2026-10-30T07:16:00+09:00",
+  "date": "2026-10-31",
+  "dateLabel": "2026년 10월 31일(토요일)",
+  "generatedAt": "2026-10-31T07:17:00+09:00",
   "ticker": [
     {
       "name": "KOSPI",
-      "value": "5,937.66",
-      "change": "▼1.24%",
+      "value": "5,730.74",
+      "change": "▼3.48%",
       "dir": "down"
     },
     {
       "name": "KOSDAQ",
-      "value": "753.23",
-      "change": "▼1.24%",
+      "value": "724.38",
+      "change": "▼3.83%",
       "dir": "down"
     },
     {
       "name": "S&P 500",
-      "value": "7,720.39",
-      "change": "▼0.30%",
+      "value": "7,580.07",
+      "change": "▼1.82%",
       "dir": "down"
     },
     {
       "name": "NASDAQ",
-      "value": "26,184.72",
-      "change": "▼1.38%",
+      "value": "25,437.00",
+      "change": "▼2.86%",
       "dir": "down"
     },
     {
       "name": "다우",
-      "value": "52,342.56",
-      "change": "▼0.25%",
+      "value": "51,770.31",
+      "change": "▼1.09%",
       "dir": "down"
     },
     {
       "name": "삼성전자",
-      "value": "230,500원",
-      "change": "▼4.75%",
+      "value": "222,000원대",
+      "change": "▼7% 내외",
       "dir": "down"
     },
     {
       "name": "SK하이닉스",
-      "value": "1,516,000원",
-      "change": "▲1.95%",
-      "dir": "up"
+      "value": "1,340,000원대",
+      "change": "▼10% 내외",
+      "dir": "down"
     },
     {
       "name": "원/달러",
-      "value": "1,343원대",
-      "change": "원화 약세",
-      "dir": "up"
+      "value": "1,333원",
+      "change": "원화 강세",
+      "dir": "down"
     }
   ],
   "keywords": [
     {
-      "label": "① 삼성전자 3Q 확정 실적 영업익 107.4조 — 분기 영업익 100조 최초 돌파",
-      "desc": "매출 195.2조(전년비 +783.1%), 반도체(DS)에서만 영업익 106.5조. 현금배당 30조, 연간 영업익 370조 '청신호'. 글로벌 테크 최초 분기 영업익 100조 돌파, 4분기 연속 최대"
+      "label": "① 인텔 -28.58% 시총 $1,200억 증발 — 필라델피아 반도체 -7.20%",
+      "desc": "AI 인프라 투자 회의론이 시장 지배. 필라델피아 반도체 지수 6월 23일 이후 최대 일일 낙폭. 아마존·알파벳 동반 하락, 나스닥 -2.86%로 한 달 최악"
     },
     {
-      "label": "② 코스피 6,000선 하루 만에 재이탈 (-1.24%)",
-      "desc": "5,937.66(-74.78p) 마감. 삼성전자 -4.75%(230,500원) '사실 확인 매도', 기관 대규모 매도에 호재 소진 심리. SK하이닉스 +1.95%로 상대 강세"
+      "label": "② 코스피 5,730.74(-3.48%) 6만선 이탈·코스닥 -3.83% 동반 급락",
+      "desc": "전일 인텔·아마존 시간외 폭락이 아시아장 직격. 삼성전자 추정 222,000원대(-7%), SK하이닉스 1,340,000원대(-10%) — 반도체 양대 축 직격탄"
     },
     {
-      "label": "③ 구글(알파벳) 3Q 실적 실망 — 뉴욕증시 3대 지수 동반 하락",
-      "desc": "매출 1,275.8억$(+25%)로 예상 1,282억$ 하회, 검색 매출 둔화에 시간외 -9%. 클라우드는 103% 성장했으나 AI 기대 흔들. 나스닥 -1.38%"
+      "label": "③ 삼성전자 3Q 확정 영업익 107.4조 — 호실적이 '재료 소진'으로 작용",
+      "desc": "이틀 전 발표된 역대급 실적이 오히려 매도 빌미로. SK하이닉스는 직전일 영업익 2.6조 호실적에도 동반 급락"
     },
     {
-      "label": "④ 아마존·인텔 시간외 폭락 — 빅테크 실적 기대치 하회, AI 수요 우려 재점화",
-      "desc": "아마존 3Q 예상 하회 -7%, 인텔 4Q 가이던스 부진 -20% 폭락. 서비스나우 -26.95%·포티넷 -20.09% 동반 급락. 필라델피아 반도체 -1.46%"
+      "label": "④ 바이낸스 20분 만에 8.4조원 해킹 — 북한 천리마 해킹 의심",
+      "desc": "내부 엔지니어 노트북 침투로 63억 달러(약 8.4조원) 탈취, 가상자산 사상 최대 해킹. 거래소 전액 보상 약속, 가상자산 시장 변동성 경고"
     },
     {
-      "label": "⑤ 경기도 그린벨트 6곳 해제 신규택지 7.67만 가구 공급",
-      "desc": "김포·구리·하남·의정부·고양 등 서울 인접 6곳에 공공택지 7만6,700가구. 서울은 제외. 주택공급 확대 카드"
+      "label": "⑤ 유로존 3분기 GDP 0.4% 성장(예상 상회) — 프랑스 0.1% 역성장",
+      "desc": "시장 예상(0.2%) 상회했으나 프랑스 시위 여파로 역성장. 스태그플레이션 징후 부각"
     }
   ],
   "morning": {
-    "date": "2026-10-30",
-    "headline": "삼성전자 영업익 107조 '역대급'에도 코스피 6,000선 재이탈…구글·아마존·인텔 실적 쇼크에 AI 투매 재개",
-    "weather": "☁️ 흐림 · 12°C (체감 10°C) · 습도 54% · 바람 4km/h",
-    "schedule": "전사경영전략회의 준비(11/3 D-4) — 2027 재무계획 취합 마무리 + 핵심인재 교육계획(오늘 마감)",
+    "date": "2026-10-31",
+    "headline": "코스피 3.48% 폭락 5,730선·인텔 -29% 시총 1,200억달러 증발…AI 인프라 회의론에 반도체 급락",
+    "weather": "☀️ 맑음 · 13°C (체감 12°C) · 습도 68% · 바람 5km/h",
+    "schedule": "종일 ⛳ 골프 라운딩 · 20:00 🎂 어머님 생신 — 오전 중 [Z-P2] 전사전략회의 재무계획 취합(11/3 D-3)",
     "domestic": {
       "kospi": {
-        "value": "5,937.66",
-        "change": "▼ -74.78",
-        "changeRate": "-1.24%",
-        "rate": "-1.24%"
+        "value": "5,730.74",
+        "change": "▼ -206.92",
+        "changeRate": "-3.48%",
+        "rate": "-3.48%"
       },
       "kosdaq": {
-        "value": "753.23",
-        "change": "▼ -18.05",
-        "changeRate": "-1.24%",
-        "rate": "-1.24%"
+        "value": "724.38",
+        "change": "▼ -28.85",
+        "changeRate": "-3.83%",
+        "rate": "-3.83%"
       },
       "supply": {
-        "foreign": "외국인 매도 우위",
-        "institution": "기관 대규모 매도세",
-        "individual": "개인 순매수로 방어",
-        "usdkrw": "1,343원대",
-        "change": "원화 약세 지속"
+        "foreign": "외국인 순매도(반도체 중심)",
+        "institution": "기관 순매도",
+        "individual": "개인 순매수 방어",
+        "usdkrw": "1,333원",
+        "change": "원화 강세(전일 1,343원)"
       },
-      "comment": "코스피가 5,937.66(-1.24%, -74.78p)으로 마감하며 전일 회복한 6,000선을 하루 만에 다시 내줬다. 삼성전자가 3분기 영업이익 107조4,405억원의 역대급 확정 실적을 발표했음에도 주가는 -4.75%(230,500원)로 급락, '사실 확인 매도'가 우세했다. SK하이닉스는 +1.95%(1,516,000원)로 상대적 강세를 보였다. 기관 대규모 매도세에 밀렸고, 달러/원은 1,343원대로 원화 약세가 지속됐다."
+      "comment": "코스피가 5,730.74(-3.48%, -206.92p)로 마감하며 하루 만에 6,000선에서 5,730선까지 밀렸다. 전일 인텔·아마존 시간외 폭락이 아시아장에 직격했고, 삼성전자(추정 222,000원대, -7% 내외)와 SK하이닉스(1,340,000원대, -10% 내외)가 반도체 급락을 주도했다. 달러/원은 1,333원으로 전일 1,343원 대비 원화 강세를 보이며 안전자산 선호가 약화됐다."
     },
     "overseas": {
       "dow": {
-        "value": "52,342.56",
-        "change": "▼ -0.25%",
-        "changeRate": "-0.25%"
+        "value": "51,770.31",
+        "change": "▼ -572.25",
+        "changeRate": "-1.09%"
       },
       "sp500": {
-        "value": "7,720.39",
-        "change": "▼ -0.30%",
-        "changeRate": "-0.30%"
+        "value": "7,580.07",
+        "change": "▼ -140.32",
+        "changeRate": "-1.82%"
       },
       "nasdaq": {
-        "value": "26,184.72",
-        "change": "▼ -1.38%",
-        "changeRate": "-1.38%"
+        "value": "25,437.00",
+        "change": "▼ -747.73",
+        "changeRate": "-2.86%"
       },
       "oil": {
-        "wti": "~$102.86",
-        "brent": "~$114",
-        "note": "WTI는 미국의 이란 군사 타격 재개 가능성에 102.86달러대로 상승. 브렌트유는 114달러대 유지. 미국 10년물 국채금리 4.938%로 부담 지속."
+        "wti": "$103.45",
+        "gold": "$3,993.10",
+        "note": "WTI $103.45(+1.42%), 금 $3,993.10(-0.95%). 필라델피아 반도체 지수 -7.20% — 6월 23일 이후 최대 일일 낙폭."
       },
-      "keyStocks": "미국 증시는 빅테크 실적 시즌 실망감에 3대 지수가 동반 하락했다. 알파벳(구글)이 3분기 매출 1,275.8억달러(+25%)로 예상치를 밑돌며 -12%대 급락, 검색 매출 둔화가 AI 기대를 흐렸다. 장 마감 후 아마존은 3분기 예상 하회로 -7%, 인텔은 4분기 가이던스 부진으로 -20% 폭락했다. 서비스나우 -26.95%, 포티넷 -20.09%, 캐터필러 -9.25% 등이 급락하며 AI 투매가 재개됐다."
+      "keyStocks": "인텔이 4분기 가이던스 부진으로 -28.58% 급락하며 하루 만에 시총 1,200억 달러가 증발했다. 아마존·알파벳이 동반 하락하며 뉴욕증시 3대 지수가 일제히 급락했다. 나스닥 -2.86%로 한 달 최악, 필라델피아 반도체 지수는 -7.20%를 기록했다. AI 인프라 과잉투자 우려가 단순 조정을 넘어 구조적 재평가로 번질지가 관건이다."
     },
-    "topNews": "삼성전자 영업익 107조 '역대급'에도 코스피 6,000선 재이탈…구글·아마존·인텔 실적 쇼크에 AI 투매 재개",
+    "topNews": "코스피 3.48% 폭락 5,730선·인텔 -29% 시총 1,200억달러 증발…AI 인프라 회의론에 반도체 급락",
     "otherNews": [
-      "삼성전자 3Q 확정 실적 영업익 107.4조·매출 195.2조 — 분기 영업익 100조 최초 돌파, 반도체만 106조·현금배당 30조",
-      "구글(알파벳) 3Q 매출 1,275.8억$(+25%) 예상 하회…검색 매출 둔화에 시간외 -9%",
-      "아마존 3Q 예상 하회 -7%·인텔 4Q 가이던스 부진 -20% 시간외 폭락 — AI 수요 우려 재점화",
-      "뉴욕증시 3대 지수 동반 하락…나스닥 -1.38%, 필라델피아 반도체 -1.46%",
-      "경기도 그린벨트 6곳 해제 신규택지 7만6,700가구 공급 — 김포·구리·하남·의정부·고양"
+      "인텔 -28.58%·시총 $1,200억 증발 — 필라델피아 반도체 -7.20%, 6월 23일 이후 최대 낙폭",
+      "코스피 5,730.74(-3.48%)·코스닥 724.38(-3.83%) 동반 급락 — 반도체 양대 축 직격탄",
+      "삼성전자 3Q 확정 영업익 107.4조 — 호실적이 '재료 소진'으로 작용, 주가 -7%대 추정",
+      "바이낸스 20분 만에 8.4조원 해킹 — 북한 천리마 해킹 의심, 가상자산 사상 최대 해킹",
+      "유로존 3분기 GDP 0.4% 성장(예상 상회) — 프랑스 0.1% 역성장, 스태그플레이션 징후"
     ],
     "email": {
       "google": "sjandjeong@gmail.com — Gmail 데이터 미확보",
-      "note": "🟢 오늘 모닝브리핑 주요 뉴스는 삼성전자 영업익 107조 역대급 실적·코스피 6,000선 재이탈·구글·아마존·인텔 실적 쇼크 등. ⚪ Gmail 데이터 수집 오류로 미확보."
+      "note": "🟢 오늘 모닝브리핑 주요 뉴스는 인텔 -29%·반도체 급락·코스피 3.48% 폭락·바이낸스 8.4조 해킹 등. ⚪ Gmail 데이터 수집 오류로 미확보."
     },
-    "insight": "💡 '최대 실적'이 오히려 하락 재료가 된 하루\n\n삼성 영업익 107조 발표일에 주가는 -4.75%. 전일 6.63% 급등이 이미 기대를 선반영했고, 발표는 '재료 소진'으로 작용한 전형적 sell-the-news입니다. 다만 영업이익률 55%라는 수익구조 변화는 추세 재료로 남아 있으니, 단기 변동성과 중기 방향을 분리해서 볼 필요가 있습니다.\n\n미국 빅테크 실적이 한국 반도체의 변수입니다. 알파벳·아마존·인텔이 잇따라 기대치를 밑돌며 AI 투매가 재개됐습니다. 특히 인텔 시간외 -20%는 오늘 국내 반도체·PC 관련주에 직접 영향을 줄 수 있습니다. 삼성·하이닉스 '실적은 강한데 분위기는 약한' 구간은 단기 조정으로 해석하는 게 합리적입니다.\n\n오늘은 실무 마감이 밀집된 날입니다. 전사전략회의(11/3) 재무계획 취합이 밀린 상태 — 오전 중 마무리가 우선입니다. 이어 평가계획 1차 보고, 핵심인재 교육계획(오늘 종료), 승진대상자 리스트(내일) 순으로 진행하시면 하루가 정리됩니다. 변동성 큰 장세일수록 계획된 업무 리듬을 지키는 게 답입니다."
+    "insight": "💡 전일 브리핑의 경고가 현실이 된 하루\n\n\"아마존·인텔 시간외 폭락 → 오늘 아시아 증시 변동성 예고\"가 그대로 적중했습니다. KOSPI -3.48%, 반도체 지수 -7.2%, 인텔 시총 1,200억 달러 증발. AI 인프라 투자에 대한 시장의 '회의론'이 단순 조정이 아니라 구조적 재평가로 번질지가 관건입니다.\n\n하지만 지난주와 다른 점도 있습니다. SK하이닉스는 직전 거래일 10.89% 급등하며 영업이익 2.6조 호실적을 기록했습니다. 이번 하락은 '기업가치 하락'보다는 'AI 인프라 과잉투자 우려'에 따른 평가 조정에 가깝습니다. 인텔의 타격이 하이닉스·삼성까지 확장된 것은 과도한 측면이 있어 주중 반등 가능성을 열어둘 필요가 있습니다.\n\n토요일 — 골프와 가족이 먼저입니다. 밀린 프로젝트가 많지만 오전에 재무계획 취합(전략회의 D-3) 1~2시간만 정리하고, 오후는 골프, 저녁은 어머님 생신에 집중하세요. 시장 변동성이 클수록 일상의 리듬을 지키는 게 장기적으로 이깁니다. 즐거운 토요일 보내세요."
   },
   "sections": {
     "kor": {
@@ -150,16 +150,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "코스피 6,000선 하루 만에 재이탈…삼성전자 4%대 급락",
+                  "headline": "코스피 3.48% 폭락 5,730.74…하루 만에 6만선 이탈",
                   "url": "https://www.mk.co.kr/news/stock/",
-                  "eng": "Kospi slips back below 6,000 in a day as Samsung tumbles over 4%",
-                  "body": "코스피가 29일 5,937.66(-1.24%)으로 마감하며 전일 회복한 6,000선을 하루 만에 반납했다. 삼성전자가 3분기 역대급 실적에도 4.75% 급락한 230,500원에 마감하며 '사실 확인 매도'가 우세했다."
+                  "eng": "Kospi plunges 3.48% to 5,730.74, falling below 6,000 in a day",
+                  "body": "코스피가 전일 5,937.66에서 206.92포인트(3.48%) 급락한 5,730.74로 마감했다. 전일 인텔·아마존 시간외 폭락이 아시아장에 직격하며 반도체 양대 축이 동반 급락했다."
                 },
                 {
-                  "headline": "삼성전자 3Q 영업익 107.4조 '사상 최대'…반도체에서만 106조",
+                  "headline": "인텔 -28.58% 시총 1,200억 달러 증발…필라델피아 반도체 -7.2%",
                   "url": "https://www.mk.co.kr/news/stock/",
-                  "eng": "Samsung posts record 107.4tn operating profit, 106tn from chips alone",
-                  "body": "삼성전자가 3분기 매출 195조2,532억원·영업이익 107조4,405억원(전년비 +783.1%)의 확정 실적을 공시했다. 분기 영업익 100조 돌파는 글로벌 테크 최초다. 반도체(DS) 부문에서만 영업이익 106조5,000억원을 냈다."
+                  "eng": "Intel plunges 28.58%, erasing $120bn as Philadelphia semis sink 7.2%",
+                  "body": "인텔이 4분기 가이던스 부진으로 하루 만에 시가총액 1,200억 달러가 증발했다. 필라델피아 반도체 지수는 -7.20%로 6월 23일 이후 최대 일일 낙폭을 기록했다."
                 }
               ]
             },
@@ -167,16 +167,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "SK스퀘어, 티맵모빌리티 매각…골드만삭스가 인수 협의",
-                  "url": "https://www.mk.co.kr/news/stock/12190156",
-                  "eng": "SK Square to sell T Map Mobility; Goldman Sachs in acquisition talks",
-                  "body": "SK스퀘어가 국내 1위 내비게이션 '티맵' 운영사 티맵모빌리티 매각에 나섰고, 글로벌 투자은행 골드만삭스가 경영권 인수를 협의 중인 것으로 알려졌다."
+                  "headline": "삼성전자 3Q 영업익 107.4조 '역대급'…주가는 '재료 소진'에 -7%대",
+                  "url": "https://www.mk.co.kr/news/stock/",
+                  "eng": "Samsung's record 107.4tn profit turns into 'sell-the-news' drop of ~7%",
+                  "body": "삼성전자가 3분기 확정 영업이익 107조4,405억원을 발표했지만, 주가는 오히려 222,000원대(-7% 내외)로 급락했다. 이틀 전 발표된 호실적이 '재료 소진'으로 작용했다."
                 },
                 {
-                  "headline": "구글 검색 매출 둔화…알파벳 시간외 9% 급락",
-                  "url": "https://www.mk.co.kr/news/stock/",
-                  "eng": "Google search revenue slows; Alphabet plunges 9% after hours",
-                  "body": "알파벳이 3분기 매출 1,275.8억달러(+25%)로 시장 예상치(1,282억달러)를 밑돌며 시간외 거래에서 9% 급락했다. 검색 본업 매출 둔화가 AI 기대를 흔들었다."
+                  "headline": "바이낸스 20분 만에 8.4조원 해킹…북한 천리마 의심",
+                  "url": "https://www.mk.co.kr/news/economy/",
+                  "eng": "Binance loses 8.4tn won in 20-minute hack; North Korea's Chollima suspected",
+                  "body": "세계 최대 가상자산거래소 바이낸스가 내부 엔지니어 노트북 침투로 약 63억 달러(8조4,000억원)를 탈취당했다. 가상자산 해킹 사상 최대 규모로 북한 연계 조직이 배후로 지목됐다."
                 }
               ]
             },
@@ -184,16 +184,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "아마존·인텔 시간외 폭락…AI 수요 우려 재점화",
-                  "url": "https://www.mk.co.kr/news/stock/",
-                  "eng": "Amazon and Intel plunge after hours, reigniting AI demand worries",
-                  "body": "아마존이 3분기 실적 예상 하회로 시간외 -7%, 인텔이 4분기 가이던스 부진으로 -20% 폭락했다. 빅테크 실적 기대치 하회가 잇따르며 AI 수요 우려가 재점화됐다."
+                  "headline": "유로존 3분기 GDP 0.4% 성장…프랑스는 역성장",
+                  "url": "https://www.mk.co.kr/news/economy/",
+                  "eng": "Eurozone GDP grows 0.4% in Q3 while France contracts",
+                  "body": "유로존 3분기 GDP가 전분기 대비 0.4% 성장해 시장 예상(0.2%)을 상회했지만, 시위 여파로 프랑스가 0.1% 역성장하며 스태그플레이션 징후가 부각됐다."
                 },
                 {
-                  "headline": "경기도 그린벨트 6곳 해제…신규택지 7만6,700가구 공급",
-                  "url": "https://www.mk.co.kr/news/society/",
-                  "eng": "Six greenbelt zones in Gyeonggi released for 76,700 new homes",
-                  "body": "정부가 김포·구리·하남·의정부·고양 등 서울 인접 경기도 그린벨트 6곳을 해제해 신규 공공택지 7만6,700가구를 공급한다. 서울은 이번 대상에서 빠졌다."
+                  "headline": "원/달러 1,333원…안전자산 선호 약화로 원화 강세",
+                  "url": "https://www.mk.co.kr/news/economy/",
+                  "eng": "Won strengthens to 1,333 per dollar as safe-haven demand wanes",
+                  "body": "달러/원 환율이 전일 1,343원에서 1,333원으로 하락하며 원화 강세를 보였다. 글로벌 위험자산 비중 축소가 이어지는 가운데 안전자산 선호가 약화됐다."
                 }
               ]
             }
@@ -207,16 +207,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "삼성전자 3분기 영업이익 107조4,405억…반도체에서만 106조",
-                  "url": "https://www.khan.co.kr/article/202610290954001",
-                  "eng": "Samsung's Q3 operating profit hits 107.44tn, 106tn from chips",
-                  "body": "삼성전자가 연결 기준 3분기 영업이익 107조4,405억원(전년비 +783.1%)을 잠정 집계했다고 29일 공시했다. 반도체(DS) 부문은 매출 147조1,000억원·영업이익 106조5,000억원을 기록했다."
+                  "headline": "코스피·코스닥 3~4% 동반 급락…반도체 직격탄",
+                  "url": "https://www.khan.co.kr/economy/",
+                  "eng": "Kospi and Kosdaq sink 3-4% as semiconductors take direct hit",
+                  "body": "코스피가 3.48% 급락한 5,730.74, 코스닥이 3.83% 내린 724.38로 동반 급락했다. 인텔·아마존 시간외 폭락이 아시아 증시를 직격하며 삼성전자·SK하이닉스가 급락했다."
                 },
                 {
-                  "headline": "코스피 6,000선 하루 만에 반납…최대 실적에도 '팔자'",
+                  "headline": "바이낸스 8.4조원 사상 최대 해킹…'북한 배후' 추정",
                   "url": "https://www.khan.co.kr/economy/",
-                  "eng": "Kospi gives back 6,000 in a day on selling despite record profit",
-                  "body": "코스피가 5,937.66(-1.24%)으로 마감하며 전일 탈환한 6,000선을 하루 만에 반납했다. 삼성전자 역대급 실적 발표에도 차익실현 매도가 우세하며 '호재 소진' 심리가 나타났다."
+                  "eng": "Binance suffers largest-ever 8.4tn won hack; North Korea suspected",
+                  "body": "세계 최대 가상자산거래소 바이낸스에서 약 8조4,000억원(63억 달러)이 탈취됐다. 내부 엔지니어 노트북 해킹이 원인으로, 블록체인 분석업체는 북한 연계 조직을 배후로 지목했다."
                 }
               ]
             },
@@ -224,16 +224,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "구글 시간외 급락…빅테크 실적 '기대치 하회' 잇따라",
+                  "headline": "삼성전자 3Q 확정 영업익 107.4조…반도체만 106조",
                   "url": "https://www.khan.co.kr/economy/",
-                  "eng": "Google slides after hours as Big Tech earnings disappoint",
-                  "body": "알파벳(구글)이 3분기 검색 매출 둔화로 시장 예상치를 밑돌며 시간외 9% 급락했다. 아마존·인텔까지 실적 기대에 못 미치며 빅테크 실적 시즌 불안이 커졌다."
+                  "eng": "Samsung confirms Q3 operating profit of 107.4tn, 106tn from chips",
+                  "body": "삼성전자가 3분기 영업이익 107조4,405억원(전년비 +783.1%)의 확정 실적을 공시했다. 반도체(DS) 부문에서만 106조원대를 기록했으나 주가는 '재료 소진'에 급락했다."
                 },
                 {
-                  "headline": "그린벨트 6곳 풀어 신규택지 7만6,700가구…서울은 제외",
+                  "headline": "유로존 3분기 0.4% 성장…'시위 몸살' 프랑스는 역성장",
                   "url": "https://www.khan.co.kr/economy/",
-                  "eng": "Six greenbelt sites unlocked for 76,700 homes, excluding Seoul",
-                  "body": "정부가 서울 경계 5km 이내 개발제한구역(그린벨트) 6곳에 신규 공공택지를 조성해 7만6,700가구를 공급한다고 밝혔다. 김포·구리·하남·의정부·고양 등이 대상이다."
+                  "eng": "Eurozone grows 0.4% in Q3 while protest-hit France contracts",
+                  "body": "유로스타트는 유로존 3분기 GDP가 전분기 대비 0.4% 증가했다고 밝혔다. 프랑스는 시위 여파로 0.1% 역성장하며 스태그플레이션 우려가 커졌다."
                 }
               ]
             },
@@ -241,16 +241,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "나스닥 -1.38%·필라델피아 반도체 -1.46%…AI 투매 재개",
+                  "headline": "나스닥 -2.86% 한 달 최악…AI 투매 확대",
                   "url": "https://www.khan.co.kr/economy/",
-                  "eng": "Nasdaq -1.38%, Philadelphia semis -1.46% as AI selloff resumes",
-                  "body": "뉴욕증시 3대 지수가 동반 하락했다. 나스닥 -1.38%, 필라델피아 반도체 지수 -1.46%로 닷새 만의 하락이다. 아마존·인텔 시간외 폭락까지 겹치며 AI 투매가 재개됐다."
+                  "eng": "Nasdaq posts worst month with -2.86% as AI selloff widens",
+                  "body": "뉴욕증시에서 나스닥이 2.86% 급락한 25,437.00으로 마감하며 한 달 최악의 하락을 기록했다. 인텔 -28.58%, 아마존·알파벳 동반 하락으로 AI 투매가 확대됐다."
                 },
                 {
-                  "headline": "원/달러 1,343원대…원화 약세 지속",
+                  "headline": "원/달러 1,333원…원화 강세 전환",
                   "url": "https://www.khan.co.kr/economy/",
-                  "eng": "Won weakens further to the 1,343 range against the dollar",
-                  "body": "달러/원 환율이 1,343원대에서 거래되며 원화 약세가 이어졌다. 코스피 급락과 맞물려 외국인 수급 불안이 환율 상승을 부추겼다."
+                  "eng": "Won turns stronger to 1,333 per dollar",
+                  "body": "달러/원 환율이 전일 1,343원에서 1,333원으로 하락했다. 급락장에도 안전자산 선호가 약화되며 원화가 강세를 보였다."
                 }
               ]
             }
@@ -264,16 +264,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "삼성전자 '영업익 107조' 역대급…주가는 오히려 4.75% 하락",
+                  "headline": "코스피 3.48% 폭락 5,730선…美 빅테크 쇼크 직격",
                   "url": "https://www.donga.com/news/Economy/",
-                  "eng": "Samsung's record 107tn profit fails to stop a 4.75% share drop",
-                  "body": "삼성전자가 3분기 영업이익 107조4,405억원의 역대급 확정 실적을 발표했지만 주가는 4.75% 급락한 230,500원에 마감했다. 실적 발표가 '재료 소진'으로 작용한 전형적 sell-the-news다."
+                  "eng": "Kospi plunges 3.48% to 5,730 level on US Big Tech shock",
+                  "body": "코스피가 전일 대비 206.92포인트 내린 5,730.74로 마감하며 6만선을 하루 만에 이탈했다. 미국 빅테크 실적 쇼크가 아시아 증시를 강타했다."
                 },
                 {
-                  "headline": "코스피 6,000선 재이탈…5,937.66(-1.24%) 마감",
+                  "headline": "인텔 -28.58%…시총 1,200억 달러 증발",
                   "url": "https://www.donga.com/news/Economy/",
-                  "eng": "Kospi retraces below 6,000, closing at 5,937.66 (-1.24%)",
-                  "body": "코스피가 전 거래일 대비 74.78포인트 내린 5,937.66으로 마감하며 6,000선을 하루 만에 내줬다. 코스닥도 753.23(-1.24%)으로 동반 하락했다."
+                  "eng": "Intel tumbles 28.58%, wiping out $120bn in value",
+                  "body": "인텔이 4분기 가이던스 부진으로 -28.58% 급락하며 하루 만에 시가총액 1,200억 달러가 증발했다. AI 인프라 투자 회의론이 시장을 지배했다."
                 }
               ]
             },
@@ -281,16 +281,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "뉴욕증시 3대 지수 동반 하락…알파벳 실적 실망",
+                  "headline": "삼성전자 영업익 107조 '역대급'…주가는 재료 소진",
                   "url": "https://www.donga.com/news/Economy/",
-                  "eng": "All three Wall Street indexes fall on Alphabet disappointment",
-                  "body": "뉴욕증시 3대 지수가 동반 하락했다. 다우 -0.25%, S&P 500 -0.30%, 나스닥 -1.38%. 알파벳(구글) 3분기 실적이 기대를 밑돈 것이 시장을 흔들었다."
+                  "eng": "Samsung's record 107tn profit fails to lift shares on sell-the-news",
+                  "body": "삼성전자가 3분기 확정 영업이익 107조4,405억원을 발표했지만 주가는 222,000원대(-7% 내외)로 급락했다. 호실적이 이미 선반영된 '재료 소진' 양상이다."
                 },
                 {
-                  "headline": "골드만삭스, 티맵 경영권 인수 추진",
+                  "headline": "바이낸스 8.4조원 해킹…북한 천리마 의심",
                   "url": "https://www.donga.com/news/Economy/",
-                  "eng": "Goldman Sachs pursues controlling stake in T Map Mobility",
-                  "body": "글로벌 투자은행 골드만삭스가 국내 1위 내비게이션 '티맵' 운영사 티맵모빌리티 경영권 인수에 나섰다. AI·반도체에 대한 미래 투자 재원 마련 목적이라는 분석이 나온다."
+                  "eng": "Binance hit by 8.4tn won hack; North Korea's Chollima suspected",
+                  "body": "바이낸스가 내부 시스템 해킹으로 약 8조4,000억원 규모의 가상자산을 탈취당했다. 가상자산 사상 최대 해킹으로 북한 연계 해킹 조직이 배후로 지목됐다."
                 }
               ]
             },
@@ -298,16 +298,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "아마존·인텔 시간외 폭락…AI 투매 재개",
+                  "headline": "유로존 3분기 GDP 0.4% 성장…프랑스 역성장",
                   "url": "https://www.donga.com/news/Economy/",
-                  "eng": "Amazon and Intel sink after hours, reviving AI selloff",
-                  "body": "아마존이 3분기 실적 예상 하회로 시간외 7% 급락하고, 인텔이 4분기 가이던스 부진으로 20% 폭락했다. 빅테크 실적 우려가 재점화되며 아시아 증시 변동성이 예고됐다."
+                  "eng": "Eurozone GDP grows 0.4% in Q3 while France shrinks",
+                  "body": "유로존 3분기 경제가 전분기 대비 0.4% 성장해 예상을 상회했다. 그러나 프랑스는 시위 여파로 0.1% 역성장하며 스태그플레이션 징후가 나타났다."
                 },
                 {
-                  "headline": "경기도 그린벨트 해제 7.67만 가구 공급",
+                  "headline": "SK하이닉스 1,340,000원대…호실적에도 -10% 급락",
                   "url": "https://www.donga.com/news/Economy/",
-                  "eng": "Gyeonggi greenbelt released to supply 76,700 homes",
-                  "body": "정부가 서울 인접 경기도 그린벨트 6곳을 해제해 신규 공공택지 7만6,700가구를 공급한다. 주택공급 확대 카드로 수도권 집값 안정을 노린다."
+                  "eng": "SK Hynix falls ~10% to 1.34mn won despite strong earnings",
+                  "body": "SK하이닉스가 직전 거래일 10.89% 급등에도 불구하고 1,340,000원대(-10% 내외)로 급락했다. 인텔발 반도체 투매가 호실적을 덮었다."
                 }
               ]
             }
@@ -321,16 +321,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "[단독] 내비 1위 티맵, 골드만삭스에 팔린다",
+                  "headline": "인텔 -28.58%…필라델피아 반도체 6월 이후 최대 낙폭",
                   "url": "https://www.hankyung.com/finance/",
-                  "eng": "Exclusive: No.1 navigator T Map to be sold to Goldman Sachs",
-                  "body": "SK스퀘어가 국내 1위 내비게이션 서비스 티맵 운영사 티맵모빌리티를 매각하고, 글로벌 투자은행 골드만삭스가 경영권 인수를 추진하는 것으로 확인됐다."
+                  "eng": "Intel -28.58%; Philadelphia semis post biggest drop since June",
+                  "body": "인텔이 4분기 가이던스 부진으로 28.58% 급락하며 시총 1,200억 달러가 증발했다. 필라델피아 반도체 지수는 -7.20%로 6월 23일 이후 최대 일일 낙폭을 기록했다."
                 },
                 {
-                  "headline": "반도체로만 106조 벌어…삼성전자 영업익 107조 '사상 최대'",
+                  "headline": "코스피 3%대 급락 5,730선…반도체 양대 축 직격탄",
                   "url": "https://www.hankyung.com/finance/",
-                  "eng": "Samsung earns 106tn from chips alone; record 107tn operating profit",
-                  "body": "삼성전자가 3분기 영업이익 107조4,405억원으로 사상 최대를 기록했다. 반도체(DS) 부문에서만 106조5,000억원을 벌었다. 분기 영업익 100조 돌파는 글로벌 테크 최초다."
+                  "eng": "Kospi drops over 3% to 5,730 level as chip duo takes a hit",
+                  "body": "코스피가 5,730.74(-3.48%)로 마감하며 6만선을 이탈했다. 삼성전자 222,000원대(-7%), SK하이닉스 1,340,000원대(-10%)가 급락을 주도했다."
                 }
               ]
             },
@@ -338,16 +338,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "신세계, 롯데 센텀시티 인수…미래에셋 日 산코증권 산다",
-                  "url": "https://www.hankyung.com/finance/",
-                  "eng": "Shinsegae to buy Lotte Centum City; Mirae Asset buys Japan's Sanko",
-                  "body": "신세계가 롯데 센텀시티점 인수에 나서고, 미래에셋이 일본 산코증권을 인수하는 등 유통·금융 업계의 굵직한 M&A가 잇따랐다."
+                  "headline": "바이낸스 20분 만에 8.4조원 털려…가상자산 최대 해킹",
+                  "url": "https://www.hankyung.com/economy/",
+                  "eng": "Binance loses 8.4tn won in 20 minutes in largest crypto hack",
+                  "body": "바이낸스가 내부 엔지니어 노트북 침투로 약 63억 달러(8조4,000억원)를 탈취당했다. 거래소는 전액 보상을 약속했으며, 북한 연계 조직이 배후로 지목됐다."
                 },
                 {
-                  "headline": "구글 검색 매출 둔화…시간외 9% 급락",
-                  "url": "https://www.hankyung.com/article/202610291939i",
-                  "eng": "Google search slowdown sends shares down 9% after hours",
-                  "body": "알파벳(구글 모회사) 주가가 3분기 실적 발표 후 시간외 거래에서 한때 9% 급락했다. 본업인 검색 매출이 둔화한 것이 원인이다. 클라우드는 103% 성장했으나 AI 기대를 막지 못했다."
+                  "headline": "삼성전자 3Q 확정 영업익 107.4조…'재료 소진' 급락",
+                  "url": "https://www.hankyung.com/finance/",
+                  "eng": "Samsung confirms 107.4tn Q3 profit; shares slide on sell-the-news",
+                  "body": "삼성전자가 3분기 확정 영업이익 107조4,405억원을 공시했다. 그러나 주가는 222,000원대(-7% 내외)로 급락하며 호실적이 '재료 소진'으로 작용했다."
                 }
               ]
             },
@@ -355,16 +355,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "아마존·인텔 시간외 폭락…빅테크 AI 수요 우려",
+                  "headline": "유로존 3분기 GDP 0.4%…프랑스는 시위 여파 역성장",
                   "url": "https://www.hankyung.com/economy/",
-                  "eng": "Amazon and Intel plunge after hours on AI demand fears",
-                  "body": "아마존 3분기 실적 예상 하회(-7%)와 인텔 4분기 가이던스 부진(-20%)으로 시간외 거래에서 폭락했다. 빅테크 실적 기대치 하회가 이어지며 AI 수요 우려가 커졌다."
+                  "eng": "Eurozone Q3 GDP +0.4%; France contracts on protest fallout",
+                  "body": "유로존 3분기 GDP가 전분기 대비 0.4% 성장해 시장 예상을 상회했지만, 프랑스는 시위 여파로 0.1% 역성장했다. 스태그플레이션 징후가 부각됐다."
                 },
                 {
-                  "headline": "경기도 그린벨트 6곳 신규택지 7.67만 가구",
+                  "headline": "원/달러 1,333원…원화 강세 전환",
                   "url": "https://www.hankyung.com/economy/",
-                  "eng": "Six Gyeonggi greenbelt sites to yield 76,700 new homes",
-                  "body": "정부가 서울 인접 경기도 그린벨트 6곳을 해제해 신규 공공택지 7만6,700가구를 공급한다고 발표했다. 주택공급 확대를 통한 수도권 시장 안정이 목적이다."
+                  "eng": "Won strengthens to 1,333 per dollar",
+                  "body": "달러/원 환율이 전일 1,343원에서 1,333원으로 하락했다. 급락장에도 안전자산 선호가 약화되며 원화가 강세를 보였다."
                 }
               ]
             }
@@ -383,16 +383,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "Intel Drops 17% After Disappointing Earnings",
-                  "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-29-2026",
+                  "headline": "Tech Selloff Sends Nasdaq to Worst Month in Over a Year, Intel Down 29%",
+                  "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-30-2026",
                   "eng": "",
-                  "body": "Intel fell sharply after citing lower profit and offering lackluster fourth-quarter guidance. The tech-heavy Nasdaq dropped 1.4% on a fresh round of AI jitters."
+                  "body": "Intel plunged 28.58% after weak fourth-quarter guidance, wiping out about $120 billion in value, as the Nasdaq fell 2.86% and closed its worst month in over a year."
                 },
                 {
-                  "headline": "Amazon Earnings Miss Wall Street Estimates Despite Highest Cloud Growth in Five Years",
-                  "url": "https://www.wsj.com/tech/amazon-amzn-q3-earnings-report-2026-stock-a0b92f17",
+                  "headline": "Top Military Admiral Briefs Trump on Iran Options",
+                  "url": "https://www.wsj.com/politics/national-security/top-admiral-briefs-trump-on-iran-attack-options-5bd6f13c",
                   "eng": "",
-                  "body": "Amazon's third-quarter results missed Wall Street expectations even as its cloud division posted its fastest growth in five years, sending shares lower in extended trading."
+                  "body": "The top U.S. military officer briefed President Trump on options for striking Iran, as crude prices rose toward $103 a barrel on renewed conflict risk in the region."
                 }
               ]
             },
@@ -400,16 +400,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "Nasdaq Falls as Alphabet's Results Disappoint",
-                  "url": "https://www.wsj.com/finance",
+                  "headline": "The Five Whirlwind Days That Brought Down Weil Gotshal",
+                  "url": "https://www.wsj.com/business/weil-gotshal-collapse-bankruptcy-25c4212c",
                   "eng": "",
-                  "body": "Alphabet shares tumbled more than 12% as slowing search-revenue growth overshadowed a 103% jump in Google Cloud, dragging the Nasdaq lower and reviving AI worries."
+                  "body": "The storied law firm Weil Gotshal collapsed after a five-day run of losses, with leadership telling partners the firm should be dissolved."
                 },
                 {
-                  "headline": "Oil Rises Toward $103 on Signs of U.S. Strike on Iran",
+                  "headline": "Alphabet Shares Slide as Search Revenue Growth Slows",
                   "url": "https://www.wsj.com/finance",
                   "eng": "",
-                  "body": "Crude oil climbed toward $103 a barrel on signals the U.S. may resume military strikes against Iran, stoking concern over energy flows in the region."
+                  "body": "Alphabet fell as slowing search-revenue growth overshadowed a surge in Google Cloud, dragging tech shares lower and reviving AI-spending worries."
                 }
               ]
             },
@@ -417,16 +417,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "ServiceNow, Fortinet and Caterpillar Tumble as Earnings Season Sours",
+                  "headline": "Oil Rises Toward $103 on Iran Strike Risk",
                   "url": "https://www.wsj.com/finance",
                   "eng": "",
-                  "body": "ServiceNow fell 26.95%, Fortinet 20.09% and Caterpillar 9.25% as a string of disappointing results deepened investor caution across technology and industrial shares."
+                  "body": "Crude oil climbed toward $103 a barrel on signals the U.S. may resume military strikes against Iran, stoking concern over energy flows in the region."
                 },
                 {
-                  "headline": "Treasury Yields Hold Near 4.94% as Markets Digest Earnings",
+                  "headline": "Treasury Yields Hold Near 4.93% as Markets Digest Earnings",
                   "url": "https://www.wsj.com/finance",
                   "eng": "",
-                  "body": "The 10-year Treasury yield held near 4.938% as investors weighed a resilient U.S. economy against a wave of Big Tech earnings misses."
+                  "body": "The 10-year Treasury yield held near 4.93% as investors weighed a resilient U.S. economy against a wave of Big Tech earnings misses."
                 }
               ]
             }
@@ -440,16 +440,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "US Economy Grows Most in a Year on Strong Spending and Investment",
-                  "url": "https://www.bloomberg.com/news/articles/2026-10-29/us-economy-grows-a-faster-than-expected-3-4-most-in-a-year",
+                  "headline": "Apple Overtakes Nvidia to Become World's Most Valuable Company",
+                  "url": "https://www.bloomberg.com/news/articles/2026-10-30/apple-overtakes-nvidia-to-become-world-s-most-valuable-company",
                   "eng": "",
-                  "body": "The U.S. economy expanded at a 3.4% annualized pace in the third quarter, the fastest in a year, supercharged by feverish business investment and a resilient consumer."
+                  "body": "Apple reclaimed the title of the world's most valuable company from Nvidia as the AI-chip rout deepened, marking a rotation away from the semiconductor trade."
                 },
                 {
-                  "headline": "Alphabet Slides After Revenue Miss Revives AI Worries",
-                  "url": "https://www.bloomberg.com/markets",
+                  "headline": "Big Tech's Deepening AI Funding Concerns Sink Asian Chip Stocks",
+                  "url": "https://www.bloomberg.com/news/articles/2026-10-30/big-tech-s-deepening-ai-funding-concerns-sink-asian-chip-stocks",
                   "eng": "",
-                  "body": "Alphabet shares slid in extended trading after third-quarter revenue missed estimates, with slowing search growth overshadowing a 103% surge in cloud revenue."
+                  "body": "Asian chip stocks tumbled as concerns over Big Tech's AI spending intensified, with Samsung and SK Hynix leading losses in Seoul."
                 }
               ]
             },
@@ -457,16 +457,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "Oil Rises as US Signals Fresh Strikes Against Iran",
-                  "url": "https://www.bloomberg.com/news/articles/2026-10-29/latest-oil-market-news-and-analysis-for-oct-30",
+                  "headline": "Meta, Alphabet, Intel Share Sales Leave Buyers Far Underwater",
+                  "url": "https://www.bloomberg.com/news/articles/2026-10-30/meta-alphabet-intel-share-sales-leave-buyers-far-underwater",
                   "eng": "",
-                  "body": "Oil rose on signs the U.S. may resume military strikes against Iran, risking fresh turbulence in the region that could disrupt energy flows."
+                  "body": "Recent share sales by Meta, Alphabet and Intel have left buyers deeply underwater as the AI trade unwinds, deepening losses across the technology sector."
                 },
                 {
-                  "headline": "Why the US Economy Looks Strong But Feels Bad to Many",
-                  "url": "https://www.bloomberg.com/news/articles/2026-10-29/why-the-us-economy-looks-strong-but-feels-bad-to-americans",
+                  "headline": "AI Dip-Buyers Gored as Selling Spasm Caps Third Week of Losses",
+                  "url": "https://www.bloomberg.com/news/articles/2026-10-30/ai-dip-buyers-gored-as-selling-spasm-caps-third-week-of-losses",
                   "eng": "",
-                  "body": "Despite solid growth, rising electricity, health-care, water and housing costs are squeezing American households, shaping a cost-of-living backlash ahead of the midterms."
+                  "body": "Investors who bought the AI dip were hit hard as a selling spasm capped a third straight week of losses, shaking confidence in the megacap rally."
                 }
               ]
             },
@@ -474,16 +474,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "Intel Sinks 20% After Hours on Weak Fourth-Quarter Guidance",
-                  "url": "https://www.bloomberg.com/markets",
+                  "headline": "Big Tech Holds $3 Trillion in Spending Commitments for AI Boom",
+                  "url": "https://www.bloomberg.com/news/articles/2026-10-30/big-tech-holds-3-trillion-in-spending-commitments-for-ai-boom",
                   "eng": "",
-                  "body": "Intel tumbled as much as 20% in extended trading after issuing fourth-quarter guidance that fell short, deepening concerns over the company's AI roadmap."
+                  "body": "Big Tech companies hold roughly $3 trillion in spending commitments tied to the AI boom, a figure that is fueling investor concern about returns."
                 },
                 {
-                  "headline": "Fed Officials Signal Patience as Market Prices December Decision",
-                  "url": "https://www.bloomberg.com/markets",
+                  "headline": "AI Credit Risk Gauges Hit New Records on Supply, Profit Concerns",
+                  "url": "https://www.bloomberg.com/news/articles/2026-10-30/tech-firms-debt-protection-costs-are-surging-on-profit-concerns",
                   "eng": "",
-                  "body": "Federal Reserve officials signaled patience on rates as traders weighed the strong GDP report against cooling momentum in Big Tech earnings."
+                  "body": "Credit-default protection costs for technology firms hit new records as supply-chain and profit concerns deepened the AI selloff."
                 }
               ]
             }
@@ -497,16 +497,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "Surprise Showing by Arab Parties in Israeli Vote Puts Them in Spotlight",
-                  "url": "https://www.nytimes.com/section/todayspaper",
+                  "headline": "Binance's $6.3 Billion Hack Is Just the Start of a Risky New Era",
+                  "url": "https://www.nytimes.com/2026/10/30/technology/binance-hack-ai-north-korea.html",
                   "eng": "",
-                  "body": "Israel's first national election since the Oct. 7, 2023 attacks drew record turnout, and a strong showing by Arab-led parties left no clear path to a governing coalition."
+                  "body": "The theft of about $6.3 billion from Binance — one of the largest crypto heists ever — is raising alarms about security in the digital-asset industry, with North Korea-linked hackers suspected."
                 },
                 {
-                  "headline": "Economy Grows at Fastest Pace in a Year",
-                  "url": "https://www.nytimes.com/2026/10/29/business/economy/us-economy-gdp.html",
+                  "headline": "Traffic Control Errors Caused Spain's Deadly Train Crash, Official Says",
+                  "url": "https://www.nytimes.com/2026/10/30/world/europe/spain-crash-contoller-errors.html",
                   "eng": "",
-                  "body": "U.S. gross domestic product rose 3.4 percent in the third quarter, the fastest in a year, driven by robust business investment and consumer spending."
+                  "body": "Investigators said traffic-control errors caused the high-speed train crash in Spain that killed at least 69 people, focusing on the signaling systems involved."
                 }
               ]
             },
@@ -514,16 +514,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "Alphabet's Slowing Search Business Sends Shares Lower",
-                  "url": "https://www.nytimes.com/section/business",
+                  "headline": "Economy Grows at Fastest Pace in a Year",
+                  "url": "https://www.nytimes.com/2026/10/29/business/economy/us-economy-gdp.html",
                   "eng": "",
-                  "body": "Alphabet shares dropped after its third-quarter report showed slowing growth in core search, clouding optimism over its AI business even as cloud revenue surged."
+                  "body": "U.S. gross domestic product rose 3.4 percent in the third quarter, the fastest in a year, driven by robust business investment and consumer spending."
                 },
                 {
-                  "headline": "Amazon and Intel Disappoint, Deepening Big Tech Selloff",
+                  "headline": "Big Tech's Selloff Deepens as Intel and Amazon Disappoint",
                   "url": "https://www.nytimes.com/section/business",
                   "eng": "",
-                  "body": "Amazon and Intel both fell sharply in extended trading after results that missed expectations, adding to investor worries about the AI spending boom."
+                  "body": "Intel and Amazon both fell sharply after results that missed expectations, deepening a selloff driven by worries that AI spending is outrunning returns."
                 }
               ]
             },
@@ -531,16 +531,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "Spain Crash Investigators Focus on Train Traffic Systems",
-                  "url": "https://www.nytimes.com/2026/10/29/world/europe/spain-train-crash-renfe.html",
+                  "headline": "They Bought Harry Houdini's House. It Came With a Gaggle of Magic Fans.",
+                  "url": "https://www.nytimes.com/2026/10/30/nyregion/houdini-harlem-brownstone.html",
                   "eng": "",
-                  "body": "A day after a high-speed train crash in Spain killed at least 69 people, investigators focused on the traffic-control systems, with more than 50 people still hospitalized."
+                  "body": "The new owners of Houdini's Harlem brownstone discovered that the famed magician's home still draws a steady stream of devoted fans."
                 },
                 {
-                  "headline": "Israel's Parties Gird for Wrangling to Form a Government",
-                  "url": "https://www.nytimes.com/section/todayspaper",
+                  "headline": "Alphabet Shares Slide as Search Growth Slows",
+                  "url": "https://www.nytimes.com/section/business",
                   "eng": "",
-                  "body": "With no clear winner in Israel's election, parties began positioning for coalition talks in what is expected to be a prolonged period of political wrangling."
+                  "body": "Alphabet dropped after its third-quarter report showed slowing growth in core search, clouding optimism over its AI business even as cloud revenue surged."
                 }
               ]
             }
@@ -554,16 +554,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "Trump Fired Him. The 'DEI Watchlist' Shamed Him. Then Came 500 Job Rejections.",
-                  "url": "https://www.washingtonpost.com/nation/2026/10/29/fired-federal-worker-shamed-dei-watchlist-struggles-find-job/",
+                  "headline": "The Trouble With Uncle Sam's Intel Shares",
+                  "url": "https://www.washingtonpost.com/opinions/2026/10/30/intel-shows-danger-government-stock-portfolio/",
                   "eng": "",
-                  "body": "Efforts to purge the government of diversity, equity and inclusion programs have taken a heavy toll on Black workers, who now struggle to find comparable jobs."
+                  "body": "The U.S. government lost about $12 billion as Intel's stock fell 29 percent, its worst day since 1974, highlighting the risks of Washington's equity stakes."
                 },
                 {
-                  "headline": "Nearly 1 in 5 Federal Workers Left Under Trump",
-                  "url": "https://www.washingtonpost.com/nation/2026/10/29/1-5-federal-government-workers-have-left-since-trump-took-office/",
+                  "headline": "Oil Giants Report Windfall Profits as High Gas Prices Loom Over the Election",
+                  "url": "https://www.washingtonpost.com/business/2026/10/30/oil-giants-report-windfall-profits-gas-prices-loom-over-election/",
                   "eng": "",
-                  "body": "A Post analysis shows far more workers have departed under Trump's second administration than under Biden or Trump's first term, with Black workers hit hardest."
+                  "body": "Oil companies reported windfall profits days before a midterm election dominated by voter anger over inflation and energy costs."
                 }
               ]
             },
@@ -571,16 +571,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "Alaska Governor Orders Investigation Into Democrats' Senate Campaign",
-                  "url": "https://www.washingtonpost.com/politics/2026/10/29/alaska-governor-orders-investigation-into-democrats-senate-campaign/",
+                  "headline": "Democrats Say the Economy Will Give Them Control of the House",
+                  "url": "https://www.washingtonpost.com/politics/2026/10/30/democrats-say-economy-will-give-them-control-house/",
                   "eng": "",
-                  "body": "The Alaska governor ordered an investigation into the Democratic Senate campaign of Mary Peltola, escalating a fight that could shape control of the chamber."
+                  "body": "Democrats are betting that voter frustration over costs for housing, health care and groceries will hand them control of the House in the midterms."
                 },
                 {
-                  "headline": "Meet Hasan Piker, the Streamer Dividing Democrats in the Midterms",
-                  "url": "https://www.washingtonpost.com/politics/2026/10/29/meet-hasan-piker-twitch-streamer-dividing-democrats-midterms/",
+                  "headline": "Are American Voters Actually Gloomy About the Economy?",
+                  "url": "https://www.washingtonpost.com/ripple/2026/10/30/are-american-voters-actually-gloomy-about-economy/",
                   "eng": "",
-                  "body": "The Twitch streamer has become a polarizing force in the midterms, energizing young voters while unnerving establishment Democrats."
+                  "body": "Despite strong growth, rising electricity, health-care and housing costs are squeezing households, shaping a cost-of-living backlash ahead of the midterms."
                 }
               ]
             },
@@ -588,16 +588,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "ACA Premiums Are Going Up Again. See What It Means for You.",
-                  "url": "https://www.washingtonpost.com/health/interactive/2026/10/29/aca-premiums-are-going-up-again-see-what-it-means-you/",
+                  "headline": "Strong Growth and Inflation Paints Mixed Picture of Economy Days Before Midterms",
+                  "url": "https://www.washingtonpost.com/business/2026/10/29/consumer-prices-inflation-gasoline-energy-trump/",
                   "eng": "",
-                  "body": "Health-insurance premiums under the Affordable Care Act are set to rise again for millions of Americans starting in January."
+                  "body": "Solid GDP growth alongside stubborn inflation is giving voters a mixed economic picture in the final days before the midterm elections."
                 },
                 {
-                  "headline": "This El Niño Has Now Set Records for 150 Days Straight",
-                  "url": "https://www.washingtonpost.com/weather/2026/10/28/this-el-nio-has-now-set-records-150-days-straight/",
+                  "headline": "Meet Hasan Piker, the Streamer Dividing Democrats in the Midterms",
+                  "url": "https://www.washingtonpost.com/politics/2026/10/29/meet-hasan-piker-twitch-streamer-dividing-democrats-midterms/",
                   "eng": "",
-                  "body": "The current El Niño has now broken records for 150 consecutive days, disrupting weather patterns and threatening fisheries across the Pacific."
+                  "body": "The Twitch streamer has become a polarizing force in the midterms, energizing young voters while unnerving establishment Democrats."
                 }
               ]
             }
@@ -611,16 +611,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "Big Tech Earnings Fail to Calm AI Jitters as Amazon and Intel Slump",
-                  "url": "https://www.ft.com/markets",
+                  "headline": "US Tech Stocks Tumble as Concerns Over AI Spending Intensify",
+                  "url": "https://www.ft.com/content/3ba953ae-84bb-4de4-959e-baec3e908fb3",
                   "eng": "",
-                  "body": "Amazon and Intel fell sharply after the close as their results underwhelmed, renewing investor concern that the AI spending boom may be running ahead of returns."
+                  "body": "US technology stocks tumbled as earnings fueled growing concern that the AI spending boom may be running ahead of returns, with Intel and Amazon slumping."
                 },
                 {
-                  "headline": "US Economy Expands 3.4%, Fastest in a Year",
-                  "url": "https://www.ft.com/markets",
+                  "headline": "Alphabet Shares Tumble in $500bn Rout",
+                  "url": "https://www.ft.com/content/eb386156-5bf9-4edd-80f2-803fdee1e33d",
                   "eng": "",
-                  "body": "US growth accelerated to a 3.4% annualized pace in the third quarter, powered by business investment and consumer spending, easing near-term recession fears."
+                  "body": "Alphabet shares fell sharply as slowing search growth raised questions about how AI will reshape its core business, in a rout that wiped out about $500 billion in value."
                 }
               ]
             },
@@ -628,16 +628,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "Trump Accused of 'Manipulating' Catholic Bishops for Political Gain",
-                  "url": "https://www.ft.com/content/d8e6fac8-9c71-4e0d-9639-b8cf1d5617b4",
+                  "headline": "Binance Rushes to Recover Customer Money After $6.3bn Heist",
+                  "url": "https://www.ft.com/content/c7f5e395-c3a9-430e-b757-5014527b4d49",
                   "eng": "",
-                  "body": "President Trump faced accusations of manipulating Catholic bishops for political advantage ahead of the midterm elections, deepening a church-state dispute."
+                  "body": "Binance moved to recover customer funds after a $6.3 billion heist, one of the largest in crypto history, with North Korea-linked hackers suspected."
                 },
                 {
-                  "headline": "Oil Climbs Toward $103 on Renewed Iran Strike Risk",
-                  "url": "https://www.ft.com/markets",
+                  "headline": "US Economy Beats Forecasts to Grow at 3.4% Rate in Third Quarter",
+                  "url": "https://www.ft.com/content/f2de9f3c-3290-4e87-bbc2-55430025f2ab",
                   "eng": "",
-                  "body": "Crude prices rose toward $103 a barrel as traders weighed the risk of renewed US strikes against Iran, which could threaten regional energy supplies."
+                  "body": "US growth accelerated to a 3.4% annualized pace in the third quarter, powered by business investment and consumer spending, easing near-term recession fears."
                 }
               ]
             },
@@ -645,16 +645,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "Alphabet Slumps as Search Growth Slows",
-                  "url": "https://www.ft.com/markets",
+                  "headline": "French Economy Shrinks 0.1% in Third Quarter",
+                  "url": "https://www.ft.com/content/6f879bc5-be07-4a66-afea-bcbe73723a9f",
                   "eng": "",
-                  "body": "Alphabet shares fell after third-quarter revenue missed forecasts, with slowing search growth raising questions about how AI will reshape its core business."
+                  "body": "France's economy contracted 0.1% in the third quarter amid protests, even as the wider eurozone grew faster than expected, stoking stagflation worries."
                 },
                 {
-                  "headline": "SK Hynix Gains as Samsung's Record Profit Fails to Lift Kospi",
-                  "url": "https://www.ft.com/markets",
+                  "headline": "What Killed Weil Gotshal?",
+                  "url": "https://www.ft.com/content/98dfc71b-19eb-4194-8c6a-bb6d9b463074",
                   "eng": "",
-                  "body": "SK hynix rose 1.95% even as Samsung's record 107tn-won operating profit failed to lift the Kospi, which slipped back below 6,000 in a classic sell-the-news move."
+                  "body": "The collapse of Weil Gotshal has shaken the legal industry, as the once-mighty firm's leadership moved toward dissolving the partnership."
                 }
               ]
             }
