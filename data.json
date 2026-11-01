@@ -1,80 +1,142 @@
 {
-  "date": "2026-11-01",
-  "dateLabel": "2026년 11월 1일(일요일)",
-  "generatedAt": "2026-11-01T07:18:15+09:00",
+  "date": "2026-11-02",
+  "dateLabel": "2026년 11월 2일(월요일)",
+  "generatedAt": "2026-11-02T07:20:28+09:00",
   "ticker": [
-    { "name": "KOSPI", "value": "5,730.74", "change": "▼3.48%", "dir": "down" },
-    { "name": "KOSDAQ", "value": "861.70", "change": "▼0.19%", "dir": "down" },
-    { "name": "S&P 500", "value": "7,577", "change": "▼1.82%", "dir": "down" },
-    { "name": "NASDAQ", "value": "23,967", "change": "▼0.20%", "dir": "down" },
-    { "name": "다우", "value": "48,435", "change": "▼0.06%", "dir": "down" },
-    { "name": "삼성전자", "value": "222,000원대", "change": "▼7% 내외", "dir": "down" },
-    { "name": "SK하이닉스", "value": "1,340,000원대", "change": "▼10% 내외", "dir": "down" },
-    { "name": "원/달러", "value": "1,323.89원", "change": "▲0.02%", "dir": "up" }
+    {
+      "name": "KOSPI",
+      "value": "5,730.74",
+      "change": "▼3.48%",
+      "dir": "down"
+    },
+    {
+      "name": "KOSDAQ",
+      "value": "724.38",
+      "change": "▼3.83%",
+      "dir": "down"
+    },
+    {
+      "name": "S&P 500",
+      "value": "7,720.39",
+      "change": "▼0.30%",
+      "dir": "down"
+    },
+    {
+      "name": "나스닥 100",
+      "value": "-",
+      "change": "▼3.5%",
+      "dir": "down"
+    },
+    {
+      "name": "다우",
+      "value": "52,342.56",
+      "change": "▼0.25%",
+      "dir": "down"
+    },
+    {
+      "name": "삼성전자",
+      "value": "-",
+      "change": "▼3.02%",
+      "dir": "down"
+    },
+    {
+      "name": "SK하이닉스",
+      "value": "-",
+      "change": "▼7.08%",
+      "dir": "down"
+    },
+    {
+      "name": "원/달러",
+      "value": "1,334.20원",
+      "change": "-",
+      "dir": "down"
+    }
   ],
   "keywords": [
     {
-      "label": "① AI 거품 논쟁 격화 — 나스닥 10월 2조달러 증발",
-      "desc": "AI 지출 수익성 의문이 확산하며 기술주가 대폭 하락. 나스닥은 10월 한 달간 시가총액 2조 달러 증발, 빅테크도 9000억 달러 규모 매도 폭풍(FT)"
+      "label": "① '구글 쇼크' — 알파벳 -12%·터보퀀트 공개에 반도체 직격",
+      "desc": "구글 AI 압축 알고리즘 '터보퀀트' 공개로 메모리 수요 우려 확산, 알파벳 -12.64%(283.82달러) 사상 최악. 코스피 5,730.74(-3.48%) 급락, 필라델피아 반도체 -7.2% 200일선 이탈"
     },
     {
-      "label": "② 코스피 5,700선 위태 — 7거래일 연속 하락",
-      "desc": "코스피 5,730.74(-3.48%)로 7일 연속 하락. 52주 최고(9,385.59) 대비 -38.9%, 연초 상승분 116%→31%로 급격히 축소"
+      "label": "② 美 중간선거 D-1 — 민주당 '블루 웨이브' 기대감",
+      "desc": "RCP 여론조사 민주당 제네릭 투표 8.2p 리드. 트럼프는 민주당 장악 시 '거부권 적극 행사' 예고. 역사적 중간선거 전후 랠리 통계와 충돌"
     },
     {
-      "label": "③ 유가 배럴당 100달러 상회 — 인플레이션 재부각",
-      "desc": "WTI 유가가 100달러를 상회하며 인플레이션 압력 가중. 미국 국채 수익률 고공행진 속 Fed 추가 긴축 우려 재점화"
+      "label": "③ 애플·AMD·팔란티어 실적 주간 — AI 테마 향방 가른다",
+      "desc": "애플(11/2 장마감 후)·팔란티어(11/2)·AMD(11/3) 실적 발표. AI 투자 피로감 속 기술주 향방의 분수령"
     },
     {
-      "label": "④ 바이낸스 63억달러 해킹 — 북한 연계 조직 배후",
-      "desc": "세계 최대 가상자산거래소 바이낸스에서 63억 달러(약 8.4조원) 탈취. 엔지니어 노트북 침투 발단, 북한 '정예 해커' 조직이 배후로 지목"
+      "label": "④ 삼성전자 30조 배당·SK하이닉스 특별배당",
+      "desc": "올해 합산 영업익 640조 전망, 주주환원 190~210조 규모. 주가는 '구글 쇼크'에 부진(삼성전자 -3.02%·SK하이닉스 -7.08%)"
     },
     {
-      "label": "⑤ Fed 금리 동결 유지·美 중간선거 D-3",
-      "desc": "Fed가 금리 동결을 유지한 가운데 미국 중간선거가 3일 앞으로 다가옴. 인플레이션 책임론 속 공화당 수성 여부가 최대 관전 포인트"
+      "label": "⑤ 호르무즈 협상 D-3·10월 美 NFP(금요일)",
+      "desc": "미국-이란 도하 간접협상 3일째, 유가 하락. 10월 비농업 고용 예상 55,000건·실업률 4.2% 발표 대기"
     }
   ],
   "morning": {
-    "date": "2026-11-01",
-    "headline": "AI 거품 논쟁에 나스닥 10월 2조달러 증발·코스피 5,700선 위태…유가 $100 돌파, 바이낸스 63억달러 해킹",
-    "weather": "☁️ 흐림 · 11°C · 체감 9°C · 바람 5km/h",
-    "schedule": "일요일 — 11/2(월) AI Tool 파일럿 테스트 공지 · 11/3(화) 2027 전사전략회의 D-2, 주말간 자료 최종 점검",
+    "date": "2026-11-02",
+    "headline": "구글 쇼크에 코스피 5,730·반도체 급락…내일 美 중간선거·제니엘 전사전략회의, 삼성전자 30조 배당·SK하이닉스 특별배당",
+    "weather": "🌥️ 흐림 · 11°C (체감 10°C) · 습도 77% · 바람 4km/h",
+    "schedule": "없음 (오늘 포커스: Z-P2 전사전략회의 최종준비 + Z-P6 AI tool 파일럿 테스트 공지)",
     "domestic": {
-      "kospi": { "value": "5,730.74", "change": "▼ -206.92", "changeRate": "-3.48%", "rate": "-3.48%" },
-      "kosdaq": { "value": "861.70", "change": "▼ -1.60", "changeRate": "-0.19%", "rate": "-0.19%" },
-      "supply": {
-        "foreign": "외국인 순매도 지속(반도체·AI주 중심)",
-        "institution": "기관 동반 순매도",
-        "individual": "개인 순매수 방어",
-        "usdkrw": "1,323.89원",
-        "change": "+0.02% (전일 대비 소폭 상승)"
+      "kospi": {
+        "value": "5,730.74",
+        "change": "▼ -206.92",
+        "changeRate": "-3.48%",
+        "rate": "-3.48%"
       },
-      "comment": "코스피가 5,730.74(-3.48%, -206.92p)로 마감하며 7거래일 연속 하락했다. 52주 최고(9,385.59) 대비 -38.9%까지 밀렸고, 올해 상승폭도 116%→31%로 급격히 축소됐다. 외국인 순매도가 지속되는 가운데 반도체·AI주 낙폭이 확대됐다. 원/달러는 1,323.89원(+0.02%)으로 소폭 상승하며 약보합 흐름을 보였다."
+      "kosdaq": {
+        "value": "724.38",
+        "change": "▼ -28.85",
+        "changeRate": "-3.83%",
+        "rate": "-3.83%"
+      },
+      "supply": {
+        "foreign": "외국인 1.6조 순매도",
+        "institution": "연기금 8,929억 순매수로 낙폭 방어",
+        "individual": "개인 순매수 방어",
+        "usdkrw": "1,334.20원",
+        "change": "전일 대비 약보합"
+      },
+      "comment": "코스피가 '구글 쇼크'(알파벳 -12%) 여파로 5,730.74(-3.48%, -206.92p) 급락 마감했다. 장중 5,599까지 추락하며 매도 측 서킷브레이커가 발동됐고, 삼성전자 -3.02%·SK하이닉스 -7.08% 등 반도체 대형주가 급락했다. 외국인 1.6조 순매도에 연기금 8,929억 순매수가 낙폭을 방어했다. 원/달러는 1,334.20원으로 약보합 마감했다."
     },
     "overseas": {
-      "dow": { "value": "48,435", "change": "▼ -0.06%", "changeRate": "-0.06%" },
-      "sp500": { "value": "7,577", "change": "▼ -1.82%", "changeRate": "-1.82%" },
-      "nasdaq": { "value": "23,967", "change": "▼ -0.20%", "changeRate": "-0.20%" },
-      "oil": {
-        "wti": "$100 상회",
-        "gold": "고공행진(국채 수익률 동반)",
-        "note": "WTI 유가가 배럴당 100달러를 상회하며 인플레이션 압력을 가중. 미국 국채 수익률이 고공행진하는 가운데 Fed는 금리 동결을 유지했다."
+      "dow": {
+        "value": "52,342.56",
+        "change": "▼ -0.25%",
+        "changeRate": "-0.25%"
       },
-      "keyStocks": "미국 증시는 AI 지출 수익성에 대한 의문이 확산하며 기술주가 대폭 하락했다. 나스닥은 10월 한 달간 시가총액 2조 달러가 증발했고, 빅테크 9000억 달러 규모의 매도 폭풍(FT)이 이어졌다. S&P 500은 전일 7,720.39에서 7,577p로 -1.82% 하락했다. WTI 유가 100달러 상회, 국채 수익률 고공행진, Fed 금리 동결 유지가 복합적으로 작용하며 시장 불확실성이 커졌다."
+      "sp500": {
+        "value": "7,720.39",
+        "change": "▼ -0.30%",
+        "changeRate": "-0.30%"
+      },
+      "nasdaq": {
+        "value": "나스닥 100",
+        "change": "▼ -3.5%",
+        "changeRate": "-3.5%"
+      },
+      "oil": {
+        "wti": "협상 진전에 하락",
+        "brent": "미-이란 협상 타결 소식에 하락",
+        "note": "미국-이란 호르무즈 협상 진전으로 국제유가 하락. 알파벳 -12%+ '구글 쇼크'에 필라델피아 반도체 -7.2%(200일선 이탈), 나스닥 100 -3.5%. BOJ 금리 1.25% 동결(8:1)·ETF 매도 확대 방침."
+      },
+      "keyStocks": "미국 증시는 알파벳 -12%+ 급락(시총 5,000억 달러 증발)으로 '구글 쇼크'가 발생했다. S&P 500은 7,720.39(-0.30%)로 선방했지만 나스닥 100 -3.5%, 필라델피아 반도체 -7.2%(200일선 이탈)로 기술주·반도체 쇼크가 집중됐다. 아마존·인텔 실적 후 약세, BOJ 금리 1.25% 동결(8:1)에 ETF 매도 확대 방침. 닛케이 63,290.11(-2.12%)."
     },
-    "topNews": "AI 거품 논쟁에 나스닥 10월 2조달러 증발·코스피 5,700선 위태…유가 $100 돌파, 바이낸스 63억달러 해킹",
+    "topNews": "구글 쇼크에 코스피 5,730·반도체 급락…내일 美 중간선거·제니엘 전사전략회의, 삼성전자 30조 배당·SK하이닉스 특별배당",
     "otherNews": [
-      "AI 거품 논쟁 격화 — 나스닥 10월 2조달러 증발, 빅테크 9000억달러 매도 폭풍",
-      "코스피 7거래일 연속 하락 5,730.74 — 52주 최고 대비 -38.9%, 연초 상승분 31%로 축소",
-      "유가 배럴당 100달러 상회 — 인플레이션 재부각에 Fed 추가 긴축 우려",
-      "바이낸스 63억달러(8조4,000억원) 해킹 — 북한 연계 조직 배후 지목, 가상자산 사상 최대",
-      "美 Fed 금리 동결 유지·중간선거 D-3 — 인플레 책임론 속 공화당 수성 시험대"
+      "FBI, 바이낸스 63억달러(8.4조원) 해킹 '북한 소행' 공식 확인 — 정예 해킹조직 TraderTraitor 지목",
+      "이재명 대통령, 2일 시정연설 — 내년 역대 최대 821조원(820조9,000억) 예산안 설득",
+      "에르도안 튀르키예 대통령 2~4일 국빈 방한 — 3일 이재명 대통령과 정상회담",
+      "한국거래소, 저PBR 기업 151곳 첫 공개 — 이마트·현대제철·한화생명 등 증권사 앱에 '꼬리표'",
+      "호르무즈 협상 D-3 진전 — 국제유가 하락, 10월 美 NFP(금요일) 예상 55,000건·실업률 4.2%"
     ],
     "email": {
       "google": "sjandjeong@gmail.com — Gmail 데이터 미확보",
-      "note": "🟢 오늘 모닝브리핑 주요 뉴스는 AI 거품 논쟁·코스피 5,700선 위태·유가 $100 돌파 등. 📬 하버드 온라인 마케팅·커뮤니케이션 과정 안내, 교보문고 11월 송길영 '시대 예보' 강연 안내 메일 수신."
+      "note": "🟢 오늘 모닝브리핑 주요 뉴스는 구글 쇼크·美 중간선거 D-1·삼성전자 30조 배당 등. ⚪ Gmail 데이터 수집 오류로 미확보."
     },
-    "insight": "💡 일요일, 조용히 주간을 준비하는 날\n\n월요일(11/2) AI Tool 파일럿 테스트 공지가 예정되어 있고, 화요일(11/3)은 2027 전사전략회의가 있습니다. 주말간 전략회의 자료와 AI Tool 공지안을 최종 점검하시면 월요일부터 부드럽게 시작할 수 있습니다.\n\n유가 $100 돌파, AI 투자 피로감, 코스피 연속 하락 — 시장은 불확실성이 큰 국면입니다. 개인 자산 운용(L-P4) 현금 정리건은 시장 급변기라 더 의미있어 보입니다. 무리하지 않고 핵심에 집중하는 하루 보내세요."
+    "insight": "💡 11월 첫 주, 두 개의 분수령이 겹쳤다\n\n내일(3일) 美 중간선거와 제니엘 전사전략회의 — 규모는 다르지만 '방향을 결정하는 회의'라는 점에서 같습니다. 지난주 '구글 쇼크'(알파벳 -12%)로 AI 투자 피로감이 시장에 확산됐고, 이번 주 애플·AMD·팔란티어 실적이 AI 테마의 내년 방향을 가를 변수입니다.\n\n제니엘 AX 추진에도 'AI tool 파일럿 테스트 공지'가 오늘 과제입니다. 시장 전체의 AI 피로감과 별개로, 내부 실행력은 지금 만들어가는 중입니다. 오늘은 Z-P2(내일 전사전략회의) 최종 점검과 Z-P6(파일럿 공지) 두 가지에 집중하세요.\n\n날씨는 쌀쌀하지만 화요일 회의 준비에 집중할 아침입니다. 화이팅!"
   },
   "sections": {
     "kor": {
@@ -88,16 +150,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "기금형 퇴직연금 전면 도입…'증시 구원투수' 띄운다",
-                  "url": "https://www.mk.co.kr/news/economy/12119455",
-                  "eng": "Fund-type retirement pension introduced to rescue the stock market",
-                  "body": "정부가 542조원 규모 퇴직연금을 기금형으로 전면 개편한다. 전문기관이 운용해 낮은 수익률·높은 수수료 문제를 개선하고, 장기적으로 증시 자금 유입의 구원투수가 될 전망이다."
+                  "headline": "구글 '터보퀀트' 쇼크에 코스피 3%대 급락…5,730.74 마감",
+                  "url": "https://www.mk.co.kr/news/stock/",
+                  "eng": "Kospi slides over 3% to 5,730.74 on Google 'TurboQuant' shock",
+                  "body": "구글의 AI 압축 알고리즘 '터보퀀트' 공개로 메모리 수요 감소 우려가 확산하며 코스피가 5,730.74(-3.48%) 급락 마감했다. 장중 5,599까지 추락해 매도 측 서킷브레이커가 발동됐다."
                 },
                 {
-                  "headline": "코스피 7거래일 연속 하락 5,730선…반도체·AI주 낙폭 확대",
-                  "url": "https://www.mk.co.kr/news/stock/",
-                  "eng": "Kospi falls for seventh straight day to 5,730 as chip and AI stocks slide",
-                  "body": "코스피가 5,730.74(-3.48%)로 마감하며 7거래일 연속 하락했다. 외국인 순매도가 지속되는 가운데 반도체·AI주 낙폭이 확대됐다."
+                  "headline": "이재명 대통령, 2일 시정연설…역대 최대 821조 예산 설득",
+                  "url": "https://www.mk.co.kr/news/politics/",
+                  "eng": "President Lee to deliver budget speech on record 821tn won plan",
+                  "body": "이재명 대통령이 2일 국회에서 2027년도 예산안 시정연설을 한다. 총지출 820조9,000억원으로 역대 최대 규모이며, 국민의힘은 포퓰리즘 예산 삭감을 예고하며 강경 대응에 나섰다."
                 }
               ]
             },
@@ -105,16 +167,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "'롤러코스피'에 퇴직연금 출렁…고점 대비 평가액 급감",
-                  "url": "https://www.mk.co.kr/news/economy/",
-                  "eng": "Retirement pensions wobble as Kospi roller-coasters, valuations slide",
-                  "body": "증시 급락으로 반도체 ETF 등에 투자한 퇴직연금 가입자들의 평가액이 고점 대비 수천만 원씩 줄었다. 변동성 장세에 퇴직연금 운용 리스크가 부각되고 있다."
+                  "headline": "삼성전자 30조 배당·SK하이닉스 특별배당…주주환원 190~210조",
+                  "url": "https://www.mk.co.kr/news/stock/",
+                  "eng": "Samsung's 30tn dividend and SK hynix special dividend push returns to 210tn won",
+                  "body": "삼성전자가 3분기 30조원 규모 현금배당을 시행하고, SK하이닉스도 특별배당을 단행한다. 올해 합산 영업이익 640조 전망 속 주주환원 규모는 190~210조원에 달할 전망이다. 다만 주가는 '구글 쇼크'로 부진하다."
                 },
                 {
-                  "headline": "국민연금, 국내주식 팔지도 사지도 못해…해외투자로 눈 돌린다",
-                  "url": "https://www.mk.co.kr/news/economy/12140502",
-                  "eng": "National Pension Service turns to overseas investment as domestic stocks stall",
-                  "body": "국민연금이 국내 주식시장 정체 속 해외투자 비중 확대를 검토 중이다. 공공기관의 기금형 퇴직연금 사업자 진출 선언도 잇따르고 있다."
+                  "headline": "한국거래소, 저PBR 기업 151곳 첫 공개…이마트·현대제철 등",
+                  "url": "https://www.mk.co.kr/news/stock/",
+                  "eng": "KRX names 151 low-PBR companies, including E-mart and Hyundai Steel",
+                  "body": "한국거래소가 3년간 PBR 하위권에 머문 151개 상장사를 처음 공개했다. 한화생명·현대제철·롯데쇼핑·이마트 등이 포함됐으며, 2일부터 증권사 앱 종목명에 '저PBR' 꼬리표가 붙는다."
                 }
               ]
             },
@@ -122,16 +184,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "외국인 9월 상장주식 19조 순매도…7개월 연속 이탈",
+                  "headline": "FBI, 바이낸스 63억달러 해킹 '북한 소행' 공식 확인",
                   "url": "https://www.mk.co.kr/news/economy/",
-                  "eng": "Foreign investors sell 19tn won of listed stocks in September",
-                  "body": "금융감독원 집계 결과 외국인은 9월 상장주식 19조1,160억원을 순매도하며 7개월 연속 이탈했다. 반도체·AI주를 중심으로 매도세가 집중됐다."
+                  "eng": "FBI officially blames North Korea for $6.3bn Binance hack",
+                  "body": "FBI가 세계 최대 가상자산거래소 바이낸스의 63억달러(8.4조원) 탈취 사건 배후로 북한 정예 해킹조직 'TraderTraitor'를 공식 지목했다. 탈취 자산은 이더리움으로 전환돼 세탁 중인 것으로 파악됐다."
                 },
                 {
-                  "headline": "원/달러 1,323.89원…외국인 이탈 속 약보합",
-                  "url": "https://www.mk.co.kr/news/economy/",
-                  "eng": "Won/dollar at 1,323.89 amid foreign outflows",
-                  "body": "달러/원 환율이 1,323.89원(+0.02%)으로 약보합 마감했다. 외국인 순매도 지속에도 환율 변동은 제한적이었다."
+                  "headline": "에르도안 튀르키예 대통령 국빈 방한…3일 정상회담",
+                  "url": "https://www.mk.co.kr/news/politics/",
+                  "eng": "Turkish President Erdogan begins state visit to Korea",
+                  "body": "레제프 타이이프 에르도안 튀르키예 대통령이 2~4일 한국을 국빈 방문한다. 2018년 이후 8년 만의 방한으로, 3일 이재명 대통령과 정상회담을 열고 미래산업 협력을 논의한다."
                 }
               ]
             }
@@ -145,16 +207,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "바이낸스 63억달러 해킹…북한 '정예 해커' 배후로 지목",
-                  "url": "https://www.khan.co.kr/article/202610310718001",
-                  "eng": "Binance's $6.3bn hack traced to North Korean elite hackers",
-                  "body": "세계 최대 가상자산거래소 바이낸스에서 63억 달러(8조4,000억원)가 탈취된 사상 최대 해킹의 배후로 북한 연계 조직이 지목됐다. 엔지니어 노트북 침투가 발단으로 조사됐다."
+                  "headline": "이재명 대통령 2일 시정연설…821조 '사상 최대' 예산 설득",
+                  "url": "https://www.khan.co.kr/politics/",
+                  "eng": "President Lee seeks support for record 821tn won budget",
+                  "body": "이재명 대통령이 2일 국회 본회의에서 2027년도 예산안 시정연설을 한다. 총지출 820조9,000억원, 미래대응기금 162조3,000억원 신설이 골자로, 국민의힘은 포퓰리즘 항목 삭감을 벼르고 있다."
                 },
                 {
-                  "headline": "코스피 5,700선 위태…7일 연속 하락에 투자심리 위축",
-                  "url": "https://www.khan.co.kr/economy/",
-                  "eng": "Kospi teeters at 5,700 as seven-day slide saps sentiment",
-                  "body": "코스피가 5,730.74(-3.48%)로 마감하며 7거래일 연속 하락했다. 52주 최고 대비 -38.9%까지 밀리며 개인투자자 손실 우려가 커지고 있다."
+                  "headline": "에르도안 튀르키예 대통령 2~4일 국빈 방한",
+                  "url": "https://www.khan.co.kr/politics/",
+                  "eng": "Erdogan arrives in Seoul for state visit",
+                  "body": "레제프 타이이프 에르도안 튀르키예 대통령이 2일부터 4일까지 한국을 국빈 방문한다. 3일 공식 환영식을 시작으로 정상회담, 양해각서 서명식, 국빈 만찬 등이 예정돼 있다."
                 }
               ]
             },
@@ -162,16 +224,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "트럼프, 바이낸스 해킹 북한 소행에 \"모른다, 살펴보겠다\"",
-                  "url": "https://www.khan.co.kr/article/202610310718001",
-                  "eng": "Trump says he 'doesn't know' whether North Korea was behind Binance hack",
-                  "body": "도널드 트럼프 미국 대통령은 바이낸스 해킹의 북한 연계 여부에 대해 '모른다, 살펴보겠다'고 답했다. 중간선거를 앞두고 외교·안보 이슈 관리에 부담이 커졌다."
+                  "headline": "한국거래소 저PBR 151곳 공개…이마트·현대제철 '꼬리표'",
+                  "url": "https://www.khan.co.kr/economy/",
+                  "eng": "KRX tags 151 undervalued stocks including E-mart",
+                  "body": "한국거래소가 장기간 저평가된 상장사 151곳을 처음 공개했다. 평균 PBR 0.25배로 시장 평균(약 1.8배)을 크게 밑돌며, 2일부터 증권사 거래 시스템에 '저PBR' 표기가 붙는다."
                 },
                 {
-                  "headline": "외국인 9월 주식 19조 순매도…7개월 연속 '셀 코리아'",
-                  "url": "https://www.khan.co.kr/economy/industry/articles",
-                  "eng": "Foreigners' 19tn won stock selloff extends 'Sell Korea' to 7 months",
-                  "body": "금감원에 따르면 9월 외국인은 상장주식 19조1,160억원을 순매도했다. 올해 들어 7개월 연속 이탈로 '셀 코리아' 우려가 심화됐다."
+                  "headline": "'구글 쇼크'에 코스피 3% 급락…반도체주 흔들",
+                  "url": "https://www.khan.co.kr/economy/",
+                  "eng": "Google shock sends Kospi down 3%, chips wobble",
+                  "body": "알파벳 급락 여파로 코스피가 5,730.74(-3.48%) 급락했다. 삼성전자 -3.02%, SK하이닉스 -7.08%로 반도체 대형주가 직격탄을 맞았고, 장중 5,599까지 밀리며 매도 측 서킷브레이커가 발동됐다."
                 }
               ]
             },
@@ -179,16 +241,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "AI발 매도 폭풍에 코스피 3% 급락…다음주 美 중간선거 주목",
-                  "url": "https://www.khan.co.kr/economy/",
-                  "eng": "AI selloff drags Kospi down 3%; US midterms in focus next week",
-                  "body": "빅테크 실적 충격으로 코스피가 3%대 급락하며 5,700선까지 밀렸다. 다음주 미국 중간선거 결과에 따른 트럼프 정책 변화가 최대 변수로 꼽힌다."
+                  "headline": "FBI, 바이낸스 해킹 '북한 소행' 공식 확인",
+                  "url": "https://www.khan.co.kr/world/",
+                  "eng": "FBI confirms North Korea behind Binance hack",
+                  "body": "FBI가 바이낸스 해킹(63억달러 탈취)의 배후로 북한 연계 해킹조직 TraderTraitor를 공식 지목했다. 탈취 자산은 20분 만에 빠져나갔고, 탈중앙화금융(DeFi)을 통한 세탁이 예상된다."
                 },
                 {
-                  "headline": "유가 배럴당 100달러 상회…인플레 재부각",
-                  "url": "https://www.khan.co.kr/economy/",
-                  "eng": "Oil tops $100 a barrel, reviving inflation worries",
-                  "body": "국제유가가 배럴당 100달러를 상회하며 인플레이션 압력이 재부각됐다. Fed 추가 긴축 우려가 커지는 가운데 원자재 가격 부담이 확산됐다."
+                  "headline": "美 중간선거 D-1…블루웨이브 가능성에 촉각",
+                  "url": "https://www.khan.co.kr/world/",
+                  "eng": "US midterms a day away amid blue-wave expectations",
+                  "body": "미국 중간선거가 하루 앞으로 다가왔다. 민주당이 여론조사에서 제네릭 투표 8.2%p 리드를 보이며 '블루 웨이브' 가능성이 거론되고, 트럼프 대통령은 민주당 장악 시 거부권 적극 행사를 예고했다."
                 }
               ]
             }
@@ -202,16 +264,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "'자폭드론' 날린 北, 韓 GP모형 때렸다",
+                  "headline": "李대통령, 오늘 시정연설…역대 최대 821조 예산안",
                   "url": "https://www.donga.com/news/Politics/",
-                  "eng": "North Korea's kamikaze drones strike mock South Korean guard post",
-                  "body": "북한이 자폭드론을 동원해 남한 GP(감시초소) 모형을 타격하는 훈련을 공개했다. 드론-핵 방사포 등 '게임체인저' 무기 체계 공개로 한반도 긴장이 고조되고 있다."
+                  "eng": "President Lee delivers budget speech on record 821tn won plan",
+                  "body": "이재명 대통령이 2일 국회에서 2027년도 예산안 시정연설을 한다. 사상 최대인 820조9,000억원 규모로, 국민의힘과의 예산 정국 대치가 본격화할 전망이다."
                 },
                 {
-                  "headline": "540조 퇴직연금 대수술…'기금형' 전면 도입한다",
-                  "url": "https://www.donga.com/news/Economy/",
-                  "eng": "Overhaul of 540tn won retirement pensions to fully adopt fund-type",
-                  "body": "정부가 540조원 규모 퇴직연금을 기금형으로 전면 개편하기로 했다. 전문기관 운용으로 '쥐꼬리 수익'을 개선하고 금융권 유치 경쟁도 점화될 전망이다."
+                  "headline": "에르도안 대통령 국빈 방한…3일 정상회담",
+                  "url": "https://www.donga.com/news/Politics/",
+                  "eng": "Erdogan arrives for state visit, summit on Nov. 3",
+                  "body": "레제프 타이이프 에르도안 튀르키예 대통령이 2~4일 한국을 국빈 방문한다. 3일 이재명 대통령과 정상회담을 열고 미래산업·방산 등 협력을 논의할 예정이다."
                 }
               ]
             },
@@ -219,16 +281,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "무대 안에서나 밖에서나 '우리 시대의 아버지'였다",
-                  "url": "https://www.donga.com/news/Culture/",
-                  "eng": "A 'father of our times' on and off the stage",
-                  "body": "원로 배우의 별세 소식에 추모가 이어지고 있다. 무대 위에서나 무대 밖에서나 '우리 시대의 아버지'로 불리며 후배들의 귀감이 된 삶이 재조명됐다."
+                  "headline": "코스피 5,730.74 급락…'구글 쇼크' 반도체 직격",
+                  "url": "https://www.donga.com/news/Economy/",
+                  "eng": "Kospi slides to 5,730.74 as Google shock hits chips",
+                  "body": "코스피가 알파벳 급락 여파로 5,730.74(-3.48%) 마감했다. 구글 AI 압축 알고리즘 공개로 메모리 수요 우려가 커지며 삼성전자·SK하이닉스 등 반도체주가 급락했다."
                 },
                 {
-                  "headline": "'542조 퇴직연금' 금융권 유치 경쟁 점화",
-                  "url": "https://www.donga.com/news/Economy/",
-                  "eng": "Financial firms race to win 542tn won pension market",
-                  "body": "기금형 퇴직연금 도입이 확정되면서 은행·증권·보험사들이 542조원 시장 선점을 위한 경쟁에 돌입했다. 수익률·수수료 개선이 핵심 승부처로 부상했다."
+                  "headline": "거래소, 저PBR 기업 151곳 첫 공표…한화생명·이마트 등",
+                  "url": "https://www.donga.com/news/Economy/article/all/20261101/134944017/1",
+                  "eng": "KRX unveils 151 low-PBR firms including Hanwha Life",
+                  "body": "한국거래소가 유가증권·코스닥 상장사 중 저PBR 기업 151곳을 처음 공표했다. 한화생명·현대제철·롯데쇼핑·이마트 등이 이름을 올렸다."
                 }
               ]
             },
@@ -236,16 +298,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "北, '게임체인저' 드론-핵 방사포 공개",
-                  "url": "https://www.donga.com/news/Politics/",
-                  "eng": "North Korea unveils 'game-changer' drones and nuclear rocket artillery",
-                  "body": "북한이 드론과 핵 방사포를 '게임체인저'로 규정하며 대대적으로 공개했다. 한미 당국은 북한의 비대칭 전력 고도화를 예의주시하고 있다."
+                  "headline": "삼성전자 30조 배당·SK하이닉스 특별배당…주주환원 확대",
+                  "url": "https://www.donga.com/news/Economy/",
+                  "eng": "Samsung, SK hynix boost shareholder returns",
+                  "body": "삼성전자가 3분기 약 30조원 현금배당을 시행하고, SK하이닉스도 특별배당에 나선다. 올해 합산 영업이익 640조 전망 속 주주환원이 190~210조원에 이를 전망이다."
                 },
                 {
-                  "headline": "도 넘은 막말 정치…중간선거 막판 네거티브 격화",
-                  "url": "https://www.donga.com/news/Inter/USA/",
-                  "eng": "Personal attacks escalate in US midterms' final stretch",
-                  "body": "미국 중간선거를 사흘 앞두고 후보 간 막말·네거티브 공방이 도를 넘고 있다는 비판이 나온다. 인플레이션 책임론이 선거 막판 최대 쟁점으로 부상했다."
+                  "headline": "바이낸스 63억달러 해킹…FBI '북한 배후' 지목",
+                  "url": "https://www.donga.com/news/Economy/",
+                  "eng": "FBI points to North Korea in $6.3bn Binance hack",
+                  "body": "FBI가 바이낸스 해킹(63억달러 탈취) 배후로 북한 정예 해킹조직을 공식 지목했다. 사상 최대 규모 가상자산 해킹으로, 탈취 자산 세탁이 진행 중이다."
                 }
               ]
             }
@@ -259,16 +321,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "코스피 5,700선 위태…삼전·하이닉스 동반 약세",
+                  "headline": "코스피 5,730선 '구글 쇼크'…외국인 1.6조 순매도",
                   "url": "https://www.hankyung.com/finance/",
-                  "eng": "Kospi teeters at 5,700 as Samsung and SK Hynix weaken together",
-                  "body": "코스피가 5,730.74(-3.48%)로 마감하며 5,700선이 위태해졌다. 삼성전자(222,000원대, -7%)와 SK하이닉스(1,340,000원대, -10%)가 동반 약세를 보였다."
+                  "eng": "Google shock drags Kospi to 5,730 as foreigners sell 1.6tn won",
+                  "body": "코스피가 알파벳 급락 여파로 5,730.74(-3.48%) 급락 마감했다. 외국인이 1.6조원 순매도했고, 장중 5,599까지 추락하며 매도 측 서킷브레이커가 발동됐다. 연기금 8,929억원 순매수가 낙폭을 방어했다."
                 },
                 {
-                  "headline": "삼성전자 100조 벌고도 주가 급락…'재료 소진'의 역설",
+                  "headline": "삼성전자 30조 배당·SK하이닉스 특별배당…주주환원 190~210조",
                   "url": "https://www.hankyung.com/finance/",
-                  "eng": "Samsung earns 100tn won yet shares plunge in 'sell-the-news' paradox",
-                  "body": "삼성전자가 역대급 분기 영업이익 100조원대를 기록했지만 주가는 오히려 급락했다. 호실적이 이미 선반영된 '재료 소진' 양상으로 풀이된다."
+                  "eng": "Samsung and SK hynix unveil massive shareholder returns",
+                  "body": "삼성전자 3분기 30조원 배당과 SK하이닉스 특별배당으로 올해 주주환원이 190~210조원에 달할 전망이다. 합산 영업이익 640조 전망에도 주가는 '구글 쇼크'에 부진하다."
                 }
               ]
             },
@@ -276,16 +338,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "AI 투매에 나스닥 한 달 최악…빅테크 9000억달러 증발",
-                  "url": "https://www.hankyung.com/finance/",
-                  "eng": "Nasdaq posts worst month as AI rout wipes $900bn off Big Tech",
-                  "body": "AI 지출 수익성 의문이 확산하며 나스닥이 10월 한 달간 2조 달러 증발, 빅테크 시총도 9000억 달러 줄었다. S&P 500은 7,577p(-1.82%)로 마감했다."
+                  "headline": "이재명 대통령 2일 시정연설…821조 예산 정국 본격화",
+                  "url": "https://www.hankyung.com/politics/",
+                  "eng": "President Lee opens 821tn won budget fight",
+                  "body": "이재명 대통령이 2일 2027년도 예산안 시정연설을 한다. 역대 최대 820조9,000억원 규모로, 국민의힘은 포퓰리즘 항목 삭감을 예고하며 강경 대응에 나섰다."
                 },
                 {
-                  "headline": "Fed 금리 동결 유지…국채 수익률 고공행진",
+                  "headline": "애플·AMD·팔란티어 실적 주간…AI 테마 향방 가른다",
                   "url": "https://www.hankyung.com/finance/",
-                  "eng": "Fed holds rates steady as Treasury yields stay elevated",
-                  "body": "Fed가 금리 동결을 유지한 가운데 미국 국채 수익률은 고공행진을 이어갔다. 인플레이션 압력과 중간선거 불확실성이 금리 경로를 복잡하게 만들고 있다."
+                  "eng": "Apple, AMD, Palantir earnings to test AI trade",
+                  "body": "애플(11/2 장마감 후)·팔란티어(11/2)·AMD(11/3) 실적이 이번 주 발표된다. AI 투자 피로감이 확산된 가운데, 이들 실적이 AI 테마의 내년 방향을 가를 분수령이 될 전망이다."
                 }
               ]
             },
@@ -293,16 +355,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "유가 100달러 상회…인플레 압력·Fed 긴축 우려 재점화",
-                  "url": "https://www.hankyung.com/economy/",
-                  "eng": "Oil tops $100, rekindling inflation and Fed-tightening worries",
-                  "body": "WTI 유가가 배럴당 100달러를 상회하며 인플레이션 압력이 가중됐다. Fed 추가 긴축 우려가 재점화되며 채권·주식시장 변동성이 커지고 있다."
+                  "headline": "저PBR 151곳 꼬리표…이마트·현대제철 포함",
+                  "url": "https://www.hankyung.com/article/2026103177206",
+                  "eng": "151 low-PBR firms tagged, including E-mart",
+                  "body": "한국거래소가 현대제철·롯데케미칼·한화생명·이마트·롯데쇼핑 등 151개 상장사를 저PBR 기업으로 공표했다. 2일부터 증권사 앱에 '저PBR' 표기가 붙는다."
                 },
                 {
-                  "headline": "원/달러 1,323원…수급 공백 속 약보합",
-                  "url": "https://www.hankyung.com/economy/",
-                  "eng": "Won/dollar at 1,323 amid quiet flows",
-                  "body": "달러/원 환율이 1,323.89원(+0.02%)으로 약보합 마감했다. 외국인 순매도에도 불구하고 환율 변동폭은 제한적이었다."
+                  "headline": "호르무즈 협상 진전…국제유가 하락",
+                  "url": "https://www.hankyung.com/finance/",
+                  "eng": "Oil falls as Hormuz talks progress",
+                  "body": "미국-이란 호르무즈 협상이 도하에서 3일째 이어지며 타결 기대감이 커지고 있다. 협상 진전 소식에 국제유가가 하락세를 보였다."
                 }
               ]
             }
@@ -321,16 +383,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "Wall Street Is Starting to Call the Shots in America's AI Build-Out",
-                  "url": "https://www.wsj.com/finance/the-new-bottleneck-in-americas-ai-build-out-a-shortage-of-cheap-money-0c14c84d",
+                  "headline": "AI Investors Race to Get Insurance on the Biggest Market Bet in History",
+                  "url": "https://www.wsj.com/finance/stocks/ai-investors-are-racing-to-get-insurance-on-the-biggest-market-bet-in-history-a60e296f",
                   "eng": "",
-                  "body": "Lenders and investors are getting choosier about their AI bets and demanding stricter terms, as the AI build-out enters a new phase of scarce cheap money."
+                  "body": "Investors are rushing to hedge their exposure to AI stocks after Alphabet's record selloff, reflecting growing anxiety that the massive AI infrastructure bet may not pay off."
                 },
                 {
-                  "headline": "OpenAI Raises Less Than Half of $30 Billion Target in Latest Round",
-                  "url": "https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5",
+                  "headline": "Binance Resumes Withdrawals After Suffering Biggest-Ever Crypto Hack",
+                  "url": "https://www.wsj.com/finance/currencies/binance-resumes-withdrawals-after-suffering-biggest-ever-crypto-hack-11d1900f",
                   "eng": "",
-                  "body": "OpenAI raised less than half of its $30 billion target in its latest funding round, the latest sign that investor enthusiasm for AI is cooling."
+                  "body": "Binance resumed withdrawals after more than $6 billion in virtual assets were stolen in the largest crypto hack in history, which the FBI attributed to the North Korea-linked TraderTraitor group."
                 }
               ]
             },
@@ -338,16 +400,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "Fed Votes to Hold Rates Steady as Two Officials Dissent",
-                  "url": "https://www.wsj.com/economy/central-banking/fed-votes-to-hold-rates-steady-as-two-officials-dissent-2494B43F",
+                  "headline": "Earnings-Fueled Stock Rally Faces Key Test",
+                  "url": "https://www.wsj.com/finance/stocks/global-stocks-markets-dow-news-05-18-2026-f8053b68",
                   "eng": "",
-                  "body": "The Federal Reserve held interest rates steady, with two officials dissenting as inflation remains too high and the economy shows resilience."
+                  "body": "The earnings-driven market rally faces a critical week as Apple, AMD and Palantir report, with investors weighing whether AI spending can sustain the sector's momentum."
                 },
                 {
-                  "headline": "Michigan's El-Sayed Spat Intensifies; Texas Early Voting Breaks Records",
-                  "url": "https://www.wsj.com/livecoverage/midterm-election-news-2026",
+                  "headline": "Big Tech Is Cutting Back on Buybacks. Nvidia Could Be the Exception.",
+                  "url": "https://www.wsj.com/finance/stocks/big-tech-is-cutting-back-on-buybacks-nvidia-could-be-the-exception-8fc6044f",
                   "eng": "",
-                  "body": "Michigan's El-Sayed disinvited his former Democratic primary rival from a joint appearance, while Texas set early-voting records ahead of the midterms."
+                  "body": "Major technology companies are trimming share buybacks amid heavy AI capital spending, though Nvidia may be the outlier given its record cash generation."
                 }
               ]
             },
@@ -355,16 +417,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "More Oil Is Now Coming Out of the Persian Gulf Than Before the Iran War",
-                  "url": "https://www.wsj.com/world/middle-east/more-oil-is-now-coming-out-of-the-persian-gulf-than-before-the-iran-war-6a6d1670",
+                  "headline": "Judge Dismisses Trump Suit Against Wall Street Journal Over Epstein Letter",
+                  "url": "https://npr.org/2026/11/01/nx-s1-6025342/judge-dismisses-trump-suit-against-wall-street-journal-epstein-letter",
                   "eng": "",
-                  "body": "Persian Gulf oil flows have recovered to exceed pre-Iran-war levels, even as crude prices hover above $100 a barrel on renewed conflict risk."
+                  "body": "A federal judge threw out Donald Trump's $10 billion lawsuit against the Journal, saying the president was 'grasping at straws' and failed to prove actual malice."
                 },
                 {
-                  "headline": "Warsh: Inflation Is 'Too High,' 'We're Working on It'",
-                  "url": "https://www.wsj.com/video/warsh-inflation-is-too-high-were-working-on-it/7CBAD3D7-DB6B-4198-B0C0-72572D062CC1",
+                  "headline": "See How Trump's Accounts Were Busy Trading Big Tech Stocks",
+                  "url": "https://www.wsj.com/finance/stocks/trump-stock-trades-ce970ce9",
                   "eng": "",
-                  "body": "Fed Chair Kevin Warsh said inflation remains 'too high' but the central bank is 'working on it,' signaling patience on further rate moves."
+                  "body": "A review of trading activity shows accounts tied to the president were actively buying and selling Big Tech shares during the market's AI-driven swings."
                 }
               ]
             }
@@ -378,16 +440,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "OpenAI's Altman Meets Samsung Executives as Chip Crunch Deepens",
-                  "url": "https://www.bloomberg.com/news/articles/2026-10-31/openai-sam-altman-samsung-executives-memory-crunch-deepens",
+                  "headline": "Wall Street Tech Rout Deepens as AI Valuation Worries Spread",
+                  "url": "https://theage.com.au/business/markets/asx-set-to-slip-wall-street-hit-by-tech-rout-binance-sees-withdrawals-spike-as-it-returns-online-20261102-p61afh.html",
                   "eng": "",
-                  "body": "Sam Altman met with Samsung Group's top executives in South Korea as a deepening memory-chip crunch threatens the AI industry's expansion plans."
+                  "body": "The S&P 500 tumbled 1.8% for its worst day since June, closing out a third straight losing week, as worries mounted that AI technology prices rose too high. Amazon fell 4% after reporting a weaker profit and burning $42.4 billion in cash."
                 },
                 {
-                  "headline": "OpenAI Funding Target Cut by $10 Billion as AI Slumps",
-                  "url": "https://www.bloomberg.com/news/articles/2026-10-31/openai-funding-goal-cut-by-10-billion-as-ai-stocks-dip-ft-says",
+                  "headline": "Anthropic Raises More Questions Than It Answers About Risk",
+                  "url": "https://www.bloomberg.com/news/articles/2026-10-27/anthropic-ipo-documents-raise-more-questions-about-ai-risk-and-trustees",
                   "eng": "",
-                  "body": "OpenAI cut its funding target by $10 billion as AI stocks slump, according to a report, underscoring the rapid cooling of the AI investment boom."
+                  "body": "Anthropic's IPO documents raise fresh questions about whether its handpicked trustees can balance rapid AI growth with concerns over computer-driven catastrophe."
                 }
               ]
             },
@@ -395,16 +457,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "AI Credit Risk Gauges Hit New Records on Supply, Profit Concerns",
-                  "url": "https://www.bloomberg.com/news/articles/2026-10-30/tech-firms-debt-protection-costs-are-surging-on-profit-concerns",
+                  "headline": "Iran to Take Action Against Sinokor Ships in Strait of Hormuz",
+                  "url": "https://www.bloomberg.com/news/articles/2026-10-27/iran-says-it-will-take-action-against-sinokor-ships-in-hormuz",
                   "eng": "",
-                  "body": "Credit-default protection costs for technology firms hit new records as supply-chain and profit concerns deepened the AI selloff."
+                  "body": "Iran's Strait of Hormuz authority announced it will take legal action against all ships of South Korea's Sinokor, which carried over a third of crude through the strait in September."
                 },
                 {
-                  "headline": "Baseten to Raise Funding That Would Double Value to $30 Billion",
-                  "url": "https://www.bloomberg.com/news/articles/2026-10-30/baseten-set-for-30-billion-valuation-with-new-funding",
+                  "headline": "US MBA Applications Plunge 27% as International Demand Drops",
+                  "url": "https://www.bloomberg.com/news/articles/2026-10-27/us-mba-applications-plunge-as-international-student-demand-drops",
                   "eng": "",
-                  "body": "AI infrastructure firm Baseten is set to raise funding that would double its valuation to $30 billion, even as the broader AI trade unwinds."
+                  "body": "Applications to US business schools fell sharply as international student demand dropped, though the decline was less steep at more selective programs."
                 }
               ]
             },
@@ -412,16 +474,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "US Midterm Candidates Tap Rare Bipartisan Issue: Credit Card Rates",
-                  "url": "https://www.bloomberg.com/news/articles/2026-10-31/us-midterm-candidates-tap-rare-bipartisan-issue-credit-card-rates",
+                  "headline": "Apple, AMD, Palantir Lead Big Earnings Week",
+                  "url": "https://blofin.com/es/academy/education/tradfi/earnings-this-week-nov-2-6-2026",
                   "eng": "",
-                  "body": "Candidates from both parties are converging on credit-card interest rates as a rare bipartisan issue in the final days of the midterm campaign."
+                  "body": "Apple reports Monday after the close with Palantir expected the same evening, followed by AMD on Tuesday. The results will be a key test of the AI rally after Alphabet's rout."
                 },
                 {
-                  "headline": "France's Woes, Brazil's Limited Contagion Show New Emerging Era",
-                  "url": "https://www.bloomberg.com/news/articles/2026-10-31/france-s-woes-brazil-s-limited-contagion-show-new-emerging-era",
+                  "headline": "Oil Falls as US-Iran Hormuz Deal Nears",
+                  "url": "https://www.bloomberg.com/markets",
                   "eng": "",
-                  "body": "France's economic troubles and Brazil's contained spillover highlight how emerging markets are decoupling in a world more prone to turmoil."
+                  "body": "Crude prices fell on optimism that the US and Iran are closing in on a deal to reopen the Strait of Hormuz, easing supply fears that had pushed oil sharply higher."
                 }
               ]
             }
@@ -435,16 +497,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "High Inflation Haunts Trump and Republicans on Eve of Election",
-                  "url": "https://www.nytimes.com/section/todayspaper",
+                  "headline": "A Midterm Campaign Dominated by Concerns Over High Prices Nears Its End",
+                  "url": "https://nytimes.com/2026/11/01/us/politics/election-mood-affordability.html",
                   "eng": "",
-                  "body": "A backlash over high prices has put Trump and Republicans on the defensive on the eve of the midterm elections, with the cost of living dominating the final stretch."
+                  "body": "With the war in Iran and tariffs driving up gas prices, inflation and mortgage rates, financial worries are center stage in the final days of the campaign that will decide control of Congress."
                 },
                 {
-                  "headline": "Binance's $6.3 Billion Hack Is Just the Start of a Risky New Era",
-                  "url": "https://www.nytimes.com/2026/10/30/technology/binance-hack-ai-north-korea.html",
+                  "headline": "The Largest Cyber Heist in History",
+                  "url": "https://www.nytimes.com/",
                   "eng": "",
-                  "body": "The theft of about $6.3 billion from Binance — one of the largest crypto heists ever — is raising alarms about security in the digital-asset industry, with North Korea-linked hackers suspected."
+                  "body": "Attackers increasingly use AI and advanced techniques to steal crypto and quickly launder funds, as the Binance hack — the biggest cyber heist ever — showed."
                 }
               ]
             },
@@ -452,16 +514,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "Economy Grows at Fastest Pace in a Year",
-                  "url": "https://www.nytimes.com/2026/10/29/business/economy/us-economy-gdp.html",
+                  "headline": "Trump to Rally in Kansas and Iowa as Midterms Enter Final Stretch",
+                  "url": "https://www.nytimes.com/",
                   "eng": "",
-                  "body": "U.S. gross domestic product rose 3.4 percent in the third quarter, the fastest in a year, driven by robust business investment and consumer spending."
+                  "body": "President Trump will hold rallies in Kansas and Iowa in the closing days of the midterm campaign, while Democrats press their affordability message."
                 },
                 {
-                  "headline": "Alphabet Shares Slide as Search Growth Slows",
-                  "url": "https://www.nytimes.com/section/business",
+                  "headline": "The S&P 500 Is Set for a Small Loss in October",
+                  "url": "https://www.nytimes.com/",
                   "eng": "",
-                  "body": "Alphabet dropped after its third-quarter report showed slowing growth in core search, clouding optimism over its AI business even as cloud revenue surged."
+                  "body": "The S&P 500 is on track for a small October loss despite a deeper slide in some of the AI stocks that exert heavy influence on the index."
                 }
               ]
             },
@@ -469,16 +531,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "In Alabama, Trump Relives His Glory Days (This Time With Some Empty Seats)",
-                  "url": "https://www.nytimes.com/2026/10/02/us/politics/alabama-trump-rally-glory-days.html",
+                  "headline": "Gaffes and Men's Bodies: Analysis of Trump's Speeches at Age 80",
+                  "url": "https://nytimes.com/2026/11/01/us/politics/trump-speeches-rallies-age.html",
                   "eng": "",
-                  "body": "Donald Trump returned to Alabama to relive his glory days, but this time some seats were empty as midterm anxieties mount."
+                  "body": "An AI-assisted review of Trump's speeches found his public communication has grown more vulgar, more uninhibited and less coherent than a decade ago."
                 },
                 {
-                  "headline": "The Mother's Scream That Sent Passengers to the Rescue",
-                  "url": "https://www.nytimes.com/2026/10/02/world/middleeast/flydubai-attack-timeline.html",
+                  "headline": "Barry Blitt's 'Polling Place'",
+                  "url": "https://newyorker.com/culture/cover-story/cover-story-2026-11-02",
                   "eng": "",
-                  "body": "A mother's scream aboard a Flydubai flight sent passengers scrambling to intervene during an attack, in a timeline reconstructed by investigators."
+                  "body": "The cover of the November 2, 2026, issue sums up Trump's midterm efforts — attempts to purge voter rolls, coerce state officials and frighten voters away from polls."
                 }
               ]
             }
@@ -492,16 +554,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "Democrats Say the Economy Will Give Them Control of the House",
-                  "url": "https://www.washingtonpost.com/politics/2026/10/30/democrats-say-economy-will-give-them-control-house/",
+                  "headline": "Trump Holds Call With Netanyahu Over State of Iran War",
+                  "url": "https://www.washingtonpost.com/world/",
                   "eng": "",
-                  "body": "Democrats are betting that voter frustration over housing, health-care and grocery costs will hand them control of the House in the midterms."
+                  "body": "The two leaders discussed whether to ramp up combat operations against Iran, with Netanyahu pressing for strikes after the midterms and Trump eager to let negotiations play out."
                 },
                 {
-                  "headline": "Trump's Brash Midterm Strategist Could Take Blame for GOP Loss",
-                  "url": "https://www.washingtonpost.com/politics/2026/10/30/trump-brash-midterm-strategist-could-take-blame-gop-loss/",
+                  "headline": "Obama Rips Into Ramaswamy Over Attack Ad: 'There's No Line He Won't Cross'",
+                  "url": "https://www.washingtonpost.com/politics/2026/10/24/obama-slams-ramaswamy-over-ad-with-amy-acton-mother-no-line-he-wont-cross/",
                   "eng": "",
-                  "body": "President Trump's brash midterm strategist could become the scapegoat if Republicans underperform, as internal finger-pointing begins."
+                  "body": "Barack Obama sharply criticized Vivek Ramaswamy over a campaign ad featuring a candidate's estranged mother, as Democrats lean on the former president as their closing messenger."
                 }
               ]
             },
@@ -509,16 +571,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "Oil Giants Report Windfall Profits as High Gas Prices Loom Over the Election",
-                  "url": "https://www.washingtonpost.com/business/2026/10/30/oil-giants-report-windfall-profits-gas-prices-loom-over-election/",
+                  "headline": "Voters Angry About High Prices May Get Little Relief From the Next Congress",
+                  "url": "https://www.washingtonpost.com/business/2026/10/24/voters-angry-about-high-prices-may-get-little-relief-next-congress/",
                   "eng": "",
-                  "body": "Oil companies reported windfall profits days before a midterm election dominated by voter anger over inflation and energy costs."
+                  "body": "Even if Democrats win control of Congress on Nov. 3, lawmakers can do little about prices that are uncomfortably high and will stay that way as inflation slows."
                 },
                 {
-                  "headline": "General Ousted by Hegseth Referred for Criminal Prosecution, Officials Say",
-                  "url": "https://www.washingtonpost.com/national-security/2026/10/29/general-ousted-by-hegseth-referred-criminal-prosecution-officials-say/",
+                  "headline": "In First Midterm Rallies, Obama Assails Trump Administration",
+                  "url": "https://www.washingtonpost.com/politics/2026/10/24/cleveland-rally-obama-blasts-trump-administration/",
                   "eng": "",
-                  "body": "A general ousted by Defense Secretary Pete Hegseth has been referred for criminal prosecution, officials said, deepening turmoil at the Pentagon."
+                  "body": "Democrats have embraced Barack Obama as their most effective closing messenger in the final weeks of the high-stakes midterm campaign."
                 }
               ]
             },
@@ -526,16 +588,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "Men Are More Likely to 'Hit the Wall' in a Marathon. Here's Why.",
-                  "url": "https://www.washingtonpost.com/wellness/2026/10/30/men-are-more-likely-hit-wall-marathon-heres-why/",
+                  "headline": "Iran in 'Advanced Stages' of Plots to Kill U.S. Officials Abroad, Memo Warns",
+                  "url": "https://www.washingtonpost.com/world/2026/10/24/iran-advanced-stages-plots-kill-us-officials-abroad-memo-warns/",
                   "eng": "",
-                  "body": "Research shows men are more likely than women to 'hit the wall' in a marathon, and the reasons lie in pacing, physiology and psychology."
+                  "body": "The top US intelligence official said Iran has 'substantially increased' efforts to target Americans abroad, according to a memo."
                 },
                 {
-                  "headline": "35-Year Study Challenges Belief That Marijuana Is Good for Sleep",
-                  "url": "https://www.washingtonpost.com/wellness/2026/10/30/35-year-study-challenges-belief-that-marijuana-is-good-sleep/",
+                  "headline": "Musk Breaks Donor Record as Ultrarich Pour $2.7 Billion Into the Midterms",
+                  "url": "https://www.washingtonpost.com/elections/interactive/2026/06/25/these-are-biggest-individual-donors-2026-election-cycle/",
                   "eng": "",
-                  "body": "A 35-year study challenges the belief that marijuana improves sleep, finding instead that regular use may worsen sleep quality over time."
+                  "body": "Billionaires and Elon Musk, who recently temporarily achieved trillionaire status, are the top individual donors in the 2026 midterm cycle."
                 }
               ]
             }
@@ -549,16 +611,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "US Tech Stocks Tumble as Concerns Over AI Spending Intensify",
-                  "url": "https://www.ft.com/content/3ba953ae-84bb-4de4-959e-baec3e908fb3",
+                  "headline": "AI Selloff Deepens as Investors Question Spending",
+                  "url": "https://www.ft.com/markets",
                   "eng": "",
-                  "body": "US technology stocks tumbled as earnings fueled growing concern that the AI spending boom may be running ahead of returns, with Intel and Amazon slumping."
+                  "body": "Global tech stocks extended their slide as Alphabet's record 12% drop amplified doubts about whether hundreds of billions in AI investment will yield adequate returns."
                 },
                 {
-                  "headline": "Big Tech Sheds Nearly $900bn in Rout Over Soaring AI Spending",
-                  "url": "https://www.ft.com/content/c695558e-11e6-494c-aeee-0f9fb5c75afc",
+                  "headline": "Democrats Eye 'Blue Wave' as US Midterms Near",
+                  "url": "https://www.ft.com/world",
                   "eng": "",
-                  "body": "Big Tech companies shed nearly $900 billion in market value in a rout triggered by soaring AI spending and doubts about future returns."
+                  "body": "Democrats hold a solid generic-ballot lead heading into the November 3 midterms, raising the prospect of a blue wave that could hand them control of Congress."
                 }
               ]
             },
@@ -566,16 +628,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "OpenAI Slashes Funding Target by $10bn as Tech Anxieties Mount",
-                  "url": "https://www.ft.com/content/7a3ad950-1b3b-4d9e-8c15-65a61ae6180f",
+                  "headline": "Apple and Palantir Earnings to Test AI Rally",
+                  "url": "https://www.ft.com/markets",
                   "eng": "",
-                  "body": "OpenAI slashed its funding target by $10 billion as anxieties over the technology sector's profitability mount."
+                  "body": "This week's earnings from Apple, AMD and Palantir will be a crucial test for the AI trade after last week's tech rout, with Palantir expected to beat consensus."
                 },
                 {
-                  "headline": "$6.3bn in 30 Minutes: How the World's Biggest Heist Unfolded",
-                  "url": "https://www.ft.com/content/e84eceda-040b-4e5f-b906-09768085933a",
+                  "headline": "Oil Falls as US-Iran Hormuz Talks Progress",
+                  "url": "https://www.ft.com/markets",
                   "eng": "",
-                  "body": "The FT reconstructs how hackers stole $6.3 billion from Binance in 30 minutes — the world's biggest crypto heist — and the industry's rush to tighten security."
+                  "body": "Crude prices dropped on progress in US-Iran talks over the Strait of Hormuz, easing fears that had threatened global oil flows through the key waterway."
                 }
               ]
             },
@@ -583,16 +645,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "US Economy Beats Forecasts to Grow at 3.4% Rate in Third Quarter",
-                  "url": "https://www.ft.com/content/f2de9f3c-3290-4e87-bbc2-55430025f2ab",
+                  "headline": "FBI Blames North Korea's TraderTraitor for Record Binance Hack",
+                  "url": "https://www.ft.com/",
                   "eng": "",
-                  "body": "US growth accelerated to a 3.4% annualized pace in the third quarter, powered by business investment and consumer spending, easing near-term recession fears."
+                  "body": "The FBI publicly attributed the largest crypto heist in history to the North Korea-linked TraderTraitor group, which drained $6.3 billion from Binance in 20 minutes."
                 },
                 {
-                  "headline": "Intel Shares Fall 22% as Weak Sales Outlook Dents Turnaround",
-                  "url": "https://www.ft.com/content/d7540e89-08db-43d3-92e0-3c15dd3a60cb",
+                  "headline": "Bank of Japan Holds Rates at 1.25% and Expands ETF Sales",
+                  "url": "https://www.ft.com/markets",
                   "eng": "",
-                  "body": "Intel shares fell 22% after a weak sales outlook dented its turnaround, deepening the AI-driven selloff across the semiconductor sector."
+                  "body": "The BOJ held its policy rate at 1.25% in an 8-1 vote and signaled it would expand sales of its ETF holdings, weighing on Japanese equities."
                 }
               ]
             }
