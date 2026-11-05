@@ -1,142 +1,144 @@
 {
-  "date": "2026-11-05",
-  "dateLabel": "2026년 11월 5일(목요일)",
-  "generatedAt": "2026-11-05T07:16:28+09:00",
+  "date": "2026-11-06",
+  "dateLabel": "2026년 11월 6일(금요일)",
+  "generatedAt": "2026-11-06T07:18:44+09:00",
   "ticker": [
     {
       "name": "KOSPI",
-      "value": "5,683.80",
-      "change": "▲0.62%",
-      "dir": "up"
+      "value": "5,383.80",
+      "change": "▼5.28%",
+      "dir": "down"
     },
     {
       "name": "KOSDAQ",
-      "value": "715.30",
-      "change": "▼1.55%",
+      "value": "678.41",
+      "change": "▼5.11%",
       "dir": "down"
     },
     {
       "name": "S&P 500",
-      "value": "7,568.92",
-      "change": "▲0.36%",
-      "dir": "up"
+      "value": "7,427.45",
+      "change": "▼3.40%",
+      "dir": "down"
     },
     {
       "name": "나스닥",
-      "value": "25,372.01",
-      "change": "▲0.83%",
-      "dir": "up"
+      "value": "24,424.43",
+      "change": "▼5.10%",
+      "dir": "down"
     },
     {
       "name": "다우",
-      "value": "51,786.72",
-      "change": "▼0.38%",
+      "value": "52,108.17",
+      "change": "▼2.34%",
       "dir": "down"
     },
     {
       "name": "원/달러",
-      "value": "1,341.50원",
-      "change": "-0.35%",
+      "value": "1,341원",
+      "change": "약보합",
       "dir": "down"
     },
     {
       "name": "WTI 유가",
-      "value": "$88.53",
-      "change": "▼7.87%",
-      "dir": "down"
+      "value": "$90.03",
+      "change": "▲2.17%",
+      "dir": "up"
     },
     {
       "name": "금",
-      "value": "$4,073.55",
-      "change": "▲3.38%",
+      "value": "$4,112.50",
+      "change": "▲0.97%",
       "dir": "up"
     }
   ],
   "keywords": [
     {
-      "label": "① 美 중간선거 민주당 상하원 압승 — '블루쓰나미' 트럼프 참패",
-      "desc": "공화당 텃밭 텍사스 상원까지 민주당에 내줬다. 트럼프 \"내 탓 아냐\", 공화당 내부 '손절' 움직임(밴스 선봉). 이란전 종식 기대로 유가 급락"
+      "label": "① 美 중간선거 '블루 웨이브' 압승 → AI 규제 리스크 현실화",
+      "desc": "민주당 20년 만의 상하원 동시 탈환. AI 데이터센터 규제 강화 전망에 나스닥 5%·엔비디아 -7% 등 기술주·반도체 동반 폭락"
     },
     {
-      "label": "② 국제유가 8% 급락 — WTI $88.5·브렌트 $95, 금·은 급등",
-      "desc": "민주당 압승이 이란전 종식 압력으로 작용. 금 $4,073(+3.4%)·은 $52.3(+5.2%) 안전자산 선호, 원/달러 1,341원 하향 안정"
+      "label": "② 코스피 5,383(-5.28%) 7개월 최저 — 외국인 3.4조 순매도",
+      "desc": "삼성전자 20만원 붕괴(-7.57%)·SK하이닉스 -9.46%, 코스피·코스닥 동반 매도 사이드카. 고점(9,385) 대비 -42%로 약세장 기준 2배 초과"
     },
     {
-      "label": "③ 코스피 5,421 저점 뒤 5,684(+0.62%) 반등 — 변동성 극대",
-      "desc": "장중 400p 낙폭 확대 후 V자 반등. 외국인 2,452억 순매도·개인 962억 저가매수 공방. 5,400선 바닥 테스트 구간"
+      "label": "③ 뉴욕증시 역대급 시총 손실 — 다우 -2.3%·S&P -3.4%·나스닥 -5.1%",
+      "desc": "나스닥·S&P 500 역대 최대 시가총액 손실. VIX 25.35(+52.6%) 급등, 국채로 안전자산 이동(10년물 4.836%)"
     },
     {
-      "label": "④ 美 증시 선거 후 랠리 — 다우 3% 급등(18개월래 최대)",
-      "desc": "민주당 승리 후 다우 +1,569p(+3%), 마이크로소프트·아마존·애플 6%↑. 역사적 선거 후 3~9개월 강세 패턴 기대"
+      "label": "④ 금 $4,112·유가 $90 반등 — 안전자산 선호 vs 위험자산 이탈",
+      "desc": "금 +0.97%·비트코인 -5.16% 엇갈림. 유가는 전일 8% 급락 후 $90 반등, 민주당 압승으로 이란전 종식 기대 지속"
     },
     {
-      "label": "⑤ 제니엘 밀린 프로젝트 8개 — 평가계획·근태현황 집중",
-      "desc": "Z-P4 평가계획 1차보고 회장님 보고 준비, Z-P1 사업장별 근태현황 파악(제모스·데이싸인·수기). 11/4 마감 대거 지연"
+      "label": "⑤ 제니엘 밀린 프로젝트 12건 — 근태·급여 TF·2027 사업계획 집중",
+      "desc": "오늘 포커스: Z-P1 근태·급여 TF(AX-TF1팀 개발현황) + Z-P3 사업계획 가이드라인 송부. Z-P15(11/9 등기)·T-P4(11/9 회장님보고) 임박"
     }
   ],
   "morning": {
-    "date": "2026-11-05",
-    "headline": "美 중간선거 민주당 상하원 압승 '블루쓰나미'·유가 8% 급락…코스피 5,421 저점 뒤 5,684(+0.62%) 반등·금 4,073달러, 오늘 제니엘 평가계획 보고·근태현황 파악",
-    "weather": "🌥️ 흐림 · 12°C (체감 10°C) · 습도 49% · 바람 4km/h",
-    "schedule": "캘린더 등록 없음 — 오늘 포커스: Z-P4 평가계획 1차보고 회장님 보고 준비 + Z-P1 사업장별 근태현황 파악(제모스·데이싸인·수기) + Z-P3 세부사업계획보고 일정 확정",
+    "date": "2026-11-06",
+    "headline": "美 중간선거 민주당 압승→AI 규제 우려에 코스피 5,383(-5.28%) 7개월 최저·나스닥 5% 급락…삼전 20만원 붕괴·하이닉스 -9.5%, 오늘 근태·급여 TF AX-TF1팀 현황 파악·2027 사업계획 가이드라인 송부",
+    "weather": "🌤️ 맑음 · 9°C (체감 6°C) · 습도 41% · 바람 21km/h",
+    "schedule": "없음 — 오늘 포커스: [Z-P1] 근태·급여 TF (AX-TF1팀 개발진행 현황 파악) + [Z-P3] 2027 세부사업계획 (전사 사업계획 가이드라인 송부) + [Z-P8] 전략기획실 자체운영 (인사/연수기획 follow-up)",
     "domestic": {
       "kospi": {
-        "value": "5,683.80",
-        "change": "▲ +35.01",
-        "changeRate": "+0.62%",
-        "rate": "+0.62%"
+        "value": "5,383.80",
+        "change": "▼ -300.00",
+        "changeRate": "-5.28%",
+        "rate": "-5.28%"
       },
       "kosdaq": {
-        "value": "715.30",
-        "change": "▼ -1.55%",
-        "changeRate": "-1.55%",
-        "rate": "-1.55%"
+        "value": "678.41",
+        "change": "▼ -36.54",
+        "changeRate": "-5.11%",
+        "rate": "-5.11%"
       },
       "supply": {
-        "foreign": "외국인 2,452억 순매도",
+        "foreign": "외국인 3.4조 순매도",
         "institution": "기관 — 데이터 미제공",
-        "individual": "개인 962억 순매수",
-        "usdkrw": "1,341.50원",
-        "change": "전일 대비 -0.35% (4.70원↓)"
+        "individual": "개인 저가매수",
+        "usdkrw": "약 1,341원",
+        "change": "전일 대비 약보합"
       },
-      "comment": "코스피가 장중 5,421까지 급락(전일 -3.59% 이후 추가 낙폭 400p)했다가 막판 반등해 5,683.80(+0.62%, +35.01p)으로 마감했다. 시가 5,786 → 저가 5,421로 7%대 출렁임 끝 V자 반등. 외국인 2,452억 순매도에도 개인 962억 저가매수가 버텼다. 거래대금 23.9조. 코스닥은 715.30(-1.55%) 약세를 이어갔다. 5,400선이 실질적 바닥 테스트 구간이다."
+      "comment": "코스피가 미국 중간선거 '블루 웨이브'(민주당 상하원 압승) 이후 AI 데이터센터 규제 강화 우려로 5,383.80(-5.28%, -300.00p) 급락 마감했다. 7개월 최저·4/3 이후 최저치로, 6/19 고점(9,385) 대비 42% 하락해 약세장 기준(20%)의 2배를 초과했다. 삼성전자 -7.57%(20만1,500원)·SK하이닉스 -9.46%(126만4,000원) 동반 급락하며 코스피·코스닥 동반 매도 사이드카가 발동됐다. 외국인 3.4조 순매도가 하락을 주도했다. 코스닥 678.41(-5.11%)로 3개월 만에 600대로 밀렸다."
     },
     "overseas": {
       "dow": {
-        "value": "51,786.72",
-        "change": "▼ -0.38%",
-        "changeRate": "-0.38%"
+        "value": "52,108.17",
+        "change": "▼ -2.34%",
+        "changeRate": "-2.34%"
       },
       "sp500": {
-        "value": "7,568.92",
-        "change": "▲ +0.36%",
-        "changeRate": "+0.36%"
+        "value": "7,427.45",
+        "change": "▼ -3.40%",
+        "changeRate": "-3.40%"
       },
       "nasdaq": {
-        "value": "25,372.01",
-        "change": "▲ +0.83%",
-        "changeRate": "+0.83%"
+        "value": "24,424.43",
+        "change": "▼ -5.10%",
+        "changeRate": "-5.10%"
       },
       "oil": {
-        "wti": "WTI $88.53 (-7.87%)",
-        "brent": "브렌트 $95.09 (-8.21%)",
-        "note": "유가 급락이 최대 이벤트다. 민주당 상하원 압승으로 중동 리스크 완화·이란전 종식 기대가 반영됐다. 금 $4,073.55(+3.38%)·은 $52.33(+5.17%) 안전자산 급등. 원/달러 1,341.50원(-0.35%) 하향 안정세."
+        "wti": "WTI $90.03 (+2.17%)",
+        "brent": "브렌트 전일 8% 급락 후 소폭 반등",
+        "note": "유가는 전일 민주당 압승으로 이란전 종식 기대가 반영되며 8% 급락(WTI $88.5)한 뒤 소폭 반등했다. 금 $4,112.50(+0.97%) 안전자산 선호와 비트코인 $75,923(-5.16%) 위험자산 이탈이 엇갈렸다."
       },
-      "keyStocks": "미국 증시는 중간선거 여파로 혼조·변동성 장세를 보였다. 다우존스 51,786.72(-0.38%) 약세, S&P 500 7,568.92(+0.36%)·나스닥 25,372.01(+0.83%) 상승. 필라델피아 반도체 10,600.40(+2.63%) 강세. 국제유가 8% 급락(WTI $88.53·브렌트 $95.09)이 최대 이벤트, 금 $4,073(+3.4%)·은 $52.3(+5.2%) 안전자산 선호. 민주당 압승으로 이란전 종식 기대·원화 강세(1,341원) 지속."
+      "keyStocks": "미국 증시는 민주당 상하원 압승('블루 웨이브') 이후 AI 데이터센터 규제 강화 우려로 기술주·반도체가 급락했다. 다우 52,108.17(-2.34%), S&P 500 7,427.45(-3.40%), 나스닥 24,424.43(-5.10%). 엔비디아 -7.1%·브로드컴 -8%·마이크론 -13%+·AMD -14%·테슬라 -9.6% 등이 급락하며 나스닥·S&P 500은 역대 최대 시가총액 손실을 기록했다. 필라델피아 반도체 ETF -10%. VIX 25.35(+52.6%) 급등, 10년물 국채금리 4.836%로 안전자산 이동이 뚜렷했다."
     },
-    "topNews": "美 중간선거 민주당 상하원 압승 '블루쓰나미'·유가 8% 급락…코스피 5,421 저점 뒤 5,684(+0.62%) 반등·금 4,073달러, 오늘 제니엘 평가계획 보고·근태현황 파악",
+    "topNews": "美 중간선거 민주당 압승→AI 규제 우려에 코스피 5,383(-5.28%) 7개월 최저·나스닥 5% 급락…삼전 20만원 붕괴·하이닉스 -9.5%, 오늘 근태·급여 TF AX-TF1팀 현황 파악·2027 사업계획 가이드라인 송부",
     "otherNews": [
-      "美 중간선거 마무리 — 하원 민주당 탈환 유력, 역사적으로 선거 후 3~9개월 증시 강세 패턴",
-      "유가 급락 — WTI $88.53(-7.9%)·브렌트 $95(-8.2%), 중동 긴장 완화 기대 vs 재고 감소 혼재",
-      "금·은 급등 — 금 $4,073(+3.4%)·은 $52.3(+5.2%), 달러 약세+안전자산 선호",
-      "AMD 리사 수 \"내년 매출 80% 이상 성장\" — 에이전트 AI 수혜",
-      "외국인 코스피 복귀 \"최소 3개월 더 필요\" — 외국인 이탈 장기화 전망"
+      "트럼프가 맞았는데 코스피가 쓰러졌다 — 美 중간선거 민주당 승리가 한국 반도체주 직격탄",
+      "美 민주당, 20년 만의 상하원 탈환 — 통상 훈풍 기대는 시기상조 (ZDNet)",
+      "유럽 곳곳 정체불명 공격 — 마트 냉장고 이어 여객기 폭탄 신고",
+      "세브란스병원 흉기 피습 — 대전협 '보호 체계·처벌 강화해야' (동아사이언스)",
+      "LIV 존폐 위기 — 오일머니 최강자 사우디 LIV 골프투어",
+      "Harvard Online 신규코스: Agentic AI Skills Builder",
+      "삼성증권 2차전지 월보: 리튬가 급락, LFP 양극재 탈중국 확대"
     ],
     "email": {
       "google": "sjandjeong@gmail.com — Gmail 데이터 미확보",
-      "note": "🟢 오늘 모닝브리핑 주요 뉴스는 美 중간선거 민주당 압승·유가 8% 급락·금·은 급등·코스피 반등. ⚪ Gmail 데이터 수집 오류로 미확보."
+      "note": "🟢 오늘 모닝브리핑 주요 뉴스는 美 중간선거 민주당 압승·AI 규제 우려·코스피 5% 급락·나스닥 5% 폭락·세브란스병원 흉기 피습. ⚪ Gmail 데이터 수집 오류로 미확보."
     },
-    "insight": "💡 유가 급락 + 원화 강세 = 환율·에너지 비용 부담 완화 기대입니다. WTI 88달러는 최근 고점 대비 큰 폭 하락해 수입 의존도가 높은 한국 경제에 긍정적 재료입니다. 1,341원 환율은 당분간 하향 안정세입니다.\n\n코스피는 5,400선 바닥 테스트 국면입니다. 장중 5,421까지 추락했다 반등한 패턴은 5,400~5,500 구간이 실질적 지지선임을 시사합니다. 외국인은 여전히 순매도(2,452억)지만 개인 저가매수(962억)가 버티는 중입니다. 과거 패턴(8월 6,200→6,500 바닥) 반복 가능성을 주목하세요.\n\n제니엘은 밀린 프로젝트가 8개로 늘었습니다. [Z-P4] 평가계획과 [Z-P1] 근태 TF가 가장 시급합니다. 오후에라도 보고서 마무리·현황 파악을 병행하고, [Z-P11] 우수사례 공지는 당일 배포가 가능합니다. 화이팅, 형!"
+    "insight": "💡 'AI 거품'이 아니라 'AI 규제 리스크'가 현실화된 날입니다. 민주당 중간선거 압승 → AI 데이터센터 규제 강화 전망 → 기술주·반도체 동반 폭락. 코스피 5,383은 고점(9,385) 대비 -42%로, 단순 거품이 아니라 지정학·규제가 AI 산업 가치평가를 바꾸는 국면입니다. 한국 반도체 투톱(삼전·하이닉스)이 美 규제 리스크에 직격탄을 맞은 구조 — 제니엘 AX 전략에도 美 AI 규제 방향성 모니터링이 필요합니다.\n\n오늘 업무는 밀린 일 청산이 1순위입니다. 밀린 일(⚠️)이 12건, 그중 오늘 할 일까지 겹친 3건(Z-P1·Z-P3·Z-P8)을 오전에 처리하고, 다음 마감이 임박한 Z-P15(11/9 등기변경)·T-P4(11/9 회장님보고)를 오후에 챙기는 흐름이 효율적입니다.\n\n학습 알림: Harvard Online에 'Agentic AI Skills Builder' 신규 과정이 열렸습니다. 제니엘 AX TF 방향성과 연결 지어 검토할 가치가 있습니다. 화이팅, 형!"
   },
   "sections": {
     "kor": {
@@ -150,16 +152,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "고물가에 멈춰선 트럼프…美상하원 덮친 '블루쓰나미'",
-                  "url": "https://www.mk.co.kr/news/world/12196665",
-                  "eng": "Trump stopped by inflation as 'blue tsunami' sweeps Congress",
-                  "body": "미국 중간선거에서 '블루 쓰나미'가 예상보다 거세게 덮쳤다. 공화당 텃밭인 텍사스주 상원의원 선거에서 12%포인트 차로 패배하는 등 트럼프 대통령 지지층이 무너졌다."
+                  "headline": "美 '블루웨이브' 쇼크에 코스피·코스닥 5%대 급락 마감",
+                  "url": "https://www.mk.co.kr/news/stock/12198408",
+                  "eng": "'Blue wave' shock sends Kospi and Kosdaq down over 5%",
+                  "body": "코스피와 코스닥이 미국 중간선거 이후 인공지능(AI) 데이터센터 규제 우려로 각각 5% 이상 하락하며 15거래일 만에 동반 매도 사이드카가 발동했다. 코스피는 5,383.80(-5.28%)로 7개월 최저에 마감했다."
                 },
                 {
-                  "headline": "유가안정 기대감 커졌지만…美 물가 정상화까진 '하세월'",
-                  "url": "https://www.mk.co.kr/news/world/12196684",
-                  "eng": "Oil relief hopes rise but US inflation normalization far off",
-                  "body": "국제유가 급락으로 에너지 물가 안정 기대가 커졌지만, 미국 물가 정상화까지는 오랜 시간이 걸릴 것이라는 분석이 나왔다."
+                  "headline": "서울 주요대 총장들 연임 승부수",
+                  "url": "https://www.mk.co.kr/",
+                  "eng": "Seoul university presidents gamble on reappointment",
+                  "body": "서울 주요 대학 총장들의 연임 여부를 둘러싼 승부수가 본격화하고 있다. 각 대학 이사회의 결정이 이번 주 잇따라 예정돼 있어 학내 관심이 집중된다."
                 }
               ]
             },
@@ -167,16 +169,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "트럼프 \"민주당과 협력할 것\"…美언론, 민주 상하원 승리 예측",
-                  "url": "https://www.mk.co.kr/news/world/12196307",
-                  "eng": "Trump says he'll cooperate with Democrats as media project sweep",
-                  "body": "트럼프 대통령이 민주당과 협력하겠다는 입장을 밝혔다. 미국 언론들은 민주당의 상·하원 승리를 잇따라 예측했다."
+                  "headline": "삼성전자 20만원 붕괴·SK하이닉스 -9.5%…반도체 의존도 직격탄",
+                  "url": "https://www.mk.co.kr/news/stock/",
+                  "eng": "Samsung breaks below 200,000 won, SK hynix down 9.5% as chip reliance bites",
+                  "body": "삼성전자가 7.57% 하락한 20만1,500원으로 20만원선이 붕괴했고, SK하이닉스는 9.46% 급락한 126만4,000원에 마감했다. AI 규제 우려가 반도체 대형주에 집중되며 한국 증시의 반도체 의존도가 약점으로 작용했다."
                 },
                 {
-                  "headline": "급등과 급락 반복한 코스피…무엇이 흔들었나",
-                  "url": "https://www.mk.co.kr/news/stock/12196891",
-                  "eng": "Kospi's wild swings: what shook the market",
-                  "body": "코스피가 장중 5,421까지 급락했다 막판 반등하며 극심한 변동성을 보였다. 외국인 순매도와 개인 저가매수가 정면으로 맞붙었다."
+                  "headline": "세계은행 부총재에 엄우종 前ADB 사무총장",
+                  "url": "https://www.mk.co.kr/today-paper",
+                  "eng": "Eom Woo-jong named World Bank vice president",
+                  "body": "엄우종 전 아시아개발은행(ADB) 사무총장이 세계은행 부총재로 선임됐다. 임기는 2027년 1월부터 시작된다."
                 }
               ]
             },
@@ -184,16 +186,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "AI비용관리가 기업 경쟁력…'모델 투 데이터' 전략 급부상",
-                  "url": "https://www.mk.co.kr/news/it/12196492",
-                  "eng": "AI cost management becomes a competitive edge",
-                  "body": "AI 비용 관리가 기업 경쟁력으로 떠오르면서 '모델 투 데이터' 전략이 급부상하고 있다. 비용 효율화가 AI 도입의 새 화두가 됐다."
+                  "headline": "AI 규제 리스크에 '비용 관리' 화두…기업 AI 전략 재점검",
+                  "url": "https://www.mk.co.kr/news/it/",
+                  "eng": "AI regulation risk puts cost management back on the agenda",
+                  "body": "미국 민주당의 의회 장악으로 AI 데이터센터 규제 강화가 예상되면서, 기업들의 AI 투자 전략이 '확장'에서 '비용 효율화'로 무게중심을 옮기고 있다."
                 },
                 {
-                  "headline": "신촌 세브란스 병원서 흉기 난동…정신과 교수 1명 부상",
-                  "url": "https://www.mk.co.kr/news/society/12196747",
+                  "headline": "신촌 세브란스병원서 흉기 난동…정신과 교수 부상",
+                  "url": "https://www.mk.co.kr/news/society/",
                   "eng": "Stabbing at Severance Hospital injures psychiatry professor",
-                  "body": "신촌 세브란스병원에서 흉기 난동 사건이 발생해 정신과 교수 1명이 부상을 입었다. 경찰이 수사에 착수했다."
+                  "body": "신촌 세브란스병원에서 50대 여성이 정신건강의학과 교수에게 흉기를 휘둘러 부상을 입혔다. 피해 교수는 약 5㎝ 자상을 입고 치료를 받았다."
                 }
               ]
             }
@@ -207,16 +209,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "트럼프 향한 분노, 미국을 뒤집었다",
-                  "url": "https://www.khan.co.kr/article/202611042129025",
-                  "eng": "Anger at Trump turned America upside down",
-                  "body": "트럼프 행정부를 향한 유권자들의 분노가 중간선거에서 폭발하며 민주당이 상·하원을 석권했다. 트럼프에 대한 심판 성격의 선거였다."
+                  "headline": "미 선거 끝나면 증시 나아진다더니···코스피 5% 급락, 삼전닉스 7%·9%↓",
+                  "url": "https://www.khan.co.kr/article/202611051639001",
+                  "eng": "Kospi slides 5% despite post-election hopes; Samsung and SK hynix fall 7% and 9%",
+                  "body": "미국 중간선거가 끝나면 증시가 좋아질 것이라는 기대와 달리 코스피가 5% 넘게 급락했다. 삼성전자는 7.57%, SK하이닉스는 9.46% 하락하며 반도체주가 직격탄을 맞았다."
                 },
                 {
-                  "headline": "나선 곳마다 참패…민심 잃은 트럼프, 공화당도 '손절' 가능성",
-                  "url": "https://www.khan.co.kr/article/202611042122005",
-                  "eng": "Trump loses everywhere; GOP may abandon him",
-                  "body": "트럼프 대통령이 관여한 선거마다 참패하면서 공화당 내부에서 '손절' 움직임이 일고 있다. 민심을 잃은 트럼프의 정치적 입지가 흔들리고 있다."
+                  "headline": "[속보]코스피, 4% 급락에 매도 사이드카…미국 중간선거 여파",
+                  "url": "https://www.khan.co.kr/article/202611051025011",
+                  "eng": "Kospi triggers sell-side circuit breaker on 4% plunge amid midterm fallout",
+                  "body": "코스피가 4% 이상 급락하며 매도 사이드카가 발동됐다. 미국 중간선거에서 민주당이 압승한 뒤 AI 규제 우려가 커진 영향이다."
                 }
               ]
             },
@@ -224,16 +226,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "전쟁이 발목 잡았지만 \"후회 없다\"는 트럼프…선거 참패도 \"내 탓 아냐\"",
-                  "url": "https://www.khan.co.kr/article/202611041801001",
-                  "eng": "Trump: 'no regrets' on war, blames others for rout",
-                  "body": "이란전이 선거 참패의 원인이라는 지적에도 트럼프 대통령은 \"후회 없다\"며 선거 패배를 남 탓으로 돌렸다."
+                  "headline": "민주당 20년 만의 상하원 탈환…'블루 웨이브'가 덮쳤다",
+                  "url": "https://www.khan.co.kr/politics/",
+                  "eng": "Democrats retake both chambers after 20 years in a 'blue wave'",
+                  "body": "미국 중간선거에서 민주당이 20년 만에 상·하원을 동시에 탈환했다. 공화당 텃밭까지 휩쓸린 '블루 웨이브'로 트럼프 행정부는 국정 운영에 큰 제약을 받게 됐다."
                 },
                 {
-                  "headline": "연방 하원의원에 한국계 후보 잇단 당선…최초 한국계 주지사 도전은 무산",
-                  "url": "https://www.khan.co.kr/article/202611041558001",
-                  "eng": "Korean American House wins, but governor bid falls short",
-                  "body": "이번 중간선거에서 한국계 후보들이 연방 하원의원에 잇따라 당선됐다. 다만 최초 한국계 주지사 도전은 무산됐다."
+                  "headline": "[2026년 11월 06일 날씨]겨울 문턱 추위…두툼한 외투 챙기세요",
+                  "url": "https://www.khan.co.kr/article/202611052109015",
+                  "eng": "Cold snap at winter's door: bundle up",
+                  "body": "겨울 문턱에 들어서며 아침 기온이 크게 떨어져 쌀쌀하다. 맑은 날씨가 이어지겠지만 두툼한 외투가 필요한 시기다."
                 }
               ]
             },
@@ -241,16 +243,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "중앙일보, 다우·CJ컨소시엄에 인수…5200억원 규모 계약",
-                  "url": "https://www.khan.co.kr/article/202611041916001",
-                  "eng": "JoongAng Ilbo acquired by Dow-CJ consortium for 520bn won",
-                  "body": "중앙일보가 다우·CJ컨소시엄에 인수된다. 컨소시엄은 5200억원 규모의 조건부 신주인수계약(SSA)을 체결했다."
+                  "headline": "유럽 곳곳 정체불명 공격…마트 냉장고 이어 여객기 폭탄 신고",
+                  "url": "https://www.khan.co.kr/international/",
+                  "eng": "Mysterious attacks across Europe; bomb threats hit flights after supermarket fridges",
+                  "body": "유럽 곳곳에서 정체불명의 공격·협박이 잇따르고 있다. 마트 냉장고 사고에 이어 여객기 폭탄 신고까지 발생하며 보안 당국이 긴장하고 있다."
                 },
                 {
-                  "headline": "미국 위협한다는 중국 AI 굴기 '거품'이었나…성능 격차에 수익성 우려까지",
-                  "url": "https://www.khan.co.kr/article/202611041634001",
-                  "eng": "China's AI rise a bubble? Performance gap and profit concerns",
-                  "body": "중국 AI가 미국을 빠르게 따라잡는다는 평가가 과장됐다는 분석이 나왔다. 미국 선두 AI와 중국 모델 간 성능 격차가 오히려 확대됐다."
+                  "headline": "세브란스병원 흉기 피습…대전협 '보호 체계·처벌 강화해야'",
+                  "url": "https://www.khan.co.kr/society/",
+                  "eng": "Severance stabbing prompts calls to protect medical staff",
+                  "body": "세브란스병원 흉기 피습 사건과 관련해 대한전공의협의회(대전협)가 의료진 보호 체계와 가해자 처벌 강화를 촉구했다."
                 }
               ]
             }
@@ -264,16 +266,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "'앵그리 아메리칸' 심판에 트럼프 참패",
-                  "url": "https://www.donga.com/news/article/all/20261105/134968767/2",
-                  "eng": "Angry Americans deliver Trump a crushing defeat",
-                  "body": "미국 중간선거에서 '앵그리 아메리칸'의 심판이 트럼프 대통령에게 참패를 안겼다. 민주당이 상·하원을 석권하며 정치 지형이 요동쳤다."
+                  "headline": "K증시 덮친 '블루 쓰나미'…AI데이터센터 제동 우려에 5% 넘게 급락",
+                  "url": "https://www.donga.com/news/Economy/article/all/20261105/134973192/1",
+                  "eng": "'Blue tsunami' hits K-market; Kospi falls over 5% on AI data center fears",
+                  "body": "미국 중간선거에서 민주당이 상·하원을 장악한 '블루 쓰나미'가 국내 증시에 악재로 덮쳤다. 미국 다우존스 지수는 전날 3% 상승했지만, 국내에서는 AI 데이터센터 제동 우려로 코스피가 5% 넘게 급락했다."
                 },
                 {
-                  "headline": "尹, '대선때 거짓말' 2심도 유죄…확정땐 국힘 397억 반납",
-                  "url": "https://www.donga.com/news/article/all/20261105/134968762/2",
-                  "eng": "Yoon convicted again on appeal over election lies",
-                  "body": "윤석열 전 대통령이 '대선 때 거짓말' 혐의 2심에서도 유죄를 선고받았다. 형이 확정되면 국민의힘은 선거보전금 397억원을 반납해야 한다."
+                  "headline": "재초환 부담금, 1주택 6년 이상 보유 시 감면",
+                  "url": "https://www.donga.com/",
+                  "eng": "Redevelopment windfall tax cut for long-term single homeowners",
+                  "body": "재건축초과이익 환수(재초환) 부담금이 1주택 6년 이상 보유자에 대해 감면된다. 실수요자 부담 완화를 위한 조치다."
                 }
               ]
             },
@@ -281,16 +283,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "94년 공화당 텃밭도 무너졌다…反트럼프 '블루쓰나미' 덮쳐",
-                  "url": "https://www.donga.com/news/article/all/20261105/134968776/2",
-                  "eng": "Even 94-year GOP stronghold fell to blue tsunami",
-                  "body": "94년간 공화당 텃밭이던 지역까지 무너지며 반트럼프 '블루쓰나미'가 전국을 덮쳤다. 민주당의 역사적 승리다."
+                  "headline": "美 다우 3% 올랐는데 코스피는 폭락…'디커플링' 이유는",
+                  "url": "https://www.donga.com/news/Economy/",
+                  "eng": "Why Kospi crashed even as the Dow rose 3%",
+                  "body": "미국 다우지수가 중간선거 직후 3% 상승했음에도 코스피는 5% 급락했다. AI 데이터센터 규제 우려가 한국 반도체 수출에 직결된다는 점이 디커플링의 핵심 원인으로 지목된다."
                 },
                 {
-                  "headline": "트럼프, 입법 필요없는 '표적관세' 강행 우려…민주 견제에 알래스카 투자압박 완화될수도",
-                  "url": "https://www.donga.com/news/article/all/20261105/134968794/2",
-                  "eng": "Trump may push target tariffs; Alaska pressure may ease",
-                  "body": "트럼프 대통령이 입법이 필요 없는 '표적관세'를 강행할 수 있다는 우려가 나온다. 민주당 견제로 알래스카 투자 압박은 완화될 수 있다는 전망이다."
+                  "headline": "[속보]신촌 세브란스병원서 흉기 난동…의사 1명 부상",
+                  "url": "https://www.donga.com/news/google/donga/3/all/20261104/134967073/1",
+                  "eng": "Doctor injured in knife attack at Severance Hospital",
+                  "body": "서울 서대문구 세브란스병원에서 50대 여성이 정신과 의사에게 흉기를 휘둘러 의사 1명이 부상을 입었다. 피해자는 머리에 3㎝ 넘는 열상을 입었으나 생명에는 지장이 없다."
                 }
               ]
             },
@@ -298,16 +300,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "한진칼 최대주주 바뀌었다…조원태 회장서 호반건설로",
-                  "url": "https://www.donga.com/news/article/all/20261104/134967483/2",
-                  "eng": "Hanjin Kal control shifts from Cho Won-tae to Hoban",
-                  "body": "한진칼 최대주주가 조원태 회장에서 호반건설로 바뀌었다. 경영권 분쟁이 재점화하며 지분 경쟁이 격화됐다."
+                  "headline": "삼성증권 2차전지 월보 — 리튬가 급락, LFP 양극재 탈중국 확대",
+                  "url": "https://www.donga.com/news/Economy/",
+                  "eng": "Lithium prices tumble; LFP cathode de-China-ization expands",
+                  "body": "삼성증권의 2차전지 월간 보고서가 리튬 가격 급락과 LFP 양극재의 탈중국(공급망 다변화) 확대 흐름을 짚었다."
                 },
                 {
-                  "headline": "金보다 '산업용 金'…AI 수요에 구리-아연 값 급등",
-                  "url": "https://www.donga.com/news/article/all/20261104/134967472/2",
-                  "eng": "Industrial metals outshine gold on AI demand",
-                  "body": "AI 수요 증가로 구리·아연 등 산업용 금속 가격이 급등하고 있다. 금보다 산업용 금속이 주목받는 흐름이다."
+                  "headline": "Harvard Online 'Agentic AI Skills Builder' 신규 과정 오픈",
+                  "url": "https://www.donga.com/news/It/",
+                  "eng": "Harvard Online launches 'Agentic AI Skills Builder' course",
+                  "body": "하버드 온라인이 AI 에이전트 역량을 키우는 'Agentic AI Skills Builder' 신규 과정을 공개했다. 기업의 AI 에이전트 도입 확산과 맞물려 주목받는다."
                 }
               ]
             }
@@ -321,16 +323,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "[속보] 美중간선거 끝나자 다우지수 3% 급등…18개월 만에 최대폭 상승",
-                  "url": "https://www.hankyung.com/article/2026110568957",
-                  "eng": "Dow surges 3% after midterms, best day in 18 months",
-                  "body": "미국 중간선거가 끝나자 다우지수가 3% 급등하며 18개월 만에 최대폭으로 상승했다. 선거 리스크 해소가 증시에 긍정적으로 작용했다."
+                  "headline": "블루쓰나미에 삼전닉스 급락…코스피 5300까지 '털썩'",
+                  "url": "https://www.hankyung.com/article/202611058533i",
+                  "eng": "Blue tsunami sinks Samsung and SK hynix; Kospi tumbles toward 5,300",
+                  "body": "미국 중간선거 '블루 쓰나미' 여파로 삼성전자·SK하이닉스가 급락하며 코스피가 5,300선까지 밀렸다. 결국 5,383.80(-5.28%)으로 마감하며 7개월 최저를 기록했다."
                 },
                 {
-                  "headline": "\"이란 전쟁 끝나나\"…美 민주당 압승에 국제유가 8%대 급락",
-                  "url": "https://www.hankyung.com/article/2026110569207",
-                  "eng": "Oil plunges 8% on Democratic sweep and Iran war hopes",
-                  "body": "미국 민주당의 압승으로 이란전 종식 기대가 커지면서 국제유가가 8%대 급락했다. 원유 시장의 지정학적 리스크 프리미엄이 빠르게 해소되고 있다."
+                  "headline": "삼전닉스 장 초반 '급락'…美 AI 규제 우려 번지나",
+                  "url": "https://www.hankyung.com/article/2026110573656",
+                  "eng": "Samsung, SK hynix plunge at open as US AI regulation fears spread",
+                  "body": "삼성전자와 SK하이닉스가 장 초반 동반 급락했다. SK하이닉스는 한때 8만원 넘게 하락하며 131만원대를 기록했고, 미국 AI 규제 우려가 국내 반도체주로 번졌다."
                 }
               ]
             },
@@ -338,16 +340,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "[속보] 필라델피아 반도체 3% 급락…텍사스 AI 데이터센터 건설 중단 우려",
-                  "url": "https://www.hankyung.com/article/2026110568997",
-                  "eng": "Philadelphia semiconductor index drops 3% on data-center fears",
-                  "body": "필라델피아 반도체 지수가 3% 급락했다. 민주당 승리로 텍사스 AI 데이터센터 건설이 중단될 수 있다는 우려가 반영됐다."
+                  "headline": "외국인 3.4조 순매도…코스피 7개월 최저로 밀려",
+                  "url": "https://www.hankyung.com/news/economy/",
+                  "eng": "Foreigners dump 3.4tn won as Kospi hits 7-month low",
+                  "body": "외국인이 3조4,000억원을 순매도하며 코스피를 7개월 최저로 밀어냈다. 코스피·코스닥 양 시장에서 동반 매도 사이드카가 발동됐다."
                 },
                 {
-                  "headline": "선거참패 후유증 美 공화당 '트럼프 손절' 시작…선봉에 밴스가 섰다",
-                  "url": "https://www.hankyung.com/article/202611056859i",
-                  "eng": "GOP begins to abandon Trump; Vance leads the charge",
-                  "body": "선거 참패 후유증으로 미국 공화당이 트럼프 대통령과 거리두기를 시작했다. JD 밴스 부통령이 '손절'의 선봉에 섰다."
+                  "headline": "美 민주당 20년 만의 상하원 탈환…'통상 훈풍' 기대는 시기상조",
+                  "url": "https://www.hankyung.com/news/international/",
+                  "eng": "Democrats retake Congress after 20 years; trade tailwind hopes premature",
+                  "body": "미국 민주당이 20년 만에 상·하원을 동시에 장악했다. 다만 통상 환경 개선 기대는 시기상조라는 분석이 나온다."
                 }
               ]
             },
@@ -355,16 +357,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "北, 하루에 미사일 2종 시험…가상 비행장 타격 훈련까지",
-                  "url": "https://www.hankyung.com/article/2026110569347",
-                  "eng": "North Korea tests two missile types in a single day",
-                  "body": "북한이 하루에 미사일 2종을 시험 발사하고 가상 비행장 타격 훈련까지 실시했다. 한미 당국이 촉각을 곤두세우고 있다."
+                  "headline": "LIV 존폐 위기…오일머니 최강자 사우디 골프투어 흔들",
+                  "url": "https://www.hankyung.com/news/international/",
+                  "eng": "Saudi-backed LIV Golf faces existential crisis",
+                  "body": "사우디 국부펀드가 막대한 자금을 쏟아부은 LIV 골프투어가 존폐 위기에 직면했다. 재정 악화와 선수 이탈이 겹치며 오일머니의 '돈 잔치'가 흔들리고 있다."
                 },
                 {
-                  "headline": "美 민주당 압승에 월가 축포?…다우·나스닥 2% 넘게 급등",
-                  "url": "https://www.hankyung.com/article/202611046798i",
-                  "eng": "Wall Street cheers Democratic sweep; Dow, Nasdaq jump 2%",
-                  "body": "미국 민주당의 압승에 월가가 축포를 쏘며 다우·나스닥이 2% 넘게 급등했다. 불확실성 해소가 투자 심리를 끌어올렸다."
+                  "headline": "유럽 곳곳 정체불명 공격…마트 냉장고 이어 여객기 폭탄 신고",
+                  "url": "https://www.hankyung.com/news/international/",
+                  "eng": "Mysterious attacks rattle Europe; flight bomb threats follow fridge incidents",
+                  "body": "유럽 각지에서 정체불명의 공격이 잇따르고 있다. 마트 냉장고 사건에 이어 여객기 폭탄 신고까지 접수되며 보안 당국이 촉각을 곤두세우고 있다."
                 }
               ]
             }
@@ -383,16 +385,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "Dow Jumps 1,500 Points on Democratic Sweep of Congress",
-                  "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-04-2026",
+                  "headline": "The Election Day Revolt That Threatens America's AI Boom",
+                  "url": "https://www.wsj.com/tech/ai/the-election-day-revolt-that-threatens-americas-ai-boom-03a53b52",
                   "eng": "",
-                  "body": "민주당의 상하원 석권에 다우지수가 1,500포인트 급등하며 18개월 만에 최대 상승폭을 기록했다. 유가는 이란전 종식 기대로 급락했다."
+                  "body": "미국 유권자들이 반(反)데이터센터 후보와 투표안에 표를 던지면서 AI 확장에 제동이 걸리고 경제성장을 위협할 수 있다는 분석이다. AI 붐을 위협하는 '선거일 반란'으로 불린다."
                 },
                 {
-                  "headline": "Oil Prices Sink as U.S. Midterms Raise Market Hopes for Middle East Solution",
-                  "url": "https://www.wsj.com/business/energy-oil/oil-prices-rise-as-investors-weigh-u-s-midterm-results-iran-risks-1d97da8a",
+                  "headline": "Dow Plunges More Than 1,800 Points as Tech Rout Deepens",
+                  "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026",
                   "eng": "",
-                  "body": "미국 중간선거 결과로 중동 문제 해결 기대가 커지며 국제유가가 급락했다. 브렌트유는 9.3% 하락한 배럴당 93.90달러, WTI는 8.8% 하락한 87.61달러를 기록했다."
+                  "body": "기술주 급락세가 깊어지며 다우지수가 장중 1,800포인트 넘게 폭락했다. 나스닥과 S&P 500은 역대 최대 시가총액 손실을 기록했다."
                 }
               ]
             },
@@ -400,16 +402,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "The Blue Wave Sets Off a Potential Regime Change in Markets",
-                  "url": "https://www.wsj.com/politics/elections/the-winners-and-losers-on-wall-street-from-the-election-earthquake-55ff9cd4",
+                  "headline": "Nasdaq, S&P 500 Suffer Biggest Market Cap Losses on Record",
+                  "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026/card/nasdaq-s-p-500-suffer-biggest-market-cap-losses-on-record-naIX12kNA44d1JgHDVlE",
                   "eng": "",
-                  "body": "블루 웨이브(민주당 압승)가 시장의 체제 전환 신호를 촉발할 수 있다는 분석이 나왔다. 다우 3.14%, S&P 500 1.76%, 나스닥 1.71% 상승하며 투자 구도가 재편되고 있다."
+                  "body": "나스닥과 S&P 500 지수가 사상 최대 규모의 시가총액 손실을 기록했다. 민주당 압승에 따른 AI 규제 우려가 매도세를 촉발했다."
                 },
                 {
-                  "headline": "Treasury Yields Fall as Democrats Take Control of Congress",
-                  "url": "https://www.wsj.com/finance/u-s-bond-rally-may-be-capped-amid-ongoing-debt-concerns-3bf9e55e",
+                  "headline": "Democrats Take Congress as Trump Says Iran War Is Partly to Blame",
+                  "url": "https://www.wsj.com/world/democrats-take-congress-as-trump-says-iran-war-is-partly-to-blame-for-gop-losses-b03d4784",
                   "eng": "",
-                  "body": "민주당의 의회 장악으로 재정 확장 우려가 완화되며 미 국채 금리가 하락했다. 10년물 금리는 4.889%까지 내려왔다."
+                  "body": "민주당이 의회를 장악했고, 트럼프 대통령은 이란전이 공화당 패배의 일부 원인이라고 인정했다. '블루 웨이브'가 시장의 체제 전환 신호로 해석된다."
                 }
               ]
             },
@@ -417,16 +419,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "Gold Climbs on Softer Dollar, Falling Treasury Yields After U.S. Midterms",
-                  "url": "https://www.wsj.com/finance/commodities-futures/gold-climbs-on-softer-dollar-falling-treasury-yields-after-u-s-midterms-b16998e4",
+                  "headline": "Oil Prices Sink as Midterms Raise Hopes for Middle East Solution",
+                  "url": "https://www.wsj.com/business/energy-oil/oil-prices-rise-as-investors-weigh-u-s-midterm-results-iran-risks-1d97da8a",
                   "eng": "",
-                  "body": "중간선거 이후 달러 약세와 국채 금리 하락에 힘입어 금값이 상승했다. 안전자산 선호가 금 가격을 떠받치고 있다."
+                  "body": "미국 중간선거에서 민주당이 압승하며 중동 분쟁의 조속한 해결 기대가 높아지자 유가가 두 달 만의 최저치로 내려갔다."
                 },
                 {
-                  "headline": "5 takeaways from the 2026 midterms, from grocery bills to Trump's rallies",
-                  "url": "https://www.wsj.com/politics/elections/five-takeaways-from-democrats-stunning-midterm-blowout-9da38a22",
+                  "headline": "Chip Stocks Face AI Regulation Fears",
+                  "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026/card/chip-stocks-hit-by-data-center-ai-regulation-fears-TjThbzZVLKxkZW5tt26b",
                   "eng": "",
-                  "body": "2026 중간선거의 5가지 핵심 포인트를 짚었다. 장바구니 물가와 트럼프 유세 등 경제·정치 이슈가 표심을 갈랐다."
+                  "body": "반도체주가 AI 데이터센터 규제 우려에 직격탄을 맞았다. 엔비디아·브로드컴·마이크론·AMD 등이 일제히 급락했다."
                 }
               ]
             }
@@ -440,16 +442,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "Stocks, Bonds Climb After US Election as Oil Sinks: Markets Wrap",
-                  "url": "https://www.bloomberg.com/news/articles/2026-11-03/stock-market-today-dow-s-p-live-updates",
+                  "headline": "US Selloff Deepens as Democrat Sweep Sparks AI Exposure Worries",
+                  "url": "https://www.bloomberg.com/news/articles/2026-11-05/us-stock-futures-diverge-as-chip-selloff-extends-into-second-day",
                   "eng": "",
-                  "body": "민주당의 의회 석권으로 이란전 반대 여론이 확인되며 유가가 급락했고, 주식과 채권이 큰 폭의 선거 후 상승세를 기록했다. 달러는 두 달 만에 최대 낙폭을 보였고 비트코인은 8만 달러를 돌파했다."
+                  "body": "민주당의 의회 석권이 AI 노출 우려를 촉발하며 미국 증시 매도세가 깊어졌다. 반도체에서 시작된 매도가 광범위한 폭락으로 번져 S&P 500 11개 섹터가 모두 하락했다. 나스닥 100은 5.77% 급락하며 시가총액 1조9,000억 달러를 날렸다."
                 },
                 {
-                  "headline": "How Markets Reacted to Democrats' Win: Stocks U-Turn, Gold Gains",
-                  "url": "https://www.bloomberg.com/news/articles/2026-11-04/democrats-win-rattles-trump-trades-from-ai-stocks-to-crypto",
+                  "headline": "Chip Selloff Worsens as Fears About AI Trade Grip Market",
+                  "url": "https://www.bloomberg.com/news/articles/2026-11-05/chips-selloff-worsens-as-fears-about-ai-trade-grip-stock-market",
                   "eng": "",
-                  "body": "민주당 승리로 글로벌 주식시장이 낙폭을 만회하며 반등했다. 중간선거 불확실성이 걷히며 저가 매수세가 유입됐고, 국채와 금도 동반 상승했다."
+                  "body": "AI 트레이드에 대한 우려가 시장을 장악하며 반도체 매도세가 악화했다. 미국 반도체 ETF(SOXX)는 10% 급락하며 전일 손실을 확대했다."
                 }
               ]
             },
@@ -457,16 +459,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "What the US Midterm Results Mean for the AI Data Center Boom",
-                  "url": "https://www.bloomberg.com/news/newsletters/2026-11-04/what-the-us-midterm-results-mean-for-the-ai-data-center-boom",
+                  "headline": "Treasuries Soar as Tech-Stock Selloff Stokes Haven Demand",
+                  "url": "https://www.bloomberg.com/news/articles/2026-11-05/treasuries-extend-advance-as-technology-shares-resume-slide",
                   "eng": "",
-                  "body": "미국 중간선거 결과가 AI 데이터센터 붐에 미칠 영향을 분석했다. 텍사스·조지아 주지사가 민주당으로 바뀌며 AI 인프라 투자에 제동이 걸릴 수 있다는 전망이다."
+                  "body": "기술주 매도세가 안전자산 수요를 자극하며 미 국채가 급등(금리 하락)했다. 10년물 금리는 두 달 만의 최저치로 내려왔다."
                 },
                 {
-                  "headline": "Midterms Shocker Will Reverberate Through the Energy Industry",
-                  "url": "https://www.bloomberg.com/news/newsletters/2026-11-04/midterms-shocker-will-reverberate-through-the-energy-industry",
+                  "headline": "Nasdaq 100 Erases $1.9 Trillion as Tech Rout Broadens",
+                  "url": "https://www.bloomberg.com/news/articles/2026-11-05/us-stock-futures-diverge-as-chip-selloff-extends-into-second-day",
                   "eng": "",
-                  "body": "중간선거의 충격파가 에너지 산업 전반에 파급될 전망이다. 브렌트유가 10월 초 이후 처음으로 배럴당 100달러 아래로 내려갔다."
+                  "body": "기술주 폭락이 확산하며 나스닥 100이 하루 만에 1조9,000억 달러의 시가총액을 잃었다. 반도체 매도가 전 업종으로 번졌다."
                 }
               ]
             },
@@ -474,16 +476,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "Treasuries Gain as Oil Prices Tumble After Democrats Elected",
-                  "url": "https://www.bloomberg.com/news/articles/2026-11-04/treasuries-advance-as-traders-eye-us-votes-refinancing-plans",
+                  "headline": "Blue Wave Clobbers Data-Center Stocks for Second Day",
+                  "url": "https://www.bloomberg.com/news/articles/2026-11-05/chips-selloff-worsens-as-fears-about-ai-trade-grip-stock-market",
                   "eng": "",
-                  "body": "민주당 당선으로 유가가 급락하면서 미 국채가 강세를 보였다. 이란전 종식 전망이 국채 금리 하락을 이끌었다."
+                  "body": "'블루 웨이브'가 이틀째 데이터센터 관련주를 강타했다. AI 인프라 투자 둔화 우려가 반도체·전력·서버 관련주 전반으로 확산됐다."
                 },
                 {
-                  "headline": "Democrats Sweep Control of US Congress in Rebuke to Trump",
-                  "url": "https://www.bloomberg.com/news/newsletters/2026-11-04/democrats-sweep-control-of-us-congress-in-rebuke-to-trump",
+                  "headline": "Bitcoin Slides 5% as Tech Rout Deepens",
+                  "url": "https://www.bloomberg.com/news/articles/2026-11-05/us-stock-futures-diverge-as-chip-selloff-extends-into-second-day",
                   "eng": "",
-                  "body": "민주당이 상·하원을 석권하며 트럼프 대통령에 대한 강력한 심판을 전달했다. 트럼프에게는 큰 이변이었다."
+                  "body": "기술주 폭락이 깊어지며 비트코인이 5% 하락해 7만6,000달러 아래로 내려왔다. 위험자산 전반에서 투자심리가 위축됐다."
                 }
               ]
             }
@@ -497,16 +499,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "Stocks Rise as Democrats Flip Control of Congress",
-                  "url": "https://www.nytimes.com/2026/11/04/business/midterm-elections-stock-market.html",
+                  "headline": "Political Losses Deepen the Stakes as Trump Contemplates Renewed Iran Attack",
+                  "url": "https://www.nytimes.com/2026/11/05/us/politics/trump-iran-war-midterm-elections.html",
                   "eng": "",
-                  "body": "민주당이 의회 장악권을 확보하며 증시가 상승했다. 선거 결과에 대한 확실성이 투자자들에게 긍정적으로 작용했다."
+                  "body": "중간선거 패배가 트럼프 대통령의 이란 추가 공격 결정을 둘러싼 부담을 키우고 있다. 이란전이라는 '선택한 전쟁'의 인기 저조가 선거 결과로 확인됐다."
                 },
                 {
-                  "headline": "Midterm Elections Live Updates: Democrats Project Power as G.O.P. Concedes",
-                  "url": "https://www.nytimes.com/live/2026/11/04/us/midterm-election-results-democrats",
+                  "headline": "Stocks Erase Post-Midterm Rally, Dragged Down by Tech",
+                  "url": "https://www.nytimes.com/2026/11/05/business/stocks-midterms-artificial-intelligence.html",
                   "eng": "",
-                  "body": "민주당이 하원 최소 50석 과반을 확보하고 상원을 장악할 것으로 보인다. 공화당은 패배를 인정하기 시작했다."
+                  "body": "기술주에 끌려 증시가 선거 후 반등분을 모두 반납하며 급락했다. AI 인프라 구축 약세에 대한 투자자 우려가 커졌다."
                 }
               ]
             },
@@ -514,16 +516,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "Vance, in Break With Trump, Blames Iran War for Republicans' Rout",
-                  "url": "https://www.nytimes.com/2026/11/04/us/politics/vance-iran-war-midterms-trump.html",
+                  "headline": "Midterm Election Losses Complicate Trump's Options on Iran War",
+                  "url": "https://www.nytimes.com/2026/11/05/us/politics/trump-iran-war-midterm-elections.html",
                   "eng": "",
-                  "body": "JD 밴스 부통령이 트럼프와 결별하며 공화당 참패의 원인을 이란전으로 지목했다. \"우리가 진 이유는 전쟁\"이라고 밝혔다."
+                  "body": "중간선거 결과는 트럼프 대통령이 시작했지만 끝내기 어려워하는 이란전의 인기 저조를 여실히 드러냈다. 이란 공격 재개 옵션을 둘러싼 부담이 커졌다."
                 },
                 {
-                  "headline": "U.S. House Midterm Election 2026 Live Results: Democrats Win Majority",
-                  "url": "https://www.nytimes.com/interactive/2026/11/03/us/elections/results-house.html",
+                  "headline": "On Cusp of Renewed War, More Iranians Are Calling for Nuclear Weapons",
+                  "url": "https://www.nytimes.com/2026/11/03/world/europe/iran-nuclear-weapons-war.html",
                   "eng": "",
-                  "body": "하원 선거 개표 결과 민주당이 과반을 확보했다. 흑인 유권자 지지가 약 80%포인트 격차로 민주당을 떠받쳤다."
+                  "body": "전쟁 재개 가능성이 커지면서 핵무기 보유를 요구하는 이란 여론이 확산하고 있다."
                 }
               ]
             },
@@ -531,16 +533,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "Democrats Win Control of Congress",
-                  "url": "https://www.nytimes.com/video/us/politics/100000011260587/midterm-election-results-democrats.html",
+                  "headline": "AI Data Center Boom Faces Fresh Regulatory Threat",
+                  "url": "https://www.nytimes.com/2026/11/05/business/stocks-midterms-artificial-intelligence.html",
                   "eng": "",
-                  "body": "민주당이 상·하원을 석권하며 트럼프 대통령에게 놀라운 반전을 안겼다. 중간선거의 압도적 결과다."
+                  "body": "민주당의 의회 장악으로 AI 데이터센터 붐이 새로운 규제 위협에 직면했다. 데이터센터 신규 건설 제한과 전력 규제가 거론된다."
                 },
                 {
-                  "headline": "Trump Points to War in Iran for Republican Midterm Losses",
-                  "url": "https://www.nytimes.com/video/us/politics/100000011262701/trump-iran-war-midterm-elections-republicans.html",
+                  "headline": "Measles Outbreak Deaths Rise as Vaccine Hesitancy Spreads",
+                  "url": "https://www.nytimes.com/2026/11/05/health/measles-outbreak.html",
                   "eng": "",
-                  "body": "트럼프 대통령이 공화당의 중간선거 패배 원인을 이란전으로 지목했다. 밴스 부통령의 발언에 대해서도 언급했다."
+                  "body": "백신 기피 확산 속 홍역 발병 사망자가 늘고 있다. 펜실베이니아에서 6번째 사망자가 보고됐다."
                 }
               ]
             }
@@ -554,16 +556,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "Election 2026 live updates: Democrats win control of House, Senate as voters spurn Trump",
-                  "url": "https://www.washingtonpost.com/politics/2026/11/03/elections-2026-live-updates-voters-head-polls-senate-house-governor-races/",
+                  "headline": "Takeaways from a Midterm Election Wipeout for Trump's Republicans",
+                  "url": "https://www.washingtonpost.com/politics/2026/11/04/takeaways-republican-wipeout/",
                   "eng": "",
-                  "body": "민주당이 하원과 상원 장악권을 확보했다. 유권자들이 트럼프 대통령을 외면하며 민주당에 압도적 승리를 안겼다."
+                  "body": "민주당이 전국적으로 상·하원을 석권하며 트럼프 리더십에 강력한 심판을 전했다. 한때 공화당 텃밭이던 주까지 민주당이 휩쓸었다."
                 },
                 {
-                  "headline": "Voters punish Trump with historic swing to Democrats",
-                  "url": "https://www.washingtonpost.com/politics/2026/11/03/voters-punish-trump-with-dramatic-swing-democrats/",
+                  "headline": "'Knives out' at Pentagon After Unpopular Iran War Dooms GOP in Midterms",
+                  "url": "https://www.washingtonpost.com/national-security/2026/11/04/knives-out-pentagon-after-unpopular-iran-war-dooms-gop-midterms/",
                   "eng": "",
-                  "body": "유권자들이 트럼프 대통령에게 역사적 심판을 내리며 민주당으로 극적으로 돌아섰다. 전국적으로 15포인트 이상의 표심 이동이 확인됐다."
+                  "body": "인기 없는 이란전이 공화당의 중간선거 패배를 초래한 뒤, 국방부 내부에서 책임 공방('칼날 세우기')이 벌어지고 있다."
                 }
               ]
             },
@@ -571,16 +573,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "Stocks surged and oil prices fell as markets responded to the midterm rout",
-                  "url": "https://www.washingtonpost.com/business/2026/11/04/stocks-surged-oil-prices-fell-markets-responded-midterm-rout/",
+                  "headline": "GOP's Losses Will Raise Pressure on Conservative Supreme Court Justices to Retire",
+                  "url": "https://www.washingtonpost.com/politics/2026/11/05/gops-losses-will-raise-pressure-conservative-supreme-court-justices-retire/",
                   "eng": "",
-                  "body": "중간선거 참패에 시장이 반응하며 주가가 급등하고 유가가 하락했다. 다우는 1,500포인트 급등했고 브렌트유는 95달러 아래로 내려갔다."
+                  "body": "공화당의 대패로 보수 성향 대법관들의 조기 은퇴 압박이 커질 전망이다. 지금 새 대법관을 확정하지 않으면 수년간 기회가 없을 수 있다."
                 },
                 {
-                  "headline": "Takeaways from a Republican wipeout",
-                  "url": "https://www.washingtonpost.com/politics/2026/11/04/takeaways-republican-wipeout/",
+                  "headline": "Pennsylvania Reports 6th Measles-Associated Death",
+                  "url": "https://www.washingtonpost.com/health/2026/11/04/sixth-person-dies-pennsylvania-measles-outbreak/",
                   "eng": "",
-                  "body": "공화당의 전면 참패를 분석했다. 민주당은 텍사스 상원·주지사 선거까지 승리하며 1994년 이후 처음으로 텍사스를 장악했다."
+                  "body": "펜실베이니아주에서 홍역 관련 6번째 사망자가 발생했다. 백신 접종률 하락이 발병 확산의 배경으로 지목된다."
                 }
               ]
             },
@@ -588,16 +590,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "Vance blames Republicans' midterm losses on Iran war, cost of living",
-                  "url": "https://www.washingtonpost.com/politics/2026/11/04/vance-blames-republicans-midterm-losses-iran-war-cost-living/",
+                  "headline": "Trump Wants His Arch Approved Thursday and Immediately Start Work",
+                  "url": "https://www.washingtonpost.com/politics/2026/11/05/trump-wants-his-arch-approved-thursday-and-immediately-start-work/",
                   "eng": "",
-                  "body": "밴스 부통령이 공화당의 중간선거 패배 원인을 이란전과 생활비 부담으로 지목했다. 트럼프와의 입장 차이가 부각됐다."
+                  "body": "트럼프 대통령이 워싱턴에 세우려는 250피트(약 76m) 높이의 개선문(트라이엄프 아치) 승인을 목요일에 받아 즉시 착공하기를 원하고 있다."
                 },
                 {
-                  "headline": "Trump concedes Iran war angered voters, triggered Democratic landslide",
-                  "url": "https://www.washingtonpost.com/politics/2026/11/04/republicans-wake-up-new-reality-brace-new-washington/",
+                  "headline": "AI in the New Washington: What Changes?",
+                  "url": "https://wpintelligence.washingtonpost.com/topics/ai-tech/events/2026/11/06/ai-new-washington-what-changes/",
                   "eng": "",
-                  "body": "트럼프 대통령이 이란전이 유권자들을 분노하게 해 민주당 압승을 불렀다고 인정했다. 공화당은 새로운 현실에 직면했다."
+                  "body": "민주당 장악 이후 워싱턴에서 AI 정책이 어떻게 바뀔지 분석하는 행사가 열린다. AI 규제·데이터센터 정책의 방향 전환이 핵심 의제다."
                 }
               ]
             }
@@ -611,16 +613,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "Oil tumbles below $100 on post-election peace hopes",
-                  "url": "https://www.ft.com/content/b526f876-810a-4e74-8b8d-4ffca04b29c7",
+                  "headline": "Nasdaq Plunges in Chaotic Trading as Democratic 'Blue Wave' Upends AI Bets",
+                  "url": "https://www.ft.com/content/7c6ceb4f-d7b1-49ec-9047-0e2e4cd2615c",
                   "eng": "",
-                  "body": "민주당의 중간선거 압승으로 트럼프 대통령의 이란전 종식 압박이 커지며 유가가 두 달 만에 최저로 급락했다. 브렌트유는 8.7% 하락한 94.62달러에 마감했다."
+                  "body": "민주당 '블루 웨이브'가 AI 베팅을 뒤흔들며 나스닥이 혼란스러운 거래 속에 급락했다. AI 트레이드 전체가 압박을 받으며 시장 전체를 끌어내렸다."
                 },
                 {
-                  "headline": "Stocks climb after Democrats' sweep",
-                  "url": "https://www.ft.com/content/a0b18705-3bd8-4886-992c-b6062fdec6ea",
+                  "headline": "US Has No Immediate Plan to Strike Iran, Trump Says",
+                  "url": "https://www.ft.com/content/f3afd549-65fc-487e-922e-2748fa6a8a5f",
                   "eng": "",
-                  "body": "민주당의 상·하원 석권 이후 글로벌 증시가 상승했다. 선거 불확실성 해소가 투자 심리를 회복시켰다."
+                  "body": "트럼프 미국 대통령이 이란에 대한 즉각적인 공격 계획이 없다고 밝혔다. 다만 이란전을 둘러싼 긴장은 지속되고 있다."
                 }
               ]
             },
@@ -628,16 +630,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "Uber picks up pace in robotaxi race",
-                  "url": "https://www.ft.com/content/2fc1bfc2-4d16-4eb2-a8d4-eaef4f4571af",
+                  "headline": "Tech Stocks Suffer Worst Week Since April After $800bn AI Sell-off",
+                  "url": "https://www.ft.com/content/8c6e3c18-c5a0-4f60-bac4-fcdab6328bf8",
                   "eng": "",
-                  "body": "우버가 로보택시 경쟁에서 속도를 높이고 있다. 자율주행 상용화를 둘러싼 빅테크·완성차 간 경쟁이 격화되고 있다."
+                  "body": "8,000억 달러 규모의 AI 매도세 이후 기술주가 4월 이후 최악의 한 주를 보내고 있다. AI 붐에 대한 의문이 커졌다."
                 },
                 {
-                  "headline": "Anthropic reveals $900bn AI spending commitments ahead of IPO",
-                  "url": "https://www.ft.com/content/4d91dbab-6fe4-45ab-beee-d77e091cb37f",
+                  "headline": "Analyst View: Sell-off 'Should Have Happened Yesterday'",
+                  "url": "https://www.ft.com/content/7c6ceb4f-d7b1-49ec-9047-0e2e4cd2615c",
                   "eng": "",
-                  "body": "앤트로픽이 IPO를 앞두고 9000억 달러 규모의 AI 지출 계획을 공개했다. AI 인프라 투자 확대가 이어지고 있다."
+                  "body": "많은 투자자가 전날 예상했던 일이 현실화했다는 분석이 나온다. AI 트레이드 전체가 공격받으며 재정적으로 가장 탄탄한 마이크로소프트조차 3.6% 하락했다."
                 }
               ]
             },
@@ -645,16 +647,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "Qatar set to become world's biggest buyer of US LNG",
-                  "url": "https://www.ft.com/content/88e46724-0bd4-451a-b02b-f5709c9771b7",
+                  "headline": "Are We Ready for an AI Bust?",
+                  "url": "https://www.ft.com/markets",
                   "eng": "",
-                  "body": "카타르가 미국 LNG의 세계 최대 구매국이 될 전망이다. 에너지 수급 재편이 이뤄지고 있다."
+                  "body": "AI 붕괴(버스트)에 대비할 준비가 됐느냐는 질문이 시장을 관통하고 있다. 규제 리스크와 수익성 의문이 AI 가치평가를 재조정하고 있다."
                 },
                 {
-                  "headline": "Petrol prices set to hit record high under Trump on eve of US elections",
-                  "url": "https://www.ft.com/content/ee2748fb-9f85-4095-b599-526e5a4a6baa",
+                  "headline": "Treasuries Rally as Haven Demand Returns",
+                  "url": "https://www.ft.com/markets",
                   "eng": "",
-                  "body": "미국 선거 직전 휘발유 가격이 트럼프 행정부에서 사상 최고치를 기록할 전망이다. 고유가가 선거의 핵심 쟁점으로 부상했다."
+                  "body": "기술주 매도세 속 안전자산 수요가 되살아나며 미 국채가 강세를 보였다. 10년물 금리가 두 달 만의 최저로 하락했다."
                 }
               ]
             }
