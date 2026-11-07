@@ -1,0 +1,344 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+import json, datetime
+
+now = datetime.datetime.now(datetime.timezone(datetime.timedelta(hours=9)))
+
+headline = "美 민주당 '블루웨이브' 압승→AI 규제 공포에 코스피 서킷브레이커·5,000선 붕괴(5,059.69, -6.02%, 삼전 -9.98%)…주말 S&P 500 +0.31%·나스닥 +1.09% 반등, 오늘 제니엘 Z-P4 평가 착수·T-P22 교육위 D-1"
+
+data = {
+    "date": "2026-11-08",
+    "dateLabel": "2026년 11월 8일(일요일)",
+    "generatedAt": now.isoformat(timespec="seconds"),
+    "ticker": [
+        {"name": "KOSPI", "value": "5,059.69", "change": "▼6.02%", "dir": "down"},
+        {"name": "KOSDAQ", "value": "644.27", "change": "▼5.03%", "dir": "down"},
+        {"name": "S&P 500", "value": "7,376.86", "change": "▲0.31%", "dir": "up"},
+        {"name": "나스닥", "value": "24,579", "change": "▲1.09%", "dir": "up"},
+        {"name": "다우", "value": "51,285.73", "change": "▼0.46%", "dir": "down"},
+        {"name": "원/달러", "value": "1,364원", "change": "▲0.52%", "dir": "up"},
+        {"name": "WTI 유가", "value": "$90.83", "change": "▲0.34%", "dir": "up"},
+        {"name": "필라델피아 반도체", "value": "4,074.90", "change": "▼0.94%", "dir": "down"},
+    ],
+    "keywords": [
+        {"label": "① 美 '블루웨이브'→AI 규제 공포, 코스피 서킷브레이커·5,000선 붕괴", "desc": "11/6 코스피 개장 3분 만에 8% 폭락으로 서킷브레이커 발동, 5,059.69(-6.02%) 마감. 삼성전자 -9.98%·SK하이닉스 -11.79%, 외인·기관 동반 매도"},
+        {"label": "② 주말 美 증시 소폭 반등 — S&P +0.31%·나스닥 +1.09%", "desc": "주간 -2.68% 폭락 뒤 금요일(11/7) 기술주 저가매수 유입. 다우 -0.46%·SOX -0.94%는 여전히 약세"},
+        {"label": "③ 반도체(SOX) 여전히 약세 — 주간 -11%, 골든크로스 이탈", "desc": "필라델피아 반도체지수 주간 -11%(2020년 3월 이후 최대). 엔비디아·AMD·브로드컴 급락, 엔비디아 YTD 상승분 반납"},
+        {"label": "④ 원/달러 1,364원 약세·WTI 90.83달러 보합 — 외인 이탈 지속", "desc": "원화 약세(+0.52%)로 외국인 이탈 가속. VIX 26.9(+62%) 공포지수 급등. 유가는 중동 리스크 속 보합권"},
+        {"label": "⑤ 제니엘 밀린 프로젝트 14건 — 오늘 Z-P4 평가 착수·T-P22 교육위 D-1", "desc": "내일(월) 마감: 교육위 고지·해외연수 회장님보고·등기체크리스트. AX 도입(Z-P6)은 美 AI규제 리스크 반영 필요"},
+    ],
+    "morning": {
+        "date": "2026-11-08",
+        "headline": headline,
+        "weather": "☁️ 흐림 · 6°C (체감 2°C) · 바람 5km/h",
+        "schedule": "📅 일요일 — 오늘 포커스: [Z-P4] 2026년 평가 착수 + [T-P22] 교육운영위원회 사전 고지(D-1). 내일(월) 마감: 교육위 고지·해외연수 회장님보고·등기체크리스트",
+        "domestic": {
+            "kospi": {"value": "5,059.69", "change": "▼ -324.11", "changeRate": "-6.02%", "rate": "-6.02%"},
+            "kosdaq": {"value": "644.27", "change": "▼ -34.14", "changeRate": "-5.03%", "rate": "-5.03%"},
+            "supply": {
+                "foreign": "외국인 대규모 순매도",
+                "institution": "기관 동반 순매도",
+                "individual": "개인 저가매수(방어)",
+                "usdkrw": "약 1,364원",
+                "change": "전일 대비 +0.52% (원화 약세)"
+            },
+            "comment": "코스피가 11/6(금) 개장 3분 만에 서킷브레이커가 발동되는 초유의 폭락세를 보이며 장중 5,000선을 붕괴했다. 이후 낙폭을 일부 되돌려 5,059.69(-6.02%, -324.11p)로 마감하며 10개월 만에 5,000선 초반까지 밀렸다. 삼성전자 -9.98%·SK하이닉스 -11.79% 등 반도체 대형주가 직격탄을 맞았고, 외국인·기관 동반 매도가 이어졌다. 미국 중간선거 '블루웨이브' 이후 AI·데이터센터 규제 강화 우려가 반도체 수출 의존도가 높은 한국 증시를 직격했다. 원/달러 환율은 1,364원(+0.52%)으로 원화 약세가 이어졌다."
+        },
+        "overseas": {
+            "dow": {"value": "51,285.73", "change": "▼ -0.46%", "changeRate": "-0.46%"},
+            "sp500": {"value": "7,376.86", "change": "▲ +0.31%", "changeRate": "+0.31%"},
+            "nasdaq": {"value": "24,579", "change": "▲ +1.09%", "changeRate": "+1.09%"},
+            "oil": {
+                "wti": "WTI $90.83 (+0.34%)",
+                "brent": "브렌트 보합권 — 중동 리스크 여전",
+                "note": "유가는 중동 리스크가 여전한 가운데 보합권을 유지했다. 민주당 압승으로 중동 해법 기대가 일부 있으나, 공급 우려가 지속되며 급락하지는 않았다. 안전자산 선호로 금 가격은 강세 흐름을 이어가고 있다."
+            },
+            "keyStocks": "미국 증시는 주간 -2.68% 폭락 뒤 금요일(11/7) 소폭 반등했다. S&P 500 7,376.86(+0.31%)·나스닥 24,579(+1.09%)는 기술주 저가매수 유입으로 상승했지만, 다우 51,285.73(-0.46%)와 필라델피아 반도체(SOX) 4,074.90(-0.94%)는 여전히 약세다. SOX는 주간 -11%로 기술적 골든크로스를 이탈했고, 엔비디아·AMD·브로드컴이 급락했다. VIX는 26.9(+62%)로 공포 심리가 유지되고 있다."
+        },
+        "topNews": headline,
+        "otherNews": [
+            "미 중간선거 민주당 상·하원 압승 — 트럼프 임기 레임덕 본격화, 스티븐 밀러 비서실장 임명",
+            "AI 인프라 규제 공포 → 글로벌 반도체·AI주 폭락 — 코스피 주간 -11% 추정, 2020년 3월 이후 최대 낙폭",
+            "엔비디아 젠슨 황, 中 스파이 연루 의혹 — FT 보도로 AI주 추가 압박",
+            "이재명 대통령, 법무장관 후보자에 이용철 방위사업청장 내정",
+            "이스라엘, 네타냐후 반대파 가디 에이젠코트에 정부 구성 위임",
+            "필라델피아 반도체지수 주간 -11% — SOX 기술적 골든크로스 이탈"
+        ],
+        "email": {
+            "google": "sjandjeong@gmail.com — Gmail 데이터 미확보",
+            "note": "🟢 오늘 모닝브리핑 주요 뉴스는 美 '블루웨이브' AI 규제 공포·코스피 서킷브레이커 등. ⚪ Gmail 데이터 수집 오류로 미확보."
+        },
+        "insight": "💡 이번 주 폭락의 본질은 'AI 거품 붕괴'가 아니라 'AI 규제 리스크의 현실화'입니다. 민주당 '블루웨이브' → 데이터센터·AI 인프라 규제 강화 전망 → 반도체·기술주 가치평가 재조정으로 이어지는 구조입니다. 주말 S&P 500·나스닥의 소폭 반등은 저가매수 유입이지만, 반도체(SOX)는 여전히 약세여서 아직 '반등'보다 '기술적 되돌림'에 가깝습니다.\n\n제니엘 입장에서 AI 규제 강화는 양날의 검입니다. 고객사(컨택센터·아웃소싱)의 AI 도입 속도에는 제동이 걸릴 수 있지만, 규제 대응·컴플라이언스 컨설팅 수요는 오히려 늘 수 있습니다. Z-P6(전사 AX 도입)은 美 AI 규제 방향을 Risk Factor로 모니터링하고, 시장 불확실성 장기화에 대비한 보수적 사업 시나리오도 함께 준비해 두세요.\n\n오늘은 일요일입니다. Z-P4(2026년 평가) 착수와 T-P22(교육운영위 D-1)만 체크하시고, 충분히 쉬며 내일(월) 3건 마감(교육위 고지·해외연수 회장님보고·등기체크리스트)에 대비하세요. 화이팅, 형!"
+    },
+    "sections": {
+        "kor": {
+            "label": "🇰🇷 국내 경제·일간지",
+            "papers": [
+                {
+                    "name": "매일경제",
+                    "url": "https://www.mk.co.kr/",
+                    "pages": [
+                        {
+                            "label": "1면",
+                            "articles": [
+                                {"headline": "코스피 개장 3분 만에 서킷브레이커…장중 5,000선 붕괴, 5,059.69 마감", "url": "https://www.mk.co.kr/news/stock/", "eng": "Kospi triggers circuit breaker three minutes into trading, breaks below 5,000 intraday", "body": "코스피가 6일 개장 3분 만에 8% 폭락하며 서킷브레이커가 발동됐다. 장중 5,000선이 무너진 뒤 낙폭을 되돌려 5,059.69(-6.02%)로 마감하며 10개월 만의 최저 수준으로 밀렸다."},
+                                {"headline": "삼성전자 20만원 붕괴·하이닉스 -11%…반도체 투톱 직격탄", "url": "https://www.mk.co.kr/news/stock/", "eng": "Samsung breaks below 200,000 won, SK hynix down 11% as chip giants take a hit", "body": "삼성전자가 9.98% 하락하며 20만원선을 반납했고, SK하이닉스는 11.79% 급락했다. 이틀 누적으로 삼성전자 -13%, 하이닉스 -17%를 기록하며 반도체 투톱이 직격탄을 맞았다."}
+                            ],
+                        },
+                        {
+                            "label": "2면",
+                            "articles": [
+                                {"headline": "AI 규제 공포에 외국인·기관 동반 매도…코스피·코스닥 동반 급락", "url": "https://www.mk.co.kr/news/stock/", "eng": "Foreigners and institutions sell together on AI regulation fears as both markets plunge", "body": "미국 중간선거 이후 AI·데이터센터 규제 강화 우려가 확산하며 외국인·기관의 동반 순매도가 이어졌다. 코스피·코스닥 양 시장에서 서킷브레이커가 발동되는 초유의 폭락세를 보였다."},
+                                {"headline": "정현호 삼성 사업지원TF장, 회장 보좌역으로 물러나", "url": "https://www.mk.co.kr/news/business/", "eng": "Samsung's Jeong Hyun-ho steps down from task force chief to chairman's adviser", "body": "삼성그룹에서 사실상 2인자 역할을 해온 정현호 사업지원TF장이 회장 보좌역으로 물러난다. 이재용 회장의 사법 리스크가 해소된 뒤 후계 구도 재편이 본격화하는 신호로 읽힌다."}
+                            ],
+                        },
+                        {
+                            "label": "3면",
+                            "articles": [
+                                {"headline": "정부, 빚투주식 강제처분 억제 등 시장안정 대책 가동", "url": "https://www.mk.co.kr/news/economy/", "eng": "Government rolls out market-stabilization steps to curb forced liquidation of leveraged stocks", "body": "증시 급락에 정부가 신용융자(빚투) 주식의 강제처분 억제 등 시장안정 대책에 나섰다. 금융당국은 과도한 반대매매로 낙폭이 확대되지 않도록 관리하겠다고 밝혔다."},
+                                {"headline": "주말 美 증시 소폭 반등…나스닥 1%↑ 기술주 저가매수 유입", "url": "https://www.mk.co.kr/news/global/", "eng": "US stocks edge up over weekend as Nasdaq rises 1% on tech dip-buying", "body": "미 증시가 주간 -2.68% 폭락 뒤 금요일(11/7) 소폭 반등했다. 나스닥이 1% 오르며 기술주 저가매수세가 유입됐지만, 반도체(SOX)는 여전히 약세로 마감했다."}
+                            ],
+                        },
+                    ],
+                },
+                {
+                    "name": "경향신문",
+                    "url": "https://www.khan.co.kr/",
+                    "pages": [
+                        {
+                            "label": "1면",
+                            "articles": [
+                                {"headline": "[속보] 코스피 8% 폭락에 서킷브레이커…5,000선 붕괴", "url": "https://www.khan.co.kr/economy/", "eng": "Kospi triggers circuit breaker on 8% plunge, breaks below 5,000", "body": "코스피가 8% 폭락하며 서킷브레이커가 발동되고 5,000선이 무너졌다. 10개월 만에 5,000선을 반납한 것으로, 삼성전자 9.98%·SK하이닉스 11.79% 급락이 직격했다."},
+                                {"headline": "이재명 대통령, 법무장관 후보자에 이용철 방위사업청장 내정", "url": "https://www.khan.co.kr/politics/", "eng": "President Lee nominates DAPA chief Lee Yong-cheol as justice minister", "body": "이재명 대통령이 공석인 법무부 장관 후보자로 이용철 방위사업청장(66)을 내정했다. 임광현 대통령비서실장이 청와대 브리핑에서 밝혔다."}
+                            ],
+                        },
+                        {
+                            "label": "2면",
+                            "articles": [
+                                {"headline": "민주당 20년 만의 상하원 탈환 '블루 웨이브'에 AI 규제 우려", "url": "https://www.khan.co.kr/world/", "eng": "Democrats retake both chambers after 20 years in a 'blue wave', stoking AI regulation fears", "body": "미국 중간선거에서 민주당이 상·하원을 동시에 장악했다. AI 규제론자 다수가 당선되며 데이터센터 건설 둔화 우려가 시장을 덮쳤다."},
+                                {"headline": "국민의힘, '조작기소 특검법' 반발 7일 서울 도심 장외집회", "url": "https://www.khan.co.kr/politics/", "eng": "Ruling PPP holds street rally in Seoul over special-prosecutor law", "body": "국민의힘이 더불어민주당 주도로 국회를 통과한 이른바 '조작기소 특검법'에 반발해 서울 도심에서 장외집회를 연다. 민주당은 검찰권 남용 의혹에 대한 진실 규명을 요구했다."}
+                            ],
+                        },
+                        {
+                            "label": "3면",
+                            "articles": [
+                                {"headline": "정부 '빚투 강제처분 억제' 등 시장안정책…증시 진화 나서", "url": "https://www.khan.co.kr/economy/", "eng": "Government moves to stabilize market with steps to curb forced liquidation", "body": "정부가 신용융자 주식의 강제처분을 억제하는 등 시장안정 대책을 내놨다. 연이틀 폭락한 증시에 대한 투자자 보호 조치다."},
+                                {"headline": "AI 규제 강화 기류…국내 아웃소싱 업계 모니터링 필요", "url": "https://www.khan.co.kr/economy/", "eng": "AI regulation trend warrants monitoring in Korea's outsourcing industry", "body": "미국발 AI 규제 강화 기류가 국내 아웃소싱·컨택센터 업계의 AI 활용 속도에 영향을 줄 수 있다는 분석이 나온다. 규제 대응·컴플라이언스 수요는 오히려 늘 수 있다는 관측도 있다."}
+                            ],
+                        },
+                    ],
+                },
+                {
+                    "name": "동아일보",
+                    "url": "https://www.donga.com/",
+                    "pages": [
+                        {
+                            "label": "1면",
+                            "articles": [
+                                {"headline": "퍼렇게 질린 코스피, 장중 '오천피' 깨졌다", "url": "https://www.donga.com/news/Economy/", "eng": "Kospi turns pale as the 5,000 mark breaks intraday", "body": "코스피가 장중 5,000선을 붕괴하며 '오천피'가 무너졌다. 개장 3분 만에 서킷브레이커가 발동됐고, 이틀간 삼성전자 13%·하이닉스 17%가 빠졌다."},
+                                {"headline": "개장 3분 만에 서킷브레이커…시장불안 진화 나선 정부", "url": "https://www.donga.com/news/Economy/", "eng": "Circuit breaker three minutes after open; government steps in to calm markets", "body": "코스피가 개장 직후 급락하며 서킷브레이커가 발동되자 정부가 빚투주식 강제처분 억제 등 시장안정 대책을 꺼내 들었다."}
+                            ],
+                        },
+                        {
+                            "label": "2면",
+                            "articles": [
+                                {"headline": "나스닥 5.5% 폭락 뒤 1.09% 반등…하루새 3400조원 증발 후 회복", "url": "https://www.donga.com/news/Economy/", "eng": "Nasdaq rebounds 1.09% after 5.5% plunge that wiped 3,400tn won", "body": "나스닥이 주간 5.5% 급락하며 하루 만에 3,400조원어치의 시가총액이 증발한 뒤, 금요일(11/7) 1.09% 반등했다. AI 규제 우려에 빅테크·반도체주가 동반 폭락한 데 따른 저가매수 유입이다."},
+                                {"headline": "이틀간 삼전 -13%·하이닉스 -17%…반도체 의존도 직격탄", "url": "https://www.donga.com/news/Economy/", "eng": "Samsung -13%, hynix -17% over two days as chip reliance bites", "body": "삼성전자와 SK하이닉스가 이틀 연속 급락하며 반도체 의존도가 한국 증시의 약점으로 작용했다. 미국 AI 규제 리스크가 반도체 수출 전망에 직결됐다."}
+                            ],
+                        },
+                        {
+                            "label": "3면",
+                            "articles": [
+                                {"headline": "美 'AI 거품론' 확산…엔비디아 올해 상승분 반납", "url": "https://www.donga.com/news/It/", "eng": "AI bubble fears spread as Nvidia gives back this year's gains", "body": "미국에서 AI 거품론이 재점화하며 엔비디아가 급락, 올해 상승분을 모두 반납하고 연초 대비 마이너스로 돌아섰다. 젠슨 황의 中 스파이 연루 의혹 보도도 악재로 작용했다."},
+                                {"headline": "경상흑자 600억달러 첫 돌파…수출 호조에도 증시 역주행", "url": "https://www.donga.com/news/Economy/", "eng": "Current-account surplus tops $60bn for first time, but stocks diverge", "body": "한국 경상수지 흑자가 사상 처음 600억달러를 돌파했지만, 미국발 AI 쇼크에 증시는 폭락하며 실물·금융의 괴리가 벌어졌다."}
+                            ],
+                        },
+                    ],
+                },
+                {
+                    "name": "한국경제",
+                    "url": "https://www.hankyung.com/",
+                    "pages": [
+                        {
+                            "label": "1면",
+                            "articles": [
+                                {"headline": "AI 성장 서사가 흔들린다…코스피 5,000선 붕괴 위기", "url": "https://www.hankyung.com/article/202611068533i", "eng": "AI growth narrative wobbles as Kospi nears 5,000 break", "body": "미국 중간선거 '블루웨이브' 이후 AI 성장 서사가 흔들리며 코스피가 장중 5,000선을 붕괴했다. 반도체 대형주가 동반 급락하며 시장을 끌어내렸다."},
+                                {"headline": "개장 3분 만에 서킷브레이커…삼전·하이닉스 동반 급락", "url": "https://www.hankyung.com/article/2026110673656", "eng": "Circuit breaker three minutes after open as Samsung and SK hynix plunge together", "body": "코스피가 개장 3분 만에 서킷브레이커를 발동했다. 삼성전자와 SK하이닉스가 동반 급락하며 미국 AI 규제 우려가 국내 반도체주로 번졌다."}
+                            ],
+                        },
+                        {
+                            "label": "2면",
+                            "articles": [
+                                {"headline": "나스닥 1.09% 반등…미 증시 주간 -2.68% 뒤 소폭 회복", "url": "https://www.hankyung.com/news/international/", "eng": "Nasdaq rebounds 1.09% as US stocks recover slightly after weekly rout", "body": "나스닥이 1.09% 오르며 기술주 저가매수가 유입됐다. S&P 500도 0.31% 상승했으나 다우는 0.46% 하락, 반도체(SOX)는 여전히 약세로 혼조 양상을 보였다."},
+                                {"headline": "외국인·기관 동반 순매도…반도체·AI주 직격탄", "url": "https://www.hankyung.com/news/stock/", "eng": "Foreigners and institutions sell together as chip and AI stocks take a hit", "body": "외국인과 기관이 동반 순매도에 나서며 코스피가 폭락했다. 반도체·AI주가 직격탄을 맞으며 시가총액 상위 종목이 일제히 급락했다."}
+                            ],
+                        },
+                        {
+                            "label": "3면",
+                            "articles": [
+                                {"headline": "반도체 수출 호조에도 증시 폭락…실물·금융 괴리 확대", "url": "https://www.hankyung.com/news/economy/", "eng": "Stocks plunge despite chip-export boom as real economy and markets diverge", "body": "경상흑자 600억달러 돌파 등 반도체 수출 호조에도 불구하고 증시가 폭락하며 실물경제와 금융시장의 괴리가 확대되고 있다."},
+                                {"headline": "WTI 90.83달러 보합권…중동 리스크 여전", "url": "https://www.hankyung.com/news/international/", "eng": "WTI holds near $90.83 as Middle East risk persists", "body": "국제유가가 중동 리스크가 여전한 가운데 보합권을 유지했다. 민주당 압승으로 중동 해법 기대가 일부 있으나 공급 우려가 지속되며 급락하지는 않았다."}
+                            ],
+                        },
+                    ],
+                },
+            ],
+        },
+        "us": {
+            "label": "🇺🇸 미국 경제·일간지",
+            "papers": [
+                {
+                    "name": "The Wall Street Journal",
+                    "url": "https://www.wsj.com/",
+                    "pages": [
+                        {
+                            "label": "1면",
+                            "articles": [
+                                {"headline": "Trump Signals Combative Next Two Years With Elevation of Stephen Miller", "url": "https://www.wsj.com/politics/elections/stephen-miller-trump-chief-of-staff-56917f0a", "eng": "", "body": "트럼프 대통령이 수지 와일스 후임 비서실장으로 강경파 스티븐 밀러를 발탁하며 향후 2년의 대결 구도를 예고했다. 중간선거 참패 뒤에도 강경 기조를 유지하겠다는 신호로 해석된다."},
+                                {"headline": "Five Takeaways From Democrats' Stunning Midterm Blowout", "url": "https://www.wsj.com/politics/elections/five-takeaways-from-democrats-stunning-midterm-blowout-9da38a22", "eng": "", "body": "민주당의 중간선거 압승은 이례적인 '블루 웨이브'였다. 민주당이 상·하원을 동시에 장악하며 트럼프 임기의 레임덕이 본격화했다는 평가다."}
+                            ],
+                        },
+                        {
+                            "label": "2면",
+                            "articles": [
+                                {"headline": "How Trump's War in Iran and Missteps Flipped Washington Overnight", "url": "https://www.wsj.com/world/how-trumps-war-in-iran-and-missteps-flipped-washington-overnight-f77dd2bd", "eng": "", "body": "이란전과 잇따른 실책으로 워싱턴의 권력 지형이 하룻밤 새 뒤집혔다. '블루 웨이브'가 시장의 체제 전환 신호로 해석되며 AI 관련주가 급락했다."},
+                                {"headline": "With Susie Wiles's Departure, Big Business Loses a Sympathetic Ear", "url": "https://www.wsj.com/politics/policy/with-susie-wiless-departure-big-business-loses-a-sympathetic-ear-72e7925a", "eng": "", "body": "수지 와일스 비서실장의 퇴임으로 대기업들이 백악관 내 우호적인 창구를 잃게 됐다. 스티븐 밀러 체제로 전환되며 기업 규제 강화가 예상된다."}
+                            ],
+                        },
+                        {
+                            "label": "3면",
+                            "articles": [
+                                {"headline": "India's Big Semiconductor Bet", "url": "https://www.wsj.com/opinion/indias-big-semiconductor-bet-e0e60891", "eng": "", "body": "인도가 반도체 자급을 위한 대규모 투자에 나서며 글로벌 공급망 재편의 변수로 떠올랐다. AI 반도체 수요와 맞물려 주목받고 있다."},
+                                {"headline": "Oil Prices Sink as U.S. Midterms Raise Hopes for Middle East Solution", "url": "https://www.wsj.com/business/energy-oil/oil-prices-rise-as-investors-weigh-u-s-midterm-results-iran-risks-1d97da8a", "eng": "", "body": "미국 중간선거에서 민주당이 압승하며 중동 분쟁의 조속한 해결 기대가 높아지자 유가가 하락 압력을 받았다."}
+                            ],
+                        },
+                    ],
+                },
+                {
+                    "name": "Bloomberg",
+                    "url": "https://www.bloomberg.com/",
+                    "pages": [
+                        {
+                            "label": "1면",
+                            "articles": [
+                                {"headline": "Wall Street Grapples With $5.7 Trillion Rout as AI Bets Unwind", "url": "https://www.bloomberg.com/news/articles/2026-11-06/ai-s-wild-week-has-wall-street-hunting-for-fresh-escape-routes", "eng": "", "body": "AI 베팅이 풀리며 월스트리트가 5조7,000억달러 규모의 매도세와 씨름하고 있다. 투자자들은 AI 트레이드의 탈출구를 찾아 헤매고 있다."},
+                                {"headline": "The New AI Trade Is FOGO: 'Fear of Getting Obliterated'", "url": "https://www.bloomberg.com/news/articles/2026-11-06/a-punishing-ai-selloff-cascades-into-asia", "eng": "", "body": "새로운 AI 트레이드는 'FOGO(전멸에 대한 공포)'로 불리고 있다. 가혹한 AI 매도세가 아시아로 전이되며 전 세계 시장을 뒤흔들었다."}
+                            ],
+                        },
+                        {
+                            "label": "2면",
+                            "articles": [
+                                {"headline": "Nvidia-Backed Humanoid Maker Agility Goes Public in First for the US", "url": "https://www.bloomberg.com/news/articles/2026-11-05/nvidia-backed-humanoid-maker-agility-goes-public-in-first-for-the-us", "eng": "", "body": "엔비디아가 투자한 휴머노이드 로봇 기업 어질리티(Agility Robotics)가 미국에서 처음으로 상장했다. AI 로봇 산업의 성장에 대한 기대가 반영됐다."},
+                                {"headline": "Trump's Push for Data Centers on Public Land Faces Top Senate Democrat's Scrutiny", "url": "https://www.bloomberg.com/news/articles/2026-11-06/top-senate-democrat-wants-answers-on-trump-plan-for-data-centers-on-public-land", "eng": "", "body": "트럼프 행정부의 공유지 데이터센터 건설 추진이 상원 민주당 간부의 정밀 검증 대상에 올랐다. AI 인프라 확장에 대한 정치적 제동 가능성이 커졌다."}
+                            ],
+                        },
+                        {
+                            "label": "3면",
+                            "articles": [
+                                {"headline": "SoftBank, ABB Weigh China Carve-Out to Salvage Robotics Deal", "url": "https://www.bloomberg.com/news/articles/2026-11-07/softbank-abb-weigh-china-carve-out-to-salvage-robotics-deal", "eng": "", "body": "소프트뱅크와 ABB가 로보틱스 합작 거래를 살리기 위해 중국 사업 분리를 검토하고 있다. 중국 규제 리스크가 딜 성사를 가로막고 있다."},
+                                {"headline": "Retail Traders Cautiously Buy Stocks After Worst Rout Since 2025", "url": "https://www.bloomberg.com/news/articles/2026-11-06/retail-traders-cautiously-buy-stocks-after-worst-rout-since-2025", "eng": "", "body": "개인 투자자들이 2025년 이후 최악의 매도세 뒤 신중하게 주식을 사들이고 있다. 저가 매수세가 유입되며 폭락세가 일부 진정됐다."}
+                            ],
+                        },
+                    ],
+                },
+                {
+                    "name": "The New York Times",
+                    "url": "https://www.nytimes.com/",
+                    "pages": [
+                        {
+                            "label": "1면",
+                            "articles": [
+                                {"headline": "Global Stocks Follow U.S. Sell-Off as A.I. Spending Fears Spread", "url": "https://www.nytimes.com/2026/11/06/business/global-stocks-markets-tech-ai.html", "eng": "", "body": "AI 지출에 대한 우려가 확산하며 전 세계 증시가 미국의 매도세를 따라 급락했다. 투자자들은 요동치는 한 주를 보내며 AI 산업에 대한 재평가를 시작했다."},
+                                {"headline": "In Elevating Stephen Miller, Trump Doubles Down on Hard-Line Agenda", "url": "https://www.nytimes.com/2026/11/07/us/politics/stephen-miller-chief-of-staff.html", "eng": "", "body": "스티븐 밀러를 비서실장으로 발탁하며 트럼프 대통령이 강경 노선을 강화했다. 민주당 압승 이후에도 트럼프는 대결 구도를 이어갈 것임을 시사했다."}
+                            ],
+                        },
+                        {
+                            "label": "2면",
+                            "articles": [
+                                {"headline": "AI Data Center Boom Faces Fresh Regulatory Threat", "url": "https://www.nytimes.com/2026/11/05/business/stocks-midterms-artificial-intelligence.html", "eng": "", "body": "민주당의 의회 장악으로 AI 데이터센터 붐이 새로운 규제 위협에 직면했다. 데이터센터 신규 건설 제한과 전력 규제가 거론된다."},
+                                {"headline": "Political Losses Deepen the Stakes as Trump Contemplates Renewed Iran Attack", "url": "https://www.nytimes.com/2026/11/05/us/politics/trump-iran-war-midterm-elections.html", "eng": "", "body": "중간선거 패배가 트럼프 대통령의 이란 추가 공격 결정을 둘러싼 부담을 키우고 있다. 이란전이라는 '선택한 전쟁'의 인기 저조가 선거 결과로 확인됐다."}
+                            ],
+                        },
+                        {
+                            "label": "3면",
+                            "articles": [
+                                {"headline": "Stocks Erase Post-Midterm Rally, Dragged Down by Tech", "url": "https://www.nytimes.com/2026/11/05/business/stocks-midterms-artificial-intelligence.html", "eng": "", "body": "기술주에 끌려 증시가 선거 후 반등분을 모두 반납하며 급락했다. AI 인프라 구축 약세에 대한 투자자 우려가 커졌다."},
+                                {"headline": "Measles Outbreak Deaths Rise as Vaccine Hesitancy Spreads", "url": "https://www.nytimes.com/2026/11/05/health/measles-outbreak.html", "eng": "", "body": "백신 기피 확산 속 홍역 발병 사망자가 늘고 있다. 펜실베이니아에서 추가 사망자가 보고됐다."}
+                            ],
+                        },
+                    ],
+                },
+                {
+                    "name": "The Washington Post",
+                    "url": "https://www.washingtonpost.com/",
+                    "pages": [
+                        {
+                            "label": "1면",
+                            "articles": [
+                                {"headline": "Historic voter turnout powered Democrats' blue wave", "url": "https://www.washingtonpost.com/politics/2026/11/07/historic-voter-turnout-powered-democrats-blue-wave/", "eng": "", "body": "100년 만에 두 번째로 높은 투표율이 민주당의 '블루 웨이브'를 이끌었다. 이례적인 민주당 승리의 배경으로 지목된다."},
+                                {"headline": "Here are the midterm races to watch that are still too close to call", "url": "https://www.washingtonpost.com/politics/2026/11/07/here-are-midterm-races-watch-that-are-still-too-close-call/", "eng": "", "body": "아직도 박빙 승부가 이어지는 중간선거 경합지역들이 남아 있다. 최종 결과에 따라 의회 구도가 추가로 달라질 수 있다."}
+                            ],
+                        },
+                        {
+                            "label": "2면",
+                            "articles": [
+                                {"headline": "'These data centers are destroying our world': Protesters break into Microsoft data center", "url": "https://www.washingtonpost.com/technology/2026/11/06/microsoft-data-center-protesters/", "eng": "", "body": "AI 데이터센터 건설에 반발한 시위대가 마이크로소프트 데이터센터에 난입했다. AI 인프라 확장에 대한 주민 반발이 격화하고 있다."},
+                                {"headline": "Israeli president taps ex-general Gadi Eisenkot to form government", "url": "https://www.washingtonpost.com/world/2026/11/07/israeli-president-taps-ex-general-eisenkot-opponent-netanyahu-form-government/", "eng": "", "body": "이스라엘 대통령이 네타냐후 반대파인 전직 장군 가디 에이젠코트에게 정부 구성을 위임했다. 이스라엘 정권 교체 가능성이 커졌다."}
+                            ],
+                        },
+                        {
+                            "label": "3면",
+                            "articles": [
+                                {"headline": "Trump says he offered White House press secretary role to UFC's Dana White", "url": "https://www.washingtonpost.com/politics/2026/11/07/ufc-dana-white-offered-white-house-press-secretary-role-trump-says/", "eng": "", "body": "트럼프 대통령이 UFC 최고경영자 데이나 화이트에게 백악관 대변인직을 제안했다고 밝혔다. 수락 여부는 아직 불분명하다."},
+                                {"headline": "Sen. Murphy discharged from hospital after stroke, will miss weeks of votes", "url": "https://www.washingtonpost.com/politics/2026/11/06/sen-murphy-discharged-hospital-after-stroke-will-miss-weeks-votes/", "eng": "", "body": "뇌졸중으로 입원했던 크리스 머피 상원의원(민주·코네티컷)이 퇴원했다. 재활 뒤 완전 회복이 기대되지만 당분간 표결에는 불참한다."}
+                            ],
+                        },
+                    ],
+                },
+                {
+                    "name": "Financial Times",
+                    "url": "https://www.ft.com/",
+                    "pages": [
+                        {
+                            "label": "1면",
+                            "articles": [
+                                {"headline": "Global stocks tumble as Democratic midterm sweep sparks AI rout", "url": "https://www.ft.com/content/7c6ceb4f-d7b1-49ec-9047-0e2e4cd2615c", "eng": "", "body": "민주당의 중간선거 압승이 AI 랠리를 붕괴시키며 전 세계 증시가 급락했다. '블루 웨이브'로 AI 자본지출의 정점이 지났다는 공포가 퍼졌다."},
+                                {"headline": "US stocks recover after tech rout", "url": "https://www.ft.com/content/642b32dc-e3a1-4df8-ae91-5c84bdeb89e0", "eng": "", "body": "기술주 폭락 이후 미국 증시가 소폭 회복했다. 기술주 중심 나스닥 100은 혼란스러운 하루 뒤 1.4% 반등했다."}
+                            ],
+                        },
+                        {
+                            "label": "2면",
+                            "articles": [
+                                {"headline": "US believes Nvidia's Huang had romantic relationship with alleged Chinese spy", "url": "https://www.ft.com/content/a55a2a22-4479-4f93-a445-6147a5c6d790", "eng": "", "body": "미국 정보당국이 엔비디아의 젠슨 황 CEO가 중국 스파이로 의심되는 인물과 연애 관계였다고 판단했다. AI 업계 대표 기업에 대한 안보 리스크 논란이 커지고 있다."},
+                                {"headline": "Anthropic to press ahead with IPO targeting $1.5tn valuation", "url": "https://www.ft.com/content/314e17df-e7af-4814-b208-70a0557cb452", "eng": "", "body": "앤스로픽이 1조5,000억달러 밸류에이션을 목표로 IPO를 강행한다. AI 매도세 속에서도 기업공개 계획을 밀어붙이고 있다."}
+                            ],
+                        },
+                        {
+                            "label": "3면",
+                            "articles": [
+                                {"headline": "Berkshire Hathaway steps up share buybacks with $9.6bn of purchases", "url": "https://www.ft.com/content/1f153350-2377-4e48-a073-0539376eab4c", "eng": "", "body": "버크셔 해서웨이가 96억달러 규모의 자사주를 매입하며 바이백을 확대했다. 보험 부문 실적 둔화가 전체 성과를 끌어내렸다."},
+                                {"headline": "Tesla to axe Cybertruck as Musk shifts focus to robotics and AI", "url": "https://www.ft.com/content/8ec923a8-a581-4995-a92c-c08e16bf2e98", "eng": "", "body": "테슬라가 사이버트럭을 단종하고 로보틱스·AI로 사업 중심을 옮긴다. 머스크의 사업 재편이 본격화하고 있다."}
+                            ],
+                        },
+                    ],
+                },
+            ],
+        },
+    },
+}
+
+with open("/Users/seokjinlee/daily-frontpage/data.json", "w", encoding="utf-8") as f:
+    json.dump(data, f, ensure_ascii=False, indent=2)
+
+print("data.json written OK")
+print("kor papers:", len(data["sections"]["kor"]["papers"]))
+print("us papers:", len(data["sections"]["us"]["papers"]))
+print("morning.headline present:", bool(data["morning"].get("headline")))
+print("headline == topNews:", data["morning"]["headline"] == data["morning"]["topNews"])
+for p in data["sections"]["kor"]["papers"] + data["sections"]["us"]["papers"]:
+    assert len(p["pages"]) == 3, p["name"]
+    for pg in p["pages"]:
+        assert pg["label"] in ("1면", "2면", "3면"), p["name"]
+        for a in pg["articles"]:
+            assert set(a.keys()) == {"headline", "url", "eng", "body"}, a
+print("all pages == 3 and article schema: OK")
