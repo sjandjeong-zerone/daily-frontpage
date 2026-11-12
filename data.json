@@ -1,130 +1,130 @@
 {
-  "date": "2026-11-12",
-  "dateLabel": "2026년 11월 12일(목요일)",
-  "generatedAt": "2026-11-12T07:21:44+09:00",
+  "date": "2026-11-13",
+  "dateLabel": "2026년 11월 13일(금요일)",
+  "generatedAt": "2026-11-13T07:22:09+09:00",
   "ticker": [
     {
       "name": "KOSPI",
-      "value": "5,375.36",
-      "change": "▲2.60%",
-      "dir": "up"
+      "value": "5,342.73",
+      "change": "▼0.61%",
+      "dir": "down"
     },
     {
       "name": "KOSDAQ",
-      "value": "705.10",
-      "change": "▲5.61%",
-      "dir": "up"
+      "value": "696.53",
+      "change": "▼1.22%",
+      "dir": "down"
     },
     {
       "name": "S&P 500",
-      "value": "7,619.38",
-      "change": "▲1.31%",
-      "dir": "up"
+      "value": "7,592.40",
+      "change": "▼0.35%",
+      "dir": "down"
     },
     {
       "name": "나스닥",
-      "value": "25,466.19",
-      "change": "▲1.60%",
-      "dir": "up"
+      "value": "25,366.09",
+      "change": "▼0.39%",
+      "dir": "down"
     },
     {
       "name": "다우",
-      "value": "52,486.49",
-      "change": "▲0.49%",
-      "dir": "up"
+      "value": "52,297.09",
+      "change": "▼0.36%",
+      "dir": "down"
     },
     {
       "name": "원/달러",
-      "value": "1,338.88",
-      "change": "▼0.37%",
+      "value": "1,336.70",
+      "change": "▼0.49%",
       "dir": "down"
     }
   ],
   "keywords": [
     {
-      "label": "① 코스피 5,375·코스닥 705 동반 급등 — 코스닥 700선 탈환, 외국인 매수 재점화",
-      "desc": "코스피 +2.60%(5,375.36)·코스닥 +5.61%(705.10). 외국인 코스피서 6,553억 순매수, 코스닥선 기관 3,137억 순매수 주도. 반도체·AI 투심 회복"
+      "label": "① 젠슨 황, 엔비디아 CEO 전격 사임 — CFO 콜레트 크레스 임시 체제, '포스트 젠슨' 시대 개막",
+      "desc": "불륜·스파이 스캔들 6일 만에 사임. 임시 CEO 콜레트 크레스(CFO)·신임 의장 하비 존스. 트럼프 '팀 쿡이 적임자'. 엔비디아 시총 약 4,500억 달러 증발"
     },
     {
-      "label": "② 코어위브 실적 서프라이즈 — AI 투자 우려 완화, S&P 500·나스닥 1%대 동반 반등",
-      "desc": "네오클라우드 코어위브 주가 24.7% 급등. S&P 500 +1.31%(7,619.38)·나스닥 +1.60%(25,466.19)·다우 +0.49%. 이틀 급락한 엔비디아도 진정"
+      "label": "② 코스피 5,342·코스닥 696 차익실현에 하락 — 외국인 3거래일 연속 순매수에도 개인 매물",
+      "desc": "코스피 -0.61%(5,342.73)·코스닥 -1.22%(696.53). 이틀 급등 후 차익실현. 삼성전자 +0.97%, SK하이닉스 -1.80%(HBM 협력사)"
     },
     {
-      "label": "③ 엔비디아 젠슨 황 스캔들 지속 — 워치텔 전직 연방검사(준 김) 조사 착수, 대만 앨리스 황 비자 취소",
-      "desc": "엔비디아, 워치텔 립턴의 전직 SDNY 검사 준 김에 CEO 조사 위임. 대만은 앨리스 황 비자 취소·입국금지. 트럼프 'FBI 조사 중' 언급"
+      "label": "③ 뉴욕증시, 엔비디아 사임 충격에도 낙폭 제한 — 방어주 로테이션, AMD·브로드컴 수혜",
+      "desc": "다우 -0.36%·S&P 500 -0.35%·나스닥 -0.39%. 엔비디아 장전 13% 급락 후 일부 만회. 매도가 타 업종·경쟁사로 로테이션"
     },
     {
-      "label": "④ 앤스로픽 IPO 최대 1.4조~1.5조 달러 밸류에이션 목표 — AI 상장의 시험대",
-      "desc": "AI 스타트업 앤스로픽, IPO 밸류에이션 상향 논의. 골드만삭스는 2030년 매출 6,000억 달러 전망. AI 투자심리 회복의 핵심 시험대"
+      "label": "④ 국고채 담합 과징금 1.6조 '역대 최대' — 금융기관 15곳 법정 대응 예고",
+      "desc": "공정위, 국고채 입찰 담합으로 증권사 10곳·은행 5곳에 1조6,266억원 과징금. 금융권 '업무 관행' 담합 몰아 반발"
     },
     {
-      "label": "⑤ 제니엘 오늘 — [Z-P3] 사업계획 가이드라인 송부 + [T-P22] 교육운영위원회(오늘 마감)",
-      "desc": "전사 사업계획 수립 가이드라인 송부가 최우선. 교육운영위원회는 오늘 마감. 밀린 일 10건 병행 처리"
+      "label": "⑤ 제니엘 오늘 — [Z-P4] 평가계획 확정 + [Z-P10] 채용솔루션 + [Z-P14] ERP 임대차 배포",
+      "desc": "금요일. 오전 확정·보고(평가계획·인력충원·취임사), 오후 배포·안내(임대차 가이드·퇴사자 급여). 밀린 일 13건 주말 전 점검"
     }
   ],
   "morning": {
-    "date": "2026-11-12",
-    "headline": "코스피 2.60%·코스닥 5.61% 동반 급등 — 코스닥 700선 탈환, 외국인 6,553억 순매수 재점화. 코어위브 실적에 뉴욕증시 반등·엔비디아 진정. 오늘 제니엘 2027 사업계획 가이드라인 송부 + 교육운영위원회(마감)",
-    "weather": "🌫️ 연무 · 6°C (체감 4°C) · 습도 89% · 바람 4km/h",
-    "schedule": "📅 목요일 — 오늘 포커스: [Z-P3] 2027 사업계획 가이드라인 송부 + [T-P22] 교육운영위원회(오늘 마감). 오후 15:00 다음날 일정 체크 및 서류 준비.",
+    "date": "2026-11-13",
+    "headline": "젠슨 황, 엔비디아 CEO 전격 사임 — 불륜·스파이 스캔들 6일 만, CFO 콜레트 크레스 임시 체제. 코스피 5,342(-0.61%)·코스닥 696(-1.22%) 차익실현에 하락. 오늘 제니엘 평가계획 확정 + 채용솔루션 검토 + ERP 임대차 배포",
+    "weather": "🌤️ 흐림 · 9°C (체감 8°C) · 습도 90% · 바람 4km/h",
+    "schedule": "📅 금요일 — 오늘 일정: 없음. 오늘 포커스: [Z-P4] 2026년도 평가계획 확정 + [Z-P10] 채용솔루션 사전검토 + [Z-P14] ERP 임대차관리 엑셀 배포.",
     "domestic": {
       "kospi": {
-        "value": "5,375.36",
-        "change": "▲ +2.60% (+136.23p)",
-        "changeRate": "+2.60%",
-        "rate": "+2.60%"
+        "value": "5,342.73",
+        "change": "▼ -0.61% (-32.63p)",
+        "changeRate": "-0.61%",
+        "rate": "-0.61%"
       },
       "kosdaq": {
-        "value": "705.10",
-        "change": "▲ +5.61% (+37.49p)",
-        "changeRate": "+5.61%",
-        "rate": "+5.61%"
+        "value": "696.53",
+        "change": "▼ -1.22% (-8.57p)",
+        "changeRate": "-1.22%",
+        "rate": "-1.22%"
       },
       "supply": {
-        "foreign": "외국인 6,553억 순매수 — 반도체·AI 매수 재점화",
-        "institution": "기관 순매도(금융투자 -5,210억)",
-        "individual": "개인 7,157억 순매도",
-        "usdkrw": "약 1,338.88원",
-        "change": "원화 강세 — 전일대비 -0.37%"
+        "foreign": "외국인 3거래일 연속 순매수 — 다만 차익실현 매물에 지수 하락",
+        "institution": "기관 순매도 — 반도체·금융주 약세 주도",
+        "individual": "개인 차익실현 매물 출회 — 이틀 급등분 일부 실현",
+        "usdkrw": "약 1,336.70원",
+        "change": "원화 소폭 강세 — 전일대비 -0.49% (-6.60원)"
       },
-      "comment": "수요일(11/11) 코스피는 전 거래일 대비 136.23포인트(2.60%) 오른 5,375.36으로 마감하며 이틀 연속 급등했다. 코스닥은 37.49포인트(5.61%) 급등한 705.10으로 700선을 탈환했다. 외국인이 코스피에서 6,553억원을 순매수하며 반도체·AI주 강세를 주도했고, 코스닥에서는 기관이 3,137억원을 순매수하며 상승을 이끌었다. 상승 종목이 하락 종목을 크게 웃돌았다. 엔비디아 실적 기대감과 AI 투자심리 개선이 국내 증시에도 긍정적으로 작용했다."
+      "comment": "목요일(11/12) 코스피는 전 거래일 대비 32.63포인트(-0.61%) 하락한 5,342.73으로 마감했다. 이틀 연속 급등(11/10 +4.39%, 11/11 +2.60%) 후 차익실현 매물이 출회됐다. 젠슨 황 사임 여파로 SK하이닉스(-1.80%)·한미반도체(-1.14%)·삼성전기(-4.01%) 등 반도체 관련주가 약세를 보였고, 삼성전자(+0.97%)는 방어적으로 상승했다. 코스닥은 8.57포인트(-1.22%) 하락한 696.53으로 코스피보다 낙폭이 컸다. 장중 고가 5,458.84에서 저가 5,293.05까지 밀리는 변동성 장세였다."
     },
     "overseas": {
       "dow": {
-        "value": "52,486.49",
-        "change": "▲ +0.49% (+254.60p)",
-        "changeRate": "+0.49%"
+        "value": "52,297.09",
+        "change": "▼ -0.36% (-189.40p)",
+        "changeRate": "-0.36%"
       },
       "sp500": {
-        "value": "7,619.38",
-        "change": "▲ +1.31% (+98.45p)",
-        "changeRate": "+1.31%"
+        "value": "7,592.40",
+        "change": "▼ -0.35% (-26.98p)",
+        "changeRate": "-0.35%"
       },
       "nasdaq": {
-        "value": "25,466.19",
-        "change": "▲ +1.60% (+400.31p)",
-        "changeRate": "+1.60%"
+        "value": "25,366.09",
+        "change": "▼ -0.39% (-100.10p)",
+        "changeRate": "-0.39%"
       },
       "oil": {
-        "note": "WTI 원유 $86.36/bbl (+0.37%) — 트럼프, 이란 타격 위협 철회로 유가 90달러 하회 압력"
+        "note": "WTI 원유 소폭 반등(+0.44%)·브렌트 +1.39% — 트럼프 '이란 협상 불필요' 발언에 중동 리스크 재부각"
       },
-      "keyStocks": "수요일(11/11) 미국 증시는 네오클라우드 기업 코어위브(CoreWeave)의 깜짝 실적이 AI 투자 우려를 완화하며 S&P 500과 나스닥이 1%대 동반 상승했다. 다우 +0.49%(+254.60p)·S&P 500 +1.31%(+98.45p)·나스닥 +1.60%(+400.31p)로 마감했다. 코어위브는 3분기 매출이 시장 예상을 웃돌며 약 24.7% 급등했고, 이틀 연속 급락했던 엔비디아(NVDA +2.9%)도 진정세를 보였다. AI 인프라 수요에 대한 우려가 완화되며 기술주 중심으로 매수세가 유입됐다."
+      "keyStocks": "목요일(11/12) 미국 증시는 젠슨 황의 엔비디아 CEO 사임 충격에도 낙폭이 제한됐다. 다우 -0.36%(-189.40p)·S&P 500 -0.35%(-26.98p)·나스닥 -0.39%(-100.10p)로 마감했다. 엔비디아는 장전 13% 급락 출발했으나 장중 낙폭을 일부 만회했다. 엔비디아 매도가 오히려 AI 반도체 외 업종(방어주)과 AMD·브로드컴 등 경쟁사로 로테이션됐다. 국채는 인플레이션 우려에 추가 하락했다."
     },
-    "topNews": "코스피 2.60%·코스닥 5.61% 동반 급등 — 코스닥 700선 탈환, 외국인 6,553억 순매수 재점화. 코어위브 실적에 뉴욕증시 반등·엔비디아 진정. 오늘 제니엘 2027 사업계획 가이드라인 송부 + 교육운영위원회(마감)",
+    "topNews": "젠슨 황, 엔비디아 CEO 전격 사임 — 불륜·스파이 스캔들 6일 만, CFO 콜레트 크레스 임시 체제. 코스피 5,342(-0.61%)·코스닥 696(-1.22%) 차익실현에 하락. 오늘 제니엘 평가계획 확정 + 채용솔루션 검토 + ERP 임대차 배포",
     "otherNews": [
-      "코어위브 실적 서프라이즈 — 주가 24.7% 급등, AI 투자 우려 완화에 S&P 500·나스닥 1%대 동반 상승",
-      "앤스로픽 IPO 최대 1.4조~1.5조 달러 밸류에이션 목표 — AI 상장의 시험대",
-      "엔비디아, 워치텔 전직 연방검사(준 김)에 젠슨 황 조사 위임 — 대만은 앨리스 황 비자 취소·입국금지",
-      "국고채 담합 과징금 1.6조 '역대 최대' — 금융기관 법정 대응 예고",
+      "엔비디아, 차기 CEO 물색 착수 — 트럼프 \"팀 쿡이 적임자\", 신임 의장 하비 존스",
+      "국고채 담합 과징금 1.6조 '역대 최대' — 금융기관 15곳 법정 대응 예고",
       "10월 은행 가계대출 5조↑, 잔액 1,204조 '역대 최대'",
-      "미 상무부, 메가스피드 무역 블랙리스트 등재 연기 — 젠슨 황 스캔들 여파",
-      "'스텔스 증세' 논란 — 근로소득세 부담 증가에 월급쟁이 유리지갑"
+      "ETF 일평균 거래대금, 코스피 사상 첫 추월 — 개인 ETF 선호 뚜렷",
+      "AMD·브로드컴, 엔비디아 스캔들 반사이익 기대 — 세레브라스 견조한 전망",
+      "스페이스X, 데이터센터 740억 달러 투자 — AI 인프라 경쟁 가속",
+      "트럼프 \"이란과 협상 불필요\" — 밴스 협상 중단, 중동 리스크 재부각"
     ],
     "email": {
       "google": "",
-      "note": "🟢 오늘 모닝브리핑 주요 뉴스는 코스피·코스닥 동반 급등·코어위브 실적·엔비디아 젠슨 황 스캔들 지속·국고채 담합 과징금. ⚪ 제니엘 업무메일 신규 수신 언급 없음."
+      "note": "🟢 오늘 모닝브리핑 주요 뉴스는 젠슨 황 엔비디아 CEO 사임·코스피 차익실현 하락·국고채 담합 과징금 1.6조. ⚪ 제니엘 업무메일 신규 수신 언급 없음."
     },
-    "insight": "💡 코스피·코스닥 동반 급등 — AI 투자심리 회복의 신호인가\\n\\n수요일 코스피 5,375(+2.60%)·코스닥 705(+5.61%)가 동반 급등했습니다. 코스피는 5,019 저점(11/9) 대비 이틀 만에 7.1% 반등했고, 코스닥은 700선을 탈환했습니다. 외국인이 코스피에서 6,553억원을 순매수하며 매수세가 재점화된 점이 긍정적입니다.\\n\\n다만 이번 반등은 코어위브 실적 서프라이즈와 엔비디아 진정 등 'AI 투자심리 회복'에 기댄 측면이 큽니다. 엔비디아 실적(이번 주)과 美 CPI(다음 주)가 추가 방향성을 결정할 변수입니다. 단기 급등에 따른 과열 가능성도 있어 현금 비중을 유지하며 지켜보는 전략이 유효합니다.\\n\\n오늘 챙길 일: [Z-P3] 2027 사업계획 가이드라인 송부가 최우선입니다. [T-P22] 교육운영위원회는 오늘 마감이니 놓치지 마세요. 밀린 일 10건이 쌓여 있는 만큼 오전에 평가계획(Z-P4)·채용솔루션(Z-P10)·임대차관리(Z-P14) 준비를 병행하세요. 아침 기온 6도(체감 4도)에 연무가 낀 쌀쌀한 목요일입니다. 형, 따뜻하게 입고 출근하세요."
+    "insight": "💡 젠슨 황 사임 — AI 반도체 산업 최대 변곡점\\n\\n엔비디아 CEO 젠슨 황이 불륜·스파이 스캔들 6일 만에 전격 사임했습니다. 임시 CEO에 CFO 콜레트 크레스가 선임되고 차기 CEO 물색이 시작됐습니다. 엔비디아는 AI 가속기 시장 80% 이상을 점유하고 있지만, 그 지배력은 젠슨 황의 독특한 리더십이 만들어낸 결과였습니다. 임시 체제에서 전략 방향성이 바뀔 경우 삼성전자·SK하이닉스(HBM) 등 국내 반도체에도 직접적 영향을 줄 전망입니다. 다만 뉴욕증시가 -0.35%에 그친 점을 보면, 시장은 이를 '기업 가치 훼손'보다 '과도기적 불확실성'으로 인식하는 분위기입니다. 엔비디아 매도가 AMD·브로드컴 등 경쟁사로 로테이션되는 흐름도 눈여겨볼 만합니다.\\n\\n오늘 업무: [Z-P4] 평가계획 확정이 최우선입니다. 금요일이니 오전에 확정·보고(평가계획·인력충원·취임사)를, 오후에 배포·안내(임대차관리 가이드·퇴사자 급여)를 마무리하세요. 흐린 날씨에 아침 9도(체감 8도)로 쌀쌀합니다. 형, 따뜻하게 입고 출근하세요."
   },
   "sections": {
     "kor": {
@@ -138,16 +138,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "코스피 2.6%·코스닥 5.6% 급등…외국인 매수 재점화",
+                  "headline": "코스피 5,342 차익실현에 하락…젠슨 황 사임에 반도체주 약세",
                   "url": "https://www.mk.co.kr/news/stock/",
-                  "eng": "KOSPI up 2.6% and KOSDAQ 5.6% as foreign buying reignites",
-                  "body": "코스피가 2.6% 오른 5,375.36, 코스닥이 5.6% 급등한 705.10으로 마감하며 동반 급등했다. 외국인이 코스피에서 6,553억원을 순매수하며 반도체·AI주 강세를 주도했다."
+                  "eng": "KOSPI falls to 5,342 on profit-taking; chip stocks weak after Huang exit",
+                  "body": "코스피가 0.61% 하락한 5,342.73으로 마감했다. 이틀 연속 급등 후 차익실현 매물이 출회됐고, 젠슨 황 사임 여파로 SK하이닉스(-1.80%) 등 반도체주가 약세를 보였다."
                 },
                 {
-                  "headline": "국고채 담합 과징금 1.6조 '역대 최대'…금융기관 법정 대응 예고",
+                  "headline": "국고채 담합 과징금 1.6조 '역대 최대'…금융권 법정 대응 예고",
                   "url": "https://www.mk.co.kr/news/economy/",
                   "eng": "Record 1.6tn won fine for treasury bond collusion; financial firms vow legal fight",
-                  "body": "공정거래위원회가 국고채 입찰 담합 혐의로 금융기관들에 역대 최대 규모인 1조6천억원대 과징금을 부과했다. 해당 금융기관들은 법정 대응을 예고했다."
+                  "body": "공정거래위원회가 국고채 입찰 담합 혐의로 금융기관 15곳에 역대 최대 규모인 1조6,266억원 과징금을 부과했다. 금융권은 '업무 관행'을 담합으로 몰았다며 법정 대응을 예고했다."
                 }
               ]
             },
@@ -155,16 +155,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "바닥은 11월입니다…코스피 연말 반등 투자전략은",
-                  "url": "https://www.mk.co.kr/news/stock/12180834",
-                  "eng": "November is the bottom: KOSPI year-end rebound strategy",
-                  "body": "10월 급락 이후 코스피가 11월 저점을 확인하고 반등하는 흐름이다. 연말 반등을 겨냥한 투자전략과 업종별 대응 방안을 점검한다."
+                  "headline": "'젠슨 황 없는 엔비디아'…삼성전자·SK하이닉스 희비 엇갈려",
+                  "url": "https://www.mk.co.kr/news/stock/",
+                  "eng": "Nvidia without Jensen Huang: Samsung and SK Hynix fortunes diverge",
+                  "body": "엔비디아 CEO 사임 여파로 삼성전자는 0.97% 상승한 반면, HBM 핵심 공급사인 SK하이닉스는 1.80% 하락했다. 엔비디아의 차기 전략 방향이 국내 반도체 수급에 변수가 될 전망이다."
                 },
                 {
-                  "headline": "'불륜'에 540조원 증발…젠슨 황 스캔들 [VISUAL]",
-                  "url": "https://www.mk.co.kr/news/world/",
-                  "eng": "540tn won erased over the affair: the Jensen Huang scandal",
-                  "body": "젠슨 황 엔비디아 CEO의 불륜·스파이 의혹 스캔들로 엔비디아 시가총액에서 540조원가량이 증발한 것으로 집계됐다. 스캔들 전개 과정을 인포그래픽으로 정리했다."
+                  "headline": "ETF 일평균 거래대금, 코스피 사상 첫 추월",
+                  "url": "https://www.mk.co.kr/news/stock/",
+                  "eng": "ETF daily trading value overtakes KOSPI for the first time",
+                  "body": "ETF 일평균 거래대금이 코스피 거래대금을 사상 처음으로 추월했다. 개인 투자자들의 ETF 선호가 뚜렷해지며 시장 구조가 빠르게 바뀌고 있다."
                 }
               ]
             },
@@ -172,16 +172,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "AI 열풍에 車 반도체·구리 확보 경쟁 후순위",
+                  "headline": "AI 반도체 지각변동…AMD·브로드컴 반사이익 기대",
                   "url": "https://www.mk.co.kr/news/tech/",
-                  "eng": "AI boom pushes auto chips and copper down the priority list",
-                  "body": "글로벌 AI 열풍으로 자동차용 반도체와 구리 등 전통 산업 원자재 확보 경쟁이 후순위로 밀리고 있다. AI 데이터센터 투자가 자원 배분을 재편하고 있다는 분석이다."
+                  "eng": "AI chip landscape shifts; AMD and Broadcom seen as beneficiaries",
+                  "body": "젠슨 황 사임으로 엔비디아의 AI 가속기 지배력에 균열이 생기면서 AMD·브로드컴 등 경쟁사가 반사이익을 볼 것이란 전망이 나온다. AI 반도체 시장 재편 가능성이 제기된다."
                 },
                 {
-                  "headline": "ETF 거래대금, 코스피 사상 첫 추월",
-                  "url": "https://www.mk.co.kr/news/stock/",
-                  "eng": "ETF trading value overtakes KOSPI for the first time",
-                  "body": "ETF 일평균 거래대금이 코스피 거래대금을 사상 처음으로 추월했다. 개인 투자자들의 ETF 선호가 뚜렷해지며 시장 구조가 바뀌고 있다."
+                  "headline": "AR 안경 렌즈 두께 3분의 1로…차세대 디스플레이 경쟁",
+                  "url": "https://www.mk.co.kr/news/tech/",
+                  "eng": "AR glasses lens thickness cut to one-third; next-gen display race heats up",
+                  "body": "국내 연구진이 AR 안경 렌즈 두께를 기존의 3분의 1 수준으로 줄이는 기술을 개발했다. 차세대 디스플레이 시장을 둘러싼 경쟁이 본격화하고 있다."
                 }
               ]
             }
@@ -195,16 +195,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "정부, 청해부대 파병 연장안 국회 제출…이란 반발엔 \"전쟁 불관여\"",
-                  "url": "https://www.khan.co.kr/article/202611102133015",
-                  "eng": "Government submits Cheonghae unit deployment extension to Assembly amid Iran backlash",
-                  "body": "정부가 청해부대 파병 연장안을 국회에 제출했다. 이란 측의 반발에 대해서는 '전쟁에는 불관여한다'는 입장을 밝혔다."
+                  "headline": "젠슨 황, 불륜·스파이 스캔들에 엔비디아 CEO 사임",
+                  "url": "https://www.khan.co.kr/economy",
+                  "eng": "Jensen Huang resigns as Nvidia CEO amid affair and spy scandal",
+                  "body": "엔비디아 CEO 젠슨 황이 중국 스파이 의혹 여성과의 불륜 스캔들 6일 만에 사임했다. CFO 콜레트 크레스가 임시 CEO를 맡고 이사회가 차기 CEO를 물색한다."
                 },
                 {
-                  "headline": "김정관 \"호남 반도체 클러스터 팹 배치, 이달 중 마무리\"",
-                  "url": "https://www.khan.co.kr/politics",
-                  "eng": "Kim Jung-kwan: Honam chip cluster fab placement to be finalized this month",
-                  "body": "김정관 장관이 호남 반도체 클러스터의 팹(생산시설) 배치를 이달 중 마무리하겠다고 밝혔다. 지역 균형 발전과 반도체 공급망 강화를 위한 조치다."
+                  "headline": "오후 비, 주말 전국으로…제주에 돌풍까지",
+                  "url": "https://www.khan.co.kr/article/202611122105035",
+                  "eng": "Afternoon rain to spread nationwide over weekend; gusts in Jeju",
+                  "body": "11월 13일 오후부터 비가 내려 주말에는 전국으로 확대될 전망이다. 제주에는 돌풍이 예상돼 시설물 관리에 유의가 필요하다."
                 }
               ]
             },
@@ -212,16 +212,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "이 대통령 \"재건축 명도집행 무력 저항 말이 되나…'알박기' 상황 보고를\"",
-                  "url": "https://www.khan.co.kr/politics",
-                  "eng": "President Lee slams resistance to redevelopment eviction enforcement",
-                  "body": "이재명 대통령이 재건축 명도집행에 대한 무력 저항을 비판하며 '알박기' 상황에 대한 보고를 지시했다. 부동산 비리 대응을 강화하는 모양새다."
+                  "headline": "국고채 담합 1.6조 과징금…'업무 관행' 담합 몰았다 금융권 반발",
+                  "url": "https://www.khan.co.kr/economy",
+                  "eng": "1.6tn won treasury bond collusion fine; financial industry pushes back",
+                  "body": "공정위의 국고채 입찰 담합 제재에 금융권이 '납득할 수 없다'며 강하게 반발하고 있다. 증권사 10곳과 은행 5곳이 줄소송을 예고했다."
                 },
                 {
-                  "headline": "[김용민의 그림마당] 2026년 11월 12일",
-                  "url": "https://www.khan.co.kr/article/202611112139025",
-                  "eng": "Editorial cartoon for November 12, 2026",
-                  "body": "경향신문 김용민 화백의 시사만평. 최근 정치·경제 현안을 풍자한 그림으로 독자들의 공감을 이끌어낸다."
+                  "headline": "이 대통령, 충청 '메가프로젝트' 첫삽…'지역 균형 투자' 강조",
+                  "url": "https://www.khan.co.kr/politics",
+                  "eng": "President Lee breaks ground on Chungcheong megaproject, stresses balanced regional investment",
+                  "body": "이재명 대통령이 충청권 메가프로젝트 착공식에서 지역 균형 발전을 위한 대규모 투자를 강조했다. 호남·영남 지역 투자 확대도 약속했다."
                 }
               ]
             },
@@ -229,16 +229,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "온화한 오후…수도권·충북엔 초미세먼지",
-                  "url": "https://www.khan.co.kr/article/202611112104005",
-                  "eng": "Mild afternoon but fine dust in Seoul area and North Chungcheong",
-                  "body": "11월 12일은 온화한 오후 날씨가 예상되지만 수도권과 충북 지역에는 초미세먼지가 짙게 나타날 전망이다. 외출 시 마스크 착용이 권고된다."
+                  "headline": "코스피·코스닥 동반 하락…외국인 순매수에도 개인 차익실현",
+                  "url": "https://www.khan.co.kr/economy",
+                  "eng": "KOSPI and KOSDAQ fall together despite foreign buying on individual profit-taking",
+                  "body": "코스피 -0.61%·코스닥 -1.22% 동반 하락 마감했다. 외국인이 3거래일 연속 순매수했지만 개인 차익실현 매물이 지수를 끌어내렸다."
                 },
                 {
-                  "headline": "코스피·코스닥 동반 급등…외국인 매수 재점화",
-                  "url": "https://www.khan.co.kr/economy",
-                  "eng": "KOSPI and KOSDAQ surge together as foreign buying reignites",
-                  "body": "코스피 2.6%·코스닥 5.6% 동반 급등으로 마감했다. 외국인이 코스피에서 6,553억원을 순매수하며 반도체·AI주 강세를 주도했다."
+                  "headline": "'11월 13일 세계 종말설' 확산…과학계 '사실무근'",
+                  "url": "https://weekly.khan.co.kr/article/202611011334001",
+                  "eng": "November 13 doomsday rumor spreads; scientists call it groundless",
+                  "body": "SNS를 중심으로 '11월 13일 세계 종말' 주장이 확산됐지만 과학계는 사실무근이라고 일축했다. 태양 폭발 공포도 과장된 것으로 확인됐다."
                 }
               ]
             }
@@ -252,16 +252,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "대만 '젠슨 황 불륜女' 비자 취소하고 입국금지 조치",
-                  "url": "https://www.donga.com/news/Inter/",
-                  "eng": "Taiwan cancels visa and bars entry to woman in Jensen Huang affair",
-                  "body": "대만 당국이 젠슨 황 엔비디아 CEO와 불륜 관계로 알려진 앨리스 황의 비자를 취소하고 입국금지 조치를 내렸다. 중국 스파이 의혹이 제기된 인물이다."
+                  "headline": "AI 록스타 몰락하다…젠슨 황, 엔비디아 CEO 사임",
+                  "url": "https://www.donga.com/news/Economy/",
+                  "eng": "Fall of an AI rock star: Jensen Huang steps down as Nvidia CEO",
+                  "body": "AI 시대를 이끌었던 '록스타 CEO' 젠슨 황이 불륜·스파이 스캔들 끝에 엔비디아 CEO직에서 물러났다. 33년 만의 불명예 퇴진으로 AI 반도체 업계가 술렁이고 있다."
                 },
                 {
-                  "headline": "\"젠슨 황 불륜 상대 여성… 칩 24만개 中에 빼돌려\"",
-                  "url": "https://www.donga.com/news/Society/article",
-                  "eng": "Woman in Jensen Huang affair accused of smuggling 240,000 chips to China",
-                  "body": "젠슨 황 엔비디아 CEO의 불륜 상대로 지목된 여성이 엔비디아 AI 칩 24만개를 중국에 빼돌렸다는 의혹이 제기됐다. 미국 정보당국의 조사가 진행 중이다."
+                  "headline": "충청 '메가프로젝트' 첫삽…이 대통령 \"호남-영남 투자도\"",
+                  "url": "https://www.donga.com/news/Politics/",
+                  "eng": "Chungcheong megaproject breaks ground; President Lee pledges Honam-Yeongnam investment",
+                  "body": "충청권 메가프로젝트가 첫 삽을 떴다. 이재명 대통령은 지역 균형 발전 차원에서 호남과 영남 지역 투자도 이어가겠다고 밝혔다."
                 }
               ]
             },
@@ -269,16 +269,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "코스피 2.6%·코스닥 5.6% 동반 급등…반도체·외국인 매수 재점화",
-                  "url": "https://www.donga.com/news/Economy/",
-                  "eng": "KOSPI and KOSDAQ surge on chip and foreign buying",
-                  "body": "코스피 5,375.36(+2.60%)·코스닥 705.10(+5.61%) 동반 급등. 외국인 순매수와 반도체주 강세가 지수 상승을 이끌었다."
+                  "headline": "[지표로 보는 경제] 11월 13일",
+                  "url": "https://www.donga.com/news/Economy/article/all/20261112/135016595/2",
+                  "eng": "Economy by the numbers: November 13",
+                  "body": "주요 경제지표를 숫자로 정리해 보는 코너. 증시·환율·금리·물가 등 최근 흐름을 한눈에 보여준다."
                 },
                 {
-                  "headline": "[지표로 보는 경제] 11월 12일",
-                  "url": "https://www.donga.com/news/amp/all/20261111/135008722/2",
-                  "eng": "Economy by the numbers: November 12",
-                  "body": "주요 경제지표를 숫자로 정리해 보는 코너. 증시·환율·금리·물가 등 최근 흐름을 한눈에 보여준다."
+                  "headline": "코스피 5,342 하락…젠슨 황 사임에 반도체·금융 약세",
+                  "url": "https://www.donga.com/news/Economy/",
+                  "eng": "KOSPI slips to 5,342; chips and financials weak on Huang exit",
+                  "body": "코스피가 젠슨 황 사임 여파로 반도체·금융주가 약세를 보이며 하락 마감했다. 삼성전자(+0.97%)는 상승했지만 SK하이닉스(-1.80%)는 부진했다."
                 }
               ]
             },
@@ -286,16 +286,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "AI, 블랙홀 첫 사진 논란 종지부 — 7년 논쟁, AI 검증으로 결론",
-                  "url": "https://www.donga.com/news/It/",
-                  "eng": "AI settles 7-year debate over first black hole photo",
-                  "body": "블랙홀 첫 사진(M87)을 둘러싼 7년간의 논쟁이 AI 검증을 통해 결론에 도달했다. AI가 천문학 데이터 분석의 핵심 도구로 자리잡고 있다."
+                  "headline": "앨리스 황, 베이징 체류…중국 보안당국 동향 추적",
+                  "url": "https://www.khan.co.kr/en/article/202611121151037",
+                  "eng": "Alice Huang staying in Beijing; Chinese security authorities tracking her",
+                  "body": "젠슨 황과 불륜 관계였던 앨리스 황이 베이징에 체류 중인 것으로 알려졌다. 중국 보안당국이 그녀의 동향을 추적하고 있다."
                 },
                 {
-                  "headline": "젠슨 황 불륜 여성, 가족 관련 '센추리리퉁' 의혹 확산",
+                  "headline": "트럼프 \"팀 쿡이 엔비디아 적임자\"…차기 CEO 물색 본격화",
                   "url": "https://www.donga.com/news/Inter/",
-                  "eng": "Jensen Huang affair woman tied to family-linked Century Litong suspicions",
-                  "body": "젠슨 황 CEO와 불륜 관계인 앨리스 황의 가족이 중국 기업 '센추리리퉁'과 연관됐다는 의혹이 확산되고 있다. 스파이 연루 가능성에 대한 조사가 진행 중이다."
+                  "eng": "Trump says Tim Cook is right for Nvidia; CEO search intensifies",
+                  "body": "트럼프 대통령이 엔비디아 차기 CEO로 애플의 팀 쿡을 지목했다. 엔비디아는 외부 기관과 함께 차기 CEO 후보를 물색하고 있다."
                 }
               ]
             }
@@ -309,16 +309,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "AI 투자 우려 완화에 뉴욕증시 상승 마감…네오클라우드주 급등",
+                  "headline": "젠슨 황 전격 사임…엔비디아 '포스트 젠슨' 시대, 국내 반도체 긴장",
                   "url": "https://www.hankyung.com/finance/",
-                  "eng": "Wall Street closes higher as AI investment worries ease; neocloud stocks surge",
-                  "body": "코어위브 실적 서프라이즈로 AI 투자 우려가 완화되며 뉴욕증시가 상승 마감했다. 네오클라우드 관련주가 급등하며 나스닥이 1.6% 올랐다."
+                  "eng": "Huang's abrupt exit ushers in post-Jensen era; Korean chipmakers on edge",
+                  "body": "젠슨 황의 전격 사임으로 엔비디아가 '포스트 젠슨' 시대에 접어들었다. HBM을 공급하는 SK하이닉스(-1.80%) 등 국내 반도체 업계에 긴장감이 감돌고 있다."
                 },
                 {
-                  "headline": "코스피 5,375·코스닥 705 동반 급등…외국인 순매수 재점화",
+                  "headline": "코스피 5,342 차익실현에 소폭 하락…외국인 3거래일 연속 순매수",
                   "url": "https://www.hankyung.com/economy/",
-                  "eng": "KOSPI 5,375 and KOSDAQ 705 surge as foreign buying reignites",
-                  "body": "코스피 5,375.36(+2.60%)·코스닥 705.10(+5.61%) 동반 급등 마감. 외국인이 6,553억원 순매수하며 반도체·AI주 강세를 주도했다."
+                  "eng": "KOSPI dips to 5,342 on profit-taking; foreigners net buy for third day",
+                  "body": "코스피가 이틀 급등 후 차익실현 매물에 소폭 하락했다. 외국인은 3거래일 연속 순매수를 이어갔지만 개인 매물을 막지 못했다."
                 }
               ]
             },
@@ -326,16 +326,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "국고채 담합 과징금 1.6조 '역대 최대'…법정 대응 예고",
+                  "headline": "국고채 담합 1.6조 '역대급' 과징금…공정위 \"낙찰금액 기준\"",
                   "url": "https://www.hankyung.com/news/economy/",
-                  "eng": "Record 1.6tn won treasury bond collusion fine; firms to fight in court",
-                  "body": "공정위가 국고채 입찰 담합 혐의로 역대 최대인 1조6천억원대 과징금을 부과했다. 금융기관들은 법정 대응을 예고하며 반발하고 있다."
+                  "eng": "Record 1.6tn won treasury bond collusion fine; FTC cites bid amounts",
+                  "body": "공정위가 국고채 입찰 담합으로 역대급인 1조6,266억원 과징금을 부과했다. 과징금은 국고채 낙찰금액을 기준으로 산정됐다."
                 },
                 {
                   "headline": "10월 은행 가계대출 5조↑, 잔액 1,204조 '역대 최대'",
                   "url": "https://www.hankyung.com/news/economy/",
                   "eng": "October household loans up 5tn won to record 1,204tn won",
-                  "body": "10월 은행 가계대출이 5조원 증가하며 잔액이 1,204조원으로 역대 최대를 기록했다. 가계부채 증가세 관리가 과제로 떠올랐다."
+                  "body": "10월 은행 가계대출이 5조원 증가하며 잔액이 1,204조원으로 역대 최대를 기록했다. 가계부채 관리가 정책 과제로 떠올랐다."
                 }
               ]
             },
@@ -343,16 +343,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "'스텔스 증세' 논란 — 근로소득세 부담 증가에 월급쟁이 유리지갑",
+                  "headline": "ETF 일평균 거래대금, 코스피 사상 첫 추월…개인 선호 뚜렷",
                   "url": "https://www.hankyung.com/news/economy/",
-                  "eng": "'Stealth tax hike' row: workers shoulder rising income tax burden",
-                  "body": "근로소득세 부담이 증가하면서 '스텔스 증세' 논란이 일고 있다. 월급쟁이들의 유리지갑이 얇아지고 있다는 지적이 나온다."
+                  "eng": "ETF daily turnover tops KOSPI for first time as retail preference grows",
+                  "body": "ETF 일평균 거래대금이 코스피를 사상 처음으로 추월했다. 개인 투자자들의 ETF 쏠림이 시장 구조 변화를 이끌고 있다."
                 },
                 {
-                  "headline": "엔비디아 젠슨 황 스캔들 — 워치텔 전직 연방검사 조사 착수",
+                  "headline": "스페이스X, 데이터센터 740억 달러 투자…AI 인프라 경쟁 가속",
                   "url": "https://www.hankyung.com/news/international/",
-                  "eng": "Nvidia taps former federal prosecutor at Wachtell for Huang probe",
-                  "body": "엔비디아가 워치텔 립턴의 전직 연방검사 준 김에게 젠슨 황 CEO의 불륜·스파이 의혹에 대한 독립 조사를 맡겼다."
+                  "eng": "SpaceX to spend $74bn on data centers, accelerating AI infrastructure race",
+                  "body": "스페이스X가 데이터센터에 740억 달러를 투자한다고 밝혔다. AI 인프라를 둘러싼 빅테크 경쟁이 한층 가속화할 전망이다."
                 }
               ]
             }
@@ -371,16 +371,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "CoreWeave Shares Surge, Re-Energizing the AI Trade",
-                  "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-11-2026",
+                  "headline": "Jensen Huang Built Nvidia. Its Chips Made the AI Boom Possible.",
+                  "url": "https://www.wsj.com/tech/ai/jensen-huang-nvidia-ceo-departs-bef1b4bb",
                   "eng": "",
-                  "body": "코어위브 주가가 급등하며 AI 트레이드를 다시 살려냈다. 클라우드 제공업체의 최신 실적 발표가 투자자들을 안심시키며 나스닥을 상승으로 이끌었다."
+                  "body": "엔비디아의 첫 CEO이자 유일한 CEO였던 젠슨 황이 물러났다. 그는 비디오게임용 반도체를 차세대 기술혁명의 엔진으로 바꿔놓았다."
                 },
                 {
-                  "headline": "OpenAI Continues to Suffer Heavy Losses as Revenue Rises to $10 Billion",
-                  "url": "https://www.wsj.com/business/earnings/openai-continues-to-suffer-heavy-losses-as-revenue-rises-to-10-billion-d2a96bbb",
+                  "headline": "Silicon Valley Shocked by Jensen Huang's Sudden Ouster",
+                  "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-12-2026",
                   "eng": "",
-                  "body": "오픈AI가 매출 100억 달러를 돌파했음에도 막대한 손실을 지속하고 있다. AI 모델 훈련·추론 비용 급증으로 수익성 개선이 더딘 상황이다."
+                  "body": "실리콘밸리가 젠슨 황의 갑작스러운 해임에 충격에 빠졌다. 엔비디아 이사회는 불륜·스파이 스캔들 이후 신속하게 CEO 교체를 결정했다."
                 }
               ]
             },
@@ -388,16 +388,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "Anthropic to Seek $1.3 Trillion Valuation in IPO",
-                  "url": "https://www.wsj.com/finance/stocks/anthropic-ipo-valuation-8337b669",
+                  "headline": "SpaceX to Spend $74 Billion on New Data Centers",
+                  "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-12-2026",
                   "eng": "",
-                  "body": "앤스로픽이 IPO에서 1조3,000억 달러 밸류에이션을 목표로 하고 있다. AI 스타트업 상장의 최대 규모 시험대가 될 전망이다."
+                  "body": "스페이스X가 새 데이터센터에 740억 달러를 투자한다. AI 인프라 수요에 대응하기 위한 대규모 자본 투입이다."
                 },
                 {
-                  "headline": "How Jensen Huang's Affair Spiraled Into a National Security Nightmare",
-                  "url": "https://www.wsj.com/tech/ai/how-jensen-huangs-affair-spiraled-into-a-national-security-nightmare-d9b43304",
+                  "headline": "Bonds Take Another Beating as Inflation Fears Rise",
+                  "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-12-2026",
                   "eng": "",
-                  "body": "엔비디아 CEO 젠슨 황의 혼외 관계가 국가안보 악몽으로 번졌다. 중국 정보기관 자산으로 판단된 여성과의 관계가 미 정보당국 조사 대상이 됐다."
+                  "body": "인플레이션 우려가 커지며 미국 국채가 다시 한번 하락했다. 금리 인상 베팅이 강해지며 채권시장에 매도 압력이 이어지고 있다."
                 }
               ]
             },
@@ -405,16 +405,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "U.K. Police Arrested a U.S. Army Soldier on Allegations of Spying for Russia",
-                  "url": "https://www.wsj.com/world/uk/u-k-police-arrested-a-u-s-army-soldier-on-allegations-of-spying-for-russia-f87c5257",
+                  "headline": "Who Is Harvey Jones, Nvidia's New Chair?",
+                  "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-12-2026",
                   "eng": "",
-                  "body": "영국 경찰이 러시아를 위한 간첩 혐의로 미 육군 병사를 체포했다. 서방 국가를 겨냥한 러시아 정보 활동에 대한 우려가 커지고 있다."
+                  "body": "엔비디아의 새 의장으로 선임된 하비 존스는 누구인가. 이사회를 이끌며 차기 CEO 선임 과정을 주도하게 될 인물로 주목받고 있다."
                 },
                 {
-                  "headline": "Trump's Plan to Import Russian Diesel Stalls on the High Seas",
-                  "url": "https://www.wsj.com/business/energy-oil/trumps-plan-to-import-russian-diesel-stalls-on-the-high-seas-a5b26b66",
+                  "headline": "AMD, Broadcom Poised to Gain From Scandal Roiling Nvidia",
+                  "url": "https://www.bloomberg.com/news/articles/2026-11-12/nvidia-turmoil-lifts-amd-broadcom-on-bets-for-business-gains",
                   "eng": "",
-                  "body": "트럼프 행정부의 러시아산 디젤 수입 계획이 해상에서 지연되고 있다. 제재 이슈와 물류 문제로 수입 일정이 불투명해졌다."
+                  "body": "엔비디아를 뒤흔든 스캔들로 AMD와 브로드컴이 수혜를 볼 것이란 전망이 나온다. 엔비디아 고객사의 공급선 다변화 가능성이 부각되고 있다."
                 }
               ]
             }
@@ -428,16 +428,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "Nvidia's Bull Case Hinges on CEO Huang Surviving China Spy Probe",
-                  "url": "https://www.bloomberg.com/news/articles/2026-11-10/nvidia-s-bull-case-hinges-on-ceo-huang-surviving-china-spy-probe",
+                  "headline": "Nvidia Faces a Hard Reset Without Huang",
+                  "url": "https://www.bloomberg.com/news/features/2026-11-09/nvidia-ceo-jensen-huang-s-affair-with-alleged-spy-raises-succession-concerns",
                   "eng": "",
-                  "body": "엔비디아 강세 전망은 젠슨 황 CEO가 중국 스파이 조사를 통과하느냐에 달려 있다. CEO 거취가 엔비디아 투자 심리를 좌우하는 핵심 변수로 부상했다."
+                  "body": "엔비디아가 젠슨 황 없이 '하드 리셋'에 직면했다. 창업자 CEO의 부재 속에 후계 구도와 전략 방향에 대한 불확실성이 커지고 있다."
                 },
                 {
-                  "headline": "US Stocks Climb as Wall Street Gets Fresh AI Fuel: Markets Wrap",
-                  "url": "https://www.bloomberg.com/news/articles/2026-11-10/stock-market-today-dow-s-p-live-updates",
+                  "headline": "Stocks Fall on Nvidia Rout as Oil Jump Sinks Bonds",
+                  "url": "https://www.bloomberg.com/news/articles/2026-11-11/stock-market-today-dow-s-p-live-updates",
                   "eng": "",
-                  "body": "코어위브 실적이 AI 투자심리에 새 연료를 공급하며 미국 증시가 상승했다. S&P 500과 나스닥이 1%대 동반 상승했다."
+                  "body": "엔비디아 매도세에 미국 증시가 하락했고, 유가 반등이 국채를 끌어내렸다. 다만 매도가 방어주와 경쟁사로 로테이션되며 낙폭은 제한됐다."
                 }
               ]
             },
@@ -445,16 +445,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "AI Whiplash Poses Major Test for Wall Street's Dip-Buying Habit",
-                  "url": "https://www.bloomberg.com/news/articles/2026-11-11/ai-whiplash-poses-major-test-for-wall-street-s-dip-buying-habit",
+                  "headline": "Cerebras Delivers Solid Outlook in Its Bid to Challenge Nvidia",
+                  "url": "https://www.bloomberg.com/news/articles/2026-11-12/cerebras-delivers-solid-outlook-in-its-bid-to-challenge-nvidia",
                   "eng": "",
-                  "body": "AI 관련주의 급등락이 월가의 '저가 매수' 습관을 시험하고 있다. AI 투자 변동성이 커지며 매수 전략의 유효성이 도전받고 있다."
+                  "body": "AI 칩 스타트업 세레브라스가 엔비디아에 도전하는 가운데 견조한 전망을 내놨다. AI 가속기 시장의 경쟁 구도가 재편될 조짐이다."
                 },
                 {
-                  "headline": "Google Adds Gemini Voice AI Assistant to Apple CarPlay",
-                  "url": "https://www.bloomberg.com/news/articles/2026-11-11/google-adds-gemini-voice-ai-assistant-to-apple-carplay",
+                  "headline": "Silicon Valley Stunned by Swift Action on Huang by Nvidia Board",
+                  "url": "https://www.bloomberg.com/news/articles/2026-11-12/-dark-day-silicon-valley-mourns-nvidia-s-decision-to-oust-ceo",
                   "eng": "",
-                  "body": "구글이 애플 카플레이에 제미나이 음성 AI 어시스턴트를 추가한다. 차량 내 AI 비서 경쟁이 본격화하고 있다."
+                  "body": "실리콘밸리가 엔비디아 이사회의 신속한 젠슨 황 해임 결정에 충격을 받았다. '어두운 날'이라는 평가와 함께 후폭풍이 이어지고 있다."
                 }
               ]
             },
@@ -462,16 +462,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "Polymarket Cuts Workforce After Stumbles Prompt Reorganization",
-                  "url": "https://www.bloomberg.com/news/articles/2026-11-11/polymarket-cuts-workforce-after-stumbles-prompt-reorganization",
+                  "headline": "Nvidia Board Meets as Jensen Huang Fallout Widens",
+                  "url": "https://www.bloomberg.com/news/videos/2026-11-12/the-china-show-11-12-2026-video",
                   "eng": "",
-                  "body": "예측시장 폴리마켓이 부진과 조직 개편 여파로 인력을 감축했다. 예측시장 업계의 경쟁이 심화하고 있다."
+                  "body": "젠슨 황 사임의 여파가 확산되는 가운데 엔비디아 이사회가 회동했다. 차기 CEO 선임과 스캔들 수습 방안이 논의된 것으로 알려졌다."
                 },
                 {
-                  "headline": "German Economic Advisers More Than Double 2026 Growth Forecast",
-                  "url": "https://www.bloomberg.com/news/articles/2026-11-11/german-economic-advisers-more-than-double-2026-growth-forecast",
+                  "headline": "Jensen Huang's 700,000% Return Magnifies Nvidia Succession Crisis",
+                  "url": "https://www.bloomberg.com/news/features/2026-11-09/nvidia-ceo-jensen-huang-s-affair-with-alleged-spy-raises-succession-concerns",
                   "eng": "",
-                  "body": "독일 경제자문위원회가 2026년 성장률 전망을 두 배 이상 상향했다. 독일 경제의 회복세가 예상보다 강하다는 신호다."
+                  "body": "젠슨 황이 만들어낸 70만%의 주가 수익률이 오히려 엔비디아의 후계자 위기를 키우고 있다. 그만큼 대체 불가능한 리더십이었기 때문이다."
                 }
               ]
             }
@@ -485,16 +485,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "Despite Denial, Trump Was Told on Trip to China About Spying on Nvidia Leader",
+                  "headline": "Nvidia CEO Jensen Huang Resigns After Affair Raised National Security Concerns",
                   "url": "https://www.nytimes.com/section/todayspaper",
                   "eng": "",
-                  "body": "트럼프 대통령이 중국 방문 당시 엔비디아 CEO에 대한 스파이 활동에 대해 보고받았음에도 이를 부인했다는 보도가 나왔다. 젠슨 황 스캔들이 정치 쟁점으로 번지고 있다."
+                  "body": "엔비디아 CEO 젠슨 황이 국가안보 우려를 불러일으킨 불륜 스캔들 끝에 사임했다. CFO 콜레트 크레스가 임시 CEO를 맡는다."
                 },
                 {
-                  "headline": "Could the Voter Backlash Against A.I. Actually Help the Economy?",
-                  "url": "https://www.nytimes.com/issue/todaysinyt/2026/11/11/todays-new-york-times-international-edition",
+                  "headline": "Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him",
+                  "url": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html",
                   "eng": "",
-                  "body": "중간선거에서 드러난 AI에 대한 유권자 반발이 오히려 경제에 도움이 될 수 있다는 분석이 나온다. AI 규제와 분배 논의가 경제 정책의 중심으로 떠오르고 있다."
+                  "body": "젠슨 황이 자신에게 보고하는 엔비디아 임원과도 관계를 맺었던 것으로 전해졌다. 두 번째 혼외 관계 보도가 사임을 재촉한 것으로 알려졌다."
                 }
               ]
             },
@@ -502,16 +502,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "The Political Center of Gravity Isn't Trump. It's Obama.",
-                  "url": "https://www.nytimes.com/2026/11/11/opinion/midterms-politics-culture.html",
+                  "headline": "Huang Agrees to Appear Before Congress, US Lawmakers Press for Answers",
+                  "url": "https://www.bbc.com/news/live/c6zjry11v8w1t",
                   "eng": "",
-                  "body": "중간선거 이후 미국 정치의 중심축은 트럼프가 아니라 오바마라는 분석이 나온다. 민주당의 광범위한 승리가 정치 지형을 재편하고 있다."
+                  "body": "젠슨 황이 미국 의회에 출석하기로 합의했다. 의원들은 스파이 의혹과 불륜 스캔들의 전모를 두고 강도 높은 질의를 예고했다."
                 },
                 {
-                  "headline": "U.S. Received $12 Billion From Venezuela's Oil, Report Says",
-                  "url": "https://www.nytimes.com/2026/11/10/world/americas/us-venezuela-oil-trump.html",
+                  "headline": "Despite Denial, Trump Was Told on Trip to China About Spying on Nvidia Leader",
+                  "url": "https://www.nytimes.com/section/todayspaper",
                   "eng": "",
-                  "body": "미국 정부가 올해 9개월간 베네수엘라의 자원 수출에서 120억 달러 이상의 수익을 거뒀다는 보고가 나왔다."
+                  "body": "트럼프 대통령이 중국 방문 당시 엔비디아 CEO에 대한 스파이 활동을 보고받았음에도 이를 부인했다는 보도가 나왔다. 스캔들이 정치 쟁점으로 번지고 있다."
                 }
               ]
             },
@@ -519,16 +519,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "Kenya Starts Countdown to End of Ebola Outbreak",
-                  "url": "https://www.nytimes.com/2026/11/11/world/africa/kenya-ebola-countdown.html",
+                  "headline": "Could the Voter Backlash Against A.I. Actually Help the Economy?",
+                  "url": "https://www.nytimes.com/issue/todaysinyt/2026/11/11/todays-new-york-times-international-edition",
                   "eng": "",
-                  "body": "케냐가 에볼라 발병 종식을 선언하기 위한 카운트다운을 시작했다. 마지막 확진 환자가 회복되며 발병 종식이 임박했다."
+                  "body": "중간선거에서 드러난 AI에 대한 유권자 반발이 오히려 경제에 도움이 될 수 있다는 분석이 나온다. AI 규제와 분배 논의가 경제 정책의 중심으로 떠오르고 있다."
                 },
                 {
-                  "headline": "Why U.S. Business Deals Are Unlikely to Get Putin to Give Up",
-                  "url": "https://www.nytimes.com/2026/11/10/world/europe/putin-trump-abu-dhabi-talks.html",
+                  "headline": "The Political Center of Gravity Isn't Trump. It's Obama.",
+                  "url": "https://www.nytimes.com/2026/11/11/opinion/midterms-politics-culture.html",
                   "eng": "",
-                  "body": "미국과 러시아의 사업 협상이 푸틴의 양보를 이끌어내기 어렵다는 분석이 나온다. 크렘린은 먼저 전쟁 종식 조치를 요구하고 있다."
+                  "body": "중간선거 이후 미국 정치의 중심축은 트럼프가 아니라 오바마라는 분석이 나온다. 민주당의 광범위한 승리가 정치 지형을 재편하고 있다."
                 }
               ]
             }
@@ -542,16 +542,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "The phantom life of Alice Huang, alleged Chinese spy who had affair with Nvidia CEO",
-                  "url": "https://www.washingtonpost.com/world/2026/11/10/phantom-life-alice-huang-alleged-chinese-spy-who-had-an-affair-with-nvidia-ceo/",
+                  "headline": "Nvidia board weighs fate of CEO Jensen Huang after affair with alleged Chinese spy",
+                  "url": "https://www.washingtonpost.com/technology/2026/11/11/nvidia-board-weighs-fate-jensen-huang-after-affair-with-alleged-spy/",
                   "eng": "",
-                  "body": "엔비디아 CEO와 불륜 관계였던 중국 스파이 의혹의 앨리스 황의 '유령 같은 삶'이 드러났다. 상하이 금융계에서 활동하며 쌓아온 경력이 조명받고 있다."
+                  "body": "엔비디아 이사회가 중국 스파이 의혹 여성과 불륜 관계를 인정한 젠슨 황 CEO의 거취를 논의했다. 이후 황 CEO는 사임으로 수렴했다."
                 },
                 {
-                  "headline": "White House warns Dems planned Trump investigations",
-                  "url": "https://www.washingtonpost.com/politics/2026/11/11/trump-elections-hegseth-schumer/71abf8ee-ddd4-11f1-912c-4fbb80d73f7f_story.html",
+                  "headline": "Trump says no deal needed with Iran, closes down Vance negotiations",
+                  "url": "https://www.washingtonpost.com/politics/2026/11/12/trump-shuts-down-vance-iran-negotiating-efforts-says-no-deal-needed/",
                   "eng": "",
-                  "body": "백악관이 민주당이 계획 중인 트럼프 관련 조사에 대해 경고하고 나섰다. 의회 장악을 앞둔 민주당과 백악관 간 대치가 예고된다."
+                  "body": "트럼프 대통령이 이란과의 협상이 필요 없다며 밴스 부통령의 협상 노력을 중단시켰다. 중동 긴장이 다시 고조될 조짐이다."
                 }
               ]
             },
@@ -559,16 +559,16 @@
               "label": "2면",
               "articles": [
                 {
+                  "headline": "The phantom life of Alice Huang, alleged Chinese spy who had affair with Nvidia CEO",
+                  "url": "https://www.washingtonpost.com/world/2026/11/10/phantom-life-alice-huang-alleged-chinese-spy-who-had-an-affair-with-nvidia-ceo/",
+                  "eng": "",
+                  "body": "엔비디아 CEO와 불륜 관계였던 중국 스파이 의혹의 앨리스 황의 '유령 같은 삶'이 드러났다. 상하이 금융계에서 활동하며 쌓아온 경력이 조명받고 있다."
+                },
+                {
                   "headline": "Hegseth impeachment effort is blocked by House Republicans",
                   "url": "https://www.washingtonpost.com/national-security/2026/11/10/hegseth-defends-his-record-iran-war-impeachment-vote-looms/",
                   "eng": "",
                   "body": "피트 헤그세스 국방장관에 대한 탄핵 시도가 하원 공화당에 의해 저지됐다. 이란 전쟁 수행을 둘러싼 책임 공방이 이어지고 있다."
-                },
-                {
-                  "headline": "Data center poster child strikes back",
-                  "url": "https://www.washingtonpost.com/wp-intelligence/ai-tech-brief/2026/11/11/data-center-poster-child-strikes-back/",
-                  "eng": "",
-                  "body": "AI 데이터센터의 대표주자로 꼽히는 코어위브가 실적 서프라이즈로 반격에 나섰다. AI 인프라 수요에 대한 회의론을 정면으로 반박했다."
                 }
               ]
             },
@@ -576,16 +576,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "Mississippi reaches deadline to count Senate ballots; Democrat still has lead",
-                  "url": "https://www.washingtonpost.com/politics/2026/11/09/mississippi-senate-race-ballot-deadline-looms-scott-colom-lead-grows/",
+                  "headline": "Scott Colom seals historic Senate victory in Mississippi",
+                  "url": "https://www.washingtonpost.com/politics/2026/11/11/democrat-scott-colom-wins-mississippi-senate-race/",
                   "eng": "",
-                  "body": "미시시피주가 상원 선거 개표 마감 시한을 맞이한 가운데 민주당 후보가 여전히 우위를 유지하고 있다. 블루 웨이브의 마지막 퍼즐로 주목받고 있다."
+                  "body": "스콧 콜롬이 미시시피에서 역사적인 상원 선거 승리를 확정했다. 재건 시대 이후 첫 흑인 상원의원이 될 전망이다."
                 },
                 {
-                  "headline": "Flying by pricey military jet, Rubio rarely misses a Florida football game",
-                  "url": "https://www.washingtonpost.com/politics/2026/11/11/flying-by-pricey-military-jet-marco-rubio-never-misses-florida-game/",
+                  "headline": "Russian ambassador to U.S. dies in Moscow of 'chronic illness'",
+                  "url": "https://www.washingtonpost.com/world/2026/11/11/russian-ambassador-us-dies-moscow-chronic-illness-foreign-ministry-says/",
                   "eng": "",
-                  "body": "마르코 루비오 상원의원이 고가의 군용 제트기를 타고 플로리다 미식축구 경기를 거의 빠짐없이 관람한다는 보도가 나왔다."
+                  "body": "주미 러시아 대사가 모스크바에서 '만성 질환'으로 사망했다고 러시아 외무부가 밝혔다. 북미 담당 외교관 출신으로 2025년 3월 대사로 임명됐다."
                 }
               ]
             }
@@ -599,16 +599,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "Nvidia hires former US prosecutor at Wachtell to lead Jensen Huang probe",
-                  "url": "https://www.ft.com/content/8d59bf02-960e-4eb1-b5dc-55397e31cea5",
+                  "headline": "Nvidia live: Jensen Huang resigns as chief executive after affair allegations",
+                  "url": "https://www.ft.com/content/b4a0f3d9-f075-47ea-9a85-77cdade9a06f",
                   "eng": "",
-                  "body": "엔비디아가 워치텔 립턴의 전직 연방검사 준 김을 기용해 젠슨 황 CEO의 불륜·스파이 의혹 조사를 이끌게 했다. 이사회 차원의 독립 조사가 본격화하고 있다."
+                  "body": "젠슨 황이 두 차례 혼외 관계 폭로 이후 엔비디아 CEO직에서 사임했다. CFO 콜레트 크레스가 임시 CEO를 맡고 이사회가 후임을 물색한다."
                 },
                 {
-                  "headline": "US tech stocks rally as AI trade revives",
-                  "url": "https://www.ft.com/content/639de881-6017-454f-abfa-cfb191d1e7cd",
+                  "headline": "Meet the contenders to succeed Jensen Huang",
+                  "url": "https://www.ft.com/content/6f21835f-97a1-4f7a-bbb8-f38609998909",
                   "eng": "",
-                  "body": "AI 트레이드가 되살아나며 미국 기술주가 반등했다. 코어위브 실적이 AI 투자 우려를 완화하며 매수세를 불러일으켰다."
+                  "body": "젠슨 황의 후임으로 거론되는 인물들을 조명한다. 임시 CEO 콜레트 크레스와 트럼프가 지목한 팀 쿡 등이 후보로 거론된다."
                 }
               ]
             },
@@ -616,16 +616,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "Anthropic targets valuation of up to $1.4tn in IPO",
-                  "url": "https://www.ft.com/content/5654e210-4be3-4550-b975-129c9a2e7fe5",
-                  "eng": "",
-                  "body": "앤스로픽이 IPO에서 최대 1조4,000억 달러 밸류에이션을 목표로 하고 있다. AI 상장의 최대 규모 시험대가 될 전망이다."
-                },
-                {
                   "headline": "Treasuries slide as 'hot' inflation sparks bets on Fed rate rise",
                   "url": "https://www.ft.com/content/8b564134-dea6-4272-8ede-e0b12ef5aebd",
                   "eng": "",
                   "body": "'뜨거운' 인플레이션 지표에 미국 국채가 하락하고 연준 금리 인상 베팅이 강해졌다. 물가 상승 압력이 통화정책 경로를 바꾸고 있다."
+                },
+                {
+                  "headline": "Russian diesel exports double after Trump lifts sanctions, but US gets none",
+                  "url": "https://www.ft.com/content/525b53ee-4817-4eb6-8292-b6ee0ac45b47",
+                  "eng": "",
+                  "body": "트럼프 행정부의 제재 해제로 러시아 디젤 수출이 두 배로 늘었지만 미국에는 공급되지 않고 있다. 글로벌 에너지 시장의 재편이 진행 중이다."
                 }
               ]
             },
@@ -633,16 +633,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "Senior US soldier arrested in UK on suspicion of spying for Russia",
-                  "url": "https://www.ft.com/content/94aa4846-58c6-4c17-b25a-095f122b4809",
+                  "headline": "US tech stocks fall as Nvidia rout spurs rotation into broader stocks",
+                  "url": "https://www.ft.com/",
                   "eng": "",
-                  "body": "영국에서 러시아 간첩 혐의로 미군 고위 병사가 체포됐다. 서방을 겨냥한 러시아 정보 활동에 대한 우려가 커지고 있다."
+                  "body": "엔비디아 매도세가 오히려 더 넓은 범위의 종목으로 로테이션을 촉발하며 미국 기술주가 하락했다. AI 투자심리 재편이 진행 중이다."
                 },
                 {
-                  "headline": "Oil falls below $90 as Trump pulls back from threat to strike Iran",
+                  "headline": "Oil rebounds as Trump shuts down Vance's Iran negotiations",
                   "url": "https://www.ft.com/content/07bdb58c-4557-4def-b8cb-db9be304fd72",
                   "eng": "",
-                  "body": "트럼프 대통령이 이란 타격 위협을 철회하며 유가가 90달러 아래로 하락했다. 중동 긴장 완화 기대가 원유 시장에 반영되고 있다."
+                  "body": "트럼프 대통령이 밴스 부통령의 이란 협상을 중단시키며 유가가 반등했다. 중동 긴장 재고조 가능성이 원유 시장에 반영되고 있다."
                 }
               ]
             }
