@@ -1,129 +1,129 @@
 {
-  "date": "2026-11-19",
-  "dateLabel": "2026년 11월 19일(목요일)",
-  "generatedAt": "2026-11-19T07:21:10+09:00",
+  "date": "2026-11-20",
+  "dateLabel": "2026년 11월 20일(금요일)",
+  "generatedAt": "2026-11-20T07:20:09+09:00",
   "ticker": [
     {
       "name": "KOSPI",
-      "value": "5,067.44",
-      "change": "▲1.99%",
+      "value": "5,137.89",
+      "change": "▲1.39%",
       "dir": "up"
     },
     {
       "name": "KOSDAQ",
-      "value": "662.81",
-      "change": "▲1.96%",
+      "value": "684.81",
+      "change": "▲3.32%",
       "dir": "up"
     },
     {
       "name": "S&P 500",
-      "value": "~7,340",
-      "change": "▼0.2%",
+      "value": "~7,199.63",
+      "change": "▼2.0%",
       "dir": "down"
     },
     {
       "name": "나스닥",
-      "value": "24,426.97",
-      "change": "▲0.41%",
-      "dir": "up"
+      "value": "~23,890",
+      "change": "▼2.21%",
+      "dir": "down"
     },
     {
       "name": "다우",
-      "value": "~50,350",
-      "change": "▼0.8%",
+      "value": "49,186.91",
+      "change": "▼2.01%",
       "dir": "down"
     },
     {
       "name": "원/달러",
-      "value": "1,334.65",
+      "value": "1,330.0",
       "change": "▼ 원화 소폭 강세",
       "dir": "down"
     }
   ],
   "keywords": [
     {
-      "label": "① 코스피 5,067(+1.99%) 하루 만에 5,000선 회복 — 엔비디아 깜짝 실적에 반도체 반등",
-      "desc": "5거래일 만의 반등. 장중 고가 5,133·저가 4,943 등락 컸지만 5,067 마감. SK하이닉스 +4.19%·삼성전자 +2.31%·삼성전기 +7.43% 강세"
+      "label": "① 수출 사상 첫 '1조 달러' 돌파 — 미국·독일·중국 이어 세계 4번째",
+      "desc": "11/19 14:09 누적 수출액 1조 달러 돌파(산업부). 1964년 1억 달러 이후 62년 만에 1만배. 반도체·자동차·조선 견인, 코스피 5,000선 방어의 심리적 지지 요인"
     },
     {
-      "label": "② 엔비디아 3분기 매출 $115.8B(+103% YoY) 서프라이즈 — 4분기 가이던스 $130B",
-      "desc": "시장 예상 상회. 중국향 Hopper 매출 $2.3B 선방. 다만 이사회 '젠슨 황 복귀 불허' 공식화, 장후 +3~4%"
+      "label": "② 앤트로픽 IPO 첫날 $97.17(+17.1%) — 시총 $2조 돌파 후 차익매물 출회",
+      "desc": "공모가 $83(9.8억주, $81.3억 조달) 역대 최대 IPO. 시초가 $111.50(+34%), 장중 $115.10 고점 후 종가 $97.17. 완전희석 시총 약 $1.75조"
     },
     {
-      "label": "③ 앤트로픽 오늘(11/19) 나스닥 상장(티커 ANT) — 'AI 네이티브' 최초 대형 IPO",
-      "desc": "기업가치 $1.3~1.45조, 8.25억주 상장, 빅테크 7개사 각 $260억 참여. AI 밸류에이션 리트머스 시험지"
+      "label": "③ 한한령 완화 기대 확산 — 한중 FTA 서비스·투자 후속협상 실질 타결",
+      "desc": "李-시진핑 APEC 정상회담서 8년 만에 타결. 엔터·면세점·항공·화장품주 동반 강세. 노랑풍선 상한가 등 여행주 들썩"
     },
     {
-      "label": "④ APEC: 이재명-시진핑 3차 정상회담·푸틴 10여분 회동 — 한한령 해제 진전",
-      "desc": "한중 FTA 후속협상·K팝 공연 협의 채널 논의. 트럼프도 선전 도착, 미중 정상회담 가능성"
+      "label": "④ 美 증시 AI 테마 피로감 — 다우 6월 이후 처음 50,000선 하회",
+      "desc": "S&P 500 5일 연속 하락(이번 주 -3%). 나스닥 52주 신저 438개 vs 신고 25개. 굴스비 총재 'AI 과열 가능성' 경고"
     },
     {
-      "label": "⑤ 오늘 수능일 — AI 부정행위 차단 비상, 전파 탐지·차단 현실적 한계",
-      "desc": "전국 시험장 긴장 속 진행. 수능일엔 증시 오전 10시 개장(1시간 늦춤)"
+      "label": "⑤ 한은 11월 금통위 D-6(11/26) — '빅스텝(50bp)' 인상폭 논쟁",
+      "desc": "기준금리 3.00%에서 3.25% 인상 전망 우세. 美 연준 월러 이사 50bp 인상 가능성 언급, CPI 상회. 최종 기준금리 3.50~3.75% 관측"
     }
   ],
   "morning": {
-    "date": "2026-11-19",
-    "headline": "코스피 5,067(+1.99%) 하루 만에 5,000선 회복·코스닥 662.81(+1.96%), 엔비디아 깜짝 실적(매출 $115.8B·+103% YoY)에 반도체 반등. 앤트로픽 오늘 나스닥 상장(ANT). 이재명-시진핑 3차 정상회담·푸틴 회동. 오늘 수능일",
-    "weather": "☀️ Clear · 0°C (체감 -3°C) · 습도 54% · 바람 12km/h — 수능 한파, 두툼한 겉옷 챙기세요",
-    "schedule": "📅 목요일(수능일) — 오늘 일정: 전국 수능(오전 10시 증시 개장). 오늘 포커스: [Z-P3] 세부사업계획 2차리뷰(밀림 해소) + [Z-P1] 근태현황 자료 검토 및 일일출퇴근 체크 도입 방안보고 + [Z-P14] ERP 임대차관리 엑셀 배포.",
+    "date": "2026-11-20",
+    "headline": "코스피 5,137.89(+1.39%) 이틀 연속 상승·코스닥 684.81(+3.32%), 수출 사상 첫 '1조 달러' 돌파(세계 4번째)와 한한령 완화 기대에 반도체·엔터주 반등. 앤트로픽 IPO 첫날 시총 $2조 돌파 후 차익매물(종가 $97.17, +17.1%), 美 3대 지수 일제 급락(다우 -2.01%·S&P -2.0%·나스닥 -2.21%)",
+    "weather": "☀️ 맑음 · -2°C (체감 -7°C) · 습도 51% · 바람 12km/h — 아침 영하권 강추위, 두툼한 외투 챙기세요",
+    "schedule": "📅 금요일 — 오늘 일정: 15:00 다음날 일정 체크 · 21:00 일기·주간관리. 오늘 포커스: [Z-P1] 근태현황 검토 및 일일출퇴근 체크 도입 방안 보고 + [Z-P8] 위임전결 3단 가이드라인·회의록 양식 변경 회장님 보고.",
     "domestic": {
       "kospi": {
-        "value": "5,067.44",
-        "change": "▲ +1.99% (+98.96p)",
-        "changeRate": "+1.99%",
-        "rate": "+1.99%"
+        "value": "5,137.89",
+        "change": "▲ +1.39% (+70.45p)",
+        "changeRate": "+1.39%",
+        "rate": "+1.39%"
       },
       "kosdaq": {
-        "value": "662.81",
-        "change": "▲ +1.96% (+12.75p)",
-        "changeRate": "+1.96%",
-        "rate": "+1.96%"
+        "value": "684.81",
+        "change": "▲ +3.32% (+22.00p)",
+        "changeRate": "+3.32%",
+        "rate": "+3.32%"
       },
       "supply": {
-        "foreign": "외국인 4거래일째 순매도(-3,276억) — 다만 매도 규모 전일의 4분의 1로 급감",
-        "institution": "기관 순매수(+5,063억~5,492억) — 금융투자·연기금 매수 유입이 지수 반등 견인",
-        "individual": "개인 순매도(-6,359억) — 전일 순매수에서 방향 전환",
-        "usdkrw": "약 1,333원대 (전일比 -5.2원)",
-        "change": "원화 소폭 강세 — 달러/원 1,333.0원 (오후 주간거래 기준)"
+        "foreign": "외국인 코스피 4,055억 순매도 — 5거래일 연속 '팔자'",
+        "institution": "기관 코스피 +192억 순매수",
+        "individual": "코스닥 개인 +4억 순매수",
+        "usdkrw": "1,330.0원 (전일比 -3.0원)",
+        "change": "원화 소폭 강세 — 달러/원 1,330.0원"
       },
-      "comment": "수요일(11/18) 코스피는 엔비디아의 깜짝 실적(매출 $115.8B)에 힘입어 전 거래일 대비 98.96포인트(+1.99%) 오른 5,067.44로 마감하며 하루 만에 5,000선을 회복했다. 5거래일 만의 반등이다. 장 초반 5,133.14까지 치솟았다가 4,943.17까지 밀리는 등 변동성이 컸지만, 기관(금융투자·연기금) 매수세가 지수를 받쳐냈다. 외국인은 4거래일째 순매도(-3,276억)를 이어갔으나 매도 규모는 전일의 4분의 1로 축소됐다. SK하이닉스(+4.19%)·삼성전자(+2.31%)·삼성전기(+7.43%) 등 반도체·AI주가 반등을 주도했고, 코스닥도 12.75포인트(+1.96%) 오른 662.81로 마감했다. 오늘(11/19)은 앤트로픽 IPO와 수능일 개장 지연(오전 10시)이 변수다."
+      "comment": "목요일(11/19) 코스피는 전 거래일 대비 70.45포인트(+1.39%) 오른 5,137.89로 마감하며 이틀 연속 상승했다. 5,090선에서 개장해 장중 4,963까지 2% 밀리는 등 변동성이 컸지만 장 막판 반전해 고가 마감했다. 수출 사상 첫 1조 달러 돌파와 반도체 훈풍, 한한령 완화 기대가 심리적 지지선으로 작용했다. 삼성전자(+1.13%)·SK하이닉스(+3.41%) 등 반도체가 반등을 주도했고, 한한령 기대에 엔터주·항공주도 강세였다. 다만 외국인은 코스피에서 5거래일 연속 4,055억 순매도를 이어갔다. 코스닥도 22.00포인트(+3.32%) 오른 684.81로 마감했다."
     },
     "overseas": {
       "dow": {
-        "value": "~50,350",
-        "change": "▼ -0.8% (약 400p↓)",
-        "changeRate": "-0.8%"
+        "value": "49,186.91",
+        "change": "▼ -2.01% (-1,011.26p)",
+        "changeRate": "-2.01%"
       },
       "sp500": {
-        "value": "~7,340",
-        "change": "▼ -0.2% (보합권)",
-        "changeRate": "-0.2%"
+        "value": "~7,199.63",
+        "change": "▼ -2.0% (5일 연속 하락)",
+        "changeRate": "-2.0%"
       },
       "nasdaq": {
-        "value": "24,426.97",
-        "change": "▲ +0.41%",
-        "changeRate": "+0.41%"
+        "value": "~23,890",
+        "change": "▼ -2.21%",
+        "changeRate": "-2.21%"
       },
       "oil": {
-        "note": "WTI $85.71 보합 — 호르무즈 긴장·미 이란 케슘섬 타격에도 유가 보합권 유지"
+        "note": "WTI $84.17 (-2.1%) — 앤트로픽 상장 후 차익매물에 유가·금 동반 하락 (금 1년래 최저 $3,744)"
       },
-      "keyStocks": "수요일(11/18) 미국 증시는 엔비디아 실적 발표 후 혼조세로 마감했다. S&P 500 -0.2%(~7,340)·다우 -0.8%(~50,350)가 하락한 반면 나스닥은 +0.41%(24,426.97) 상승했다. 엔비디아는 정규장 -0.4%로 마감했으나 시간외에서 +3~4% 상승했다. 필라델피아 반도체 지수는 전일 +0.34%에 이어 혼조세를 보였다. 미국 10년물 금리는 5.10%(-1.8bp)로 소폭 하락했고, VIX는 24.67(-3.10%)로 안정됐다. 달러/원은 1,334.65원으로 보합세였다. 오늘(11/19) 앤트로픽의 나스닥 상장이 AI 섹터 전체의 향방을 가를 최대 이벤트다."
+      "keyStocks": "목요일(11/19) 미국 증시는 앤트로픽의 기록적 IPO에도 불구하고 3대 지수가 일제히 급락했다. 다우 -2.01%(49,186.91)·S&P 500 -2.0%(~7,199.63)·나스닥 -2.21%(~23,890). 앤트로픽은 공모가 $83 대비 +17.1%($97.17)로 첫날을 마쳤지만, 장 초반 $111.50(+34%)에 오픈해 시총 $2조까지 치솟았다가 차익실현 매물이 쏟아지며 'Sell the rally' 심리가 번졌다. S&P 500은 7,300 지지선을 이탈하며 5일 연속 하락, 이번 주에만 -3%. 다우는 6월 이후 처음으로 50,000선 아래에서 마감했다. 연준 굴스비 총재는 'AI 급증이 미국 역량에 부담, 경제 과열 가능성'을 경고했다. 원/달러는 1,330원(▼3원)."
     },
-    "topNews": "코스피 5,067(+1.99%) 하루 만에 5,000선 회복·코스닥 662.81(+1.96%), 엔비디아 깜짝 실적(매출 $115.8B·+103% YoY)에 반도체 반등. 앤트로픽 오늘 나스닥 상장(ANT). 이재명-시진핑 3차 정상회담·푸틴 회동. 오늘 수능일",
+    "topNews": "코스피 5,137.89(+1.39%) 이틀 연속 상승·코스닥 684.81(+3.32%), 수출 사상 첫 '1조 달러' 돌파(세계 4번째)와 한한령 완화 기대에 반도체·엔터주 반등. 앤트로픽 IPO 첫날 시총 $2조 돌파 후 차익매물(종가 $97.17, +17.1%), 美 3대 지수 일제 급락(다우 -2.01%·S&P -2.0%·나스닥 -2.21%)",
     "otherNews": [
-      "엔비디아 3분기 매출 $115.8B(+103% YoY) 서프라이즈 — 4분기 가이던스 $130B 제시",
-      "이사회, 젠슨 황 CEO 복귀 불허 공식화 — '정상 경영' 강조",
-      "앤트로픽 오늘 나스닥 상장(ANT) — 기업가치 $1.3~1.45조, 빅테크 7개사 각 $260억 참여",
-      "이재명-시진핑 3차 정상회담·푸틴 10여분 회동 — 한한령 해제 진전",
-      "트럼프, 선전 도착 — 시진핑·푸틴 3자 정상외교, 미중 정상회담 가능성",
-      "오늘 수능 — AI 부정행위 차단 비상, 전파 탐지·차단 현실적 한계"
+      "앤트로픽 사상 최대 IPO — 공모가 $83, 시초가 $111.50(+34%), 종가 $97.17(+17.1%), 장중 시총 $2조 돌파 후 차익매물",
+      "한국 수출 사상 첫 '1조 달러' 돌파 — 미국·독일·중국 이어 세계 4번째 (11/19 14:09)",
+      "'한한령'(限韓令) 완화 기대 확산 — 한중 FTA 서비스·투자 후속협상 실질 타결, 엔터·면세점·항공주 강세",
+      "美 증시 AI 테마 피로감 본격화 — 5거래일 연속 하락, 반도체·데이터센터·클라우드 전반 매물 출회",
+      "연준 굴스비 총재 'AI 과열 가능성' 경고 — AI 인프라 투자 급증이 인플레이션 압력",
+      "다우, 6월 이후 처음으로 50,000선 하회 마감"
     ],
     "email": {
       "google": "",
-      "note": "🟢 오늘 모닝브리핑 주요 뉴스는 코스피 5,000선 회복·엔비디아 깜짝 실적·앤트로픽 IPO·APEC 정상회담. 📧 제니엘 업무메일 신규 수신 언급 없음. 수능일이라 증시는 오전 10시 개장이니 참고하세요."
+      "note": "🟢 오늘 모닝브리핑 주요 뉴스는 수출 1조 달러 돌파·앤트로픽 IPO·한한령 완화 기대·美 증시 급락. 📧 제니엘 업무메일 신규 수신 언급 없음."
     },
-    "insight": "💡 형, 목요일 아침입니다. 어제 하루 만에 5,000선을 회복한 시장이 오늘 앤트로픽 IPO라는 대형 이벤트를 맞습니다.\\n\\n**시장:** 코스피가 5,067(+1.99%)로 하루 만에 5,000선을 되찾았습니다. 엔비디아의 깜짝 실적(매출 $115.8B, +103% YoY)이 반도체 반등을 이끌었고, SK하이닉스(+4.19%)·삼성전자(+2.31%)가 힘을 보탰습니다. 다만 외국인은 4거래일째 순매도(-3,276억)를 이어갔고, 반등을 이끈 건 기관 매수(+5,063억~5,492억)였습니다. 외국인 수급이 순매수로 돌아서야 반등 탄력이 붙는다는 게 시장의 공통 진단입니다.\\n\\n**관전 포인트:** 오늘(11/19)은 앤트로픽의 나스닥 상장(티커 ANT)이 최대 변수입니다. 기업가치 $1.3~1.45조로 평가되는 'AI 네이티브' 최초의 대형 IPO로, 성패에 따라 AI 섹터 전체의 밸류에이션 기준이 재편될 수 있습니다. 엔비디아 이사회의 '젠슨 황 복귀 불허'는 중장기 리스크로 남아 있고, IPO가 시장 유동성을 얼마나 흡수할지도 지켜봐야 합니다. 코스피는 장중 5,100선 테스트 가능성이 있습니다.\\n\\n**제니엘:** 어제(11/17) 밀린 업무들이 여전히 해소되지 않았습니다. 오늘은 **[Z-P3] 세부사업계획 2차리뷰** 해소가 최우선이고, **[Z-P1] 근태현황 자료 검토 및 일일출퇴근 체크 도입 방안보고**, **[Z-P14] ERP 임대차관리 엑셀 배포**까지 챙겨야 합니다. 오늘은 수능일이라 사회 전반이 조용하니, 밀린 업무 정리에 집중하기 좋은 날입니다.\\n\\n날씨는 0도(체감 -3도)로 수능 한파가 예상되니 두툼한 겉옷 챙기시고, 오늘도 화이팅입니다, 형! ☕️🔥"
+    "insight": "💡 형, 금요일 아침입니다. 어제 시장은 수출 1조 달러 돌파라는 큰 소식과 앤트로픽 IPO의 '엇갈린 첫날'이 동시에 펼쳐진 날이었습니다.\\n\\n**앤트로픽 IPO, '기대의 정점'이자 'AI 사이클 전환점'?** 상장 첫날 $111.50(+34%) 오픈은 기록적 성공이지만, 장중 차익실현이 쏟아지며 종가는 $97.17(+17.1%)로 상승폭을 반납했고 주요 지수가 동반 하락한 점이 인상적입니다. 'AI 열풍'이라는 내러티브가 시장에서 더 이상 무조건적인 프리미엄을 받지 못한다는 신호로 읽힙니다. 이전 같으면 앤트로픽의 성공적 데뷔가 AI 주 전반을 부양했겠지만, 오히려 '재료를 다 써버린' 느낌. 경쟁사 오픈AI가 IPO를 내년으로 연기한 결정에 시사하는 바가 클 것으로 보입니다.\\n\\n**코스피 5,000선 사수: 반도체가 받치고, 수출이 받치고, 한한령이 돕고.** 수출이 사상 첫 1조 달러를 돌파하며 세계 4대 수출 강국에 올라선 점은 긍정적이지만, 외국인이 5일째 4,000억대 순매도를 지속하고 있다는 점은 경계해야 할 신호입니다. 외인 이탈이 언제 진정될지, 기관·개인이 계속 받쳐줄 수 있을지가 11월 하순 코스피 방향성을 결정할 전망입니다.\\n\\n**제니엘 오늘: 보고 밀도 높은 금요일.** ⚠️밀린 일이 10건 이상 — 특히 Z-P3(그룹본부 리뷰)·Z-P15(조직개편)·Z-P8(회의록 양식)·Z-P13(CI가이드라인)은 오늘이 마지막 처리 기회일 수 있습니다. Z-P1(근태 출퇴근 체크 도입)과 Z-P5(승진 대상자 계획 공지)는 오늘 당장 실행해야 할 태스크. 주말 전에 '마무리할 것'과 '다음주로 넘길 것'을 명확히 구분하는 게 좋겠습니다.\\n\\n날씨는 아침 -2도(체감 -7도)로 영하권 강추위입니다. 두툼한 외투 챙기시고, 오늘도 화이팅입니다, 형! ☕️🔥"
   },
   "sections": {
     "kor": {
@@ -137,16 +137,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "코스피, 2% 오른 5,067 마감…하루 만에 '5천피' 탈환",
-                  "url": "https://stock.mk.co.kr/news/view/1201664",
-                  "eng": "KOSPI jumps 2% to 5,067, reclaiming the 5,000 mark in a single day",
-                  "body": "엔비디아의 깜짝 3분기 실적에 힘입어 코스피가 전 거래일보다 1.99% 오른 5,067.44로 마감하며 하루 만에 5,000선을 되찾았다. 5거래일 만의 반등으로, 반도체주가 강세를 주도했다."
+                  "headline": "'한번에 50bp 올리자'…금통위 D-6, 빅스텝 논쟁 본격화",
+                  "url": "https://www.mk.co.kr/article/12209158",
+                  "eng": "Bank of Korea rate debate heats up over a possible 50bp 'big step' hike",
+                  "body": "11월 26일 금융통화위원회를 앞두고 기준금리 인상폭을 둘러싼 논쟁이 격화하고 있다. 美 연준 월러 이사가 0.50%포인트 인상 가능성을 언급하고 CPI가 예상을 웃돌면서 '빅스텝' 가능성까지 거론된다. 현재 기준금리는 3.00%로, 3.25% 인상 전망이 우세하다."
                 },
                 {
-                  "headline": "엔비디아 '깜짝 실적'…매출 $115.8B, 4분기 가이던스 $130B",
-                  "url": "https://www.mk.co.kr/news/stock/",
-                  "eng": "Nvidia blows past estimates with $115.8B revenue, guides $130B for Q4",
-                  "body": "엔비디아가 시장 예상을 크게 웃도는 3분기 매출 1158억 달러(+103% YoY)를 발표했다. 4분기 가이던스는 1300억 달러로 제시하며 AI 수요가 여전히 견고함을 시사했다."
+                  "headline": "K수출 '1조달러 시대' 개막…세계 4번째 쾌거",
+                  "url": "https://www.mk.co.kr/news/economy/",
+                  "eng": "South Korea opens a '$1 trillion export era' as the world's 4th",
+                  "body": "산업통상부는 19일 오후 2시 9분 38초 기준 연간 누적 수출액이 1조 달러를 돌파했다고 밝혔다. 미국·독일·중국에 이어 세계 4번째다. 반도체·자동차·조선이 견인했고, 1964년 1억 달러 달성 이후 62년 만에 1만배로 커졌다."
                 }
               ]
             },
@@ -154,16 +154,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "젠슨 황 복귀 불허 공식화…이사회 '정상 경영' 강조",
-                  "url": "https://www.mk.co.kr/news/stock/",
-                  "eng": "Nvidia board formally rules out Jensen Huang's return, stresses 'normal management'",
-                  "body": "엔비디아 이사회가 젠슨 황 전 CEO의 복귀를 허용하지 않는다는 입장을 공식화했다. 이사회는 '정상 경영'을 강조했지만 투자자들의 반응은 복잡하다."
+                  "headline": "2026 코스피 전망 '3200~5000'…반도체·AI가 핵심 변수",
+                  "url": "https://mk.co.kr/news/culture/11486566",
+                  "eng": "Brokerages see 2026 KOSPI band of 3,200~5,000 on chips and AI",
+                  "body": "국내 증권가가 내놓은 2026년 코스피 예상 밴드는 3200~5000으로 나타났다. KB증권은 하반기 5000, 2027년 상반기 7500까지 상승할 수 있다는 초강세 전망을 내놨다. 반도체 이익 증가와 AI 투자 사이클이 핵심 변수로 꼽힌다."
                 },
                 {
-                  "headline": "삼전닉스 모처럼 날았다…SK하이닉스 +4.19%·삼성전자 +2.31%",
+                  "headline": "수능일 '증시 한파' 없었다…코스피 70.45p↑ 고가 마감",
                   "url": "https://www.mk.co.kr/news/stock/",
-                  "eng": "Samsung, SK Hynix rally on Nvidia relief as SK Hynix jumps 4.19%",
-                  "body": "엔비디아 호실적에 국내 반도체 대장주가 일제히 반등했다. SK하이닉스 4.19%, 삼성전자 2.31%, 삼성전기 7.43% 상승하며 지수 반등을 견인했다."
+                  "eng": "No market chill on exam day as KOSPI closes up 70.45 points at highs",
+                  "body": "수능일인 19일 코스피가 등락 끝에 전장 대비 70.45포인트(1.39%) 오른 5,137.89로 고가 마감했다. 한한령 완화 기대에 노랑풍선 상한가 등 여행·화장품·엔터주가 모처럼 들썩였다."
                 }
               ]
             },
@@ -171,16 +171,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "앤트로픽 오늘 나스닥 상장…'AI 네이티브' 최초 대형 IPO",
-                  "url": "https://www.mk.co.kr/news/stock/",
-                  "eng": "Anthropic lists on Nasdaq today in first major 'AI-native' IPO",
-                  "body": "앤트로픽이 19일 나스닥에 상장한다. 기업가치 1.3조~1.45조 달러로 평가되는 'AI 네이티브' 기업 최초의 대형 IPO로, AI 섹터 밸류에이션의 시험대가 될 전망이다."
+                  "headline": "앤트로픽 IPO 첫날 시총 $2조…차익매물에 상승폭 반납",
+                  "url": "https://www.mk.co.kr/news/global/",
+                  "eng": "Anthropic briefly hits $2tn in debut before paring gains",
+                  "body": "앤트로픽이 19일 나스닥 상장 첫날 시초가 $111.50(+34%)로 개장하며 시총 $2조를 넘어섰지만, 장중 차익실현 매물이 쏟아지며 종가는 $97.17(+17.1%)로 마감했다. 역대 최대 IPO로 9800만주를 $83에 발행해 약 813억 달러를 조달했다."
                 },
                 {
-                  "headline": "수능 재난문자 '이 폰' 쓰면 우회 가능…증시 오전 10시 개장",
-                  "url": "https://www.mk.co.kr/news/society/",
-                  "eng": "College exam emergency alerts bypassed on some phones; market opens at 10 a.m.",
-                  "body": "수능일을 맞아 일부 단말기에서 재난문자를 우회할 수 있다는 논란이 제기됐다. 한편 수능일 증시는 평소보다 1시간 늦은 오전 10시에 개장한다."
+                  "headline": "주담대 금리 4.44~6.51%…빚 1200조 시대 '한숨'",
+                  "url": "https://www.mk.co.kr/news/economy/",
+                  "eng": "Mortgage rates at 4.44~6.51% weigh on borrowers",
+                  "body": "5대 시중은행 주택담보대출 변동형(6개월) 금리가 연 4.44~6.51%까지 올랐다. 기준금리 추가 인상 전망에 차주와 은행 모두 건전성 관리 부담이 커지고 있다."
                 }
               ]
             }
@@ -194,16 +194,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "이 대통령, 푸틴과 10여분 회동…'한반도 정세 악화 방지' 의견",
-                  "url": "https://www.khan.co.kr/article/202611190701001",
-                  "eng": "President Lee holds 10-minute meeting with Putin on preventing Korean Peninsula deterioration",
-                  "body": "이재명 대통령이 18일(현지시간) 블라디미르 푸틴 러시아 대통령과 회동하고, 양국 간 문제가 없는 영역에서 협력 여지를 찾으며 한반도 정세 악화 방지에 뜻을 모았다."
+                  "headline": "10년 만에 한한령 빗장 풀린다…한중 FTA 후속협상 타결",
+                  "url": "https://www.khan.co.kr/politics/",
+                  "eng": "Hallyu ban set to lift after a decade as Korea-China FTA follow-up talks conclude",
+                  "body": "이재명 대통령과 시진핑 주석이 18일 APEC 정상회담에서 한중 FTA 서비스·투자 후속협상을 8년 만에 실질 타결했다. 이 대통령의 '문화·콘텐츠 교류 확대' 제안에 시 주석이 화답하면서 한한령 해제 기대가 커졌다."
                 },
                 {
-                  "headline": "청와대 '한한령 해제 진전'…이 대통령, 시진핑에 '바둑 한번 둡시다'",
-                  "url": "https://www.khan.co.kr/article/202611190701021",
-                  "eng": "Blue House cites progress on lifting Hallyu ban; Lee invites Xi to a game of Go",
-                  "body": "청와대는 한한령 해제에 진전이 있었고 K팝 공연 협의 채널도 열렸다고 밝혔다. 이재명 대통령은 시진핑 주석에게 '바둑 한번 둡시다'라며 우호 분위기를 조성했다."
+                  "headline": "허구연 KBO 총재 3연임 확정…임기 2029년까지",
+                  "url": "https://www.khan.co.kr/",
+                  "eng": "KBO commissioner Heo Gu-yeon wins third term through 2029",
+                  "body": "KBO가 19일 허구연 현 총재를 제26대 총재로 선출했다고 밝혔다. 허 총재는 서면 표결에서 재적회원 4분의 3 이상 찬성 조건을 충족해 세 번째 임기를 시작하게 됐다."
                 }
               ]
             },
@@ -211,16 +211,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "양극화도, 월급도, 증시도…경제현안마다 TF 꾸리는 정부",
-                  "url": "https://www.khan.co.kr/article/202611190600041",
-                  "eng": "Government launches task forces for every economic issue from polarization to stocks",
-                  "body": "정부가 양극화 대응, 생활비 부담 완화, 자본시장 개혁 등 주요 경제 현안을 다루는 범정부 태스크포스(TF)를 잇따라 꾸리고 있다. 실효성에 대한 의문도 제기된다."
+                  "headline": "케임브리지 '올해의 단어'는 '휴먼(human)'…AI 시대 인간성 성찰",
+                  "url": "https://khan.co.kr/opinion",
+                  "eng": "Cambridge picks 'human' as word of the year in the age of AI",
+                  "body": "케임브리지 사전이 2026년 올해의 단어로 '휴먼(human)'을 선정했다. 사전 편집자들은 AI가 인간과 기계의 경계를 모호하게 만드는 가운데 '인간이 만든(human-made)' '인간이 쓴(human-written)' 같은 합성어 표현이 늘어난 데 주목했다."
                 },
                 {
-                  "headline": "엔비디아에 울고 웃는 코스피…5000선 하루 만에 회복",
-                  "url": "https://www.khan.co.kr/article/202611181609001",
-                  "eng": "KOSPI rises and falls on Nvidia, reclaiming 5,000 in a day",
-                  "body": "전날 엔비디아발 악재에 9개월 만에 5,000 아래로 내려갔던 코스피가 하루 만에 5,000선을 되찾았다. 엔비디아가 시장 예상을 웃도는 실적을 내놓자 반도체주가 반등했다."
+                  "headline": "트럼프-김정은 연내 정상회담 추진…APEC 선전에 쏠린 눈",
+                  "url": "https://www.khan.co.kr/politics/",
+                  "eng": "Trump eyes year-end summit with Kim as eyes turn to Shenzhen APEC",
+                  "body": "도널드 트럼프 미국 대통령이 김정은 북한 국무위원장을 연내 만날 계획이라고 밝히면서 국제사회의 시선이 11월 APEC 정상회의가 열리는 중국 선전으로 쏠렸다."
                 }
               ]
             },
@@ -228,16 +228,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "'김민석 당도 정청래 당도 아냐'…여당 중진들 잇단 쓴소리",
-                  "url": "https://www.khan.co.kr/article/202611190600021",
-                  "eng": "Ruling party veterans criticize factional infighting over party leadership",
-                  "body": "신천지 집단입당 의혹 처리와 최고위원 징계를 둘러싼 자중지란이 이어지는 가운데, 여당 중진들이 김민석 대표와 정청래 의원이 만나 상황을 수습해야 한다고 쓴소리를 냈다."
+                  "headline": "[날씨] 아침 최저 영하 6도…내일까지 곳곳 눈·비",
+                  "url": "https://khan.co.kr/article/202611192130015",
+                  "eng": "Weather: morning lows near -6C with snow and rain through tomorrow",
+                  "body": "20일 아침 최저기온이 영하 6도까지 떨어지는 등 강추위가 이어지고, 내일까지 곳곳에 눈이나 비가 내릴 전망이다. 빙판길 안전에 유의해야 한다."
                 },
                 {
-                  "headline": "[김용민의 그림마당] 2026년 11월 19일",
-                  "url": "https://www.khan.co.kr/article/202611182121035/amp",
-                  "eng": "Kim Yong-min's cartoon corner, Nov 19, 2026",
-                  "body": "김용민 화백의 시사만평이 APEC 정상외교와 앤트로픽 IPO로 요동치는 한반도와 AI 산업의 흐름을 풍자했다."
+                  "headline": "전북도 농촌관광 위탁사업비 86%, 차량 구매·유지비로",
+                  "url": "https://www.khan.co.kr/politics/",
+                  "eng": "86% of North Jeolla rural-tourism budget went to vehicles and upkeep",
+                  "body": "전북도가 농촌관광 활성화를 위해 편성한 위탁사업비의 86%가 민간 위탁기관의 차량 구매와 유지비로 쓰인 것으로 나타났다. 예산 집행 적정성 확인 없이 지원 비율까지 높여 논란이 일고 있다."
                 }
               ]
             }
@@ -251,16 +251,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "코스피 5,000선 하루 만에 회복…엔비디아 호실적에 반도체 반등",
+                  "headline": "수출 1조 달러 돌파…獨·美·中 이어 세계 4번째",
                   "url": "https://www.donga.com/news/Economy/",
-                  "eng": "KOSPI reclaims 5,000 in a day as Nvidia's strong results lift chips",
-                  "body": "코스피가 엔비디아의 시장 예상 상회 실적에 힘입어 하루 만에 5,000선을 회복했다. 반도체·AI주가 동반 상승하며 투자심리가 살아나는 모습을 보였다."
+                  "eng": "Exports top $1 trillion, 4th after Germany, U.S. and China",
+                  "body": "한국이 독일·미국·중국에 이어 세계 4번째로 연간 수출 1조 달러를 달성했다. AI 반도체 수출 급증과 주요 품목의 최대 실적이 성장을 견인했고, 정부는 세계 수출 4위 도약을 기대하고 있다."
                 },
                 {
-                  "headline": "이재명 대통령, APEC서 시진핑·푸틴 연쇄 회담",
+                  "headline": "李대통령, APEC서 한한령 해법 안고 귀국…아세안·APEC 일정 종료",
                   "url": "https://www.donga.com/news/Politics/",
-                  "eng": "President Lee holds back-to-back talks with Xi and Putin at APEC",
-                  "body": "이재명 대통령이 중국 선전 APEC 정상회의 계기로 시진핑 주석과 3차 정상회담을 하고 푸틴 러시아 대통령과도 별도 회동을 가졌다. 한중·한러 관계 개선이 핵심 의제였다."
+                  "eng": "President Lee returns with progress on lifting Hallyu ban after APEC",
+                  "body": "이재명 대통령이 3박 4일의 아세안·APEC 일정을 마치고 귀국길에 올랐다. 한중 FTA 서비스·투자 후속협상의 실질 타결을 이끌며 한한령 해제에 다가서는 성과를 거뒀다."
                 }
               ]
             },
@@ -268,16 +268,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "사관학교 통합 넉달 혼란…'육사만 충청권으로 이전'",
-                  "url": "https://www.donga.com/news/Society/List_03",
-                  "eng": "Four months of chaos over military academy merger; only KMA to relocate to Chungcheong",
-                  "body": "사관학교 통합을 둘러싼 혼란이 넉 달째 이어지는 가운데, 육군사관학교만 충청권으로 이전하는 방안이 검토되고 있다. 입지와 정체성 논란이 계속되고 있다."
+                  "headline": "[사설] AI가 뒤흔든 지식노동…공인시험제도 전면 개편 불가피",
+                  "url": "https://www.donga.com/news/Opinion/article/all/20261118/135050632/2",
+                  "eng": "Editorial: AI upends knowledge work, forcing overhaul of exam system",
+                  "body": "올해 세무사 시험 수석 합격자가 사람이 아닌 AI였다는 사실은 지식노동의 판이 바뀌고 있음을 보여준다. 초소형 카메라와 스마트안경으로 자격증 진입 장벽이 무력화되는 시대, 공인시험제도의 전면 개편이 불가피하다는 사설이다."
                 },
                 {
-                  "headline": "경제계, 기업구조조정촉진법 일몰 연장·상시화 촉구",
-                  "url": "https://www.donga.com/news/Society/List_03",
-                  "eng": "Business groups urge extension or permanence of corporate restructuring law",
-                  "body": "경제계가 내달 26일 일몰을 앞둔 기업구조조정촉진법(기촉법)의 일몰 연장 또는 상시화를 촉구하고 나섰다. 일시적 유동성 위기 기업의 구조조정 수단으로 활용돼 왔다."
+                  "headline": "경찰 '리트 만점자 사망했지만 수사 계속'…작년 수능시험지 보존",
+                  "url": "https://donga.com/news/Society/article/all/20261119/135056584/1",
+                  "eng": "Police continue probe into LEET perfect scorer's death",
+                  "body": "경찰이 리트 만점자의 사망 사건과 관련해 수사를 계속하고 있다고 밝혔다. 지난해 수능 시험지는 보존되고 있는 것으로 전해졌다."
                 }
               ]
             },
@@ -285,16 +285,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "[지표로 보는 경제] 11월 19일 — 李 '中, 최혜국 대우 합의'",
-                  "url": "https://www.donga.com/news/Economy/article/all/20261118/135049414/2",
-                  "eng": "Economy by the numbers, Nov 19: Lee says China agreed to MFN treatment",
-                  "body": "주요 경제지표를 숫자로 정리한 코너. 이재명 대통령의 '중국, 최혜국 대우 합의' 발언과 한중 FTA 후속협상 동향, 증시·환율 흐름을 한눈에 보여준다."
+                  "headline": "월급 한 푼 안 쓰고 11년 8개월 모아야 서울 내 집",
+                  "url": "https://www.donga.com/news/article/all/20261117/135042512/2",
+                  "eng": "Seoul home takes 11 years and 8 months of full salary to afford",
+                  "body": "서울에서 내 집을 마련하려면 월급을 한 푼도 쓰지 않고 11년 8개월을 모아야 하는 것으로 나타났다. 높은 주택 가격과 금리 부담이 내 집 마련의 문턱을 높이고 있다."
                 },
                 {
-                  "headline": "수능일 AI 부정행위 차단 비상…전파 탐지·차단 한계 지적",
+                  "headline": "수능일 AI 부정행위 비상…전파 탐지·차단 한계 지적",
                   "url": "https://www.donga.com/news/Society/",
-                  "eng": "AI cheating alarms college exam; radio detection has practical limits",
-                  "body": "수능에서 AI를 활용한 부정행위 가능성이 제기되며 비상이 걸렸다. 다만 전파 탐지·차단에는 기술적·현실적 한계가 있어 대책 마련이 시급하다는 지적이 나온다."
+                  "eng": "AI cheating alarms college exam as radio detection has limits",
+                  "body": "2027학년도 수능에서 AI 부정행위 우려가 현실화되며 시험장이 긴장 속에 치러졌다. 다만 전파 탐지·차단에는 기술적·현실적 한계가 있어 대책 마련이 시급하다는 지적이 나온다."
                 }
               ]
             }
@@ -308,16 +308,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "엔비디아 호실적에 '5000피' 회복…삼전닉스 모처럼 날았다",
-                  "url": "https://www.hankyung.com/article/2026111837076",
-                  "eng": "KOSPI recovers the 5,000 mark on Nvidia results as chip giants rally",
-                  "body": "코스피지수가 18일 장 초반 3% 넘게 오르며 5,100선 위로 다시 올라섰다. 엔비디아 호실적에 반도체 대장주가 모처럼 큰 폭으로 반등하며 지수를 끌어올렸다."
+                  "headline": "수출 1조 달러 시대 개막…반도체 날개 달고 '수성전'",
+                  "url": "https://www.hankyung.com/economy/",
+                  "eng": "Korea enters $1 trillion export era, now in a defense game",
+                  "body": "대한민국 수출이 19일 사상 첫 1조 달러를 돌파하며 '1조 달러 시대'를 열었다. 반도체가 날개를 달아줬지만 거세진 중국의 추격 속에서 이제는 '수성전'이 시작됐다는 분석이다."
                 },
                 {
-                  "headline": "외국인 4거래일째 '팔자'…기관이 5,000선 지켜내",
+                  "headline": "'AI 투자심리·한한령 풀리나'…코스피 5,137.89 고가 마감",
                   "url": "https://www.hankyung.com/finance/",
-                  "eng": "Foreigners sell for a fourth day; institutions defend the 5,000 line",
-                  "body": "외국인이 4거래일째 순매도를 이어갔지만 기관(금융투자·연기금) 매수세가 유입되며 코스피가 5,000선을 회복했다. 외국인 매도 규모는 전일의 4분의 1로 축소됐다."
+                  "eng": "KOSPI closes at 5,137.89 as AI sentiment and Hallyu hopes revive",
+                  "body": "19일 코스피가 70.45포인트(1.39%) 오른 5,137.89로 고가 마감했다. AI 투자심리 회복과 한한령 해제 기대감이 겹치며 여행·화장품·엔터주가 모처럼 들썩였다."
                 }
               ]
             },
@@ -325,16 +325,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "앤트로픽 오늘 나스닥 상장…기업가치 최대 $1.45조",
-                  "url": "https://www.hankyung.com/finance/",
-                  "eng": "Anthropic lists on Nasdaq today at up to $1.45 trillion valuation",
-                  "body": "앤트로픽이 19일 나스닥에 상장한다. 기업가치는 희석 기준 1.3조~1.45조 달러로, AI 네이티브 기업 최초의 초대형 IPO가 될 전망이다."
+                  "headline": "'안경 대신 렌즈 끼고 갑니다'…노량진 학원가 가보니",
+                  "url": "https://www.hankyung.com/article/202611184622H",
+                  "eng": "Exam-day field report from Noryangjin cram school district",
+                  "body": "수능을 앞둔 노량진 학원가에서는 AI 부정행위 단속 강화로 안경 대신 렌즈를 끼고 가는 수험생들이 늘었다. 'AI 규제를 확실히 해준다면'이라며 담담한 수험생들의 목소리도 전해졌다."
                 },
                 {
-                  "headline": "달러/원 1,333원대…원화 소폭 강세",
-                  "url": "https://www.hankyung.com/finance/",
-                  "eng": "Dollar/won near 1,333 as won edges higher",
-                  "body": "달러/원 환율이 전일보다 5.2원 내린 1,333.0원으로 마감하며 원화가 소폭 강세를 보였다. 엔비디아 호실적에 따른 위험선호 회복이 환율에 반영됐다."
+                  "headline": "'AI 규제 확실히 해준다면'…담담한 수험생들",
+                  "url": "https://www.hankyung.com/society/",
+                  "eng": "Test takers stay calm, asking only for clear AI rules",
+                  "body": "AI 부정행위 우려로 혼란스러운 가운데 치러진 수능에서 수험생들은 규제만 명확하다면 담담하게 시험에 임하겠다는 반응을 보였다."
                 }
               ]
             },
@@ -342,16 +342,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "젠슨 황 복귀 불허…엔비디아 '정상 경영' 강조",
-                  "url": "https://www.hankyung.com/economy/",
-                  "eng": "Nvidia board bars Jensen Huang's return, stresses normal management",
-                  "body": "엔비디아 이사회가 젠슨 황 전 CEO의 복귀를 허용하지 않기로 공식화했다. 시장에서는 리더십 공백 장기화 우려와 '정상 경영'에 대한 기대가 교차하고 있다."
+                  "headline": "앤트로픽 IPO 첫날 $97.17(+17.1%)…美 증시는 급락",
+                  "url": "https://www.hankyung.com/global/",
+                  "eng": "Anthropic ends debut at $97.17 (+17.1%) while U.S. stocks tumble",
+                  "body": "앤트로픽이 상장 첫날 공모가 대비 17.1% 오른 $97.17로 마감했지만, 미국 3대 지수는 일제히 2% 안팎 급락했다. AI 테마에 대한 시장의 피로감이 앤트로픽의 성공적 데뷔에도 불구하고 이어졌다."
                 },
                 {
-                  "headline": "미 10년물 5.10%…고금리 부담 지속",
+                  "headline": "한은 11월 금통위 D-6…'빅스텝' 인상폭 논쟁",
                   "url": "https://www.hankyung.com/economy/",
-                  "eng": "US 10-year yield holds at 5.10%, keeping rate pressure alive",
-                  "body": "미국 10년물 국채 금리가 5.10%로 소폭 하락했지만 여전히 고금리 부담이 지속되고 있다. VIX는 24.67로 안정되며 시장 변동성은 다소 진정됐다."
+                  "eng": "BOK rate meeting in 6 days: debate over a 50bp 'big step'",
+                  "body": "한국은행 금융통화위원회가 오는 26일 기준금리 인상 여부를 결정한다. 물가와 성장률 전망 상향에 따라 3.25% 인상이 유력하지만, 주가 부진에 따른 가계 금융자산 감소를 감안하면 동결 가능성도 배제할 수 없다."
                 }
               ]
             }
@@ -370,16 +370,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "Trump Meets Xi Jinping and Putin in Shenzhen as Tariffs Loom",
-                  "url": "https://www.wsj.com/politics/",
+                  "headline": "Wall Street Pledged $500 Billion for Nvidia—But Hasn't Put Up a Dime",
+                  "url": "https://www.wsj.com/finance/wall-street-pledged-to-mobilize-500-billion-for-nvidiabut-hasnt-put-up-a-dime-1e41f276",
                   "eng": "",
-                  "body": "트럼프 대통령이 중국 선전에서 시진핑 주석·푸틴 대통령과 정상회담을 갖는다. 관세와 무역을 둘러싼 긴장 속에서 열리는 미·중·러 3자 정상외교가 세계 질서 재편의 분수령이 될 전망이다."
+                  "body": "월가는 엔비디아에 5000억 달러를 동원하겠다고 공언했지만 아직 한 푼도 투입하지 않았다. 젠슨 황 축출 이후 엔비디아의 미래를 둘러싼 불확실성이 자금 조달을 막고 있다는 분석이다."
                 },
                 {
-                  "headline": "Nvidia's Blowout Results Fail to Settle AI-Trade Debate",
-                  "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-18-2026",
+                  "headline": "Anthropic Jumps in Debut, But Tech Stocks Tumble and Gold Hits One-Year Low",
+                  "url": "https://wsj.com/finance/stocks/two-big-debuts-fail-to-boost-stocks-b68b79b1",
                   "eng": "",
-                  "body": "엔비디아가 깜짝 실적(매출 $115.8B)을 발표했지만 AI 거래 논쟁은 여전히 결론나지 않았다. 이사회의 젠슨 황 복귀 불허와 앤트로픽 IPO가 맞물리며 시장 방향성이 엇갈리고 있다."
+                  "body": "앤트로픽의 IPO가 성공적으로 데뷔했지만 랠리를 일으키지는 못했다. 나스닥 -2.3%, S&P 500 -2%, 다우 -1101p(-2.2%). 앤트로픽은 $83 공모가에서 17% 오른 수준으로 첫날을 마쳤고, 완전희석 기준 시총은 약 1.8조 달러였다."
                 }
               ]
             },
@@ -387,16 +387,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "Anthropic's IPO Set to Test Waning AI Trade",
-                  "url": "https://www.wsj.com/finance/investing/",
+                  "headline": "Nvidia Says It's 'Business as Usual.' Wall Street Doesn't Buy It.",
+                  "url": "https://www.wsj.com/finance/stocks/nvidia-says-its-business-as-usual-after-huangs-ouster-wall-street-doesnt-buy-it-954290c4",
                   "eng": "",
-                  "body": "앤트로픽의 대형 IPO가 냉각된 AI 거래의 시험대가 될 전망이다. 오늘 나스닥 상장을 앞두고 투자자들의 관심이 집중되고 있다."
+                  "body": "엔비디아가 젠슨 황 축출 이후 '정상 경영'을 강조하지만 월가는 이를 믿지 않고 있다. 리더십 공백과 AI 지출 둔화 우려가 맞물리며 주가 변동성이 커지고 있다."
                 },
                 {
-                  "headline": "Inside Xi Jinping's Grip on Power Ahead of Trump Talks",
-                  "url": "https://www.wsj.com/world/china/inside-xi-jinpings-grip-on-power-ahead-of-trump-talks-e383e2fd",
+                  "headline": "Elon Musk Feels Foolish for Midterms Spending, Says 'I'm Not MAGA'",
+                  "url": "https://www.wsj.com/politics/policy/elon-musk-feels-foolish-for-midterms-spending-says-im-not-maga-25838049",
                   "eng": "",
-                  "body": "트럼프와의 정상회담을 앞둔 시진핑의 권력 공고화 과정을 조명한 기사다. 중국의 국내 정치와 대외 협상 전략이 맞물려 있다."
+                  "body": "일론 머스크가 중간선거에 쏟은 지출에 대해 후회를 드러내며 '나는 MAGA가 아니다'라고 말했다. 민주당은 감독 대상 조사 목록을 확정하며 트럼프 행정부 견제에 나섰다."
                 }
               ]
             },
@@ -404,16 +404,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "UniCredit's Commerzbank Bid Gets EU, U.S. Approval",
-                  "url": "https://www.wsj.com/business/deals/unicredits-commerzbank-bid-gets-eu-approval-44a821a6",
+                  "headline": "Visa, Mastercard and JPMorgan Customer Data Leaked by Hackers",
+                  "url": "https://www.wsj.com/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87",
                   "eng": "",
-                  "body": "유니크레딧의 코메르츠방크 인수가 EU와 미국의 승인을 받았다. 유럽 은행권 재편의 신호탄이 될 수 있는 대형 거래다."
+                  "body": "랜섬웨어 그룹이 비자·마스터카드·JP모건 체이스 고객 데이터 일부를 유출했다. 정보는 제한적이고 서비스는 중단되지 않았지만 금융주가 하락했다. 비자 -3%, S&P 500 금융주 전반 -1.5%. 반면 팔로알토네트웍스는 6.4% 상승하며 사이버보안주가 반등했다."
                 },
                 {
-                  "headline": "Bank of England's Lombardelli Signals Another Rate Rise Likely",
-                  "url": "https://www.wsj.com/economy/central-banking/bankof-englands-lombardelli-signals-another-rate-rise-likely-in-near-term-baac0950",
+                  "headline": "'GTA VI' Launch Fails to Lift Take-Two; Williams-Sonoma Leads Declines",
+                  "url": "https://www.wsj.com/business/media/just-how-big-is-grand-theft-auto-vi-the-multibillion-dollar-frenzy-in-charts-7c6a3893",
                   "eng": "",
-                  "body": "영국 중앙은행의 롬바르델리 부총재가 가까운 시일 내 추가 금리 인상 가능성을 시사했다. 글로벌 고금리 기조가 이어지고 있다."
+                  "body": "대작 게임 'GTA VI'의 출시에도 불구하고 테이크투인터랙티브는 3.7% 하락했다. 윌리엄스소노마는 주택 판매 부진의 여파로 15% 넘게 급락하며 S&P 500 하락을 주도했다."
                 }
               ]
             }
@@ -427,16 +427,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "Tech Stocks Advance as Investors Look to Anthropic IPO Test",
-                  "url": "https://www.bloomberg.com/news/articles/2026-11-18/us-stock-futures-rally-as-nvidia-results-ease-ai-trade-worries",
+                  "headline": "Stocks Fall as Nvidia's Earnings Rally Sputters: Markets Wrap",
+                  "url": "https://www.bloomberg.com/markets/",
                   "eng": "",
-                  "body": "엔비디아 실적이 AI 거래 우려를 완화하며 기술주가 상승했다. 투자자들은 앤트로픽 IPO를 앞두고 관망세를 보이고 있다. 나스닥 100은 0.4% 상승했다."
+                  "body": "엔비디아의 실적 랠리가 힘을 잃으면서 월가가 다시 변동성에 휩싸였다. 엔비디아는 2% 넘게 하락하며 10월 고점 대비 2조 달러의 시가총액을 날렸다. S&P 500은 5일 연속 하락, 투자자들은 역대 최대 규모의 앤트로픽 IPO에 주목하고 있다."
                 },
                 {
-                  "headline": "Anthropic Is About to Become the World's Most Important AI Stock",
-                  "url": "https://www.bloomberg.com/news/features/2026-11-15/anthropic-s-ipo-makes-dario-amodei-the-new-face-of-the-ai-boom",
+                  "headline": "Anthropic's Record $81.3B IPO Fails to Reignite AI Trade",
+                  "url": "https://www.bloomberg.com/news/articles/",
                   "eng": "",
-                  "body": "앤트로픽 상장으로 다리오 아모데이 CEO가 AI 붐의 새로운 얼굴로 부상하고 있다. 앤트로픽은 세계에서 가장 중요한 AI 주식이 될 전망이다."
+                  "body": "앤트로픽이 9800만주를 $83에 발행해 약 813억 달러를 조달하며 역대 최대 IPO를 기록했지만, AI 거래에 대한 식은 열기를 되살리지는 못했다. 시초가 $111.50(+34%)로 개장했으나 종가는 $97.17로 마감했다."
                 }
               ]
             },
@@ -444,16 +444,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "Retail Traders Chase Anthropic IPO With Tactics Honed Since SpaceX",
-                  "url": "https://www.bloomberg.com/news/features/2026-11-16/retail-traders-chase-anthropic-ipo-with-tactics-honed-since-spacex",
+                  "headline": "AMD Slides 9% on Report China Ties May Draw U.S. Scrutiny",
+                  "url": "https://www.bloomberg.com/news/articles/",
                   "eng": "",
-                  "body": "개인투자자들이 스페이스X 이후 갈고닦은 전략으로 앤트로픽 IPO에 몰려들고 있다. 상장 전 계약 거래 등이 활발해지고 있다."
+                  "body": "AMD가 중국 기업들과의 연계가 미국 규제 당국의 조사를 초래할 수 있다는 보도에 9% 급락했다. 일부 거래처가 블랙리스트 기업과 연관돼 있다는 지적이 나온 것이 배경이다."
                 },
                 {
-                  "headline": "BofA Survey Shows Investors Cut Tech Exposure by Most Since 2006",
-                  "url": "https://www.bloomberg.com/news/articles/2026-11-17/bofa-survey-shows-investors-cut-tech-exposure-by-most-since-2006",
+                  "headline": "Goolsbee Warns AI Boom Risks Overheating U.S. Economy",
+                  "url": "https://www.bloomberg.com/news/articles/",
                   "eng": "",
-                  "body": "뱅크오브아메리카 설문조사에 따르면 투자자들이 2006년 이후 최대 폭으로 기술주 비중을 줄였다. AI 거래에 대한 경계심이 커지고 있다는 신호다."
+                  "body": "시카고 연은 굴스비 총재가 AI 붐이 미국 경제의 과열 가능성을 키우고 있다고 경고했다. '거의 전례 없는 수준의 기업 투자'가 경제 역량이 감당하기 어려운 수준일 수 있다는 진단이다."
                 }
               ]
             },
@@ -461,16 +461,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "Alleged Chinese Spy at Heart of Nvidia Scandal Is in Beijing",
-                  "url": "https://www.bloomberg.com/news/articles/2026-11-12/alleged-chinese-spy-at-center-of-nvidia-firestorm-is-in-beijing",
+                  "headline": "Beijing's New Strategy: Made by China, But Not Made in China",
+                  "url": "https://www.bloomberg.com/news/articles/2026-11-19/china-s-industrial-parks-abroad-help-beat-trade-barriers",
                   "eng": "",
-                  "body": "엔비디아 스캔들의 중심에 있는 중국인 간첩 혐의자가 베이징에 있는 것으로 알려졌다. 젠슨 황 사태의 핵심 인물로 지목된 인물이다."
+                  "body": "중국이 해외 산업단지를 활용해 저임금·저관세 지역에 생산 거점을 마련하는 '메이드 인 차이나' 우회 전략을 펼치고 있다. 무역장벽을 피하면서도 중국 자본의 영향력을 확대하려는 구상이다."
                 },
                 {
-                  "headline": "Lombard Odier 'Almost All In' on US Stocks, Especially Tech",
-                  "url": "https://www.bloomberg.com/news/articles/2026-11-18/lombard-odier-almost-all-in-on-us-stocks-especially-tech",
+                  "headline": "Fed to Give Employees Smaller Pay Raises in 2027",
+                  "url": "https://www.bloomberg.com/news/articles/",
                   "eng": "",
-                  "body": "스위스 자산운용사 롬바르드 오디에가 미국 주식, 특히 기술주에 사실상 올인한 포지션을 취하고 있다고 밝혔다. AI 수요에 대한 강한 확신을 드러냈다."
+                  "body": "미국 연준이 2027년 지역 연방준비은행 직원들의 임금 인상률을 낮추라고 지시했다는 보도가 나왔다. 이사회가 정한 예산안에 따르면 최소 인상률은 1%로 설정됐다."
                 }
               ]
             }
@@ -485,15 +485,15 @@
               "articles": [
                 {
                   "headline": "Democrats Nominate Jeffries as Speaker, Making History",
-                  "url": "https://www.nytimes.com/",
+                  "url": "https://nytimes.com/2026/11/18/us/politics/hakeem-jeffries-speaker-of-the-house-democrats.html",
                   "eng": "",
-                  "body": "민주당이 하킴 제프리스 의원을 하원의장 후보로 지명하며 역사를 썼다. 중간선거 승리 이후 첫 흑인 하원의장 탄생이 유력해졌다."
+                  "body": "민주당이 하킴 제프리스 뉴욕 의원을 하원의장 후보로 지명하며 역사를 썼다. 그는 대통령 승계 서열 2위 자리를 차지한 첫 흑인 의원이 될 전망이다."
                 },
                 {
-                  "headline": "Big Money, Existential Risks: Anthropic Becomes First Frontier AI Lab to Go Public",
-                  "url": "https://www.nytimes.com/2026/11/17/world/18int-theworld-anthropic-ukraine-nvidia.html",
+                  "headline": "Trump Weighs New Strikes on Iran as Israel Presses for Action",
+                  "url": "https://nytimes.com/2026/11/18/us/politics/trump-israel-iran-war.html",
                   "eng": "",
-                  "body": "앤트로픽이 최초로 상장하는 프런티어 AI 연구소가 된다. 최대 1000억 달러 조달이 예상되는 가운데 AI의 실존적 리스크와 대규모 자금이 맞물려 있다."
+                  "body": "이란이 미사일 비축량을 재건하고 생화학 프로그램을 확대하고 있다는 경고가 나오면서, 트럼프 행정부는 추가 공습을 검토하고 있다. 이스라엘의 압박 속에 정부 내 의견이 갈리고 있다."
                 }
               ]
             },
@@ -501,16 +501,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "Trump Starts Asia Trip by Shrugging Off U.S. Concerns: 'It's Fine'",
-                  "url": "https://www.nytimes.com/section/todayspaper",
+                  "headline": "Trump, Xi and Putin Seek to Project Power at Their First Summit",
+                  "url": "https://nytimes.com/live/2026/11/18/world/trump-xi-putin-apec",
                   "eng": "",
-                  "body": "트럼프 대통령이 미국 내 우려에도 불구하고 '괜찮다'며 아시아 순방을 시작했다. 시진핑·푸틴과의 정상회담을 앞두고 있다."
+                  "body": "트럼프·시진핑·푸틴이 첫 3자 정상회담에서 각자의 힘을 과시했다. 푸틴은 우크라이나 제한 휴전을 협상하지 않겠다고 밝히며 유럽을 평화협상에서 배제하려는 트럼프의 구상에 의문을 제기했다."
                 },
                 {
-                  "headline": "Nvidia Reports Blockbuster Results Without Jensen Huang at the Helm",
-                  "url": "https://www.nytimes.com/section/todayspaper",
+                  "headline": "IEA: War Against Iran Permanently Altered Global Oil Appetite",
+                  "url": "https://www.nytimes.com/2026/11/19/business/cop31-energy-iea.html",
                   "eng": "",
-                  "body": "엔비디아가 젠슨 황 전 CEO 없이 처음으로 3분기 실적을 발표하며 깜짝 호실적을 기록했다. 임시 CEO 체제에서도 AI 수요가 견고함을 보여줬다."
+                  "body": "국제에너지기구(IEA)는 에너지 전망 보고서에서 이란과의 전쟁이 특히 호르무즈 해협을 통과하는 석유에 대한 수요를 영구적으로 바꿔놓았다고 결론 내렸다."
                 }
               ]
             },
@@ -518,16 +518,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "What Can Our Genes Reveal About Chronic Pain?",
-                  "url": "https://www.nytimes.com/",
+                  "headline": "Trump Administration Divide on China Policy Breaks Into Public View",
+                  "url": "https://nytimes.com/2026/11/16/us/politics/trump-china-ai-chip-policy.html",
                   "eng": "",
-                  "body": "만성 통증에 유전자가 어떤 영향을 미치는지 탐구한 기사다. 유전자 연구가 통증 치료의 새 지평을 열고 있다."
+                  "body": "첨단 AI 칩을 둘러싼 내부 갈등이 공개되면서 트럼프 행정부의 대중국 정책 분열이 드러났다. 엔비디아 스캔들이 정부 내 균열을 심화시킨 가운데 트럼프 대통령이 시진핑과의 정상회담을 앞두고 있다."
                 },
                 {
-                  "headline": "Jensen Huang's Downfall Costs the A.I. Boom a Top Backer",
-                  "url": "https://www.nytimes.com/2026/11/12/business/economy/jensen-huang-economy-nvidia-ai.html",
+                  "headline": "Anthropic Becomes First Frontier AI Lab to Go Public",
+                  "url": "https://www.nytimes.com/",
                   "eng": "",
-                  "body": "젠슨 황의 몰락은 AI 붐이 최고의 후원자를 잃게 했다는 의미다. 그의 리더십은 경제 성장을 이끄는 AI 투자에 독특한 추진력을 제공해왔다."
+                  "body": "앤트로픽이 최초로 상장하는 프런티어 AI 연구소가 됐다. 역대 최대 규모의 자금 조달과 AI의 실존적 리스크에 대한 우려가 맞물리며 시장의 이목이 집중됐다."
                 }
               ]
             }
@@ -541,16 +541,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "Xi personally greets Trump in Shenzhen in rare gesture",
-                  "url": "https://www.washingtonpost.com/world/2026/11/18/xi-personally-greets-trump-shenzhen-rare-gesture/",
+                  "headline": "Trump, Xi and Putin Hold Unprecedented Trilateral Summit in China",
+                  "url": "https://www.washingtonpost.com/the-seven/2026/11/19/what-know-start-your-day",
                   "eng": "",
-                  "body": "시진핑 주석이 선전에서 트럼프 대통령을 직접 맞이하는 이례적인 환영을 보여줬다. 트럼프가 9월에 보여준 예우에 대한 답례로 해석된다."
+                  "body": "트럼프·시진핑·푸틴이 전례 없는 3자 정상회담을 가졌다. 트럼프 대통령은 우호의 메시지를 전하는 데 주력했고, 이번 회담이 변화하는 세계 질서를 보여준다는 평가가 나온다."
                 },
                 {
-                  "headline": "Trump's dream of nuclear deal meets reality of unwilling Russia, China",
-                  "url": "https://www.washingtonpost.com/national-security/2026/11/18/trumps-dream-nuclear-deal-meets-reality-an-unwilling-russia-china/",
+                  "headline": "Waymo Temporarily Halts Driverless Taxi Service on U.S. Freeways",
+                  "url": "https://www.washingtonpost.com/technology/",
                   "eng": "",
-                  "body": "트럼프 대통령의 핵 군축 구상이 러시아와 중국의 비협조에 부딪히고 있다. 백악관이 이번 주 회담에서 비핵화를 의제로 포함시키려 한 것이 중국 당국의 반발을 샀다."
+                  "body": "웨이모가 캘리포니아 차량국(DMV)의 제한 조치에 따라 미국 고속도로에서 무인택시 서비스를 일시 중단했다. 회사 측은 해당 서비스를 운영하는 모든 시장에서 상업용 고속도로 운행을 제한했다고 밝혔다."
                 }
               ]
             },
@@ -558,16 +558,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "Anthropic blockbuster IPO could test fears about an AI bubble",
+                  "headline": "Anthropic's Blockbuster IPO Tests Fears About an AI Bubble",
                   "url": "https://www.washingtonpost.com/technology/2026/11/18/anthropic-blockbuster-ipo-could-test-fears-about-an-ai-bubble/",
                   "eng": "",
-                  "body": "앤트로픽의 대형 IPO가 AI 거품 우려를 시험할 수 있다. 투자자들은 앤트로픽 상장 성패를 AI 섹터의 건전성을 가늠할 잣대로 보고 있다."
+                  "body": "앤트로픽의 대형 IPO가 AI 거품에 대한 우려를 시험대에 올렸다. 투자자들은 앤트로픽의 상장 성패를 AI 섹터 건전성을 가늠할 잣대로 보고 있다."
                 },
                 {
-                  "headline": "Trump is trying to put the Iran war behind him, but it's not over",
-                  "url": "https://www.washingtonpost.com/world/2026/11/18/trump-is-trying-put-iran-war-behind-him-its-not-over/",
+                  "headline": "DHS Aims to Keep Refugee Ban Into 2027, Report Says",
+                  "url": "https://www.washingtonpost.com/politics/",
                   "eng": "",
-                  "body": "트럼프 대통령이 이란 전쟁을 뒤로 하려 하지만 상황은 끝나지 않았다. 호르무즈 해협은 여전히 혼란스럽고 이란은 걸프 국가들에 대한 공격을 이어가고 있다."
+                  "body": "국토안보부 등 여러 기관이 트럼프 행정부의 난민 입국 전면 금지 조치를 2027년까지 유지하려 한다는 내부 보고서가 나왔다. 남아공 백인에 대한 예외는 계속 유지될 전망이다."
                 }
               ]
             },
@@ -575,16 +575,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "Tracking Trump: Xi's warm welcome; Hegseth's surprise Venezuela trip",
-                  "url": "https://www.washingtonpost.com/the-seven-trump/2026/11/18/tracking-trump-xis-warm-welcome-hegseths-surprise-venezuela-trip-doj-continues-probe-alaskas-senate-race-more/",
+                  "headline": "'Grand Theft Auto VI' Is an Astonishing American Epic",
+                  "url": "https://www.washingtonpost.com/entertainment/video-games/2026/11/18/grand-theft-auto-vi-is-an-astonishing-american-epic/",
                   "eng": "",
-                  "body": "트럼프 행정부의 주요 동향을 정리한 코너. 시진핑의 환영, 헤그세스 국방장관의 베네수엘라 깜짝 방문, 알래스카 상원 선거 수사 지속 등이 다뤄졌다."
+                  "body": "세기의 기대작 'GTA VI'에 대한 리뷰가 나왔다. 조지아 주둔 미 육군 대대 병력 수십 명은 게임 출시에 맞춰 4일간의 주말을 받은 것으로 알려졌다."
                 },
                 {
-                  "headline": "Hegseth makes surprise appearance in Venezuela, renews military partnership",
-                  "url": "https://www.washingtonpost.com/world/2026/11/18/hegseth-makes-surprise-appearance-venezuela-renews-military-partnership/",
+                  "headline": "Trump Continues to Press White House Renovations Despite Midterm Loss",
+                  "url": "https://washingtonpost.com/politics/2026/11/17/trump-continues-press-white-house-renovations-despite-midterm-loss",
                   "eng": "",
-                  "body": "헤그세스 미국 국방장관이 베네수엘라를 깜짝 방문해 군사 파트너십을 재개했다. 미-베네수엘라 관계 변화의 신호로 해석된다."
+                  "body": "트럼프 대통령이 중간선거 패배에도 불구하고 백악관과 부지 개보수를 계속 추진하고 있다. 행정부는 공원 보도 정비와 로즈가든 주변 산책로 공사에 수백만 달러를 쓰고 있다."
                 }
               ]
             }
@@ -598,16 +598,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "Xi greets Trump with hug ahead of historic summit with Putin",
-                  "url": "https://www.ft.com/content/ae7d1b27-b892-48d6-ad47-41128a4b53a1",
-                  "eng": "",
-                  "body": "시진핑 주석이 푸틴과의 역사적 정상회담을 앞두고 트럼프 대통령을 포옹으로 맞이했다. 미·중·러 3자 정상외교가 세계의 이목을 끌고 있다."
-                },
-                {
-                  "headline": "Low-profile VCs set for $100bn windfall from Anthropic IPO",
+                  "headline": "Low-profile VCs Set for $100bn Windfall from Anthropic IPO",
                   "url": "https://www.ft.com/content/a3430f0d-0080-4970-8eec-2c14c8438b3d",
                   "eng": "",
-                  "body": "앤트로픽 IPO로 잘 알려지지 않은 벤처캐피털들이 1000억 달러 규모의 차익을 기대하고 있다. AI 스타트업 투자의 대박 사례가 될 전망이다."
+                  "body": "앤트로픽 IPO로 잘 알려지지 않은 벤처캐피털들이 1000억 달러 규모의 차익을 기대하고 있다. AI 그룹의 상장이 수요일 가격 결정을 앞두면서 초기 투자자들의 대박 수익이 현실화되고 있다."
+                },
+                {
+                  "headline": "SoftBank Regrets 'Mistake' of Not Backing Anthropic, Says Son",
+                  "url": "https://www.ft.com/content/",
+                  "eng": "",
+                  "body": "손정의 소프트뱅크 회장이 앤트로픽에 투자하지 않은 것을 '실수'라고 인정했다. AI 투자 열풍이 서브프라임 버블과 역사적 유사성을 지닌다는 지적도 나오고 있다."
                 }
               ]
             },
@@ -615,16 +615,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "Putin pushes 'Eurasian' order ahead of meeting with Xi and Trump",
-                  "url": "https://www.ft.com/content/ef5dab0d-7335-4dc6-9e44-254bdd9cdc06",
+                  "headline": "Probe Launched Into Whether Trump Official Helped Cantor Avoid Nvidia Losses",
+                  "url": "https://www.ft.com/news-feed",
                   "eng": "",
-                  "body": "푸틴 대통령이 시진핑·트럼프와의 회담을 앞두고 '유라시아' 질서 구축을 강조하고 있다. 미·중 주도의 세계 질서에 대한 대안 제시로 풀이된다."
+                  "body": "트럼프 행정부 관료가 캔터 피츠제럴드가 엔비디아 관련 손실을 피하도록 도왔는지 여부를 두고 조사가 시작됐다. 엔비디아 스캔들 이후 금융권의 이해상충 의혹이 확산하고 있다."
                 },
                 {
-                  "headline": "Democrats win Alaska Senate seat to complete midterms victory",
-                  "url": "https://www.ft.com/content/dc73d4ce-0139-4a72-9b2a-ab9803a84240",
+                  "headline": "Xi Greets Trump With Hug Ahead of Historic Summit With Putin",
+                  "url": "https://www.ft.com/content/ae7d1b27-b892-48d6-ad47-41128a4b53a1",
                   "eng": "",
-                  "body": "민주당이 알래스카 상원 의석을 확보하며 중간선거 승리를 완성했다. 상원 다수당 교체가 확정됐다."
+                  "body": "시진핑 주석이 푸틴과의 역사적 정상회담을 앞두고 트럼프 대통령을 포옹으로 맞이했다. 미·중·러 3자 정상외교가 세계의 이목을 끌고 있다."
                 }
               ]
             },
@@ -632,16 +632,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "'There was a lot of gaslighting': why America's podcast stars ditched Trump",
-                  "url": "https://www.ft.com/content/676d1291-3007-4a32-9332-abf803d0f581",
+                  "headline": "Putin Pushes 'Eurasian' Order Ahead of Meeting With Xi and Trump",
+                  "url": "https://www.ft.com/content/ef5dab0d-7335-4dc6-9e44-254bdd9cdc06",
                   "eng": "",
-                  "body": "미국의 유명 팟캐스트 진행자들이 트럼프 대통령을 떠난 배경을 조명했다. '가스라이팅'이 많았다는 증언과 함께 정치 팟캐스트의 변곡점을 다뤘다."
+                  "body": "푸틴 대통령이 시진핑·트럼프와의 회담을 앞두고 '유라시아' 질서 구축을 강조하고 있다. 미·중 주도의 세계 질서에 대한 대안 제시로 풀이된다."
                 },
                 {
-                  "headline": "Citi settles sex harassment case alleging threats to managing director",
-                  "url": "https://www.ft.com/news-feed",
+                  "headline": "Anthropic's Record IPO: $81.3bn Raised at Nearly $1.8tn Valuation",
+                  "url": "https://www.ft.com/content/",
                   "eng": "",
-                  "body": "씨티그룹이 전무급 임원에 대한 협박 혐의가 담긴 성희롱 소송을 합의로 마무리했다. 월가의 직장 문화 논란이 다시 부각되고 있다."
+                  "body": "앤트로픽이 약 813억 달러를 조달하며 역대 최대 IPO를 마감했다. 종가 기준 완전희석 시가총액은 약 1.8조 달러에 달해 세계 10대 상장기업에 올랐다."
                 }
               ]
             }
