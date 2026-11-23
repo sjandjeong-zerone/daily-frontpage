@@ -1,133 +1,129 @@
 {
-  "date": "2026-11-22",
-  "dateLabel": "2026년 11월 22일(일요일)",
-  "generatedAt": "2026-11-22T07:23:07+09:00",
+  "date": "2026-11-24",
+  "dateLabel": "2026년 11월 24일(화요일)",
+  "generatedAt": "2026-11-24T07:20:48.137053+09:00",
   "ticker": [
     {
       "name": "KOSPI",
-      "value": "4,869.96",
-      "change": "▼5.21%",
+      "value": "4,708.54",
+      "change": "▼3.31%",
       "dir": "down"
     },
     {
       "name": "KOSDAQ",
-      "value": "645.68",
-      "change": "▼5.71%",
+      "value": "635.45",
+      "change": "▼1.58%",
       "dir": "down"
     },
     {
       "name": "S&P 500",
-      "value": "6,910.39",
-      "change": "▼3.70%",
-      "dir": "down"
+      "value": "7,238.84",
+      "change": "▲4.75%",
+      "dir": "up"
     },
     {
       "name": "나스닥",
-      "value": "22,617.73",
-      "change": "▼5.28%",
-      "dir": "down"
+      "value": "24,080.94",
+      "change": "▲6.47%",
+      "dir": "up"
     },
     {
       "name": "다우",
-      "value": "48,147.33",
-      "change": "▼1.93%",
-      "dir": "down"
+      "value": "49,599.89",
+      "change": "▲3.02%",
+      "dir": "up"
     },
     {
       "name": "원/달러",
-      "value": "1,346",
+      "value": "1,349",
       "change": "▲ 원화 약세",
       "dir": "up"
     }
   ],
   "keywords": [
     {
-      "label": "① 젠슨 황 엔비디아 CEO 전격 사임 — 불륜 시인 나흘 만, AI 리더십 공백",
-      "desc": "젠슨 황 엔비디아 CEO가 불륜을 시인한 지 나흘 만에 사임(KBS 보도). SEC 회계조사와 맞물려 엔비디아 -14.01%($125.53) 폭락. AI 산업 전반의 변곡점으로 평가"
+      "label": "① 젠슨 황 엔비디아 CEO 복귀 — 사임 11일 만에 귀환, 나스닥 +6.47%·엔비디아 +31% 'V자 반등'",
+      "desc": "불륜·중국 스파이 의혹으로 물러났던 엔비디아 창업자 젠슨 황이 이사회 만장일치로 CEO 복귀. 미국 정부 개입·트럼프 지지로 성사된 '정치적 해법'. 나스닥 24,080.94(+6.47%), S&P500 7,238.84(+4.75%), 다우 49,599.89(+3.02%), 엔비디아 $165.46(+31%)로 4월 이후 최대 반등"
     },
     {
-      "label": "② '검은 금요일' — 나스닥 -5.28% 폭락, 코스피 -5.21%(4,869.96) 7거래일 연속 하락",
-      "desc": "11/20 나스닥 -5.28%(22,617.73)·S&P 500 -3.70%(6,910.39)·다우 -1.93%(48,147.33). 코스피 -5.21%(4,869.96)·코스닥 -5.71%(645.68). 외국인 1조 5,700억·기관 1조 2,300억 동반 순매도"
+      "label": "② '검은 월요일' 코스피 -3.31%(4,708.54) 폭락, 코스닥 약 2년 최저",
+      "desc": "필라델피아 반도체 -10.73% 여파가 개장에 반영. 코스피 매도 사이드카 발동, 장중 4,586.80 저점 후 낙폭 축소. 코스닥 635.45(-1.58%)로 2024-12-09 이후 최저. 5개월 만에 시총 3,589조원 감소"
     },
     {
-      "label": "③ AI 반도체 동반 급락 — SK하이닉스 ADR -13.11%, 필라델피아 반도체 -10.73%",
-      "desc": "엔비디아 -14.01%($125.53)·SK하이닉스 ADR -13.11%($103.57)·앤트로픽 -8.50%($88.91)·테슬라 -7.64%($345.82). 필라델피아 반도체 -10.73%(8,408.59), 닛케이 선물 -5.06%"
+      "label": "③ 외국인 7거래일 연속 순매도·원/달러 1,348원대 — 수급·환율 부담",
+      "desc": "개인 약 3,670억·외국인 약 2,470억 순매도, 기관 약 1,870억 순매수로 일부 방어. 원/달러 1,348.85원(전주比 +0.70%), 달러/엔 159엔대. 정부 증안펀드 '시장 보며 가동 판단' 카드 유지"
     },
     {
-      "label": "④ 미·중·러 정상회담 '한반도 위험' 논의 — 제2의 얄타회담, 한국 반도체 영향 주목",
-      "desc": "트럼프 대통령이 선전 미중러 정상회담에서 한반도 위험 대응을 논의했다고 밝혀. 골드만삭스 중국 H주 비중확대 상향, EU 400억 유로 삭감·디지털세 도입 제안"
-    },
-    {
-      "label": "⑤ 국내 — 경부선 화물열차 탈선(21일)·수능 AI 부정행위·손정의 SK하이닉스 인수설",
-      "desc": "경부선 소정리역 화물열차 탈선으로 일반열차 운행 중지 후 22일 재개. 경비지도사 시험 AI 인스펙터 도입. 손정의 소프트뱅크 SK하이닉스 1조달러 인수안 검토 보도"
+      "label": "④ 한국 사상 첫 연간 수출 1조 달러 돌파(11/19) — 세계 4번째",
+      "desc": "독일·미국·중국에 이어 세계 4번째, 일본도 못 이룬 기록. 11월 1~20일 수출 774억달러 신기록(반도체가 절반 이상). 산업연구원은 내년 수출 1조3202억달러 전망"
     }
   ],
   "morning": {
-    "date": "2026-11-22",
-    "headline": "엔비디아 젠슨 황 CEO 사임·SEC 회계조사 '검은 금요일' — 코스피 -5.21%(4,869.96) 폭락, 나스닥 -5.28%(22,617.73) 폭락. 엔비디아 -14.01%·SK하이닉스 ADR -13.11% 동반 급락, 미·중·러 정상회담서 '한반도 위험' 대응 논의",
-    "weather": "☀️ 맑음 · -3°C (체감 -6°C) · 습도 55% · 바람 4km/h — 일요일 맑고 쾌청, 영하권 추위에 보온 유의",
-    "schedule": "📅 일요일 — 휴무(특별 일정 없음). 오늘은 온전한 재충전에 집중하세요.",
+    "date": "2026-11-24",
+    "headline": "젠슨 황 엔비디아 CEO 복귀 — 나스닥 +6.47%·엔비디아 +31% 'V자 반등', 코스피 '검은 월요일' -3.31%(4,708.54) 폭락 뒤 오늘 되돌림 시도, 외국인 7거래일 연속 순매도·원/달러 1,348원대가 관건",
+    "weather": "☀️ 맑음 · -0°C (체감 -4°C) · 바람 13km/h · 습도 43% — 맑고 쾌청하지만 체감 -4°C까지 떨어지는 영하권 아침, 한파에 보온·감기 유의",
+    "schedule": "📅 화요일 — 등록된 일정 없음. 오늘은 T-P19 10월 경영수지 착수(내일 보고)와 Z-P11 우수성공실패사례 심사 준비에 집중하세요.",
     "domestic": {
       "kospi": {
-        "value": "4,869.96",
-        "change": "▼ -5.21% (-267.93p)",
-        "changeRate": "-5.21%",
-        "rate": "-5.21%"
+        "value": "4,708.54",
+        "change": "▼ -3.31% (-161.42p)",
+        "changeRate": "-3.31%",
+        "rate": "-3.31%"
       },
       "kosdaq": {
-        "value": "645.68",
-        "change": "▼ -5.71% (-39.13p)",
-        "changeRate": "-5.71%",
-        "rate": "-5.71%"
+        "value": "635.45",
+        "change": "▼ -1.58% (-10.23p)",
+        "changeRate": "-1.58%",
+        "rate": "-1.58%"
       },
       "supply": {
-        "foreign": "외국인 코스피 1조 5,700억 순매도",
-        "institution": "기관 코스피 1조 2,300억 순매도",
-        "individual": "개인 순매수로 방어했으나 역부족",
-        "usdkrw": "1,346원 (전일比 원화 약세)",
-        "change": "원화 약세 — 달러/원 1,346원"
+        "foreign": "외국인 약 2,470억 순매도 (7거래일 연속 '팔자')",
+        "institution": "기관 약 1,870억 순매수로 낙폭 일부 방어",
+        "individual": "개인 약 3,670억 순매도",
+        "usdkrw": "1,348.85원 (전주比 +0.70% 원화 약세)",
+        "change": "원화 약세 — 원/달러 1,348.85원"
       },
-      "comment": "금요일(11/20) 코스피는 전 거래일보다 267.93포인트(-5.21%) 급락한 4,869.96으로 마감하며 '검은 금요일'을 맞았다. 장중 4,900선이 붕괴된 뒤 소폭 반등했으나 낙폭을 줄이지 못했다. 엔비디아 SEC 회계조사와 젠슨 황 CEO 사임이라는 이중 악재로 미국발 AI 충격파가 한국 증시를 직격했다. 외국인 1조 5,700억·기관 1조 2,300억 동반 순매도가 쏟아졌고, 주간 기준으로는 7거래일 연속 하락세가 이어졌다. 코스닥도 39.13포인트(-5.71%) 급락한 645.68로 700선을 크게 이탈했다."
+      "comment": "월요일(11/23) 코스피는 전주 금요일 미국 필라델피아 반도체지수 -10.73% 급락 여파가 개장에 반영되며 161.42포인트(-3.31%) 급락한 4,708.54로 마감, '검은 월요일'을 맞았다. 장중 -5%대까지 밀리며 매도 사이드카가 발동됐고 4,586.80 저점을 기록한 뒤 낙폭을 축소했다. 개인 약 3,670억·외국인 약 2,470억 순매도가 쏟아졌고, 기관 약 1,870억 순매수가 낙폭을 일부 방어했다. 코스닥도 10.23포인트(-1.58%) 하락한 635.45로 약 2년 만에 최저치를 기록했다. 정부는 이형일 부총리 중심으로 증안펀드 가동 카드를 유지하며 시장을 지켜보고 있다."
     },
     "overseas": {
       "dow": {
-        "value": "48,147.33",
-        "change": "▼ -1.93%",
-        "changeRate": "-1.93%"
+        "value": "49,599.89",
+        "change": "▲ +3.02% (+1,452.56p)",
+        "changeRate": "+3.02%"
       },
       "sp500": {
-        "value": "6,910.39",
-        "change": "▼ -3.70%",
-        "changeRate": "-3.70%"
+        "value": "7,238.84",
+        "change": "▲ +4.75% (+328.45p)",
+        "changeRate": "+4.75%"
       },
       "nasdaq": {
-        "value": "22,617.73",
-        "change": "▼ -5.28% (폭락)",
-        "changeRate": "-5.28%"
+        "value": "24,080.94",
+        "change": "▲ +6.47% (+1,463.21p)",
+        "changeRate": "+6.47%"
       },
       "oil": {
-        "note": "원자재 혼조 — 금 $3,539(-3.98%)·은 $41.08(-7.39%) 급락 속 브렌트유 $92.57(+0.64%)·WTI $82.40(+1.12%)는 소폭 상승"
+        "note": "에너지 섹터만 하락. 금값은 주간 종가 기준 3,520.57달러로 전주比 -9.16% 급락했으나 간밤 반등 조짐"
       },
-      "keyStocks": "금요일(11/20) 미국 증시는 '검은 금요일'을 맞았다. 나스닥 -5.28%(22,617.73)·S&P 500 -3.70%(6,910.39)·다우 -1.93%(48,147.33). 엔비디아(NVDA)가 SEC 회계조사 발표에 -14.01%($125.53) 폭락했고, SK하이닉스 ADR -13.11%($103.57), 앤트로픽 -8.50%($88.91), 테슬라 -7.64%($345.82)로 AI·반도체주가 일제히 급락했다. 젠슨 황 CEO가 불륜 시인 나흘 만에 사임하면서 AI 산업 리더십 공백 우려가 커졌다. 닛케이 선물 -5.06%(56,437), 필라델피아 반도체 -10.73%(8,408.59). 원/달러는 1,346원으로 원화 약세가 지속됐다."
+      "keyStocks": "월요일(11/23) 미국 증시는 젠슨 황 CEO 복귀 호재로 V자 반등했다. 나스닥 +6.47%(24,080.94)·S&P500 +4.75%(7,238.84)·다우 +3.02%(49,599.89). 엔비디아(NVDA)가 이사회의 젠슨 황 CEO 복귀 결정에 $165.46(+31%, 장중 최대 +36.6%) 급등했고 나스닥100 시가총액은 약 2조 달러 증가했다. 이는 2025년 4월 '해방의 날' 이후 최대 일간 상승으로, 지난주 나스닥 -10.0% 급락에 따른 조정 뒤 강한 되돌림이다. 트럼프 대통령은 '엔비디아 이사회와 딜을 성사시켰다'고 언급했고, 모건스탠리는 기술주 비중 확대를 권고했다. 수요일(11/25) PCE 물가 발표가 연준 통화정책의 가늠자다."
     },
-    "topNews": "엔비디아 젠슨 황 CEO 사임·SEC 회계조사 '검은 금요일' — 코스피 -5.21%(4,869.96) 폭락, 나스닥 -5.28%(22,617.73) 폭락. 엔비디아 -14.01%·SK하이닉스 ADR -13.11% 동반 급락, 미·중·러 정상회담서 '한반도 위험' 대응 논의",
+    "topNews": "젠슨 황 엔비디아 CEO 복귀 — 나스닥 +6.47%·엔비디아 +31% 'V자 반등', 코스피 '검은 월요일' -3.31%(4,708.54) 폭락 뒤 오늘 되돌림 시도, 외국인 7거래일 연속 순매도·원/달러 1,348원대가 관건",
     "otherNews": [
-      "젠슨 황 엔비디아 CEO 사임 — 불륜 시인 나흘 만에 전격 사퇴, AI 산업 리더십 공백 우려",
-      "'검은 금요일' 나스닥 5.28% 폭락 — SEC 엔비디아 회계조사 + CEO 사임 이중 악재",
-      "트럼프 '미중러 정상회담서 한반도 위험 대응 논의' — 제2의 얄타회담 평가",
-      "골드만삭스, 중국 H주 비중확대로 상향 — 2027년 수익 성장 전망",
-      "EU, 400억 유로 삭감 및 디지털세 도입 제안",
-      "경부선 화물열차 탈선(21일) — 일반열차 운행 중지 후 22일 재개, 수험생 이동 주의",
-      "AI 부정행위 사태 첫 국가자격시험 — 경비지도사 시험장 AI 인스펙터·앞치마 지급",
-      "삼성증권 '2차전지 OVERWEIGHT' — 2027년 P(가격)는 쉬고 Q(물량)가 뛴다",
-      "트럼프·푸틴·시진핑 정상회담 — 한국 반도체 업계 영향 주목",
-      "손정의 소프트뱅크, SK하이닉스 1조달러 인수안 검토 보도"
+      "젠슨 황 엔비디아 CEO 복귀 — 사임 11일 만에 이사회 만장일치 의결, 미국 정부 개입·트럼프 지지",
+      "트럼프 \"엔비디아 이사회와 황 복귀 딜 성사\" — 정치적 해법 성격, '위대한 애국자' 치켜세워",
+      "'검은 월요일' 코스피 -3.31% — 매도 사이드카 발동, 코스닥 약 2년 만에 최저",
+      "한국 사상 첫 연간 수출 1조 달러 돌파(11/19) — 세계 4번째, 일본도 못 한 기록",
+      "정부 증안펀드 카드 유지 — 이형일 부총리 \"시장 보며 가동 판단\"",
+      "앤트로픽 뉴욕증시 옵션 데뷔 — SpaceX 기록엔 못 미쳤으나 순조로운 출발",
+      "외교·안보 라인 전면 개편 — 강금실 국정원장 내정 등 중폭 개각",
+      "리벨리온, SKT에 국산 NPU '리벨' 칩 서버 40대 공급 — 국산 NPU 상용화 시대 개막",
+      "11/26(목) 한은 금통위 — 점도표상 '금리 추가 인상'에 무게",
+      "ECB 심쿠스 \"12월 인상, 충분치 않을 수 있어\" / COP31 결렬"
     ],
     "email": {
       "google": "",
-      "note": "🟢 오늘 모닝브리핑 주요 뉴스는 젠슨 황 엔비디아 CEO 사임·'검은 금요일' AI 대폭락·미중러 정상회담 한반도 논의·SK하이닉스 인수설. 📧 제니엘 업무메일 신규 수신 언급 없음."
+      "note": "🟢 오늘 모닝브리핑 주요 뉴스는 젠슨 황 엔비디아 CEO 복귀·'검은 월요일' 코스피 -3.31%·수출 1조 달러 돌파·외교안보라인 개편. 📧 제니엘 업무메일 신규 수신 관련 언급 없음."
     },
-    "insight": "💡 형, 일요일 아침입니다. 이번 주 금융시장은 '검은 금요일'로 기록될 만큼 거셌습니다. 코스피가 5.21% 폭락해 5,000선·4,900선이 모두 무너졌고, 미국 나스닥도 5.28% 급락했습니다.\\n\\n**AI 산업의 분수령 — 엔비디아 리더십 공백.** 젠슨 황 CEO가 불륜 시인 나흘 만에 사임하면서 AI 산업 전체가 변곡점을 맞았습니다. SEC 회계조사까지 겹치며 엔비디아가 -14% 폭락했고, SK하이닉스 ADR도 -13% 급락했습니다. 단기적으로 AI 반도체 수급에 타격이 불가피하지만, 중장기적으로 AI 반도체 수요 자체가 위축되지는 않을 전망입니다. 오히려 AMD·인텔 등 경쟁사에는 기회일 수 있습니다. 월요일 코스피 추가 하락 가능성(야간선물 -3.85% 반영 예정)에 유의하세요.\\n\\n**밀린 업무의 우선순위 재정립.** 일요일 기준으로 15개 프로젝트에 밀린 일(⚠️)이 있습니다. 특히 Z-P11 사례 심사(내일 11/23)가 가장 급하고, Z-P10 채용솔루션은 진행률 0%인데 11/27 상무님 보고가 걸려 있어 영업지원실에 빠른 독촉이 필요합니다. T-P19 경영수지도 0%로 수요일(11/25) 마감입니다.\\n\\n**날씨 독감 주의.** 서울 체감 -6°C까지 떨어졌습니다. 아침 명상 전 보온 철저히 하세요. 오늘은 온전한 재충전에 집중하시길 바랍니다. 🙏\\n\\n> \"주말은 다음 주를 준비하는 시간, 밀린 일들을 적절히 정리하고 체력을 보충하는 데 집중하세요.\" "
+    "insight": "💡 형, 화요일 아침입니다. 간밤 미국 증시가 엔비디아 CEO 복귀 호재로 크게 반등하며 '검은 월요일'의 무게를 덜었습니다.\n\n**심리는 개선, 수급은 미지수.** 나스닥 +6.47%, 엔비디아 +31%라는 강한 되돌림은 분명 반가운 소식이지만, 어제 국내에서 외국인이 7거래일 연속 순매도했고 원/달러가 1,348원대로 올라온 점은 여전히 부담입니다. 반등 출발은 예상되나, 되돌림의 지속성은 외국인 수급 회복과 반도체 업종 차별화에 달려 있습니다.\n\n**황 복귀는 '해법'이지 '구조 해소'는 아닙니다.** 젠슨 황 복귀로 AI 트레이드 신뢰가 회복됐지만, AI 투자 수익성·부채 부담·정치적 규제 리스크는 그대로입니다. 단기 급등에 추격 매수하기보다 밸류체인 내 옥석 가리기가 필요한 국면입니다.\n\n**오늘 손에 잡을 3건.** ① T-P19 월 경영수지(0%인데 내일 11/25 보고) — 오늘 착수해야 합니다. ② Z-P11 우수성공실패사례(종료 11/26) — 내일 심사결과 발표·자료 수정요청 준비. ③ T-P5 제니엘플러스(11/26 결과보고·11/28 품의) — 이번 주 중간 점검이 필요합니다.\n\n폭락 다음 날의 반등은 늘 반갑지만, 형이 실제로 통제할 수 있는 건 시장이 아니라 손에 쥔 이 세 가지 일입니다. 경영수지·사례 심사·제니엘플러스, 이 셋부터 정리해 봅니다."
   },
   "sections": {
     "kor": {
@@ -141,16 +137,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "\"반값에도 안 나가요\"…경매시장서도 찬밥 신세 '상가'",
-                  "url": "https://www.mk.co.kr/news/realestate/12215324",
-                  "eng": "Commercial property cold-shouldered in auction market, selling below half price",
-                  "body": "서울 아파트와 달리 상업용 부동산이 경매시장에서 찬밥 신세로 전락하고 있다. 7번 유찰로 최저입찰가가 감정가의 8%까지 떨어졌고, 업무·상업시설 낙찰가율은 45.6%로 10년여 만에 가장 낮은 수준을 기록했다."
+                  "headline": "젠슨 황 엔비디아 복귀 … 이사회, CEO로 재선임",
+                  "url": "https://www.mk.co.kr/news/world/12216652",
+                  "eng": "Jensen Huang reinstated as Nvidia CEO 11 days after resignation",
+                  "body": "사생활 논란으로 물러났던 엔비디아 창업자 젠슨 황이 CEO로 복귀했다. 사임 11일 만의 귀환으로, 중국 정보기관 관련 의혹 조사는 당분간 계속될 예정이다. 'AI 황제' 복귀 소식에 엔비디아 주가는 개장 직후 30% 급등했다."
                 },
                 {
-                  "headline": "\"첫 단추 잘못 꿰면 꼬일 수도\"…대기업만 노리는 청년들",
-                  "url": "https://www.mk.co.kr/news/economy/12215302",
-                  "eng": "Young jobseekers flock to conglomerates, fearing a wrong first step",
-                  "body": "취업 준비생들이 중소기업을 외면하고 대기업에만 몰리는 쏠림 현상이 지속되고 있다. 첫 직장 선택을 잘못하면 커리어가 꼬일 수 있다는 불안이 대기업 선호를 부추긴다는 분석이다."
+                  "headline": "'AI 황제' 깜짝 귀환에 美증시 반색 … 엔비디아 주가 장 초반 30% 급등",
+                  "url": "https://www.mk.co.kr/news/world/12216653",
+                  "eng": "US stocks rally as Nvidia surges 30% at open on Huang's return",
+                  "body": "젠슨 황 복귀로 미국 증시가 일제히 반등했다. 엔비디아 주가가 장 초반 30% 급등하며 기술주·반도체주 전반에 강한 매수세가 유입됐다."
                 }
               ]
             },
@@ -158,16 +154,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "쏘렌토값에도 이젠 중국차?…한국서 누가 샀나 보니",
-                  "url": "https://www.mk.co.kr/news/business/12215344",
-                  "eng": "Chinese cars rival Sorento on price; 40-50s dads are the buyers",
-                  "body": "중국산 자동차가 쏘렌토급 가격에도 한국 시장에서 판매를 늘리고 있다. 구매층은 돈이 없는 2030이 아니라 4050 아빠들이 주도하는 것으로 나타났다."
+                  "headline": "코스피, 5개월 만에 반토막 … 외환위기 이후 네번째",
+                  "url": "https://www.mk.co.kr/news/stock/12216430",
+                  "eng": "KOSPI halved in five months, fourth such case since currency crisis",
+                  "body": "코스피가 고점 대비 반토막 수준으로 내려앉았다. 외환위기 이후 네 번째로 큰 낙폭으로, 시가총액 약 3,589조원이 증발한 것으로 집계됐다."
                 },
                 {
-                  "headline": "'재초환 쇼크' 서울 아파트 매수세 어디로 튈까",
-                  "url": "https://www.mk.co.kr/news/realestate/12215266",
-                  "eng": "Where Seoul apartment demand goes after reconstruction windfall tax shock",
-                  "body": "재건축초과이익환수제(재초환) 부담이 현실화하면서 서울 아파트 매수세가 어디로 이동할지 관심이 쏠린다. 재초환 쇼크로 재건축 단지 매수 심리가 위축되고 있다."
+                  "headline": "내년 수출 14% 늘어 1조3000억달러…반도체 빼면 1.5% 증가",
+                  "url": "https://www.mk.co.kr/news/economy/12216162",
+                  "eng": "Exports to grow 14% to $1.3tn; just 1.5% excluding semiconductors",
+                  "body": "산업연구원은 내년 수출이 1조3202억달러로 2년 연속 1조달러를 넘을 것으로 전망했다. 다만 반도체를 빼면 증가율이 1.5%에 그쳐 'K자 양극화'가 우려된다."
                 }
               ]
             },
@@ -175,16 +171,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "로또 2등, 판매점 한곳서 '10장' 쏟아졌다…동일인이면 5억 수령",
-                  "url": "https://www.mk.co.kr/news/society/12215346",
-                  "eng": "Ten second-place Lotto tickets sold at one store; same buyer would win 500M won",
-                  "body": "제1251회 로또 2등 당첨 복권 10장이 한 판매점에서 쏟아졌다. 동일인이 구매했을 경우 약 5억원을 수령하게 된다."
+                  "headline": "원전비중 전망 놓고 충돌 … 공론화委 파행",
+                  "url": "https://www.mk.co.kr/news/business/12216383",
+                  "eng": "Nuclear power ratio dispute derails public deliberation panel",
+                  "body": "원전 비중 전망을 둘러싼 이견으로 공론화위원회가 파행했다. 에너지믹스 수립을 위한 공론화 절차의 향방이 불투명해졌다."
                 },
                 {
-                  "headline": "잘나가는 한국 보며 \"상처에 소금 뿌리는 듯한 고통\"…씁쓸한 일본 왜?",
-                  "url": "https://www.mk.co.kr/news/economy/12215318",
-                  "eng": "Japan's bitter feelings as Korea thrives economically",
-                  "body": "반도체 등 한국 산업의 약진을 지켜보는 일본의 복잡한 심경을 조명했다. '상처에 소금을 뿌리는 듯한 고통'이라는 현지 반응이 나온다."
+                  "headline": "폐업도 돈 있어야 한다 … 장사 안돼도 못 접는 자영업자들",
+                  "url": "https://www.mk.co.kr/news/economy/12216423",
+                  "eng": "Small business owners can't afford to close down",
+                  "body": "경기 침체로 장사를 접고 싶어도 폐업 비용과 대출 상환 부담 때문에 문을 닫지 못하는 자영업자들이 늘고 있다는 보도다."
                 }
               ]
             }
@@ -198,16 +194,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "\"불륜 아니다\" \"너의 뇌에 오줌 누겠다\"…젠슨 황 퇴출 부른 건 거짓말과 상습 폭언",
-                  "url": "https://www.khan.co.kr/article/202611211444001",
-                  "eng": "Lies and habitual abuse, not the affair, drove Jensen Huang's ouster",
-                  "body": "젠슨 황 전 엔비디아 CEO가 재임 당시 이사회에 거짓말을 일삼고 직원들에게 폭언을 가했다는 폭로가 이어지고 있다. 와이어드는 엔비디아 이사회가 황 전 CEO의 낙마를 결정한 핵심 요인이 불륜 스캔들 자체가 아닌 '정직성 부족'과 '거짓말'이었다고 보도했다."
+                  "headline": "'불륜 스캔들' 젠슨 황, 다시 엔비디아 CEO로 복귀···이사회 만장일치 의결",
+                  "url": "https://www.khan.co.kr/article/202611232329001",
+                  "eng": "Jensen Huang returns as Nvidia CEO after board's unanimous vote",
+                  "body": "중국 스파이 의혹 여성과의 불륜을 인정하고 물러난 젠슨 황 전 CEO가 다시 엔비디아 경영에 복귀한다. 이사회는 사임 11일 만에 복귀를 만장일치로 의결했다고 밝혔다."
                 },
                 {
-                  "headline": "[속보] 코레일 \"22일 첫차부터 경부선 일반열차 운행 재개\"",
-                  "url": "https://www.khan.co.kr/article/202611211947001",
-                  "eng": "KORAIL resumes Gyeongbu line passenger service from Sunday's first train",
-                  "body": "코레일이 21일 탈선 사고로 중단됐던 경부선 일반열차 운행을 22일 첫차부터 재개한다고 밝혔다."
+                  "headline": "외교안보 라인 '전면 물갈이'···남북관계 난항에 '자주파' 입지 축소",
+                  "url": "https://www.khan.co.kr/article/202611232108025",
+                  "eng": "Foreign and security leadership overhauled amid stalled ties",
+                  "body": "정부가 외교·안보 라인을 전면 교체하며 국정원장·외교장관 등 내정자를 발표했다. 남북관계 난항 속 '자주파'의 입지가 축소됐다는 평가가 나온다."
                 }
               ]
             },
@@ -215,16 +211,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "이 대통령 \"수능 부정 신고 포상금, 최대 1억원 아닌 건당 최소 1억원\"",
-                  "url": "https://www.khan.co.kr/article/202611211551001",
-                  "eng": "President Lee: at least 100M won per report for exam cheating tips",
-                  "body": "이재명 대통령이 수능 부정행위 신고 포상금을 건당 최소 1억원으로 상향하겠다고 밝혔다. 기존 최대 1억원이 아닌 행위자 수만큼 가산 지급하겠다는 것이다."
+                  "headline": "트럼프, 젠슨 황 복귀에 \"올바르고 적절한 결정···황은 위대한 애국자\"",
+                  "url": "https://www.khan.co.kr/article/202611232350001",
+                  "eng": "Trump hails Huang's return as 'the right decision'",
+                  "body": "도널드 트럼프 미국 대통령이 엔비디아의 젠슨 황 CEO 복귀를 두고 '올바르고 적절한 결정'이라며 황을 '위대한 애국자'로 치켜세웠다."
                 },
                 {
-                  "headline": "\"소프트뱅크 손정의, 최근 SK하이닉스 1조달러 인수안 검토\"",
-                  "url": "https://www.khan.co.kr/article/202611211309001",
-                  "eng": "SoftBank's Son recently weighed $1tn SK Hynix takeover",
-                  "body": "손정의 소프트뱅크 회장이 SK하이닉스 인수 가능성을 검토하며 월가 금융기관에 자금 조달 방안을 타진했다는 보도가 나왔다. 소프트뱅크 측은 '더 이상 적극적인 검토 대상이 아니다'라고 밝혔다."
+                  "headline": "강금실 국정원장 내정자, 노무현 정부 초대 법무…'최연소·첫 여성' 기록",
+                  "url": "https://www.khan.co.kr/article/202611232108005",
+                  "eng": "Kang Keum-sil tapped as NIS chief, once first female justice minister",
+                  "body": "강금실 국정원장 내정자는 노무현 정부 시절 최초·최연소 여성 법무장관을 지낸 인물로, 지난 대선에서 이재명 캠프 총괄선대위원장을 맡았다."
                 }
               ]
             },
@@ -232,16 +228,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "열차 후미 두차례 섬광, 10초 안 지나 선로 이탈…경부선 화물열차 탈선 순간 CCTV 포착",
-                  "url": "https://www.khan.co.kr/article/202611211649001",
-                  "eng": "CCTV captures Gyeongbu freight train derailing seconds after two flashes",
-                  "body": "경부선 소정리역 화물열차 탈선 사고 당시 열차 후미에서 두 차례 섬광이 발생한 뒤 10초도 안 돼 선로를 이탈한 것으로 파악됐다. 제3810 화물열차가 오전 5시36분 소정리역 부근에 진입한 직후 사고가 났다."
+                  "headline": "최태원 측 재산분할 재상고심에 '화해권고' 신청…\"9440억원 모두 지급하겠다\"",
+                  "url": "https://www.khan.co.kr/article/202611231523001",
+                  "eng": "Chey Tae-won offers to pay full 944bn won settlement",
+                  "body": "최태원 SK그룹 회장이 노소영 아트센터 나비 관장과의 재산분할 재상고심에서 관장 몫 9440억원을 전액 지급하겠다며 화해권고 결정을 요청했다."
                 },
                 {
-                  "headline": "트럼프 \"미·중·러 정상회담서 '한반도 위험' 대응 논의했다\"",
-                  "url": "https://www.khan.co.kr/article/202611210850001",
-                  "eng": "Trump says Korea risks discussed at US-China-Russia summit",
-                  "body": "트럼프 대통령이 선전 미·중·러 정상회담에서 시진핑·푸틴과 한반도 문제를 논의했다고 밝혔다. '한반도의 위험에 대응하고 우크라이나의 살상을 멈추는 문제도 논의했다'고 말했다."
+                  "headline": "내년에도 수출 1조 달러 전망···반도체가 절반, 산업도 'K자 양극화' 우려",
+                  "url": "https://www.khan.co.kr/article/202611231703001",
+                  "eng": "Exports seen topping $1tn again next year on semiconductors",
+                  "body": "산업연구원은 내년 수출이 1조3202억달러에 이를 것으로 전망했다. 다만 반도체가 절반을 차지하는 쏠림과 산업 간 'K자형 양극화' 우려가 제기됐다."
                 }
               ]
             }
@@ -255,16 +251,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "\"낙태했어야\" \"머리 열어 소변\" \"금붕어\"…안하무인 젠슨황 父女",
-                  "url": "https://www.donga.com/news/Inter/article/all/20261121/135065038/2",
-                  "eng": "Jensen Huang and daughter's abusive remarks laid bare",
-                  "body": "젠슨 황 전 엔비디아 CEO가 과거 임원에게 '네 어머니가 너를 낙태했어야 했다'는 막말을 했다는 보도가 나왔다. 큰 딸의 사내 갑질 보도에 이어 'AI 록스타'의 어두운 이면이 드러났다는 평가다."
+                  "headline": "한덕수 판결 존중한다는 與… 절차 문제삼아 \"조희대 탄핵\"",
+                  "url": "https://www.donga.com/news/article/all/20261123/135070388/2",
+                  "eng": "Ruling party pushes to impeach Chief Justice Cho",
+                  "body": "여당이 한덕수 사건 대법원 판결은 존중한다면서도 조희대 대법원장 탄핵을 절차 문제를 들어 추진하겠다고 밝혀 논란이 일고 있다."
                 },
                 {
-                  "headline": "AI주 투매에 뉴욕증시 급락…나스닥 올해 상승분 다 날렸다",
-                  "url": "https://www.donga.com/news/Inter/article/all/20261121/135064457/1",
-                  "eng": "AI stock selloff wipes out Nasdaq's yearly gains",
-                  "body": "AI주 투매에 뉴욕증시가 급락하며 나스닥이 올해 상승분을 모두 반납했다. 엔비디아 등 AI 반도체주 급락이 시장 전반을 끌어내렸다."
+                  "headline": "'수능 대혼란' 최교진 교육장관 사실상 경질",
+                  "url": "https://www.donga.com/news/article/all/20261123/135070392/2",
+                  "eng": "Education minister effectively dismissed over exam chaos",
+                  "body": "수능 대혼란의 책임을 물어 최교진 교육부 장관이 사실상 경질됐다. 정부는 대학선발권 강화 등 입시제도 개편에 시동을 거는 모습이다."
                 }
               ]
             },
@@ -272,16 +268,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "\"손정의 회장, SK하이닉스 1조 달러에 인수하려 했다\"",
-                  "url": "https://www.donga.com/news/Inter/article/all/20261121/135064982/2",
-                  "eng": "SoftBank's Son tried to buy SK Hynix for $1tn",
-                  "body": "손정의 소프트뱅크 회장이 SK하이닉스를 1조 달러에 인수하려 했다는 보도가 나왔다. 다만 소프트뱅크 측은 더 이상 검토 대상이 아니라고 부인했다."
+                  "headline": "엔비디아 조사-對中 수출 규제… 美, 악재 겹치며 'AI 패닉 셀'",
+                  "url": "https://www.donga.com/news/article/all/20261123/135070403/2",
+                  "eng": "AI panic selling as Nvidia probe and China curbs pile up",
+                  "body": "엔비디아 회계조사와 대중 수출 규제 등 악재가 겹치며 미국발 AI 패닉 셀이 이어졌다. 이 여파가 국내 증시에 직격탄이 됐다."
                 },
                 {
-                  "headline": "트럼프 \"미중러 정상회담서 한반도 위험 대응 논의했다\"",
-                  "url": "https://www.donga.com/news/Inter/article/all/20261121/135064665/1",
-                  "eng": "Trump: Korea risks discussed at US-China-Russia summit",
-                  "body": "트럼프 대통령이 미중러 정상회담에서 한반도 위험 대응을 논의했다고 밝혔다. 아시아 순방 성과를 설명하는 기자회견에서 나온 발언이다."
+                  "headline": "'검은 월요일' 막아라… 정부, 18년만에 증안펀드 가동 준비",
+                  "url": "https://www.donga.com/news/article/all/20261123/135070401/2",
+                  "eng": "Government readies market stabilization fund after 18 years",
+                  "body": "정부가 '검은 월요일' 충격에 18년 만에 증시안정펀드 가동을 준비하고 있다. 이형일 부총리는 시장 상황을 지켜보며 가동을 판단하겠다고 밝혔다."
                 }
               ]
             },
@@ -289,16 +285,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "국힘 \"코스피 3500조 증발…잔치는 정권이, 피눈물은 국민에 떠넘겨\"",
-                  "url": "https://www.donga.com/news/home/article/all/20261121/135064676/1",
-                  "eng": "Ruling party blames government for KOSPI's record drop",
-                  "body": "국민의힘이 코스피 급락과 관련해 '3500조 증발, 잔치는 정권이 피눈물은 국민에 떠넘겨'라며 정부를 비판했다."
+                  "headline": "與 \"'6·3·3' 위반도 曺탄핵 사유에 포함\"… '중대성 요건' 여부 논란",
+                  "url": "https://www.donga.com/news/article/all/20261123/135070398/2",
+                  "eng": "Ruling party adds procedural grounds to chief justice impeachment",
+                  "body": "여당이 '6·3·3' 결정 위반도 조희대 대법원장 탄핵 사유에 포함시키겠다고 했다. 탄핵의 '중대성 요건' 충족 여부를 둘러싼 논란이 예상된다."
                 },
                 {
-                  "headline": "\"속도가 생명\"…이, 울산 AI데이터센터 건설 현장 방문",
-                  "url": "https://www.donga.com/news/Politics/article/all/20261121/135064820/1",
-                  "eng": "President Lee visits Ulsan AI data center site, stresses speed",
-                  "body": "이재명 대통령이 울산 SK AI데이터센터 건설 현장을 방문해 '속도가 생명'이라며 영남권 메가프로젝트 지원을 약속했다."
+                  "headline": "'저가' 中전기차, 韓 잠식 세계 3번째 빨라… \"국산 세액공제 필요\"",
+                  "url": "https://www.donga.com/news/article/all/20261123/135070386/2",
+                  "eng": "Chinese EVs erode Korean market; tax credits urged",
+                  "body": "저가 중국 전기차의 국내 시장 잠식 속도가 세계에서 세 번째로 빠른 것으로 나타났다. 국산 전기차 세액공제 등 대응책이 필요하다는 지적이 나온다."
                 }
               ]
             }
@@ -312,16 +308,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "'버블 붕괴' 신호탄인가…유동성 한계 부딪힌 미국 증시",
-                  "url": "https://www.hankyung.com/article/202611211559i",
-                  "eng": "Is this the bubble bursting? US stocks hit liquidity wall",
-                  "body": "나스닥 지수가 5%대 폭락하며 AI 열풍에 대한 의구심이 확산하고 있다. 유동성 한계에 부딪힌 미국 증시가 '버블 붕괴' 신호탄을 쏘아올린 것 아니냐는 우려가 나온다."
+                  "headline": "젠슨 황, 엔비디아 CEO 복귀…이사회 만장일치 결정",
+                  "url": "https://www.hankyung.com/article/2026112454041",
+                  "eng": "Jensen Huang returns as Nvidia CEO after unanimous board vote",
+                  "body": "엔비디아가 젠슨 황을 CEO로 복귀시키기로 만장일치 결정했다. '회사로 돌아와 영광'이라고 밝힌 황의 복귀 소식에 엔비디아 주가는 30% 급등했다."
                 },
                 {
-                  "headline": "시장 급락 초래한 엔비디아 'SEC 조사'…\"AI 순환 금융도 주시\"",
-                  "url": "https://www.hankyung.com/article/202611211609i",
-                  "eng": "Nvidia SEC probe behind market rout; AI circular financing in focus",
-                  "body": "시장 급락을 초래한 엔비디아 SEC 회계조사와 관련해 'AI 순환 금융'도 주시해야 한다는 지적이 나온다. 엔비디아의 회계 처리 의혹이 AI 투자 신뢰 전반으로 번지고 있다."
+                  "headline": "韓美동맹 이상기류 속 국정원장 교체…李, 중폭 개각",
+                  "url": "https://www.hankyung.com/article/2026112350851",
+                  "eng": "NIS chief replaced in reshuffle amid US alliance strains",
+                  "body": "한미 동맹 이상기류 속에 이재명 대통령이 국정원장을 교체하고 외교·안보 라인을 전면 쇄신하는 중폭 개각을 단행했다."
                 }
               ]
             },
@@ -329,16 +325,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "젠슨 황 사임 뒤 잇단 폭로…이사회엔 거짓 해명, 직원엔 폭언",
-                  "url": "https://www.hankyung.com/article/2026112113257",
-                  "eng": "After Huang's exit, more revelations: lies to board, abuse of staff",
-                  "body": "젠슨 황 전 엔비디아 CEO가 이사회에는 거짓 해명을 하고 직원에는 폭언을 했다는 폭로가 잇따르고 있다. 불륜 스캔들 이후 사임한 그의 경영 행태에 대한 재조명이 이어지고 있다."
+                  "headline": "하이닉스 ADR 20% 뛰어…증시 반등하나",
+                  "url": "https://www.hankyung.com/article/2026112454021",
+                  "eng": "SK Hynix ADR jumps 20%, signaling market rebound",
+                  "body": "SK하이닉스 ADR이 20% 급등하며 국내 증시 반등 가능성에 관심이 쏠린다. 간밤 엔비디아 폭등에 힘입어 반도체주 전반의 훈풍이 기대된다."
                 },
                 {
-                  "headline": "\"1조달러에 SK하이닉스 인수 검토\"…손정의 계획 보도한 외신",
-                  "url": "https://www.hankyung.com/article/2026112113827",
-                  "eng": "Foreign media: Son weighed $1tn SK Hynix acquisition",
-                  "body": "손정의 소프트뱅크 회장이 SK하이닉스를 1조달러에 인수하는 방안을 검토했다는 외신 보도가 나왔다. 소프트뱅크는 해당 거래를 더 이상 검토하지 않는다고 밝혔다."
+                  "headline": "반도체 고점론 공방 확산…삼전닉스 \"빅테크 장기계약 변동없다\"",
+                  "url": "https://www.hankyung.com/article/2026112350891",
+                  "eng": "Semiconductor peak debate spreads; long-term contracts intact",
+                  "body": "반도체 고점 논쟁이 확산하는 가운데 삼성전자·SK하이닉스가 빅테크와의 장기계약에는 변동이 없다고 밝히며 진화에 나섰다."
                 }
               ]
             },
@@ -346,16 +342,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "'운행 중단' 경부선 일반열차 오늘 첫차부터 정상 운행",
-                  "url": "https://www.hankyung.com/article/2026112116247",
-                  "eng": "Gyeongbu passenger trains resume normal service from today",
-                  "body": "탈선 사고로 운행이 중단됐던 경부선 일반열차가 22일 첫차부터 정상 운행을 재개한다. 코레일은 안전 점검을 마쳤다고 밝혔다."
+                  "headline": "중복상장 규제 후폭풍…1.5조 국제소송 당한 카카오",
+                  "url": "https://www.hankyung.com/article/2026112350741",
+                  "eng": "Kakao hit with 1.5tn won international suit over dual listing",
+                  "body": "중복상장 규제의 후폭풍으로 카카오가 1조5000억원 규모의 국제소송에 휘말렸다. 규제 리스크가 기업 가치에 직접 영향을 미치는 사례로 주목된다."
                 },
                 {
-                  "headline": "이 대통령 \"수능 부정 끝까지 추적…신고 포상금 최소 1억\"",
-                  "url": "https://www.hankyung.com/article/2026112114257",
-                  "eng": "President Lee vows to track down exam cheaters, raises bounty",
-                  "body": "이재명 대통령이 수능 부정행위를 끝까지 추적하겠다며 신고 포상금을 최소 1억원으로 상향한다고 밝혔다. AI 부정행위 근절 의지를 강조했다."
+                  "headline": "초과세수 10조 지방에 푼다…내년 한시적으로 지원",
+                  "url": "https://www.hankyung.com/article/2026112350731",
+                  "eng": "Excess tax revenue of 10tn won channeled to local governments",
+                  "body": "정부가 초과세수 10조원을 지방에 풀기로 하고 내년 한시적으로 지원한다. 지방재정 부담 완화를 위한 조치다."
                 }
               ]
             }
@@ -374,16 +370,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "The Blame Game Has Begun Over Anthropic's Turbulent Trading Debut",
-                  "url": "https://www.wsj.com/finance/stocks/the-blame-game-has-begun-over-anthropics-turbulent-trading-debut-280a34b1",
+                  "headline": "Nvidia Board Reinstates Jensen Huang as CEO",
+                  "url": "https://www.wsj.com/articles/nvidia-board-reinstates-jensen-huang-as-ceo-a6b49914",
                   "eng": "",
-                  "body": "앤트로픽 주가가 상장 둘째 날 급락하며 한때 공모가보다 5센트 위까지 밀렸다. 앤트로픽의 난기류 상장 데뷔를 둘러싼 책임 공방이 시작됐다."
+                  "body": "Nvidia's board reinstated Jensen Huang as CEO and president, capping one of the most startling corporate comebacks after a fast-moving scandal involving an affair with a suspected Chinese spy. The board said the decision came after input from senior U.S. government officials."
                 },
                 {
-                  "headline": "The Danger of Jensen Huang's Handshake Deals at Nvidia",
-                  "url": "https://www.wsj.com/business/nvidia-jensen-huang-deals-8750daf4",
+                  "headline": "Nasdaq Jumps, Nvidia Surges After Huang Returns as CEO",
+                  "url": "https://www.wsj.com/finance/stocks/stock-futures-rally-as-dust-settles-after-ai-driven-selloff-705ff2c4",
                   "eng": "",
-                  "body": "해임된 젠슨 황 전 CEO가 한때 자랑했던 '계약 없는 거래'가 이제는 위험 신호로 비춰지고 있다. 엔비디아의 손잡이 거래 관행이 도마에 올랐다."
+                  "body": "The Nasdaq jumped and Nvidia surged after Jensen Huang returned as CEO, helping markets recover from last week's AI-driven selloff in the strongest rally since April 2025."
                 }
               ]
             },
@@ -391,16 +387,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "They Run Anthropic. They Want to Keep It Weird. They're Brother and Sister.",
-                  "url": "https://www.wsj.com/tech/ai/anthropic-dario-daniela-amodei-siblings-ipo-be84ad11",
+                  "headline": "A Timeline of Nvidia CEO Jensen Huang's Spy Downfall and Resurrection",
+                  "url": "https://www.wsj.com/tech/ai/a-timeline-of-nvidia-ceo-jensen-huangs-suspected-spy-drama-05cbebf3",
                   "eng": "",
-                  "body": "앤트로픽을 이끄는 다리오·다니엘라 아모데이 남매가 '이상한 회사'를 유지하길 원한다. 역대 최대 IPO와 이어진 시장 급락 속에서도 독특한 기업 문화를 고수하고 있다."
+                  "body": "The scandal put the world's most consequential AI CEO in the hot seat and cost him his job — until the U.S. government intervened. The timeline traces Huang's downfall and rapid resurrection at Nvidia."
                 },
                 {
-                  "headline": "Mexico Captures Top Drug Boss in Fierce Gunfight",
-                  "url": "https://www.wsj.com/world/americas/mexico-captures-top-drug-boss-in-fierce-gunfight-b16709ce",
+                  "headline": "The Campaign to Bring Back Jensen Huang as Nvidia CEO",
+                  "url": "https://www.wsj.com/tech/the-campaign-to-bring-back-jensen-huang-as-nvidia-ceo-e91b0b2c",
                   "eng": "",
-                  "body": "멕시코가 소노라주 밀수로를 장악한 마약 조직 두목 파우스토 이시드로 메사 플로레스를 치열한 총격전 끝에 체포했다. 이 과정에서 11명이 숨졌다."
+                  "body": "In open letters, phone calls and group chats, Huang's allies made the case that his ouster was hasty — even as legal scrutiny intensified around his relationship with a suspected Chinese spy."
                 }
               ]
             },
@@ -408,16 +404,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "The U.A.E. Is Shuttling Oil Past Iran in Risky Hormuz Operation",
-                  "url": "https://www.wsj.com/world/middle-east/the-u-a-e-is-shuttling-oil-past-iran-in-risky-hormuz-operation-9150693e",
+                  "headline": "Top Republican Senator Says Lutnick Ignored His China Chip Warnings",
+                  "url": "https://www.wsj.com/politics/national-security/top-republican-senator-says-lutnick-ignored-his-china-chip-warnings-512f64fd",
                   "eng": "",
-                  "body": "UAE가 미국의 군사 지원을 받으며 이란의 호르무즈 장악을 돌파하기 위해 위험한 유조선 셔틀 작전을 펼치고 있다."
+                  "body": "A top Republican senator said Commerce Secretary Howard Lutnick ignored his warnings about China chip risks, an exclusive report amid heightened scrutiny of U.S. semiconductor policy."
                 },
                 {
-                  "headline": "Markwayne Mullin Took Over a DHS in Crisis and Is Struggling to Turn It Around",
-                  "url": "https://www.wsj.com/politics/policy/markwayne-mullin-took-over-a-dhs-in-crisis-and-is-struggling-to-turn-it-around-a5055480",
+                  "headline": "Jensen Huang Breaks Silence, Signals Willingness to Return as Nvidia CEO",
+                  "url": "https://www.wsj.com/tech/jensen-huang-statement-nvidia-ceo-9dedca36",
                   "eng": "",
-                  "body": "트럼프 행정부 이민 단속을 이끄는 마크웨인 멀린 국토안보부 장관이 위기 속에서 조직을 정상화하는 데 어려움을 겪고 있다. 교체 요구까지 나오고 있다."
+                  "body": "In his first public remarks since resigning, Huang said an outpouring of support from friends and colleagues had been overwhelming, signaling his willingness to return to the corner office."
                 }
               ]
             }
@@ -431,16 +427,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "Wall Street Asks What Can Save AI Trade After Anthropic Wipeout",
-                  "url": "https://www.bloomberg.com/news/articles/2026-11-21/wall-street-asks-what-can-save-ai-trade-after-anthropic-wipeout",
+                  "headline": "Nvidia Rehires Huang in Stunning Reversal After Trump Push",
+                  "url": "https://www.bloomberg.com/news/articles/2026-11-23/nvidia-reinstates-jensen-huang-as-ceo-with-government-input",
                   "eng": "",
-                  "body": "앤트로픽 상장 폭락 이후 월가는 AI 거래를 살릴 수 있는 방안을 묻고 있다. 젠슨 황 축출과 중간선거 민주당 승리가 연달아 시장을 강타했다."
+                  "body": "Nvidia's board reinstated Jensen Huang as head of the world's largest chipmaker in one of the most startling corporate comebacks, sending the stock on its biggest rally in decades. Huang reclaims the president and CEO titles less than two weeks after leaving under a cloud of scandal."
                 },
                 {
-                  "headline": "Goldman Says Stock Selloff Has Legs as Panic Index Nears Maximum",
-                  "url": "https://www.bloomberg.com/news/articles/2026-11-20/goldman-says-stock-selloff-has-legs-as-panic-index-nears-maximum",
+                  "headline": "Stocks Jump Most Since April 2025 as Huang Is Back: Markets Wrap",
+                  "url": "https://www.bloomberg.com/news/articles/2026-11-22/asia-braces-for-more-volatility-after-us-selloff-markets-wrap",
                   "eng": "",
-                  "body": "골드만삭스가 공포지수가 최고 수준에 근접했다며 주식 매도세가 더 이어질 것으로 전망했다."
+                  "body": "Global stocks jumped the most since April 2025 as Jensen Huang returned to Nvidia, fueling a broad risk-on rally after last week's worst weekly selloff since the spring of 2025."
                 }
               ]
             },
@@ -448,16 +444,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "California Nvidia Probe Covers Potential Criminal Law Violations",
-                  "url": "https://www.bloomberg.com/news/articles/2026-11-21/california-nvidia-probe-covers-potential-criminal-law-violations",
+                  "headline": "Trump Enlisted Vance in Campaign to Rescue Nvidia's Jensen Huang",
+                  "url": "https://www.bloomberg.com/news/articles/2026-11-23/trump-praises-nvidia-s-decision-to-reinstate-huang-as-ceo",
                   "eng": "",
-                  "body": "캘리포니아주의 엔비디아 조사가 잠재적 형사법 위반까지 포함하는 것으로 확대됐다. 젠슨 황 축출 이후 엔비디아를 둘러싼 법적 리스크가 커지고 있다."
+                  "body": "President Trump enlisted JD Vance in a campaign to rescue Nvidia's Jensen Huang, praising the board's decision to reinstate him as CEO and casting the move as crucial to the AI race with China."
                 },
                 {
-                  "headline": "AI Is Testing What Economists Know About Bubbles",
-                  "url": "https://www.bloomberg.com/news/articles/2026-11-20/is-ai-a-bubble-what-economists-know-about-market-bubbles",
+                  "headline": "Jensen Huang Will Testify Publicly Before Senators Next Week",
+                  "url": "https://www.bloomberg.com/news/articles/2026-11-23/jensen-huang-will-testify-publicly-before-us-senators-next-week",
                   "eng": "",
-                  "body": "AI가 경제학자들이 버블에 대해 알고 있던 지식을 시험하고 있다. AI 투자 붐이 버블인지에 대한 논쟁이 격화하고 있다."
+                  "body": "Jensen Huang will testify publicly before U.S. senators next week, keeping the scrutiny of Nvidia and its returned CEO in the spotlight amid bipartisan demands for answers."
                 }
               ]
             },
@@ -465,16 +461,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "CrowdStrike Is in Talks to Buy Cybersecurity Firm Zscaler",
-                  "url": "https://www.bloomberg.com/news/articles/2026-11-20/crowdstrike-is-in-talks-to-buy-cybersecurity-firm-zscaler",
+                  "headline": "Yardeni Cuts S&P 500 Target Again, Says Bear Market Is Unlikely",
+                  "url": "https://www.bloomberg.com/news/articles/2026-11-22/yardeni-cuts-s-p-500-target-again-says-bear-market-is-unlikely",
                   "eng": "",
-                  "body": "크라우드스트라이크가 사이버보안 기업 스케일러 인수를 논의 중이다. AI 주도 사이버 보안 산업 통합 움직임이 본격화하고 있다."
+                  "body": "Ed Yardeni cut his S&P 500 target again but said a bear market is unlikely, arguing that the recent AI-driven selloff was an overreaction to a concentrated leadership shakeup."
                 },
                 {
-                  "headline": "Nasdaq 100 Has Worst Week Since 2020 on AI Drama",
-                  "url": "https://www.bloomberg.com/news/articles/2026-11-19/stock-market-today-dow-s-p-live-updates",
+                  "headline": "H-1B Visa Workers Are Fed Up and Abandoning American Tech Jobs",
+                  "url": "https://www.bloomberg.com/news/articles/2026-11-20/h-1b-visa-delays-and-trump-rules-force-tech-workers-to-leave-us",
                   "eng": "",
-                  "body": "나스닥100이 AI 혼란으로 2020년 이후 최악의 한 주를 기록했다. 앤트로픽 상장과 엔비디아 사태가 겹치며 기술주가 급락했다."
+                  "body": "H-1B visa workers are increasingly abandoning American tech jobs amid processing delays and Trump-era rules, accelerating a talent drain from the U.S. technology sector."
                 }
               ]
             }
@@ -488,16 +484,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "Anthropic's Debut Shows the Disconnect Between Wall Street and Silicon Valley",
-                  "url": "https://www.nytimes.com/2026/11/21/business/anthropics-debut-shows-the-disconnect-between-wall-street-and-silicon-valley.html",
+                  "headline": "Nvidia Reinstates Jensen Huang as CEO: Live Updates",
+                  "url": "https://www.nytimes.com/live/2026/11/23/technology/nvidia-jensen-huang-reinstated",
                   "eng": "",
-                  "body": "앤트로픽의 상장 데뷔가 월스트리트와 실리콘밸리 사이의 괴리를 드러냈다. 젠슨 황 사임과 AI 투자 우려가 매도세를 부추겼다."
+                  "body": "The surprise return of Jensen Huang as Nvidia's chief executive was greeted with a spirited rally on Wall Street and bipartisan reaction, capping a stunning reversal for the chip giant."
                 },
                 {
-                  "headline": "Stocks Skid Into a Correction, as A.I. Worries Intensify",
-                  "url": "https://www.nytimes.com/2026/11/20/business/anthropic-ai-stocks-sp500.html",
+                  "headline": "How Jensen Huang Made Humiliation Routine at Nvidia",
+                  "url": "https://www.nytimes.com/2026/11/20/technology/jensen-huang-nvidia-culture.html",
                   "eng": "",
-                  "body": "AI 우려가 심화하며 미국 증시가 조정 국면으로 미끄러졌다. 앤트로픽이 공모에 데뷔했지만 주가는 금요일 9.1% 하락했다."
+                  "body": "The Nvidia co-founder's belittling behavior toward employees goes back decades, according to a Times investigation. It once led to a confidential settlement agreement with an employee."
                 }
               ]
             },
@@ -505,16 +501,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "Stocks Often Prosper After an Abrupt C.E.O. Exit. Is Nvidia Different?",
-                  "url": "https://www.nytimes.com/2026/11/20/business/nvidia-ceo-stock-succession-jensen-huang.html",
+                  "headline": "Protection for Section 8 Renters Is Upheld by New York's Highest Court",
+                  "url": "https://www.nytimes.com/2026/11/23/nyregion/section-8-renters-housing-vouchers-discrimination.html",
                   "eng": "",
-                  "body": "급작스러운 CEO 퇴진 이후 주가가 회복되는 경우가 많지만 엔비디아는 다를 수 있다. 주주들은 지난 10월 말 이후 2조 달러 이상의 손실을 봤다."
+                  "body": "New York's highest court upheld a state law barring landlords from discriminating against people who use federal housing vouchers, in a legal win for renters."
                 },
                 {
-                  "headline": "Jensen Huang Carried a Secret for More Than a Year. It Led to His Downfall.",
-                  "url": "https://www.nytimes.com/2026/11/14/technology/jensen-huang-nvidia-board.html",
+                  "headline": "Jensen Huang Says He Would Return as Nvidia CEO if Asked",
+                  "url": "https://www.nytimes.com/2026/11/17/technology/jensen-huang-nvidia-statement.html",
                   "eng": "",
-                  "body": "젠슨 황 전 CEO가 1년 넘게 비밀을 숨겨왔고, 그것이 그의 몰락을 불렀다. 두 번째 불륜 사실이 드러나며 이사회가 결단을 내렸다."
+                  "body": "Jensen Huang said he was willing to return to Nvidia as chief executive if its board asked him to do so, in his first public remarks since resigning amid the affair scandal."
                 }
               ]
             },
@@ -522,16 +518,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "Silicon Valley Is Used to Scandal. This One Upped the Ante.",
-                  "url": "https://www.nytimes.com/2026/11/14/technology/jensen-huang-nvidia-scandal-silicon-valley.html",
+                  "headline": "Nvidia Opens Investigation Into Jensen Huang's Relationship With Chinese Businesswoman",
+                  "url": "https://www.nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang-china.html",
                   "eng": "",
-                  "body": "실리콘밸리는 스캔들에 익숙하지만, 이번 사건은 수위가 달랐다. 젠슨 황 전 CEO의 두 번째 불륜 보도가 업계를 뒤흔들었다."
+                  "body": "Nvidia opened an investigation into Jensen Huang's relationship with a Chinese businesswoman suspected of spying, and has continued doing business with her company, Megaspeed."
                 },
                 {
-                  "headline": "Jensen Huang Lost His Job. Wall Street Lost Its Biggest Prize.",
-                  "url": "https://www.nytimes.com/2026/11/13/business/jensen-huang-nvidia-wall-street.html",
+                  "headline": "Nvidia Has No Plans to Bring Back Jensen Huang",
+                  "url": "https://www.nytimes.com/2026/11/17/business/nvidia-earnings-jensen-huang.html",
                   "eng": "",
-                  "body": "젠슨 황의 전격 퇴진으로 월스트리트는 가장 강력하고 수익성 높은 딜메이커를 잃었다. 엔비디아 시총은 1조 5천억 달러 이상 증발했다."
+                  "body": "Nvidia officials made clear they had no interest in the return of co-founder Jensen Huang, who resigned the prior week — days before the board reversed course and reinstated him."
                 }
               ]
             }
@@ -545,16 +541,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "GOP set to block Trump Pentagon picks as other military moves face headwinds",
-                  "url": "https://www.washingtonpost.com/national-security/2026/11/21/gop-set-block-trump-pentagon-picks-other-military-moves-face-headwinds/",
+                  "headline": "Nvidia board reinstates Jensen Huang after U.S. government input",
+                  "url": "https://www.washingtonpost.com/technology/2026/11/23/nvidia-board-reinstates-jensen-huang-after-us-government-input/",
                   "eng": "",
-                  "body": "공화당이 트럼프 행정부의 국방부 인선을 막을 태세다. 공화당이 과반을 잃기 직전, 핵심 지명과 국방 예산에 걸림돌이 되고 있다."
+                  "body": "Nvidia's board reinstated Jensen Huang as CEO after input from the U.S. government, capping a stunning reversal following revelations of an affair with a suspected Chinese spy."
                 },
                 {
-                  "headline": "Poland says Russian missiles hit its territory; Trump calls it a mistake",
-                  "url": "https://www.washingtonpost.com/world/2026/11/21/poland-says-russian-missiles-hit-its-territory-trump-calls-it-mistake/",
+                  "headline": "What Trump's embarrassing trip to China tells the world",
+                  "url": "https://www.washingtonpost.com/opinions/2026/11/23/trump-met-with-xi-putin-us-allies-watched-nervously/",
                   "eng": "",
-                  "body": "폴란드가 자국 영토에 러시아 미사일이 떨어졌다고 주장했고, 트럼프는 이를 실수라고 불렀다. 군사 훈련 중 러시아가 의도적으로 영공을 침범했다는 주장이다."
+                  "body": "Halifax was abuzz over Trump's trip to China, where he showed himself eager to pal around with the world's two most powerful dictators — to the alarm of U.S. allies watching nervously."
                 }
               ]
             },
@@ -562,16 +558,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "Entitled and out of touch, AI CEOs are heading for a fall",
-                  "url": "https://www.washingtonpost.com/business/2026/11/21/history-lesson-ai-ceos-alienate-americans-your-own-peril/",
+                  "headline": "China is becoming easier to visit but harder to leave",
+                  "url": "https://www.washingtonpost.com/world/2026/11/22/china-is-becoming-easier-visit-harder-leave/",
                   "eng": "",
-                  "body": "거만하고 동떨어진 AI CEO들이 추락을 향해 가고 있다. 젠슨 황은 극단적 사례지만, 여론과 투자자들이 실리콘밸리에 등을 돌리고 있다."
+                  "body": "China is opening up to visitors while tightening controls on its own citizens leaving, a contrast that underscores the country's shifting approach to opening and control."
                 },
                 {
-                  "headline": "Violence flares in Sinaloa after Mexico seizes cartel boss wanted by FBI",
-                  "url": "https://www.washingtonpost.com/world/2026/11/21/mexico-seizes-cartel-boss-el-chapo-isidro-among-fbis-most-wanted/",
+                  "headline": "Trump keeps losing in court. Here's how he gets what he wants anyway.",
+                  "url": "https://www.washingtonpost.com/politics/2026/11/22/trump-keeps-losing-court-heres-how-he-gets-what-he-wants-anyway/",
                   "eng": "",
-                  "body": "멕시코가 FBI 수배 중인 마약 조직 두목을 체포한 뒤 시날로아주에서 폭력이 확산했다. '엘 차포 이시드로'로 불리는 파우스토 이시드로 메사 플로레스의 체포는 멕시코 정부의 성과다."
+                  "body": "The administration has repeatedly lost in court over tariffs and other policies, yet has still managed to advance much of its agenda through delay and regulatory maneuvering."
                 }
               ]
             },
@@ -579,16 +575,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "Why constant tech outages might not end anytime soon",
-                  "url": "https://www.washingtonpost.com/technology/2026/11/21/welcome-age-endless-digital-breakdowns/",
+                  "headline": "Inside an AI prophet's secretive visions for humanity's future",
+                  "url": "https://www.washingtonpost.com/technology/2026/11/22/inside-an-ai-prophets-secretive-plans-humanitys-future/",
                   "eng": "",
-                  "body": "노후화한 미국 디지털 인프라의 균열이 드러나며 기술 장애가 당분간 끝나지 않을 전망이다."
+                  "body": "A look inside an AI leader's secretive plans and grand visions for humanity's future, raising questions about the concentration of power in a few hands."
                 },
                 {
-                  "headline": "His Alabama district was redrawn so that he'd lose. He won anyway.",
-                  "url": "https://www.washingtonpost.com/politics/2026/11/21/new-map-fight-black-political-power/",
+                  "headline": "The remarkable recovery of a National Guardsman shot near the White House",
+                  "url": "https://www.washingtonpost.com/nation/2026/11/22/long-journey-remarkable-recovery-staff-sgt-andrew-wolfe/",
                   "eng": "",
-                  "body": "앨라배마의 한 선거구가 그가 지도록 재획정됐지만 그는 결국 승리했다. 슈마리 피거스 의원은 새로운 민권 운동의 기수를 자처하고 있다."
+                  "body": "Staff Sgt. Andrew Wolfe's long, remarkable recovery after being shot near the White House is a story of resilience and the support of his unit and family."
                 }
               ]
             }
@@ -602,16 +598,16 @@
               "label": "1면",
               "articles": [
                 {
-                  "headline": "Alice Huang's links to the chip underworld",
-                  "url": "https://www.ft.com/content/f3ad8a81-3890-4a8a-8853-ff0a94b08ba9",
+                  "headline": "Nvidia reinstates Jensen Huang as chief executive",
+                  "url": "https://www.ft.com/content/08914b05-bbfa-478d-b38a-549acfc1aae6",
                   "eng": "",
-                  "body": "젠슨 황 전 엔비디아 CEO와 연인 관계였던 중국인 경영인 앨리스 황이 중국으로 칩을 밀반출하는 유통망과 연계돼 있었다."
+                  "body": "Nvidia has reinstated Jensen Huang as its chief executive in a stunning reversal of its position on the disgraced co-founder, adding about $1tn to the AI giant's value as its shares surged more than 30%."
                 },
                 {
-                  "headline": "US tech stocks plunge into bear market in worst week since Covid-19 crisis",
-                  "url": "https://www.ft.com/content/9f3c6ed6-c08f-4710-9683-ee2f5eb25841",
+                  "headline": "Nvidia gains nearly $1tn in value after Jensen Huang reinstated",
+                  "url": "https://www.ft.com/content/20d2ebe3-e945-4659-a122-31bf85a4e4e5",
                   "eng": "",
-                  "body": "앤트로픽과 엔비디아 주가가 급락하며 미국 기술주가 코로나19 위기 이후 최악의 한 주를 보내며 약세장으로 진입했다."
+                  "body": "Nvidia's stock rallied nearly $1tn in value after Jensen Huang was reinstated, with Donald Trump casting the move as crucial to the U.S. maintaining its lead over China in AI."
                 }
               ]
             },
@@ -619,16 +615,16 @@
               "label": "2면",
               "articles": [
                 {
-                  "headline": "Nvidia faces US regulator's probe into its accounting",
-                  "url": "https://www.ft.com/content/9b28ed72-aac4-4291-9734-bf60b66645ab",
+                  "headline": "Jensen Huang's return is a triumph of money over morals",
+                  "url": "https://www.ft.com/content/189b5df2-2d06-42db-8843-1a542efb0a8f",
                   "eng": "",
-                  "body": "엔비디아가 미국 규제당국의 회계 조사를 받고 있다. 젠슨 황 사임과 맞물려 AI 반도체 대장주에 대한 신뢰가 흔들리고 있다."
+                  "body": "Nvidia's decision to take back its recently-jettisoned CEO is a prime example of money triumphing over morals — and as Nvidia's stock rallied, so did the rest of the market."
                 },
                 {
-                  "headline": "Donald Trump threatens 'tremendous' tax on data centres built outside US",
-                  "url": "https://www.ft.com/content/ae564e09-eb0d-42c6-b61f-50a4e61d0240",
+                  "headline": "The startling return of Jensen Huang",
+                  "url": "https://www.ft.com/content/d23fd311-ac96-4dfb-88ef-b1ccb2197f13",
                   "eng": "",
-                  "body": "트럼프 대통령이 미국 밖에 데이터센터를 짓는 기업에 '엄청난' 세금을 부과하겠다고 위협했다. AI 인프라의 해외 유출을 막겠다는 구상이다."
+                  "body": "Trump's intervention to reinstate the Nvidia boss sets a dangerous precedent, and risks emboldening other tech barons to believe they can act with impunity, argues the FT's editorial board."
                 }
               ]
             },
@@ -636,16 +632,16 @@
               "label": "3면",
               "articles": [
                 {
-                  "headline": "Anthropic shares slide as tech stocks tumble",
-                  "url": "https://www.ft.com/content/c7ad2e0c-efd1-40c2-a5a8-819ced8acf5b",
+                  "headline": "China revives US private equity ties",
+                  "url": "https://www.ft.com/content/f6dfff44-e636-43ba-ae37-c21eeb6f2080",
                   "eng": "",
-                  "body": "앤트로픽 주가가 기술주 급락 속에 하락했다. AI 지출 붐에 대한 우려가 월가를 사로잡고 있다."
+                  "body": "China's sovereign wealth fund China Investment Corporation wants to invest again with U.S. private equity funds, with special conditions attached, according to people familiar with the matter."
                 },
                 {
-                  "headline": "Amazon closes in on $7.5bn deal to buy AI start-up Decart",
-                  "url": "https://www.ft.com/content/dc7749dc-0f40-44a6-80bc-7f747d383616",
+                  "headline": "James Anderson condemns Silicon Valley's dominant founder-leaders",
+                  "url": "https://www.ft.com/content/5b39e975-b9f5-4ff9-a7d2-ce6a30c4fdbd",
                   "eng": "",
-                  "body": "아마존이 AI 스타트업 데카르트를 75억 달러에 인수하는 계약에 근접했다. 컴퓨팅 파워 경쟁에서 엔비디아에 맞서기 위한 움직임이다."
+                  "body": "James Anderson, one of Britain's best-known tech investors, condemned the prevalence of dominant founder-leaders, warning the superstar status of executives such as Jensen Huang and Elon Musk may have undermined leadership quality."
                 }
               ]
             }
